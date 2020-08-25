@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="ScratchSpirales.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="339.64286"
+     inkscape:cy="862.85714"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1440"
+     inkscape:window-height="852"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2985"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 170,82.362183 120,0 0,109.999997 -100,0 0,-90 80,0 0,70 -60,0 0,-50 40,0 0,30 -20,0 0,-10"
+       id="path2987"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/sverdan/Travail/01 Cours/09_fiche_MITIC/6e/images/scratch/ScratchSpirales.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       sodipodi:type="spiral"
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path2989"
+       sodipodi:cx="470"
+       sodipodi:cy="132.36218"
+       sodipodi:expansion="1"
+       sodipodi:revolution="3"
+       sodipodi:radius="72.111023"
+       sodipodi:argument="-17.866762"
+       sodipodi:t0="0"
+       d="m 470,132.36218 c 2.00554,3.00831 -3.06567,4.18762 -5,3.33334 -5.2419,-2.31505 -4.71849,-9.51765 -1.66667,-13.33334 5.45899,-6.82536 15.85949,-5.67275 21.66667,0 8.52228,8.325 6.67433,22.29422 -1.66667,30 -11.11723,10.2706 -28.76283,7.69719 -38.33333,-3.33333 -12.0435,-13.88079 -8.73129,-35.24782 5,-46.66667 16.63044,-13.829754 41.74206,-9.771952 55,6.66667 15.62402,19.37235 10.81674,48.24209 -8.33334,63.33333 -22.10951,17.42344 -54.74597,11.86427 -71.66666,-10 C 405.77363,137.5186 412.08627,101.10962 436.66667,82.362183 464.24216,61.330398 504.4278,68.397608 525,95.695519 547.83904,126.00138 540.01646,169.9667 510,192.36218"
+       transform="translate(0,10)"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"
+       inkscape:export-filename="/home/sverdan/Travail/01 Cours/09_fiche_MITIC/6e/images/scratch/ScratchSpirales.png" />
+  </g>
+</svg>

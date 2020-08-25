@@ -1,0 +1,3447 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2018.8.21)  25 AUG 2020 13:24
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**nouveau_livret_MITIC_6e.tex
+(./nouveau_livret_MITIC_6e.tex
+LaTeX2e <2016/03/31>
+Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
+(./moncours.cls
+Document Class: moncours 
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/fleqn.clo
+File: fleqn.clo 2015/03/31 v1.1i Standard LaTeX option (flush left equations)
+\mathindent=\dimen102
+Applying: [2015/01/01] Make \[ robust on input line 50.
+LaTeX Info: Redefining \[ on input line 51.
+Already applied: [0000/00/00] Make \[ robust on input line 62.
+Applying: [2015/01/01] Make \] robust on input line 74.
+LaTeX Info: Redefining \] on input line 75.
+Already applied: [0000/00/00] Make \] robust on input line 83.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/bk12.clo
+File: bk12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen103
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count88
+\Gm@cntv=\count89
+\c@Gm@tempcnt=\count90
+\Gm@bindingoffset=\dimen104
+\Gm@wd@mp=\dimen105
+\Gm@odd@mp=\dimen106
+\Gm@even@mp=\dimen107
+\Gm@layoutwidth=\dimen108
+\Gm@layoutheight=\dimen109
+\Gm@layouthoffset=\dimen110
+\Gm@layoutvoffset=\dimen111
+\Gm@dimlist=\toks15
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2015/03/17 v1.2c Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/utf8.def
+File: utf8.def 2016/02/28 v1.1s UTF-8 support for inputenc
+Now handling font encoding OML ...
+... no UTF-8 mapping file for font encoding OML
+Now handling font encoding T1 ...
+... processing UTF-8 mapping file for font encoding T1
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/t1enc.dfu
+File: t1enc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
+   defining Unicode char U+00A0 (decimal 160)
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00AD (decimal 173)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C0 (decimal 192)
+   defining Unicode char U+00C1 (decimal 193)
+   defining Unicode char U+00C2 (decimal 194)
+   defining Unicode char U+00C3 (decimal 195)
+   defining Unicode char U+00C4 (decimal 196)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00C7 (decimal 199)
+   defining Unicode char U+00C8 (decimal 200)
+   defining Unicode char U+00C9 (decimal 201)
+   defining Unicode char U+00CA (decimal 202)
+   defining Unicode char U+00CB (decimal 203)
+   defining Unicode char U+00CC (decimal 204)
+   defining Unicode char U+00CD (decimal 205)
+   defining Unicode char U+00CE (decimal 206)
+   defining Unicode char U+00CF (decimal 207)
+   defining Unicode char U+00D0 (decimal 208)
+   defining Unicode char U+00D1 (decimal 209)
+   defining Unicode char U+00D2 (decimal 210)
+   defining Unicode char U+00D3 (decimal 211)
+   defining Unicode char U+00D4 (decimal 212)
+   defining Unicode char U+00D5 (decimal 213)
+   defining Unicode char U+00D6 (decimal 214)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00D9 (decimal 217)
+   defining Unicode char U+00DA (decimal 218)
+   defining Unicode char U+00DB (decimal 219)
+   defining Unicode char U+00DC (decimal 220)
+   defining Unicode char U+00DD (decimal 221)
+   defining Unicode char U+00DE (decimal 222)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E0 (decimal 224)
+   defining Unicode char U+00E1 (decimal 225)
+   defining Unicode char U+00E2 (decimal 226)
+   defining Unicode char U+00E3 (decimal 227)
+   defining Unicode char U+00E4 (decimal 228)
+   defining Unicode char U+00E5 (decimal 229)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00E7 (decimal 231)
+   defining Unicode char U+00E8 (decimal 232)
+   defining Unicode char U+00E9 (decimal 233)
+   defining Unicode char U+00EA (decimal 234)
+   defining Unicode char U+00EB (decimal 235)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F0 (decimal 240)
+   defining Unicode char U+00F1 (decimal 241)
+   defining Unicode char U+00F2 (decimal 242)
+   defining Unicode char U+00F3 (decimal 243)
+   defining Unicode char U+00F4 (decimal 244)
+   defining Unicode char U+00F5 (decimal 245)
+   defining Unicode char U+00F6 (decimal 246)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+00F9 (decimal 249)
+   defining Unicode char U+00FA (decimal 250)
+   defining Unicode char U+00FB (decimal 251)
+   defining Unicode char U+00FC (decimal 252)
+   defining Unicode char U+00FD (decimal 253)
+   defining Unicode char U+00FE (decimal 254)
+   defining Unicode char U+00FF (decimal 255)
+   defining Unicode char U+0100 (decimal 256)
+   defining Unicode char U+0101 (decimal 257)
+   defining Unicode char U+0102 (decimal 258)
+   defining Unicode char U+0103 (decimal 259)
+   defining Unicode char U+0104 (decimal 260)
+   defining Unicode char U+0105 (decimal 261)
+   defining Unicode char U+0106 (decimal 262)
+   defining Unicode char U+0107 (decimal 263)
+   defining Unicode char U+0108 (decimal 264)
+   defining Unicode char U+0109 (decimal 265)
+   defining Unicode char U+010A (decimal 266)
+   defining Unicode char U+010B (decimal 267)
+   defining Unicode char U+010C (decimal 268)
+   defining Unicode char U+010D (decimal 269)
+   defining Unicode char U+010E (decimal 270)
+   defining Unicode char U+010F (decimal 271)
+   defining Unicode char U+0110 (decimal 272)
+   defining Unicode char U+0111 (decimal 273)
+   defining Unicode char U+0112 (decimal 274)
+   defining Unicode char U+0113 (decimal 275)
+   defining Unicode char U+0114 (decimal 276)
+   defining Unicode char U+0115 (decimal 277)
+   defining Unicode char U+0116 (decimal 278)
+   defining Unicode char U+0117 (decimal 279)
+   defining Unicode char U+0118 (decimal 280)
+   defining Unicode char U+0119 (decimal 281)
+   defining Unicode char U+011A (decimal 282)
+   defining Unicode char U+011B (decimal 283)
+   defining Unicode char U+011C (decimal 284)
+   defining Unicode char U+011D (decimal 285)
+   defining Unicode char U+011E (decimal 286)
+   defining Unicode char U+011F (decimal 287)
+   defining Unicode char U+0120 (decimal 288)
+   defining Unicode char U+0121 (decimal 289)
+   defining Unicode char U+0122 (decimal 290)
+   defining Unicode char U+0123 (decimal 291)
+   defining Unicode char U+0124 (decimal 292)
+   defining Unicode char U+0125 (decimal 293)
+   defining Unicode char U+0128 (decimal 296)
+   defining Unicode char U+0129 (decimal 297)
+   defining Unicode char U+012A (decimal 298)
+   defining Unicode char U+012B (decimal 299)
+   defining Unicode char U+012C (decimal 300)
+   defining Unicode char U+012D (decimal 301)
+   defining Unicode char U+012E (decimal 302)
+   defining Unicode char U+012F (decimal 303)
+   defining Unicode char U+0130 (decimal 304)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0132 (decimal 306)
+   defining Unicode char U+0133 (decimal 307)
+   defining Unicode char U+0134 (decimal 308)
+   defining Unicode char U+0135 (decimal 309)
+   defining Unicode char U+0136 (decimal 310)
+   defining Unicode char U+0137 (decimal 311)
+   defining Unicode char U+0139 (decimal 313)
+   defining Unicode char U+013A (decimal 314)
+   defining Unicode char U+013B (decimal 315)
+   defining Unicode char U+013C (decimal 316)
+   defining Unicode char U+013D (decimal 317)
+   defining Unicode char U+013E (decimal 318)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0143 (decimal 323)
+   defining Unicode char U+0144 (decimal 324)
+   defining Unicode char U+0145 (decimal 325)
+   defining Unicode char U+0146 (decimal 326)
+   defining Unicode char U+0147 (decimal 327)
+   defining Unicode char U+0148 (decimal 328)
+   defining Unicode char U+014A (decimal 330)
+   defining Unicode char U+014B (decimal 331)
+   defining Unicode char U+014C (decimal 332)
+   defining Unicode char U+014D (decimal 333)
+   defining Unicode char U+014E (decimal 334)
+   defining Unicode char U+014F (decimal 335)
+   defining Unicode char U+0150 (decimal 336)
+   defining Unicode char U+0151 (decimal 337)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0154 (decimal 340)
+   defining Unicode char U+0155 (decimal 341)
+   defining Unicode char U+0156 (decimal 342)
+   defining Unicode char U+0157 (decimal 343)
+   defining Unicode char U+0158 (decimal 344)
+   defining Unicode char U+0159 (decimal 345)
+   defining Unicode char U+015A (decimal 346)
+   defining Unicode char U+015B (decimal 347)
+   defining Unicode char U+015C (decimal 348)
+   defining Unicode char U+015D (decimal 349)
+   defining Unicode char U+015E (decimal 350)
+   defining Unicode char U+015F (decimal 351)
+   defining Unicode char U+0160 (decimal 352)
+   defining Unicode char U+0161 (decimal 353)
+   defining Unicode char U+0162 (decimal 354)
+   defining Unicode char U+0163 (decimal 355)
+   defining Unicode char U+0164 (decimal 356)
+   defining Unicode char U+0165 (decimal 357)
+   defining Unicode char U+0168 (decimal 360)
+   defining Unicode char U+0169 (decimal 361)
+   defining Unicode char U+016A (decimal 362)
+   defining Unicode char U+016B (decimal 363)
+   defining Unicode char U+016C (decimal 364)
+   defining Unicode char U+016D (decimal 365)
+   defining Unicode char U+016E (decimal 366)
+   defining Unicode char U+016F (decimal 367)
+   defining Unicode char U+0170 (decimal 368)
+   defining Unicode char U+0171 (decimal 369)
+   defining Unicode char U+0172 (decimal 370)
+   defining Unicode char U+0173 (decimal 371)
+   defining Unicode char U+0174 (decimal 372)
+   defining Unicode char U+0175 (decimal 373)
+   defining Unicode char U+0176 (decimal 374)
+   defining Unicode char U+0177 (decimal 375)
+   defining Unicode char U+0178 (decimal 376)
+   defining Unicode char U+0179 (decimal 377)
+   defining Unicode char U+017A (decimal 378)
+   defining Unicode char U+017B (decimal 379)
+   defining Unicode char U+017C (decimal 380)
+   defining Unicode char U+017D (decimal 381)
+   defining Unicode char U+017E (decimal 382)
+   defining Unicode char U+01CD (decimal 461)
+   defining Unicode char U+01CE (decimal 462)
+   defining Unicode char U+01CF (decimal 463)
+   defining Unicode char U+01D0 (decimal 464)
+   defining Unicode char U+01D1 (decimal 465)
+   defining Unicode char U+01D2 (decimal 466)
+   defining Unicode char U+01D3 (decimal 467)
+   defining Unicode char U+01D4 (decimal 468)
+   defining Unicode char U+01E2 (decimal 482)
+   defining Unicode char U+01E3 (decimal 483)
+   defining Unicode char U+01E6 (decimal 486)
+   defining Unicode char U+01E7 (decimal 487)
+   defining Unicode char U+01E8 (decimal 488)
+   defining Unicode char U+01E9 (decimal 489)
+   defining Unicode char U+01EA (decimal 490)
+   defining Unicode char U+01EB (decimal 491)
+   defining Unicode char U+01F0 (decimal 496)
+   defining Unicode char U+01F4 (decimal 500)
+   defining Unicode char U+01F5 (decimal 501)
+   defining Unicode char U+0218 (decimal 536)
+   defining Unicode char U+0219 (decimal 537)
+   defining Unicode char U+021A (decimal 538)
+   defining Unicode char U+021B (decimal 539)
+   defining Unicode char U+1E02 (decimal 7682)
+   defining Unicode char U+1E03 (decimal 7683)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2010 (decimal 8208)
+   defining Unicode char U+2011 (decimal 8209)
+   defining Unicode char U+2012 (decimal 8210)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2015 (decimal 8213)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201A (decimal 8218)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2039 (decimal 8249)
+   defining Unicode char U+203A (decimal 8250)
+   defining Unicode char U+2423 (decimal 9251)
+)
+Now handling font encoding OT1 ...
+... processing UTF-8 mapping file for font encoding OT1
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/ot1enc.dfu
+File: ot1enc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
+   defining Unicode char U+00A0 (decimal 160)
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AD (decimal 173)
+   defining Unicode char U+00B8 (decimal 184)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0174 (decimal 372)
+   defining Unicode char U+0175 (decimal 373)
+   defining Unicode char U+0176 (decimal 374)
+   defining Unicode char U+0177 (decimal 375)
+   defining Unicode char U+0218 (decimal 536)
+   defining Unicode char U+0219 (decimal 537)
+   defining Unicode char U+021A (decimal 538)
+   defining Unicode char U+021B (decimal 539)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+)
+Now handling font encoding OMS ...
+... processing UTF-8 mapping file for font encoding OMS
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/omsenc.dfu
+File: omsenc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+)
+Now handling font encoding OMX ...
+... no UTF-8 mapping file for font encoding OMX
+Now handling font encoding U ...
+... no UTF-8 mapping file for font encoding U
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+02C6 (decimal 710)
+   defining Unicode char U+02DC (decimal 732)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2026 (decimal 8230)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2423 (decimal 9251)
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/lm/lmodern.sty
+Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2016/04/23 3.9r The Babel package
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/babel-french/frenchb.ldf
+Language: frenchb 2016/05/14 v3.2c French support from the babel system
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2016/04/23 3.9r Babel common definitions
+\babel@savecnt=\count91
+\U@D=\dimen112
+)
+\l@acadian = a dialect from \language\l@french 
+\l@canadien = a dialect from \language\l@french 
+\FB@nonchar=\count92
+\FBcolonskip=\skip43
+\FBthinskip=\skip44
+Package babel Info: Making : an active character on input line 365.
+Package babel Info: Making ; an active character on input line 366.
+Package babel Info: Making ! an active character on input line 367.
+Package babel Info: Making ? an active character on input line 368.
+\FBguillskip=\skip45
+\FBguill@level=\count93
+\FB@everypar=\toks18
+\FB@Mht=\dimen113
+\std@mcc=\count94
+\dec@mcc=\count95
+\listindentFB=\skip46
+\labelwidthFB=\skip47
+\leftmarginFB=\skip48
+\parindentFFN=\dimen114
+\FBfnindent=\skip49
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/carlisle/scalefnt.sty)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/05/09 v1.0r Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/01/02 v1.10 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 96.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count96
+))
+\Gin@req@height=\dimen115
+\Gin@req@width=\dimen116
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2015/07/21 v2.0g eso-pic (RN)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/atbegshi.sty
+Package: atbegshi 2016/05/16 v1.17 At begin shipout hook (HO)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2016/05/05 v6.83n Hypertext links for LaTeX
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package hobsub Info: Skipping package `ifvtex' (already loaded).
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2016/05/10 v0.21 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package hobsub Info: Skipping package `atbegshi' (already loaded).
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen117
+\Hy@linkcounter=\count97
+\Hy@pagecounter=\count98
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2016/05/05 v6.83n Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+\Hy@SavedSpaceFactor=\count99
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4446.
+Package hyperref Info: Link nesting OFF on input line 4451.
+Package hyperref Info: Hyper index ON on input line 4454.
+Package hyperref Info: Plain pages OFF on input line 4461.
+Package hyperref Info: Backreferencing OFF on input line 4466.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4691.
+\c@Hy@tempcnt=\count100
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5044.
+\XeTeXLinkMargin=\dimen118
+\Fld@menulength=\count101
+\Field@Width=\dimen119
+\Fld@charsize=\dimen120
+Package hyperref Info: Hyper figures OFF on input line 6298.
+Package hyperref Info: Link nesting OFF on input line 6303.
+Package hyperref Info: Hyper index ON on input line 6306.
+Package hyperref Info: backreferencing OFF on input line 6313.
+Package hyperref Info: Link coloring OFF on input line 6318.
+Package hyperref Info: Link coloring with OCG OFF on input line 6323.
+Package hyperref Info: PDF/A mode OFF on input line 6328.
+LaTeX Info: Redefining \ref on input line 6368.
+LaTeX Info: Redefining \pageref on input line 6372.
+\Hy@abspage=\count102
+\c@Item=\count103
+\c@Hfootnote=\count104
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2016/05/05 v6.83n Hyperref driver for pdfTeX
+\Fld@listcount=\count105
+\c@bookmark@seq@number=\count106
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip50
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/makeidx.sty
+Package: makeidx 2014/09/29 v1.0m Standard LaTeX package
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/tools/varioref.sty
+Package: varioref 2016/02/16 v1.5c package for extended references (FMi)
+\c@vrcnt=\count107
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/colortbl/colortbl.sty
+Package: colortbl 2012/02/13 v1.0a Color table columns (DPC)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/tools/array.sty
+Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen121
+\extrarowheight=\dimen122
+\NC@list=\toks19
+\extratabsurround=\skip51
+\backup@length=\skip52
+)
+\everycr=\toks20
+\minrowclearance=\skip53
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/multirow/multirow.sty
+\bigstrutjot=\dimen123
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.te
+x
+\pgfutil@everybye=\toks21
+\pgfutil@tempdima=\dimen124
+\pgfutil@tempdimb=\dimen125
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-li
+sts.tex))
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box26
+(/usr/local/texlive/2016/texmf-dist/tex/latex/ms/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+Package: pgfrcs 2015/08/07 v3.0.1a (rcs-revision 1.31)
+))
+Package: pgf 2015/08/07 v3.0.1a (rcs-revision 1.15)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks22
+\pgfkeys@temptoks=\toks23
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.c
+ode.tex
+\pgfkeys@tmptoks=\toks24
+))
+\pgf@x=\dimen126
+\pgf@y=\dimen127
+\pgf@xa=\dimen128
+\pgf@ya=\dimen129
+\pgf@xb=\dimen130
+\pgf@yb=\dimen131
+\pgf@xc=\dimen132
+\pgf@yc=\dimen133
+\w@pgf@writea=\write3
+\r@pgf@reada=\read1
+\c@pgf@counta=\count108
+\c@pgf@countb=\count109
+\c@pgf@countc=\count110
+\c@pgf@countd=\count111
+\t@pgf@toka=\toks25
+\t@pgf@tokb=\toks26
+\t@pgf@tokc=\toks27
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.d
+ef
+File: pgfsys-pdftex.def 2014/10/11  (rcs-revision 1.35)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-p
+df.def
+File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
+)))
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.
+code.tex
+File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
+\pgfsyssoftpath@smallbuffer@items=\count112
+\pgfsyssoftpath@bigbuffer@items=\count113
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.
+code.tex
+File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
+))
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen134
+\pgfmath@count=\count114
+\pgfmath@box=\box27
+\pgfmath@toks=\toks28
+\pgfmath@stack@operand=\toks29
+\pgfmath@stack@operation=\toks30
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.
+tex
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic
+.code.tex)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigo
+nometric.code.tex)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.rando
+m.code.tex)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.compa
+rison.code.tex)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.
+code.tex)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round
+.code.tex)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.
+code.tex)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integ
+erarithmetics.code.tex)))
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count115
+))
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.co
+de.tex
+File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
+\pgf@picminx=\dimen135
+\pgf@picmaxx=\dimen136
+\pgf@picminy=\dimen137
+\pgf@picmaxy=\dimen138
+\pgf@pathminx=\dimen139
+\pgf@pathmaxx=\dimen140
+\pgf@pathminy=\dimen141
+\pgf@pathmaxy=\dimen142
+\pgf@xx=\dimen143
+\pgf@xy=\dimen144
+\pgf@yx=\dimen145
+\pgf@yy=\dimen146
+\pgf@zx=\dimen147
+\pgf@zy=\dimen148
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconst
+ruct.code.tex
+File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
+\pgf@path@lastx=\dimen149
+\pgf@path@lasty=\dimen150
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage
+.code.tex
+File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
+\pgf@shorten@end@additional=\dimen151
+\pgf@shorten@start@additional=\dimen152
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.co
+de.tex
+File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
+\pgfpic=\box28
+\pgf@hbox=\box29
+\pgf@layerbox@main=\box30
+\pgf@picture@serial@count=\count116
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicst
+ate.code.tex
+File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
+\pgflinewidth=\dimen153
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransform
+ations.code.tex
+File: pgfcoretransformations.code.tex 2015/08/07  (rcs-revision 1.20)
+\pgf@pt@x=\dimen154
+\pgf@pt@y=\dimen155
+\pgf@pt@temp=\dimen156
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.cod
+e.tex
+File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.c
+ode.tex
+File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathproce
+ssing.code.tex
+File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.co
+de.tex
+File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
+\pgfarrowsep=\dimen157
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.cod
+e.tex
+File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
+\pgf@max=\dimen158
+\pgf@sys@shading@range@num=\count117
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.cod
+e.tex
+File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.
+code.tex
+File: pgfcoreexternal.code.tex 2014/07/09  (rcs-revision 1.21)
+\pgfexternal@startupbox=\box31
+))
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.co
+de.tex
+File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretranspare
+ncy.code.tex
+File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.
+code.tex
+File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
+)))
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.cod
+e.tex
+File: pgfmoduleshapes.code.tex 2014/03/21  (rcs-revision 1.35)
+\pgfnodeparttextbox=\box32
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.
+tex
+File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
+-0-65.sty
+Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen159
+\pgf@nodesepend=\dimen160
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
+-1-18.sty
+Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)
+) (/usr/local/texlive/2016/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen161
+\pgffor@skip=\dimen162
+\pgffor@stack=\toks31
+\pgffor@toks=\toks32
+))
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.cod
+e.tex
+Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothan
+dlers.code.tex
+File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
+\pgf@plot@mark@count=\count118
+\pgfplotmarksize=\dimen163
+)
+\tikz@lastx=\dimen164
+\tikz@lasty=\dimen165
+\tikz@lastxsaved=\dimen166
+\tikz@lastysaved=\dimen167
+\tikzleveldistance=\dimen168
+\tikzsiblingdistance=\dimen169
+\tikz@figbox=\box33
+\tikz@figbox@bg=\box34
+\tikz@tempbox=\box35
+\tikz@tempbox@bg=\box36
+\tikztreelevel=\count119
+\tikznumberofchildren=\count120
+\tikznumberofcurrentchild=\count121
+\tikz@fig@count=\count122
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.cod
+e.tex
+File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
+\pgfmatrixcurrentrow=\count123
+\pgfmatrixcurrentcolumn=\count124
+\pgf@matrix@numberofcolumns=\count125
+)
+\tikz@expandcount=\count126
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
+)))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+\fancy@headwidth=\skip54
+\f@ncyO@elh=\skip55
+\f@ncyO@erh=\skip56
+\f@ncyO@olh=\skip57
+\f@ncyO@orh=\skip58
+\f@ncyO@elf=\skip59
+\f@ncyO@erf=\skip60
+\f@ncyO@olf=\skip61
+\f@ncyO@orf=\skip62
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/titlesec/titletoc.sty
+Package: titletoc 2011/12/15 v1.6 TOC entries
+\ttl@leftsep=\dimen170
+)
+(./headings.tex
+\textlarg=\skip63
+))
+\@indexfile=\write4
+\openout4 = `nouveau_livret_MITIC_6e.idx'.
+
+
+Writing index file nouveau_livret_MITIC_6e.idx
+(./nouveau_livret_MITIC_6e.aux
+
+LaTeX Warning: Label `modelePage' multiply defined.
+
+)
+\openout1 = `nouveau_livret_MITIC_6e.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 5.
+ (/usr/local/texlive/2016/texmf-dist/tex/latex/lm/t1lmr.fd
+File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(85.35826pt, 455.24411pt, 56.9055pt)
+* v-part:(T,H,B)=(85.35826pt, 674.33032pt, 85.35826pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=455.24411pt
+* \textheight=674.33032pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-8.91173pt
+* \headheight=12.0pt
+* \headsep=10.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=156.9055pt
+* \marginparsep=14.22636pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Info: Redefining \degres on input line 5.
+LaTeX Info: Redefining \dots on input line 5.
+LaTeX Info: Redefining \up on input line 5.
+(/usr/local/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count127
+\scratchdimen=\dimen171
+\scratchbox=\box37
+\nofMPsegments=\count128
+\nofMParguments=\count129
+\everyMPshowfont=\toks33
+\MPscratchCnt=\count130
+\MPscratchDim=\dimen172
+\MPnumerator=\count131
+\makeMPintoPDFobject=\count132
+\everyMPtoPDFconversion=\toks34
+) (/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+\AtBeginShipoutBox=\box38
+Package hyperref Info: Link coloring OFF on input line 5.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count133
+LaTeX Info: Redefining \Ref on input line 513.
+)
+LaTeX Info: Redefining \ref on input line 5.
+LaTeX Info: Redefining \pageref on input line 5.
+LaTeX Info: Redefining \nameref on input line 5.
+
+(./nouveau_livret_MITIC_6e.out) (./nouveau_livret_MITIC_6e.out)
+\@outlinefile=\write5
+\openout5 = `nouveau_livret_MITIC_6e.out'.
+
+LaTeX Info: Redefining \Ref on input line 5.
+
+ABD: EveryShipout initializing macros
+<./images/couvertureFlo.png, id=429, 595.9866pt x 845.0772pt>
+File: ./images/couvertureFlo.png Graphic file (type png)
+
+<use ./images/couvertureFlo.png>
+Package pdftex.def Info: ./images/couvertureFlo.png used on input line 12.
+(pdftex.def)             Requested size: 595.98515pt x 845.07513pt.
+ [1
+
+
+ <./images/couvertureFlo.png>]
+LaTeX Font Info:    Try loading font information for OMS+lmr on input line 12.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/lm/omslmr.fd
+File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 12.
+
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/lm/omslmsy.fd
+File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 12.
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--12
+
+ []
+
+<./images/logo_flo.pdf, id=437, 252.39996pt x 41.93597pt>
+File: ./images/logo_flo.pdf Graphic file (type pdf)
+
+<use ./images/logo_flo.pdf>
+Package pdftex.def Info: ./images/logo_flo.pdf used on input line 12.
+(pdftex.def)             Requested size: 252.39934pt x 41.93585pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--12
+
+ []
+
+[2{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./ima
+ges/logo_flo.pdf>] [3] [4
+
+] (./nouveau_livret_MITIC_6e.toc [5] [6])
+\tf@toc=\write6
+\openout6 = `nouveau_livret_MITIC_6e.toc'.
+
+ [7] [8
+
+]
+(./sources/planning.tex
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 10.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/lm/ot1lmr.fd
+File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 10.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/lm/omllmm.fd
+File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 10.
+
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/lm/omxlmex.fd
+File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <12> on input line 10.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 10.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 10.
+)
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[9
+
+] [10
+
+] (./sources/clavier.tex
+<./images/generales/clavierTouches.png, id=821, 847.4862pt x 351.714pt>
+File: ./images/generales/clavierTouches.png Graphic file (type png)
+
+<use ./images/generales/clavierTouches.png>
+Package pdftex.def Info: ./images/generales/clavierTouches.png used on input li
+ne 6.
+(pdftex.def)             Requested size: 847.48413pt x 351.71315pt.
+
+Overfull \vbox (12.13051pt too high) has occurred while \output is active []
+
+
+[11 <./images/generales/clavierTouches.png>]) [12
+
+] (./sources/philosophie.tex
+Underfull \vbox (badness 2261) has occurred while \output is active []
+
+ [13
+
+]
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 31.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/lm/t1lmtt.fd
+File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)) [14]
+(./sources/tableur01/tableur01.tex
+Chapitre 1.
+<./images/chapitreVinci.png, id=846, 597.23125pt x 284.06125pt>
+File: ./images/chapitreVinci.png Graphic file (type png)
+
+<use ./images/chapitreVinci.png>
+Package pdftex.def Info: ./images/chapitreVinci.png used on input line 1.
+(pdftex.def)             Requested size: 597.50787pt x 284.21223pt.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 4.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 4.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 4.
+
+<./images/generales/loupe.png, id=849, 409.53pt x 42.1575pt>
+File: ./images/generales/loupe.png Graphic file (type png)
+
+<use ./images/generales/loupe.png>
+Package pdftex.def Info: ./images/generales/loupe.png used on input line 35.
+(pdftex.def)             Requested size: 409.52899pt x 42.15738pt.
+ [1
+
+
+ <./images/chapitreVinci.png> <./images/generales/loupe.png>]
+<./images/generales/loupeRecherche.png, id=858, 685.56125pt x 59.22125pt>
+File: ./images/generales/loupeRecherche.png Graphic file (type png)
+
+<use ./images/generales/loupeRecherche.png>
+Package pdftex.def Info: ./images/generales/loupeRecherche.png used on input li
+ne 39.
+(pdftex.def)             Requested size: 685.55957pt x 59.22108pt.
+
+<./images/generales/fenetreOuverture.png, id=859, 639.38875pt x 484.81125pt>
+File: ./images/generales/fenetreOuverture.png Graphic file (type png)
+
+<use ./images/generales/fenetreOuverture.png>
+Package pdftex.def Info: ./images/generales/fenetreOuverture.png used on input 
+line 43.
+(pdftex.def)             Requested size: 639.38718pt x 484.81006pt.
+
+<./images/tableur/CalcPresentation.png, id=860, 610.28pt x 264.99pt>
+File: ./images/tableur/CalcPresentation.png Graphic file (type png)
+
+<use ./images/tableur/CalcPresentation.png>
+Package pdftex.def Info: ./images/tableur/CalcPresentation.png used on input li
+ne 47.
+(pdftex.def)             Requested size: 610.2785pt x 264.98935pt.
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 68--69
+[][][][][][][]
+ []
+
+
+Underfull \vbox (badness 1442) has occurred while \output is active []
+
+ [2 <./images/generales/loupeRecherche.png> <./images/generales/fenetreOuvertur
+e.png> <./images/tableur/CalcPresentation.png>]
+<./images/tableur/CalcSituationFinaleMaths.png, id=870, 1096.095pt x 585.18625p
+t>
+File: ./images/tableur/CalcSituationFinaleMaths.png Graphic file (type png)
+ <use ./images/tableur/CalcSituationFinaleMaths.png>
+Package pdftex.def Info: ./images/tableur/CalcSituationFinaleMaths.png used on 
+input line 72.
+(pdftex.def)             Requested size: 1096.09233pt x 585.18481pt.
+
+<./images/tableur/recopieIncrementale.png, id=871, 140.525pt x 62.2325pt>
+File: ./images/tableur/recopieIncrementale.png Graphic file (type png)
+
+<use ./images/tableur/recopieIncrementale.png>
+Package pdftex.def Info: ./images/tableur/recopieIncrementale.png used on input
+ line 86.
+(pdftex.def)             Requested size: 56.20898pt x 24.89255pt.
+
+<./images/tableur/recopieIncrementale2.png, id=872, 965.6075pt x 82.3075pt>
+File: ./images/tableur/recopieIncrementale2.png Graphic file (type png)
+
+<use ./images/tableur/recopieIncrementale2.png>
+Package pdftex.def Info: ./images/tableur/recopieIncrementale2.png used on inpu
+t line 89.
+(pdftex.def)             Requested size: 965.60515pt x 82.30728pt.
+ [3 <./images/tableur/CalcSituationFinaleMaths.png (PNG copy)> <./images/tableu
+r/recopieIncrementale.png> <./images/tableur/recopieIncrementale2.png (PNG copy
+)>]
+<./images/tableur/CalcEnregistrerFichier.png, id=881, 790.955pt x 113.42375pt>
+File: ./images/tableur/CalcEnregistrerFichier.png Graphic file (type png)
+
+<use ./images/tableur/CalcEnregistrerFichier.png>
+Package pdftex.def Info: ./images/tableur/CalcEnregistrerFichier.png used on in
+put line 113.
+(pdftex.def)             Requested size: 790.95308pt x 113.42346pt.
+
+<./images/generales/clavierCmdS.png, id=882, 196.5744pt x 72.63135pt>
+File: ./images/generales/clavierCmdS.png Graphic file (type png)
+
+<use ./images/generales/clavierCmdS.png>
+Package pdftex.def Info: ./images/generales/clavierCmdS.png used on input line 
+117.
+(pdftex.def)             Requested size: 196.57391pt x 72.63116pt.
+LaTeX Font Info:    Font shape `T1/lmtt/bx/n' in size <12> not available
+(Font)              Font shape `T1/lmtt/b/n' tried instead on input line 121.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 121--121
+[] 
+ []
+
+[4 <./images/tableur/CalcEnregistrerFichier.png (PNG copy)> <./images/generales
+/clavierCmdS.png>]
+<./images/tableur/CalcCellulesSelectionnees.png, id=890, 1206.5075pt x 93.34875
+pt>
+File: ./images/tableur/CalcCellulesSelectionnees.png Graphic file (type png)
+ <use ./images/tableur/CalcCellulesSelectionnees.png>
+Package pdftex.def Info: ./images/tableur/CalcCellulesSelectionnees.png used on
+ input line 135.
+(pdftex.def)             Requested size: 1206.50456pt x 93.34851pt.
+
+<./images/tableur/iconeDiagramme.png, id=892, 31.11626pt x 33.12375pt>
+File: ./images/tableur/iconeDiagramme.png Graphic file (type png)
+
+<use ./images/tableur/iconeDiagramme.png>
+Package pdftex.def Info: ./images/tableur/iconeDiagramme.png used on input line
+ 137.
+(pdftex.def)             Requested size: 18.66988pt x 19.87439pt.
+
+<./images/tableur/CalcBoiteDiagramme1.png, id=893, 752.8125pt x 366.36874pt>
+File: ./images/tableur/CalcBoiteDiagramme1.png Graphic file (type png)
+
+<use ./images/tableur/CalcBoiteDiagramme1.png>
+Package pdftex.def Info: ./images/tableur/CalcBoiteDiagramme1.png used on input
+ line 139.
+(pdftex.def)             Requested size: 752.81065pt x 366.36784pt.
+
+<./images/tableur/CalcBoiteDiagramme2.png, id=894, 752.8125pt x 369.38pt>
+File: ./images/tableur/CalcBoiteDiagramme2.png Graphic file (type png)
+
+<use ./images/tableur/CalcBoiteDiagramme2.png>
+Package pdftex.def Info: ./images/tableur/CalcBoiteDiagramme2.png used on input
+ line 141.
+(pdftex.def)             Requested size: 752.81065pt x 369.37909pt.
+
+<./images/tableur/CalcBoiteDiagramme3.png, id=895, 750.805pt x 370.38374pt>
+File: ./images/tableur/CalcBoiteDiagramme3.png Graphic file (type png)
+
+<use ./images/tableur/CalcBoiteDiagramme3.png>
+Package pdftex.def Info: ./images/tableur/CalcBoiteDiagramme3.png used on input
+ line 143.
+(pdftex.def)             Requested size: 750.80316pt x 370.38283pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [5 <./images/tableur/CalcCellulesSelectionnees.png (PNG copy)> <./images/table
+ur/iconeDiagramme.png (PNG copy)> <./images/tableur/CalcBoiteDiagramme1.png> <.
+/images/tableur/CalcBoiteDiagramme2.png>]
+<./images/tableur/CalcBoiteDiagramme4.png, id=904, 753.81625pt x 372.39125pt>
+File: ./images/tableur/CalcBoiteDiagramme4.png Graphic file (type png)
+
+<use ./images/tableur/CalcBoiteDiagramme4.png>
+Package pdftex.def Info: ./images/tableur/CalcBoiteDiagramme4.png used on input
+ line 145.
+(pdftex.def)             Requested size: 753.81442pt x 372.39034pt.
+
+<./images/tableur/CalcFenetreGraphiqueSelectionnee.png, id=905, 984.67876pt x 5
+49.05125pt>
+File: ./images/tableur/CalcFenetreGraphiqueSelectionnee.png Graphic file (type 
+png)
+ <use ./images/tableur/CalcFenetreGraphiqueSelectionnee.png>
+Package pdftex.def Info: ./images/tableur/CalcFenetreGraphiqueSelectionnee.png 
+used on input line 150.
+(pdftex.def)             Requested size: 984.67635pt x 549.04991pt.
+
+[6 <./images/tableur/CalcBoiteDiagramme3.png> <./images/tableur/CalcBoiteDiagra
+mme4.png> <./images/tableur/CalcFenetreGraphiqueSelectionnee.png>]
+<./images/tableur/CalcCalculMoyenne.png, id=914, 858.20625pt x 174.6525pt>
+File: ./images/tableur/CalcCalculMoyenne.png Graphic file (type png)
+
+<use ./images/tableur/CalcCalculMoyenne.png>
+Package pdftex.def Info: ./images/tableur/CalcCalculMoyenne.png used on input l
+ine 171.
+(pdftex.def)             Requested size: 858.20416pt x 174.65207pt.
+
+<./images/texte/WriterMenuFichier.png, id=915, 289.08pt x 445.665pt>
+File: ./images/texte/WriterMenuFichier.png Graphic file (type png)
+
+<use ./images/texte/WriterMenuFichier.png>
+Package pdftex.def Info: ./images/texte/WriterMenuFichier.png used on input lin
+e 185.
+(pdftex.def)             Requested size: 289.07928pt x 445.66391pt.
+
+<./images/texte/WriterBoiteExportPDF.png, id=916, 884.30376pt x 481.8pt>
+File: ./images/texte/WriterBoiteExportPDF.png Graphic file (type png)
+
+<use ./images/texte/WriterBoiteExportPDF.png>
+Package pdftex.def Info: ./images/texte/WriterBoiteExportPDF.png used on input 
+line 185.
+(pdftex.def)             Requested size: 884.3016pt x 481.79881pt.
+
+<./images/texte/WriterIconePDF.png, id=917, 261.97874pt x 86.3225pt>
+File: ./images/texte/WriterIconePDF.png Graphic file (type png)
+
+<use ./images/texte/WriterIconePDF.png>
+Package pdftex.def Info: ./images/texte/WriterIconePDF.png used on input line 1
+88.
+(pdftex.def)             Requested size: 261.9781pt x 86.32227pt.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 192--192
+[] 
+ []
+
+[7 <./images/tableur/CalcCalculMoyenne.png (PNG copy)> <./images/texte/WriterMe
+nuFichier.png> <./images/texte/WriterBoiteExportPDF.png> <./images/texte/Writer
+IconePDF.png>]
+<./images/methode/MoodleDevoirIcone1.png, id=925, 77.28876pt x 77.28876pt>
+File: ./images/methode/MoodleDevoirIcone1.png Graphic file (type png)
+
+<use ./images/methode/MoodleDevoirIcone1.png>
+Package pdftex.def Info: ./images/methode/MoodleDevoirIcone1.png used on input 
+line 200.
+(pdftex.def)             Requested size: 18.2067pt x 18.20648pt.
+
+<./images/tableur/CalcPourAllerPlusLoin.png, id=927, 767.86874pt x 459.7175pt>
+File: ./images/tableur/CalcPourAllerPlusLoin.png Graphic file (type png)
+
+<use ./images/tableur/CalcPourAllerPlusLoin.png>
+Package pdftex.def Info: ./images/tableur/CalcPourAllerPlusLoin.png used on inp
+ut line 216.
+(pdftex.def)             Requested size: 767.86687pt x 459.71637pt.
+
+<./images/tableur/calcPhyChiSchema.png, id=928, 631.6398pt x 586.8324pt>
+File: ./images/tableur/calcPhyChiSchema.png Graphic file (type png)
+
+<use ./images/tableur/calcPhyChiSchema.png>
+Package pdftex.def Info: ./images/tableur/calcPhyChiSchema.png used on input li
+ne 232.
+(pdftex.def)             Requested size: 631.63826pt x 586.83096pt.
+
+Underfull \vbox (badness 1112) has occurred while \output is active []
+
+ [8 <./images/methode/MoodleDevoirIcone1.png (PNG copy)> <./images/tableur/Calc
+PourAllerPlusLoin.png (PNG copy)>]
+Overfull \hbox (6.0pt too wide) in paragraph at lines 244--245
+[][][][][][][]
+ []
+
+<./images/tableur/calcPhyChi.png, id=933, 455.07515pt x 256.33266pt>
+File: ./images/tableur/calcPhyChi.png Graphic file (type png)
+
+<use ./images/tableur/calcPhyChi.png>
+Package pdftex.def Info: ./images/tableur/calcPhyChi.png used on input line 248
+.
+(pdftex.def)             Requested size: 455.07404pt x 256.33202pt.
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 297--298
+[][][][][][][]
+ []
+
+[9 <./images/tableur/calcPhyChiSchema.png> <./images/tableur/calcPhyChi.png (PN
+G copy)>]) (./sources/texte01/texte01.tex [10]
+Chapitre 2.
+File: ./images/chapitreVinci.png Graphic file (type png)
+<use ./images/chapitreVinci.png>
+Package pdftex.def Info: ./images/chapitreVinci.png used on input line 1.
+(pdftex.def)             Requested size: 597.50787pt x 284.21223pt.
+File: ./images/generales/loupe.png Graphic file (type png)
+ <use ./images/generales/loupe.png>
+Package pdftex.def Info: ./images/generales/loupe.png used on input line 36.
+(pdftex.def)             Requested size: 409.52899pt x 42.15738pt.
+File: ./images/generales/loupeRecherche.png Graphic file (type png)
+
+<use ./images/generales/loupeRecherche.png>
+Package pdftex.def Info: ./images/generales/loupeRecherche.png used on input li
+ne 40.
+(pdftex.def)             Requested size: 685.55957pt x 59.22108pt.
+ [11
+
+]
+<./images/generales/fenetreOuvertureWriter.png, id=953, 639.38875pt x 484.81125
+pt>
+File: ./images/generales/fenetreOuvertureWriter.png Graphic file (type png)
+ <use ./images/generales/fenetreOuvertureWriter.png>
+Package pdftex.def Info: ./images/generales/fenetreOuvertureWriter.png used on 
+input line 44.
+(pdftex.def)             Requested size: 639.38718pt x 484.81006pt.
+
+<./images/texte/WriterPresentation.png, id=954, 976.448pt x 165.418pt>
+File: ./images/texte/WriterPresentation.png Graphic file (type png)
+
+<use ./images/texte/WriterPresentation.png>
+Package pdftex.def Info: ./images/texte/WriterPresentation.png used on input li
+ne 48.
+(pdftex.def)             Requested size: 976.44562pt x 165.41759pt.
+
+<./images/texte/WriterOuvrirFichier1.png, id=956, 537.207pt x 436.832pt>
+File: ./images/texte/WriterOuvrirFichier1.png Graphic file (type png)
+
+<use ./images/texte/WriterOuvrirFichier1.png>
+Package pdftex.def Info: ./images/texte/WriterOuvrirFichier1.png used on input 
+line 74.
+(pdftex.def)             Requested size: 537.20569pt x 436.83093pt.
+
+<./images/texte/WriterOuvrirFichier2.png, id=957, 546.04pt x 402.303pt>
+File: ./images/texte/WriterOuvrirFichier2.png Graphic file (type png)
+
+<use ./images/texte/WriterOuvrirFichier2.png>
+Package pdftex.def Info: ./images/texte/WriterOuvrirFichier2.png used on input 
+line 74.
+(pdftex.def)             Requested size: 546.03867pt x 402.302pt.
+ [12 <./images/generales/fenetreOuvertureWriter.png> <./images/texte/WriterPres
+entation.png>]
+Overfull \hbox (6.0pt too wide) in paragraph at lines 84--85
+[][][][][][][]
+ []
+
+
+<./sources/texte01/LaBelleEtLaBeteFormatee.pdf, id=965, 597.23125pt x 845.1575p
+t>
+File: ./sources/texte01/LaBelleEtLaBeteFormatee.pdf Graphic file (type pdf)
+ <use ./sources/texte01/LaBelleEtLaBeteFormatee.pdf>
+Package pdftex.def Info: ./sources/texte01/LaBelleEtLaBeteFormatee.pdf used on 
+input line 88.
+(pdftex.def)             Requested size: 386.96027pt x 547.6049pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [13 <./images/texte/WriterOuvrirFichier1.png> <./images/texte/WriterOuvrirFich
+ier2.png>]
+[14 <./sources/texte01/LaBelleEtLaBeteFormatee.pdf>]
+File: ./images/tableur/CalcEnregistrerFichier.png Graphic file (type png)
+
+<use ./images/tableur/CalcEnregistrerFichier.png>
+Package pdftex.def Info: ./images/tableur/CalcEnregistrerFichier.png used on in
+put line 104.
+(pdftex.def)             Requested size: 790.95308pt x 113.42346pt.
+File: ./images/generales/clavierCmdS.png Graphic file (type png)
+
+<use ./images/generales/clavierCmdS.png>
+Package pdftex.def Info: ./images/generales/clavierCmdS.png used on input line 
+108.
+(pdftex.def)             Requested size: 196.57391pt x 72.63116pt.
+
+<./images/texte/WriterFormatMenu.png, id=995, 265.99374pt x 225.84375pt>
+File: ./images/texte/WriterFormatMenu.png Graphic file (type png)
+
+<use ./images/texte/WriterFormatMenu.png>
+Package pdftex.def Info: ./images/texte/WriterFormatMenu.png used on input line
+ 123.
+(pdftex.def)             Requested size: 265.99309pt x 225.84319pt.
+
+<./images/texte/WriterBoiteMarge.png, id=996, 714.67pt x 522.95375pt>
+File: ./images/texte/WriterBoiteMarge.png Graphic file (type png)
+
+<use ./images/texte/WriterBoiteMarge.png>
+Package pdftex.def Info: ./images/texte/WriterBoiteMarge.png used on input line
+ 127.
+(pdftex.def)             Requested size: 714.66824pt x 522.95247pt.
+
+Underfull \vbox (badness 1661) has occurred while \output is active []
+
+ [15 <./images/texte/WriterFormatMenu.png>]
+<./images/texte/WriterEditionMenuSelectAll.png, id=1002, 315.1775pt x 271.0125p
+t>
+File: ./images/texte/WriterEditionMenuSelectAll.png Graphic file (type png)
+ <use ./images/texte/WriterEditionMenuSelectAll.png>
+Package pdftex.def Info: ./images/texte/WriterEditionMenuSelectAll.png used on 
+input line 149.
+(pdftex.def)             Requested size: 315.17673pt x 271.01183pt.
+
+<./images/generales/clavierCmdA.png, id=1003, 134.4222pt x 74.79945pt>
+File: ./images/generales/clavierCmdA.png Graphic file (type png)
+
+<use ./images/generales/clavierCmdA.png>
+Package pdftex.def Info: ./images/generales/clavierCmdA.png used on input line 
+149.
+(pdftex.def)             Requested size: 134.42186pt x 74.79926pt.
+
+<./images/texte/WriterChangePolice.png, id=1004, 901.3675pt x 393.47pt>
+File: ./images/texte/WriterChangePolice.png Graphic file (type png)
+
+<use ./images/texte/WriterChangePolice.png>
+Package pdftex.def Info: ./images/texte/WriterChangePolice.png used on input li
+ne 154.
+(pdftex.def)             Requested size: 901.36528pt x 393.46902pt.
+
+Underfull \vbox (badness 3219) has occurred while \output is active []
+
+ [16 <./images/texte/WriterBoiteMarge.png> <./images/texte/WriterEditionMenuSel
+ectAll.png> <./images/generales/clavierCmdA.png>]
+<./images/texte/WriterChangeTailleCaractere1.png, id=1012, 434.62375pt x 225.84
+375pt>
+File: ./images/texte/WriterChangeTailleCaractere1.png Graphic file (type png)
+ <use ./images/texte/WriterChangeTailleCaractere1.png>
+Package pdftex.def Info: ./images/texte/WriterChangeTailleCaractere1.png used o
+n input line 162.
+(pdftex.def)             Requested size: 434.62268pt x 225.84319pt.
+
+<./images/texte/WriterChangeTailleCaractere2.png, id=1013, 436.63126pt x 227.85
+126pt>
+File: ./images/texte/WriterChangeTailleCaractere2.png Graphic file (type png)
+ <use ./images/texte/WriterChangeTailleCaractere2.png>
+Package pdftex.def Info: ./images/texte/WriterChangeTailleCaractere2.png used o
+n input line 162.
+(pdftex.def)             Requested size: 436.63019pt x 227.8507pt.
+
+<./images/texte/WriterCentrerTitre.png, id=1014, 803.0pt x 320.19624pt>
+File: ./images/texte/WriterCentrerTitre.png Graphic file (type png)
+
+<use ./images/texte/WriterCentrerTitre.png>
+Package pdftex.def Info: ./images/texte/WriterCentrerTitre.png used on input li
+ne 174.
+(pdftex.def)             Requested size: 802.99805pt x 320.19545pt.
+ [17 <./images/texte/WriterChangePolice.png> <./images/texte/WriterChangeTaille
+Caractere1.png (PNG copy)> <./images/texte/WriterChangeTailleCaractere2.png (PN
+G copy)> <./images/texte/WriterCentrerTitre.png>]
+<./images/texte/WriterSouligne.png, id=1022, 640.3925pt x 230.8625pt>
+File: ./images/texte/WriterSouligne.png Graphic file (type png)
+
+<use ./images/texte/WriterSouligne.png>
+Package pdftex.def Info: ./images/texte/WriterSouligne.png used on input line 1
+95.
+(pdftex.def)             Requested size: 640.39093pt x 230.86192pt.
+
+<./images/generales/clavierCmdU.png, id=1023, 141.46852pt x 94.85437pt>
+File: ./images/generales/clavierCmdU.png Graphic file (type png)
+
+<use ./images/generales/clavierCmdU.png>
+Package pdftex.def Info: ./images/generales/clavierCmdU.png used on input line 
+197.
+(pdftex.def)             Requested size: 141.46817pt x 94.85413pt.
+
+<./images/texte/WriterFonteGrasse.png, id=1024, 559.08875pt x 248.93pt>
+File: ./images/texte/WriterFonteGrasse.png Graphic file (type png)
+
+<use ./images/texte/WriterFonteGrasse.png>
+Package pdftex.def Info: ./images/texte/WriterFonteGrasse.png used on input lin
+e 213.
+(pdftex.def)             Requested size: 559.08737pt x 248.92938pt.
+
+<./images/texte/WriterTexteItalique.png, id=1025, 451.6875pt x 231.86626pt>
+File: ./images/texte/WriterTexteItalique.png Graphic file (type png)
+
+<use ./images/texte/WriterTexteItalique.png>
+Package pdftex.def Info: ./images/texte/WriterTexteItalique.png used on input l
+ine 213.
+(pdftex.def)             Requested size: 451.68639pt x 231.86568pt.
+
+<./images/generales/clavierCmdB.png, id=1026, 141.46852pt x 94.85437pt>
+File: ./images/generales/clavierCmdB.png Graphic file (type png)
+
+<use ./images/generales/clavierCmdB.png>
+Package pdftex.def Info: ./images/generales/clavierCmdB.png used on input line 
+218.
+(pdftex.def)             Requested size: 141.46817pt x 94.85413pt.
+
+<./images/generales/clavierCmdI.png, id=1027, 141.46852pt x 94.85437pt>
+File: ./images/generales/clavierCmdI.png Graphic file (type png)
+
+<use ./images/generales/clavierCmdI.png>
+Package pdftex.def Info: ./images/generales/clavierCmdI.png used on input line 
+218.
+(pdftex.def)             Requested size: 141.46817pt x 94.85413pt.
+ [18 <./images/texte/WriterSouligne.png> <./images/generales/clavierCmdU.png> <
+./images/texte/WriterFonteGrasse.png> <./images/texte/WriterTexteItalique.png> 
+<./images/generales/clavierCmdB.png> <./images/generales/clavierCmdI.png>]
+<./images/texte/WriterCouleurPolice.png, id=1038, 484.81125pt x 268.00125pt>
+File: ./images/texte/WriterCouleurPolice.png Graphic file (type png)
+
+<use ./images/texte/WriterCouleurPolice.png>
+Package pdftex.def Info: ./images/texte/WriterCouleurPolice.png used on input l
+ine 236.
+(pdftex.def)             Requested size: 484.81006pt x 268.00058pt.
+
+<./images/texte/WriterMiseEnFormeParagraphe1.png, id=1039, 893.739pt x 656.854p
+t>
+File: ./images/texte/WriterMiseEnFormeParagraphe1.png Graphic file (type png)
+ <use ./images/texte/WriterMiseEnFormeParagraphe1.png>
+Package pdftex.def Info: ./images/texte/WriterMiseEnFormeParagraphe1.png used o
+n input line 262.
+(pdftex.def)             Requested size: 893.73682pt x 656.85239pt.
+ [19 <./images/texte/WriterCouleurPolice.png> <./images/texte/WriterMiseEnForme
+Paragraphe1.png>]
+<./images/texte/WriterMiseEnFormeParagraphe2.png, id=1046, 542.828pt x 438.438p
+t>
+File: ./images/texte/WriterMiseEnFormeParagraphe2.png Graphic file (type png)
+ <use ./images/texte/WriterMiseEnFormeParagraphe2.png>
+Package pdftex.def Info: ./images/texte/WriterMiseEnFormeParagraphe2.png used o
+n input line 266.
+(pdftex.def)             Requested size: 542.82668pt x 438.43692pt.
+
+<./images/texte/WriterParagrapheJustifie.png, id=1047, 882.497pt x 462.528pt>
+File: ./images/texte/WriterParagrapheJustifie.png Graphic file (type png)
+
+<use ./images/texte/WriterParagrapheJustifie.png>
+Package pdftex.def Info: ./images/texte/WriterParagrapheJustifie.png used on in
+put line 283.
+(pdftex.def)             Requested size: 882.49484pt x 462.52686pt.
+ [20 <./images/texte/WriterMiseEnFormeParagraphe2.png> <./images/texte/WriterPa
+ragrapheJustifie.png>]
+<./images/texte/WriterAlignerADroite.png, id=1055, 941.116pt x 130.086pt>
+File: ./images/texte/WriterAlignerADroite.png Graphic file (type png)
+
+<use ./images/texte/WriterAlignerADroite.png>
+Package pdftex.def Info: ./images/texte/WriterAlignerADroite.png used on input 
+line 293.
+(pdftex.def)             Requested size: 941.11371pt x 130.08566pt.
+File: ./images/texte/WriterMenuFichier.png Graphic file (type png)
+
+<use ./images/texte/WriterMenuFichier.png>
+Package pdftex.def Info: ./images/texte/WriterMenuFichier.png used on input lin
+e 303.
+(pdftex.def)             Requested size: 289.07928pt x 445.66391pt.
+File: ./images/texte/WriterBoiteExportPDF.png Graphic file (type png)
+
+<use ./images/texte/WriterBoiteExportPDF.png>
+Package pdftex.def Info: ./images/texte/WriterBoiteExportPDF.png used on input 
+line 303.
+(pdftex.def)             Requested size: 884.3016pt x 481.79881pt.
+File: ./images/texte/WriterIconePDF.png Graphic file (type png)
+
+<use ./images/texte/WriterIconePDF.png>
+Package pdftex.def Info: ./images/texte/WriterIconePDF.png used on input line 3
+06.
+(pdftex.def)             Requested size: 261.9781pt x 86.32227pt.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 311--311
+[] 
+ []
+
+[21 <./images/texte/WriterAlignerADroite.png>]
+File: ./images/methode/MoodleDevoirIcone1.png Graphic file (type png)
+
+<use ./images/methode/MoodleDevoirIcone1.png>
+Package pdftex.def Info: ./images/methode/MoodleDevoirIcone1.png used on input 
+line 322.
+(pdftex.def)             Requested size: 18.2067pt x 18.20648pt.
+
+<./images/generales/clavierCmdF.png, id=1062, 134.4222pt x 74.79945pt>
+File: ./images/generales/clavierCmdF.png Graphic file (type png)
+
+<use ./images/generales/clavierCmdF.png>
+Package pdftex.def Info: ./images/generales/clavierCmdF.png used on input line 
+334.
+(pdftex.def)             Requested size: 134.42186pt x 74.79926pt.
+
+<./images/texte/WriterBarreRecherche.png, id=1063, 856.801pt x 85.921pt>
+File: ./images/texte/WriterBarreRecherche.png Graphic file (type png)
+
+<use ./images/texte/WriterBarreRecherche.png>
+Package pdftex.def Info: ./images/texte/WriterBarreRecherche.png used on input 
+line 338.
+(pdftex.def)             Requested size: 856.7989pt x 85.92079pt.
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 366--367
+[][][][][][][]
+ []
+
+[22 <./images/generales/clavierCmdF.png> <./images/texte/WriterBarreRecherche.p
+ng>]
+<./sources/texte01/ExtraitGulliver6eFormate.pdf, id=1070, 597.23125pt x 845.157
+5pt>
+File: ./sources/texte01/ExtraitGulliver6eFormate.pdf Graphic file (type pdf)
+ <use ./sources/texte01/ExtraitGulliver6eFormate.pdf>
+Package pdftex.def Info: ./sources/texte01/ExtraitGulliver6eFormate.pdf used on
+ input line 370.
+(pdftex.def)             Requested size: 341.43307pt x 483.17624pt.
+ [23 <./sources/texte01/ExtraitGulliver6eFormate.pdf>]
+<./images/texte/WriterTexteMajuscule.png, id=1101, 1110.1475pt x 525.965pt>
+File: ./images/texte/WriterTexteMajuscule.png Graphic file (type png)
+
+<use ./images/texte/WriterTexteMajuscule.png>
+Package pdftex.def Info: ./images/texte/WriterTexteMajuscule.png used on input 
+line 389.
+(pdftex.def)             Requested size: 1110.14479pt x 525.9637pt.
+
+<./images/texte/WriterParagrapheEncadre.png, id=1102, 993.7125pt x 446.66875pt>
+File: ./images/texte/WriterParagrapheEncadre.png Graphic file (type png)
+<use ./images/texte/WriterParagrapheEncadre.png>
+Package pdftex.def Info: ./images/texte/WriterParagrapheEncadre.png used on inp
+ut line 403.
+(pdftex.def)             Requested size: 993.71007pt x 446.66765pt.
+
+Underfull \vbox (badness 1087) has occurred while \output is active []
+
+ [24 <./images/texte/WriterTexteMajuscule.png>]
+Overfull \hbox (6.0pt too wide) in paragraph at lines 430--431
+[][][][][][][]
+ []
+
+[25 <./images/texte/WriterParagrapheEncadre.png>]
+<./images/texte/WriterInsertionImage2.png, id=1116, 642.4pt x 161.60374pt>
+File: ./images/texte/WriterInsertionImage2.png Graphic file (type png)
+
+<use ./images/texte/WriterInsertionImage2.png>
+Package pdftex.def Info: ./images/texte/WriterInsertionImage2.png used on input
+ line 444.
+(pdftex.def)             Requested size: 642.39844pt x 161.60335pt.
+
+<./images/texte/WriterInsertionImage1.png, id=1117, 534.798pt x 354.123pt>
+File: ./images/texte/WriterInsertionImage1.png Graphic file (type png)
+
+<use ./images/texte/WriterInsertionImage1.png>
+Package pdftex.def Info: ./images/texte/WriterInsertionImage1.png used on input
+ line 448.
+(pdftex.def)             Requested size: 534.79669pt x 354.12212pt.
+
+<./images/texte/WriterInsertionImage3.png, id=1118, 922.44624pt x 395.4775pt>
+File: ./images/texte/WriterInsertionImage3.png Graphic file (type png)
+
+<use ./images/texte/WriterInsertionImage3.png>
+Package pdftex.def Info: ./images/texte/WriterInsertionImage3.png used on input
+ line 455.
+(pdftex.def)             Requested size: 922.44398pt x 395.47653pt.
+
+<./images/texte/WriterInsertionImage4.png, id=1119, 656.4525pt x 544.0325pt>
+File: ./images/texte/WriterInsertionImage4.png Graphic file (type png)
+
+<use ./images/texte/WriterInsertionImage4.png>
+Package pdftex.def Info: ./images/texte/WriterInsertionImage4.png used on input
+ line 457.
+(pdftex.def)             Requested size: 656.4509pt x 544.03117pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [26 <./images/texte/WriterInsertionImage2.png> <./images/texte/WriterInsertion
+Image1.png> <./images/texte/WriterInsertionImage3.png>])
+(./sources/presentation01/presentation01.tex [27 <./images/texte/WriterInsertio
+nImage4.png>] [28
+
+]
+Chapitre 3.
+File: ./images/chapitreVinci.png Graphic file (type png)
+<use ./images/chapitreVinci.png>
+Package pdftex.def Info: ./images/chapitreVinci.png used on input line 1.
+(pdftex.def)             Requested size: 597.50787pt x 284.21223pt.
+LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 5.
+ [29]
+<./images/presentation/diapoBad.pdf, id=1149, 796.9775pt x 597.23125pt>
+File: ./images/presentation/diapoBad.pdf Graphic file (type pdf)
+
+<use ./images/presentation/diapoBad.pdf>
+Package pdftex.def Info: ./images/presentation/diapoBad.pdf used on input line 
+57.
+(pdftex.def)             Requested size: 796.97554pt x 597.22978pt.
+
+<./images/presentation/diapoGood.pdf, id=1150, 796.9775pt x 597.23125pt>
+File: ./images/presentation/diapoGood.pdf Graphic file (type pdf)
+
+<use ./images/presentation/diapoGood.pdf>
+Package pdftex.def Info: ./images/presentation/diapoGood.pdf used on input line
+ 57.
+(pdftex.def)             Requested size: 796.97554pt x 597.22978pt.
+ [30 <./images/presentation/diapoBad.pdf> <./images/presentation/diapoGood.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./images/presentation/diapoG
+ood.pdf): PDF inclusion: multiple pdfs with page group included in a single pag
+e
+>]
+<./images/presentation/Impress_01Ouvrir_01.png, id=1203, 347.2975pt x 22.0825pt
+>
+File: ./images/presentation/Impress_01Ouvrir_01.png Graphic file (type png)
+ <use ./images/presentation/Impress_01Ouvrir_01.png>
+Package pdftex.def Info: ./images/presentation/Impress_01Ouvrir_01.png used on 
+input line 90.
+(pdftex.def)             Requested size: 347.29665pt x 22.08243pt.
+
+<./images/presentation/Impress_01Ouvrir_02.png, id=1204, 604.2575pt x 123.46124
+pt>
+File: ./images/presentation/Impress_01Ouvrir_02.png Graphic file (type png)
+ <use ./images/presentation/Impress_01Ouvrir_02.png>
+Package pdftex.def Info: ./images/presentation/Impress_01Ouvrir_02.png used on 
+input line 90.
+(pdftex.def)             Requested size: 604.25603pt x 123.46092pt.
+
+<./images/presentation/Impress_01Ouvrir_03.png, id=1205, 770.88pt x 445.665pt>
+File: ./images/presentation/Impress_01Ouvrir_03.png Graphic file (type png)
+
+<use ./images/presentation/Impress_01Ouvrir_03.png>
+Package pdftex.def Info: ./images/presentation/Impress_01Ouvrir_03.png used on 
+input line 94.
+(pdftex.def)             Requested size: 770.87813pt x 445.66391pt.
+
+<./images/presentation/Impress_02Creer_00.png, id=1206, 264.99pt x 100.375pt>
+File: ./images/presentation/Impress_02Creer_00.png Graphic file (type png)
+
+<use ./images/presentation/Impress_02Creer_00.png>
+Package pdftex.def Info: ./images/presentation/Impress_02Creer_00.png used on i
+nput line 111.
+(pdftex.def)             Requested size: 264.98935pt x 100.37474pt.
+
+<./images/presentation/Impress_02Creer_00b.png, id=1207, 66.2475pt x 242.9075pt
+>
+File: ./images/presentation/Impress_02Creer_00b.png Graphic file (type png)
+ <use ./images/presentation/Impress_02Creer_00b.png>
+Package pdftex.def Info: ./images/presentation/Impress_02Creer_00b.png used on 
+input line 111.
+(pdftex.def)             Requested size: 66.24733pt x 242.90689pt.
+ [31 <./images/presentation/Impress_01Ouvrir_01.png> <./images/presentation/Imp
+ress_01Ouvrir_02.png> <./images/presentation/Impress_01Ouvrir_03.png> <./images
+/presentation/Impress_02Creer_00.png> <./images/presentation/Impress_02Creer_00
+b.png>]
+<./images/presentation/Impress_02Creer_03.png, id=1220, 931.48pt x 508.90125pt>
+File: ./images/presentation/Impress_02Creer_03.png Graphic file (type png)
+<use ./images/presentation/Impress_02Creer_03.png>
+Package pdftex.def Info: ./images/presentation/Impress_02Creer_03.png used on i
+nput line 115.
+(pdftex.def)             Requested size: 931.47772pt x 508.90001pt.
+
+<./images/presentation/Impress_02Creer_04.png, id=1221, 259.97125pt x 46.1725pt
+>
+File: ./images/presentation/Impress_02Creer_04.png Graphic file (type png)
+ <use ./images/presentation/Impress_02Creer_04.png>
+Package pdftex.def Info: ./images/presentation/Impress_02Creer_04.png used on i
+nput line 121.
+(pdftex.def)             Requested size: 85.35826pt x 15.16016pt.
+
+<./images/presentation/Impress_03Inserer_05.png, id=1222, 505.89pt x 152.57pt>
+File: ./images/presentation/Impress_03Inserer_05.png Graphic file (type png)
+
+<use ./images/presentation/Impress_03Inserer_05.png>
+Package pdftex.def Info: ./images/presentation/Impress_03Inserer_05.png used on
+ input line 125.
+(pdftex.def)             Requested size: 505.88875pt x 152.56963pt.
+
+<./images/presentation/Impress_03Inserer_01.png, id=1223, 114.4275pt x 100.375p
+t>
+File: ./images/presentation/Impress_03Inserer_01.png Graphic file (type png)
+ <use ./images/presentation/Impress_03Inserer_01.png>
+Package pdftex.def Info: ./images/presentation/Impress_03Inserer_01.png used on
+ input line 128.
+(pdftex.def)             Requested size: 56.9055pt x 49.91628pt.
+
+<./images/presentation/Impress_03Inserer_06.png, id=1224, 337.26pt x 253.94875p
+t>
+File: ./images/presentation/Impress_03Inserer_06.png Graphic file (type png)
+ <use ./images/presentation/Impress_03Inserer_06.png>
+Package pdftex.def Info: ./images/presentation/Impress_03Inserer_06.png used on
+ input line 142.
+(pdftex.def)             Requested size: 337.25917pt x 253.94812pt.
+
+<./images/presentation/Impress_03Inserer_07.png, id=1225, 313.17pt x 229.85875p
+t>
+File: ./images/presentation/Impress_03Inserer_07.png Graphic file (type png)
+ <use ./images/presentation/Impress_03Inserer_07.png>
+Package pdftex.def Info: ./images/presentation/Impress_03Inserer_07.png used on
+ input line 142.
+(pdftex.def)             Requested size: 313.16922pt x 229.85817pt.
+ [32 <./images/presentation/Impress_02Creer_03.png> <./images/presentation/Impr
+ess_02Creer_04.png> <./images/presentation/Impress_03Inserer_05.png> <./images/
+presentation/Impress_03Inserer_01.png> <./images/presentation/Impress_03Inserer
+_06.png> <./images/presentation/Impress_03Inserer_07.png>]
+<./images/presentation/Impress_03Inserer_0a.png, id=1238, 1154.3125pt x 544.032
+5pt>
+File: ./images/presentation/Impress_03Inserer_0a.png Graphic file (type png)
+ <use ./images/presentation/Impress_03Inserer_0a.png>
+Package pdftex.def Info: ./images/presentation/Impress_03Inserer_0a.png used on
+ input line 150.
+(pdftex.def)             Requested size: 1154.3097pt x 544.03117pt.
+
+<./images/presentation/Impress_03Inserer_0b.png, id=1239, 1142.2675pt x 557.081
+25pt>
+File: ./images/presentation/Impress_03Inserer_0b.png Graphic file (type png)
+ <use ./images/presentation/Impress_03Inserer_0b.png>
+Package pdftex.def Info: ./images/presentation/Impress_03Inserer_0b.png used on
+ input line 150.
+(pdftex.def)             Requested size: 1142.26472pt x 557.0799pt.
+
+<./images/presentation/Impress_05Trieuse_01.png, id=1240, 185.69376pt x 209.783
+75pt>
+File: ./images/presentation/Impress_05Trieuse_01.png Graphic file (type png)
+ <use ./images/presentation/Impress_05Trieuse_01.png>
+Package pdftex.def Info: ./images/presentation/Impress_05Trieuse_01.png used on
+ input line 172.
+(pdftex.def)             Requested size: 185.6933pt x 209.78322pt.
+
+<./images/presentation/Impress_04NouvelleDia_02.png, id=1241, 364.36125pt x 243
+.91125pt>
+File: ./images/presentation/Impress_04NouvelleDia_02.png Graphic file (type png
+)
+ <use ./images/presentation/Impress_04NouvelleDia_02.png>
+Package pdftex.def Info: ./images/presentation/Impress_04NouvelleDia_02.png use
+d on input line 197.
+(pdftex.def)             Requested size: 364.36035pt x 243.91064pt.
+
+<./images/presentation/Impress_04NouvelleDia_03.png, id=1242, 364.36125pt x 243
+.91125pt>
+File: ./images/presentation/Impress_04NouvelleDia_03.png Graphic file (type png
+)
+ <use ./images/presentation/Impress_04NouvelleDia_03.png>
+Package pdftex.def Info: ./images/presentation/Impress_04NouvelleDia_03.png use
+d on input line 197.
+(pdftex.def)             Requested size: 364.36035pt x 243.91064pt.
+
+<./images/presentation/Impress_07DiaSansFormat_10.png, id=1243, 927.465pt x 684
+.5575pt>
+File: ./images/presentation/Impress_07DiaSansFormat_10.png Graphic file (type p
+ng)
+ <use ./images/presentation/Impress_07DiaSansFormat_10.png>
+Package pdftex.def Info: ./images/presentation/Impress_07DiaSansFormat_10.png u
+sed on input line 213.
+(pdftex.def)             Requested size: 927.46274pt x 684.55582pt.
+ [33 <./images/presentation/Impress_03Inserer_0a.png> <./images/presentation/Im
+press_03Inserer_0b.png> <./images/presentation/Impress_05Trieuse_01.png> <./ima
+ges/presentation/Impress_04NouvelleDia_02.png> <./images/presentation/Impress_0
+4NouvelleDia_03.png>]
+<./images/presentation/Impress_07DiaSansFormat_02.png, id=1253, 666.49pt x 229.
+85875pt>
+File: ./images/presentation/Impress_07DiaSansFormat_02.png Graphic file (type p
+ng)
+ <use ./images/presentation/Impress_07DiaSansFormat_02.png>
+Package pdftex.def Info: ./images/presentation/Impress_07DiaSansFormat_02.png u
+sed on input line 223.
+(pdftex.def)             Requested size: 666.48837pt x 229.85817pt.
+
+<./images/presentation/Impress_07DiaSansFormat_05.png, id=1255, 183.68625pt x 4
+9.18375pt>
+File: ./images/presentation/Impress_07DiaSansFormat_05.png Graphic file (type p
+ng)
+ <use ./images/presentation/Impress_07DiaSansFormat_05.png>
+Package pdftex.def Info: ./images/presentation/Impress_07DiaSansFormat_05.png u
+sed on input line 229.
+(pdftex.def)             Requested size: 183.68578pt x 49.18361pt.
+
+<./images/presentation/Impress_07DiaSansFormat_03.png, id=1256, 572.1375pt x 29
+6.10625pt>
+File: ./images/presentation/Impress_07DiaSansFormat_03.png Graphic file (type p
+ng)
+ <use ./images/presentation/Impress_07DiaSansFormat_03.png>
+Package pdftex.def Info: ./images/presentation/Impress_07DiaSansFormat_03.png u
+sed on input line 240.
+(pdftex.def)             Requested size: 572.1361pt x 296.10551pt.
+
+<./images/presentation/Impress_07DiaSansFormat_04.png, id=1257, 444.66125pt x 1
+30.4875pt>
+File: ./images/presentation/Impress_07DiaSansFormat_04.png Graphic file (type p
+ng)
+ <use ./images/presentation/Impress_07DiaSansFormat_04.png>
+Package pdftex.def Info: ./images/presentation/Impress_07DiaSansFormat_04.png u
+sed on input line 240.
+(pdftex.def)             Requested size: 444.66016pt x 130.48717pt.
+ [34 <./images/presentation/Impress_07DiaSansFormat_10.png> <./images/presentat
+ion/Impress_07DiaSansFormat_02.png> <./images/presentation/Impress_07DiaSansFor
+mat_05.png> <./images/presentation/Impress_07DiaSansFormat_03.png> <./images/pr
+esentation/Impress_07DiaSansFormat_04.png>]
+<./images/presentation/Impress_07DiaSansFormat_06.png, id=1267, 524.96124pt x 2
+57.96375pt>
+File: ./images/presentation/Impress_07DiaSansFormat_06.png Graphic file (type p
+ng)
+ <use ./images/presentation/Impress_07DiaSansFormat_06.png>
+Package pdftex.def Info: ./images/presentation/Impress_07DiaSansFormat_06.png u
+sed on input line 245.
+(pdftex.def)             Requested size: 524.95996pt x 257.9631pt.
+
+<./images/presentation/Impress_07DiaSansFormat_07.png, id=1268, 716.6775pt x 23
+3.87375pt>
+File: ./images/presentation/Impress_07DiaSansFormat_07.png Graphic file (type p
+ng)
+ <use ./images/presentation/Impress_07DiaSansFormat_07.png>
+Package pdftex.def Info: ./images/presentation/Impress_07DiaSansFormat_07.png u
+sed on input line 245.
+(pdftex.def)             Requested size: 716.67577pt x 233.87315pt.
+
+<./images/presentation/Impress_07DiaSansFormat_08.png, id=1269, 307.1475pt x 83
+.31125pt>
+File: ./images/presentation/Impress_07DiaSansFormat_08.png Graphic file (type p
+ng)
+ <use ./images/presentation/Impress_07DiaSansFormat_08.png>
+Package pdftex.def Info: ./images/presentation/Impress_07DiaSansFormat_08.png u
+sed on input line 256.
+(pdftex.def)             Requested size: 307.14674pt x 83.31104pt.
+
+<./images/presentation/Impress_07DiaSansFormat_09.png, id=1270, 817.0525pt x 33
+2.24126pt>
+File: ./images/presentation/Impress_07DiaSansFormat_09.png Graphic file (type p
+ng)
+ <use ./images/presentation/Impress_07DiaSansFormat_09.png>
+Package pdftex.def Info: ./images/presentation/Impress_07DiaSansFormat_09.png u
+sed on input line 263.
+(pdftex.def)             Requested size: 817.05052pt x 332.24043pt.
+
+<./images/presentation/imageAPmenu.png, id=1271, 497.86pt x 247.92625pt>
+File: ./images/presentation/imageAPmenu.png Graphic file (type png)
+
+<use ./images/presentation/imageAPmenu.png>
+Package pdftex.def Info: ./images/presentation/imageAPmenu.png used on input li
+ne 284.
+(pdftex.def)             Requested size: 497.85878pt x 247.92564pt.
+
+<./images/presentation/imageAPclicD.png, id=1272, 497.86pt x 251.94125pt>
+File: ./images/presentation/imageAPclicD.png Graphic file (type png)
+
+<use ./images/presentation/imageAPclicD.png>
+Package pdftex.def Info: ./images/presentation/imageAPclicD.png used on input l
+ine 284.
+(pdftex.def)             Requested size: 497.85878pt x 251.94063pt.
+ [35 <./images/presentation/Impress_07DiaSansFormat_06.png> <./images/presentat
+ion/Impress_07DiaSansFormat_07.png> <./images/presentation/Impress_07DiaSansFor
+mat_08.png> <./images/presentation/Impress_07DiaSansFormat_09.png>]
+<./images/presentation/imageAPboite.png, id=1282, 320.19624pt x 101.37875pt>
+File: ./images/presentation/imageAPboite.png Graphic file (type png)
+
+<use ./images/presentation/imageAPboite.png>
+Package pdftex.def Info: ./images/presentation/imageAPboite.png used on input l
+ine 288.
+(pdftex.def)             Requested size: 320.19545pt x 101.3785pt.
+
+<./images/presentation/imageAPsuppMenu.png, id=1283, 502.87875pt x 250.9375pt>
+File: ./images/presentation/imageAPsuppMenu.png Graphic file (type png)
+
+<use ./images/presentation/imageAPsuppMenu.png>
+Package pdftex.def Info: ./images/presentation/imageAPsuppMenu.png used on inpu
+t line 299.
+(pdftex.def)             Requested size: 502.87752pt x 250.93687pt.
+
+<./images/presentation/imageAPsuppClicD.png, id=1284, 501.875pt x 250.9375pt>
+File: ./images/presentation/imageAPsuppClicD.png Graphic file (type png)
+
+<use ./images/presentation/imageAPsuppClicD.png>
+Package pdftex.def Info: ./images/presentation/imageAPsuppClicD.png used on inp
+ut line 299.
+(pdftex.def)             Requested size: 501.87376pt x 250.93687pt.
+
+<./images/presentation/imageAPsuppBoite.png, id=1285, 681.54625pt x 279.0425pt>
+File: ./images/presentation/imageAPsuppBoite.png Graphic file (type png)
+<use ./images/presentation/imageAPsuppBoite.png>
+Package pdftex.def Info: ./images/presentation/imageAPsuppBoite.png used on inp
+ut line 303.
+(pdftex.def)             Requested size: 681.54459pt x 279.04181pt.
+
+<./images/presentation/Impress_08_Transitions_01.png, id=1286, 487.8225pt x 263
+.98625pt>
+File: ./images/presentation/Impress_08_Transitions_01.png Graphic file (type pn
+g)
+ <use ./images/presentation/Impress_08_Transitions_01.png>
+Package pdftex.def Info: ./images/presentation/Impress_08_Transitions_01.png us
+ed on input line 320.
+(pdftex.def)             Requested size: 487.8213pt x 263.9856pt.
+ [36 <./images/presentation/imageAPmenu.png> <./images/presentation/imageAPclic
+D.png> <./images/presentation/imageAPboite.png> <./images/presentation/imageAPs
+uppMenu.png> <./images/presentation/imageAPsuppClicD.png> <./images/presentatio
+n/imageAPsuppBoite.png>]
+<./images/presentation/boutonPlus.png, id=1297, 34.1275pt x 21.07875pt>
+File: ./images/presentation/boutonPlus.png Graphic file (type png)
+
+<use ./images/presentation/boutonPlus.png>
+Package pdftex.def Info: ./images/presentation/boutonPlus.png used on input lin
+e 326.
+(pdftex.def)             Requested size: 19.91684pt x 12.30157pt.
+
+<./images/presentation/Impress_08_Transitions_02.png, id=1298, 626.34pt x 242.9
+075pt>
+File: ./images/presentation/Impress_08_Transitions_02.png Graphic file (type pn
+g)
+ <use ./images/presentation/Impress_08_Transitions_02.png>
+Package pdftex.def Info: ./images/presentation/Impress_08_Transitions_02.png us
+ed on input line 330.
+(pdftex.def)             Requested size: 626.33846pt x 242.90689pt.
+
+<./images/presentation/Impress_08_Transitions_03.png, id=1299, 295.1025pt x 360
+.34625pt>
+File: ./images/presentation/Impress_08_Transitions_03.png Graphic file (type pn
+g)
+ <use ./images/presentation/Impress_08_Transitions_03.png>
+Package pdftex.def Info: ./images/presentation/Impress_08_Transitions_03.png us
+ed on input line 340.
+(pdftex.def)             Requested size: 295.10176pt x 360.34537pt.
+File: ./images/presentation/boutonPlus.png Graphic file (type png)
+
+<use ./images/presentation/boutonPlus.png>
+Package pdftex.def Info: ./images/presentation/boutonPlus.png used on input lin
+e 347.
+(pdftex.def)             Requested size: 19.91684pt x 12.30157pt.
+
+<./images/presentation/boutonMoins.png, id=1300, 32.12pt x 21.07875pt>
+File: ./images/presentation/boutonMoins.png Graphic file (type png)
+
+<use ./images/presentation/boutonMoins.png>
+Package pdftex.def Info: ./images/presentation/boutonMoins.png used on input li
+ne 347.
+(pdftex.def)             Requested size: 19.91684pt x 13.0706pt.
+
+<./images/presentation/boutonCrayon.png, id=1301, 36.135pt x 21.07875pt>
+File: ./images/presentation/boutonCrayon.png Graphic file (type png)
+
+<use ./images/presentation/boutonCrayon.png>
+Package pdftex.def Info: ./images/presentation/boutonCrayon.png used on input l
+ine 347.
+(pdftex.def)             Requested size: 19.91684pt x 11.61809pt.
+
+<./images/presentation/boutonHaut.png, id=1302, 36.135pt x 21.07875pt>
+File: ./images/presentation/boutonHaut.png Graphic file (type png)
+
+<use ./images/presentation/boutonHaut.png>
+Package pdftex.def Info: ./images/presentation/boutonHaut.png used on input lin
+e 347.
+(pdftex.def)             Requested size: 19.91684pt x 11.61809pt.
+
+<./images/presentation/boutonBas.png, id=1303, 36.135pt x 21.07875pt>
+File: ./images/presentation/boutonBas.png Graphic file (type png)
+
+<use ./images/presentation/boutonBas.png>
+Package pdftex.def Info: ./images/presentation/boutonBas.png used on input line
+ 347.
+(pdftex.def)             Requested size: 19.91684pt x 11.61809pt.
+
+<./images/presentation/boutonPlay.png, id=1304, 36.135pt x 21.07875pt>
+File: ./images/presentation/boutonPlay.png Graphic file (type png)
+
+<use ./images/presentation/boutonPlay.png>
+Package pdftex.def Info: ./images/presentation/boutonPlay.png used on input lin
+e 347.
+(pdftex.def)             Requested size: 19.91684pt x 11.61809pt.
+
+<./images/presentation/Impress_08_Transitions_04.png, id=1305, 251.94125pt x 35
+7.335pt>
+File: ./images/presentation/Impress_08_Transitions_04.png Graphic file (type pn
+g)
+ <use ./images/presentation/Impress_08_Transitions_04.png>
+Package pdftex.def Info: ./images/presentation/Impress_08_Transitions_04.png us
+ed on input line 351.
+(pdftex.def)             Requested size: 251.94063pt x 357.33412pt.
+
+<./images/presentation/boutonDiaporamaPlay.png, id=1306, 22.0825pt x 18.0675pt>
+File: ./images/presentation/boutonDiaporamaPlay.png Graphic file (type png)
+<use ./images/presentation/boutonDiaporamaPlay.png>
+Package pdftex.def Info: ./images/presentation/boutonDiaporamaPlay.png used on 
+input line 356.
+(pdftex.def)             Requested size: 19.91684pt x 16.29587pt.
+
+<./images/presentation/boutonDiaporamaPause.png, id=1307, 22.0825pt x 18.0675pt
+>
+File: ./images/presentation/boutonDiaporamaPause.png Graphic file (type png)
+ <use ./images/presentation/boutonDiaporamaPause.png>
+Package pdftex.def Info: ./images/presentation/boutonDiaporamaPause.png used on
+ input line 356.
+(pdftex.def)             Requested size: 19.91684pt x 16.29587pt.
+
+Underfull \vbox (badness 1009) has occurred while \output is active []
+
+ [37 <./images/presentation/Impress_08_Transitions_01.png> <./images/presentati
+on/boutonPlus.png> <./images/presentation/Impress_08_Transitions_02.png> <./ima
+ges/presentation/Impress_08_Transitions_03.png> <./images/presentation/boutonMo
+ins.png> <./images/presentation/boutonCrayon.png> <./images/presentation/bouton
+Haut.png> <./images/presentation/boutonBas.png> <./images/presentation/boutonPl
+ay.png> <./images/presentation/Impress_08_Transitions_04.png> <./images/present
+ation/boutonDiaporamaPlay.png>]
+<./images/presentation/Impress_08_Transitions_05.png, id=1323, 426.59375pt x 60
+.225pt>
+File: ./images/presentation/Impress_08_Transitions_05.png Graphic file (type pn
+g)
+ <use ./images/presentation/Impress_08_Transitions_05.png>
+Package pdftex.def Info: ./images/presentation/Impress_08_Transitions_05.png us
+ed on input line 358.
+(pdftex.def)             Requested size: 426.5927pt x 60.22484pt.
+
+<./images/presentation/Impress_06Notes_01.png, id=1324, 289.08pt x 115.43124pt>
+File: ./images/presentation/Impress_06Notes_01.png Graphic file (type png)
+<use ./images/presentation/Impress_06Notes_01.png>
+Package pdftex.def Info: ./images/presentation/Impress_06Notes_01.png used on i
+nput line 377.
+(pdftex.def)             Requested size: 289.07928pt x 115.43095pt.
+
+<./images/presentation/Impress_06Notes_02.png, id=1325, 420.57124pt x 381.425pt
+>
+File: ./images/presentation/Impress_06Notes_02.png Graphic file (type png)
+ <use ./images/presentation/Impress_06Notes_02.png>
+Package pdftex.def Info: ./images/presentation/Impress_06Notes_02.png used on i
+nput line 385.
+(pdftex.def)             Requested size: 420.57022pt x 381.42406pt.
+
+<./images/presentation/Impress_06Notes_03.png, id=1326, 424.58624pt x 401.5pt>
+File: ./images/presentation/Impress_06Notes_03.png Graphic file (type png)
+
+<use ./images/presentation/Impress_06Notes_03.png>
+Package pdftex.def Info: ./images/presentation/Impress_06Notes_03.png used on i
+nput line 385.
+(pdftex.def)             Requested size: 424.5852pt x 401.49901pt.
+
+<./images/presentation/Impress1_impression01.png, id=1327, 287.0725pt x 336.256
+26pt>
+File: ./images/presentation/Impress1_impression01.png Graphic file (type png)
+ <use ./images/presentation/Impress1_impression01.png>
+Package pdftex.def Info: ./images/presentation/Impress1_impression01.png used o
+n input line 402.
+(pdftex.def)             Requested size: 287.0718pt x 336.25543pt.
+ [38 <./images/presentation/boutonDiaporamaPause.png> <./images/presentation/Im
+press_08_Transitions_05.png> <./images/presentation/Impress_06Notes_01.png> <./
+images/presentation/Impress_06Notes_02.png> <./images/presentation/Impress_06No
+tes_03.png> <./images/presentation/Impress1_impression01.png>]
+<./images/presentation/Impress1_impression02.png, id=1338, 757.83125pt x 391.46
+25pt>
+File: ./images/presentation/Impress1_impression02.png Graphic file (type png)
+ <use ./images/presentation/Impress1_impression02.png>
+Package pdftex.def Info: ./images/presentation/Impress1_impression02.png used o
+n input line 409.
+(pdftex.def)             Requested size: 757.8294pt x 391.46153pt.
+
+<./images/presentation/Impress1_impression03.png, id=1339, 756.8275pt x 388.451
+25pt>
+File: ./images/presentation/Impress1_impression03.png Graphic file (type png)
+ <use ./images/presentation/Impress1_impression03.png>
+Package pdftex.def Info: ./images/presentation/Impress1_impression03.png used o
+n input line 413.
+(pdftex.def)             Requested size: 756.82565pt x 388.45029pt.
+
+<./images/presentation/Impress1_impression04.png, id=1340, 757.83125pt x 389.45
+5pt>
+File: ./images/presentation/Impress1_impression04.png Graphic file (type png)
+ <use ./images/presentation/Impress1_impression04.png>
+Package pdftex.def Info: ./images/presentation/Impress1_impression04.png used o
+n input line 417.
+(pdftex.def)             Requested size: 757.8294pt x 389.45404pt.
+
+<./images/presentation/Impress1_exportPDF01.png, id=1341, 288.07625pt x 325.215
+pt>
+File: ./images/presentation/Impress1_exportPDF01.png Graphic file (type png)
+ <use ./images/presentation/Impress1_exportPDF01.png>
+Package pdftex.def Info: ./images/presentation/Impress1_exportPDF01.png used on
+ input line 429.
+(pdftex.def)             Requested size: 288.07553pt x 325.2142pt.
+ [39 <./images/presentation/Impress1_impression02.png> <./images/presentation/I
+mpress1_impression03.png> <./images/presentation/Impress1_impression04.png>]
+<./images/presentation/Impress1_exportPDF02.png, id=1349, 880.28876pt x 482.803
+76pt>
+File: ./images/presentation/Impress1_exportPDF02.png Graphic file (type png)
+ <use ./images/presentation/Impress1_exportPDF02.png>
+Package pdftex.def Info: ./images/presentation/Impress1_exportPDF02.png used on
+ input line 436.
+(pdftex.def)             Requested size: 880.2866pt x 482.80258pt.
+
+<./images/presentation/Impress1_exportPDF03.png, id=1350, 1337.99875pt x 698.61
+pt>
+File: ./images/presentation/Impress1_exportPDF03.png Graphic file (type png)
+ <use ./images/presentation/Impress1_exportPDF03.png>
+Package pdftex.def Info: ./images/presentation/Impress1_exportPDF03.png used on
+ input line 441.
+(pdftex.def)             Requested size: 1337.9955pt x 698.60829pt.
+ [40 <./images/presentation/Impress1_exportPDF01.png> <./images/presentation/Im
+press1_exportPDF02.png> <./images/presentation/Impress1_exportPDF03.png>]
+Overfull \hbox (6.0pt too wide) in paragraph at lines 471--472
+[][][][][][][]
+ []
+
+File: ./images/generales/clavierCmdS.png Graphic file (type png)
+<use ./images/generales/clavierCmdS.png>
+Package pdftex.def Info: ./images/generales/clavierCmdS.png used on input line 
+478.
+(pdftex.def)             Requested size: 196.57391pt x 72.63116pt.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 478--478
+[] 
+ []
+
+) (./sources/image01/image01.tex [41] [42
+
+]
+Chapitre 4.
+File: ./images/chapitreVinci.png Graphic file (type png)
+<use ./images/chapitreVinci.png>
+Package pdftex.def Info: ./images/chapitreVinci.png used on input line 1.
+(pdftex.def)             Requested size: 597.50787pt x 284.21223pt.
+File: ./images/generales/loupe.png Graphic file (type png)
+ <use ./images/generales/loupe.png>
+Package pdftex.def Info: ./images/generales/loupe.png used on input line 37.
+(pdftex.def)             Requested size: 409.52899pt x 42.15738pt.
+
+<./images/generales/loupeRechercheGimp.png, id=1370, 685.56125pt x 59.22125pt>
+File: ./images/generales/loupeRechercheGimp.png Graphic file (type png)
+
+<use ./images/generales/loupeRechercheGimp.png>
+Package pdftex.def Info: ./images/generales/loupeRechercheGimp.png used on inpu
+t line 41.
+(pdftex.def)             Requested size: 685.55957pt x 59.22108pt.
+ [43]
+<./images/gimp/GimpInterface.png, id=1376, 1443.3925pt x 883.3pt>
+File: ./images/gimp/GimpInterface.png Graphic file (type png)
+
+<use ./images/gimp/GimpInterface.png>
+Package pdftex.def Info: ./images/gimp/GimpInterface.png used on input line 46.
+
+(pdftex.def)             Requested size: 1443.38899pt x 883.29785pt.
+
+<./images/gimp/GimpMenuFenetre2.png, id=1377, 344.487pt x 137.313pt>
+File: ./images/gimp/GimpMenuFenetre2.png Graphic file (type png)
+
+<use ./images/gimp/GimpMenuFenetre2.png>
+Package pdftex.def Info: ./images/gimp/GimpMenuFenetre2.png used on input line 
+57.
+(pdftex.def)             Requested size: 344.48615pt x 137.31265pt.
+
+<./images/gimp/GimpOuvrirFichier.png, id=1379, 354.123pt x 175.857pt>
+File: ./images/gimp/GimpOuvrirFichier.png Graphic file (type png)
+
+<use ./images/gimp/GimpOuvrirFichier.png>
+Package pdftex.def Info: ./images/gimp/GimpOuvrirFichier.png used on input line
+ 80.
+(pdftex.def)             Requested size: 354.12212pt x 175.85657pt.
+
+<./images/gimp/GimpOuvrirFichier2.png, id=1380, 497.057pt x 350.108pt>
+File: ./images/gimp/GimpOuvrirFichier2.png Graphic file (type png)
+
+<use ./images/gimp/GimpOuvrirFichier2.png>
+Package pdftex.def Info: ./images/gimp/GimpOuvrirFichier2.png used on input lin
+e 84.
+(pdftex.def)             Requested size: 497.0558pt x 350.10713pt.
+ [44 <./images/generales/loupeRechercheGimp.png> <./images/gimp/GimpInterface.p
+ng (PNG copy)> <./images/gimp/GimpMenuFenetre2.png> <./images/gimp/GimpOuvrirFi
+chier.png>]
+Overfull \hbox (6.0pt too wide) in paragraph at lines 94--95
+[][][][][][][]
+ []
+
+<./images/gimp/photoFlorimontReduite.png, id=1388, 106.9596pt x 49.6254pt>
+File: ./images/gimp/photoFlorimontReduite.png Graphic file (type png)
+
+<use ./images/gimp/photoFlorimontReduite.png>
+Package pdftex.def Info: ./images/gimp/photoFlorimontReduite.png used on input 
+line 98.
+(pdftex.def)             Requested size: 318.66948pt x 147.88078pt.
+
+<./images/gimp/cutter.png, id=1389, 27.10126pt x 26.0975pt>
+File: ./images/gimp/cutter.png Graphic file (type png)
+
+<use ./images/gimp/cutter.png>
+Package pdftex.def Info: ./images/gimp/cutter.png used on input line 106.
+(pdftex.def)             Requested size: 18.2067pt x 17.533pt.
+ [45 <./images/gimp/GimpOuvrirFichier2.png> <./images/gimp/photoFlorimontReduit
+e.png> <./images/gimp/cutter.png>]
+<./images/gimp/GimpDecouper1.png, id=1396, 753.81625pt x 422.57875pt>
+File: ./images/gimp/GimpDecouper1.png Graphic file (type png)
+
+<use ./images/gimp/GimpDecouper1.png>
+Package pdftex.def Info: ./images/gimp/GimpDecouper1.png used on input line 110
+.
+(pdftex.def)             Requested size: 753.81442pt x 422.57771pt.
+
+<./images/gimp/GimpEnregistrerFichier.png, id=1397, 497.86pt x 387.849pt>
+File: ./images/gimp/GimpEnregistrerFichier.png Graphic file (type png)
+
+<use ./images/gimp/GimpEnregistrerFichier.png>
+Package pdftex.def Info: ./images/gimp/GimpEnregistrerFichier.png used on input
+ line 128.
+(pdftex.def)             Requested size: 497.85878pt x 387.84804pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [46 <./images/gimp/GimpDecouper1.png>]
+File: ./images/generales/clavierCmdS.png Graphic file (type png)
+ <use ./images/generales/clavierCmdS.png>
+Package pdftex.def Info: ./images/generales/clavierCmdS.png used on input line 
+132.
+(pdftex.def)             Requested size: 196.57391pt x 72.63116pt.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 136--136
+[] 
+ []
+
+[47 <./images/gimp/GimpEnregistrerFichier.png>]
+<./images/gimp/GimpExportAs1.png, id=1409, 551.661pt x 362.153pt>
+File: ./images/gimp/GimpExportAs1.png Graphic file (type png)
+
+<use ./images/gimp/GimpExportAs1.png>
+Package pdftex.def Info: ./images/gimp/GimpExportAs1.png used on input line 156
+.
+(pdftex.def)             Requested size: 551.65965pt x 362.1521pt.
+
+<./images/gimp/GimpExportAs2.png, id=1410, 227.249pt x 191.917pt>
+File: ./images/gimp/GimpExportAs2.png Graphic file (type png)
+
+<use ./images/gimp/GimpExportAs2.png>
+Package pdftex.def Info: ./images/gimp/GimpExportAs2.png used on input line 156
+.
+(pdftex.def)             Requested size: 227.24841pt x 191.91653pt.
+File: ./images/methode/MoodleDevoirIcone1.png Graphic file (type png)
+
+<use ./images/methode/MoodleDevoirIcone1.png>
+Package pdftex.def Info: ./images/methode/MoodleDevoirIcone1.png used on input 
+line 162.
+(pdftex.def)             Requested size: 18.2067pt x 18.20648pt.
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 185--186
+[][][][][][][]
+ []
+
+
+Underfull \vbox (badness 1168) has occurred while \output is active []
+
+ [48 <./images/gimp/GimpExportAs1.png> <./images/gimp/GimpExportAs2.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 195--196
+[]\T1/lmr/m/n/12 Choisir \T1/lmtt/m/n/12 Taille du
+ []
+
+<./images/gimp/GimpTailleCanevas1.png, id=1420, 529.98pt x 159.797pt>
+File: ./images/gimp/GimpTailleCanevas1.png Graphic file (type png)
+
+<use ./images/gimp/GimpTailleCanevas1.png>
+Package pdftex.def Info: ./images/gimp/GimpTailleCanevas1.png used on input lin
+e 199.
+(pdftex.def)             Requested size: 529.97868pt x 159.79659pt.
+
+<./images/gimp/GimpTailleCanevas2.png, id=1421, 435.226pt x 373.395pt>
+File: ./images/gimp/GimpTailleCanevas2.png Graphic file (type png)
+
+<use ./images/gimp/GimpTailleCanevas2.png>
+Package pdftex.def Info: ./images/gimp/GimpTailleCanevas2.png used on input lin
+e 208.
+(pdftex.def)             Requested size: 435.22493pt x 373.39409pt.
+ [49 <./images/gimp/GimpTailleCanevas1.png> <./images/gimp/GimpTailleCanevas2.p
+ng>]
+<./images/gimp/GimpTailleCanevas3.png, id=1428, 433.62pt x 373.395pt>
+File: ./images/gimp/GimpTailleCanevas3.png Graphic file (type png)
+
+<use ./images/gimp/GimpTailleCanevas3.png>
+Package pdftex.def Info: ./images/gimp/GimpTailleCanevas3.png used on input lin
+e 218.
+(pdftex.def)             Requested size: 433.61894pt x 373.39409pt.
+
+<./images/gimp/GimpTailleCanevas4.png, id=1429, 701.62125pt x 459.7175pt>
+File: ./images/gimp/GimpTailleCanevas4.png Graphic file (type png)
+
+<use ./images/gimp/GimpTailleCanevas4.png>
+Package pdftex.def Info: ./images/gimp/GimpTailleCanevas4.png used on input lin
+e 221.
+(pdftex.def)             Requested size: 701.61952pt x 459.71637pt.
+LaTeX Font Info:    Font shape `OMS/lmr/m/sl' in size <12> not available
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 252.
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 252--253
+[][][][][][][]
+ []
+
+[50 <./images/gimp/GimpTailleCanevas3.png> <./images/gimp/GimpTailleCanevas4.pn
+g (PNG copy)>]
+<./images/gimp/vitrauxSmall.png, id=1438, 334.24875pt x 501.875pt>
+File: ./images/gimp/vitrauxSmall.png Graphic file (type png)
+
+<use ./images/gimp/vitrauxSmall.png>
+Package pdftex.def Info: ./images/gimp/vitrauxSmall.png used on input line 255.
+
+(pdftex.def)             Requested size: 334.24792pt x 501.87376pt.
+
+<./images/gimp/GimpLuminositeContraste1.png, id=1439, 635.173pt x 118.041pt>
+File: ./images/gimp/GimpLuminositeContraste1.png Graphic file (type png)
+
+<use ./images/gimp/GimpLuminositeContraste1.png>
+Package pdftex.def Info: ./images/gimp/GimpLuminositeContraste1.png used on inp
+ut line 271.
+(pdftex.def)             Requested size: 635.17145pt x 118.0407pt.
+ [51 <./images/gimp/vitrauxSmall.png (PNG copy)> <./images/gimp/GimpLuminositeC
+ontraste1.png>]
+<./images/gimp/GimpLuminositeContraste2.png, id=1445, 339.669pt x 189.508pt>
+File: ./images/gimp/GimpLuminositeContraste2.png Graphic file (type png)
+
+<use ./images/gimp/GimpLuminositeContraste2.png>
+Package pdftex.def Info: ./images/gimp/GimpLuminositeContraste2.png used on inp
+ut line 275.
+(pdftex.def)             Requested size: 339.66817pt x 189.50752pt.
+
+<./images/generales/clavierCapEcran.png, id=1446, 233.07076pt x 121.23293pt>
+File: ./images/generales/clavierCapEcran.png Graphic file (type png)
+
+<use ./images/generales/clavierCapEcran.png>
+Package pdftex.def Info: ./images/generales/clavierCapEcran.png used on input l
+ine 296.
+(pdftex.def)             Requested size: 233.07018pt x 121.2326pt.
+
+<./images/gimp/GimpCollerCommeImage.png, id=1447, 533.995pt x 243.309pt>
+File: ./images/gimp/GimpCollerCommeImage.png Graphic file (type png)
+
+<use ./images/gimp/GimpCollerCommeImage.png>
+Package pdftex.def Info: ./images/gimp/GimpCollerCommeImage.png used on input l
+ine 301.
+(pdftex.def)             Requested size: 533.9937pt x 243.30841pt.
+ [52 <./images/gimp/GimpLuminositeContraste2.png> <./images/generales/clavierCa
+pEcran.png>])
+(./sources/scratch01/scratch01.tex [53 <./images/gimp/GimpCollerCommeImage.png>
+] [54
+
+]
+Chapitre 5.
+File: ./images/chapitreVinci.png Graphic file (type png)
+<use ./images/chapitreVinci.png>
+Package pdftex.def Info: ./images/chapitreVinci.png used on input line 1.
+(pdftex.def)             Requested size: 597.50787pt x 284.21223pt.
+
+Underfull \vbox (badness 2368) has occurred while \output is active []
+
+ [55]
+File: ./images/generales/loupe.png Graphic file (type png)
+
+<use ./images/generales/loupe.png>
+Package pdftex.def Info: ./images/generales/loupe.png used on input line 54.
+(pdftex.def)             Requested size: 409.52899pt x 42.15738pt.
+
+<./images/generales/loupeRechercheScratch.png, id=1473, 685.56125pt x 59.22125p
+t>
+File: ./images/generales/loupeRechercheScratch.png Graphic file (type png)
+ <use ./images/generales/loupeRechercheScratch.png>
+Package pdftex.def Info: ./images/generales/loupeRechercheScratch.png used on i
+nput line 58.
+(pdftex.def)             Requested size: 685.55957pt x 59.22108pt.
+
+<./images/scratch/ScratchPresentation1.png, id=1474, 934.692pt x 570.933pt>
+File: ./images/scratch/ScratchPresentation1.png Graphic file (type png)
+
+<use ./images/scratch/ScratchPresentation1.png>
+Package pdftex.def Info: ./images/scratch/ScratchPresentation1.png used on inpu
+t line 73.
+(pdftex.def)             Requested size: 934.68973pt x 570.9316pt.
+ [56 <./images/generales/loupeRechercheScratch.png> <./images/scratch/ScratchPr
+esentation1.png>]
+<./images/scratch/ScratchPremierProgramme.png, id=1481, 527.9725pt x 248.93pt>
+File: ./images/scratch/ScratchPremierProgramme.png Graphic file (type png)
+
+<use ./images/scratch/ScratchPremierProgramme.png>
+Package pdftex.def Info: ./images/scratch/ScratchPremierProgramme.png used on i
+nput line 91.
+(pdftex.def)             Requested size: 527.9712pt x 248.92938pt.
+
+<./images/scratch/Scene.png, id=1482, 50.1875pt x 53.19875pt>
+File: ./images/scratch/Scene.png Graphic file (type png)
+
+<use ./images/scratch/Scene.png>
+Package pdftex.def Info: ./images/scratch/Scene.png used on input line 99.
+(pdftex.def)             Requested size: 28.45274pt x 30.16043pt.
+
+<./images/scratch/ScratchSelectionScene.png, id=1483, 787.94376pt x 394.47375pt
+>
+File: ./images/scratch/ScratchSelectionScene.png Graphic file (type png)
+ <use ./images/scratch/ScratchSelectionScene.png>
+Package pdftex.def Info: ./images/scratch/ScratchSelectionScene.png used on inp
+ut line 101.
+(pdftex.def)             Requested size: 787.94183pt x 394.47278pt.
+ [57 <./images/scratch/ScratchPremierProgramme.png> <./images/scratch/Scene.png
+> <./images/scratch/ScratchSelectionScene.png>]
+<./images/scratch/ScratchChangerScene1.png, id=1493, 896.34875pt x 652.4375pt>
+File: ./images/scratch/ScratchChangerScene1.png Graphic file (type png)
+
+<use ./images/scratch/ScratchChangerScene1.png>
+Package pdftex.def Info: ./images/scratch/ScratchChangerScene1.png used on inpu
+t line 113.
+(pdftex.def)             Requested size: 896.34657pt x 652.4359pt.
+
+Overfull \hbox (12.13358pt too wide) in paragraph at lines 115--116
+[]\T1/lmr/m/n/12 Notre pro-gramme com-porte main-te-nant deux scènes dif-fé-ren
+tes : \T1/lmtt/m/n/12 arrière-plan1 \T1/lmr/m/n/12 et \T1/lmtt/m/n/12 xy-grid\T
+1/lmr/m/n/12 .
+ []
+
+<./images/scratch/ScratchChangerScene2.png, id=1494, 325.215pt x 289.08pt>
+File: ./images/scratch/ScratchChangerScene2.png Graphic file (type png)
+
+<use ./images/scratch/ScratchChangerScene2.png>
+Package pdftex.def Info: ./images/scratch/ScratchChangerScene2.png used on inpu
+t line 117.
+(pdftex.def)             Requested size: 325.2142pt x 289.07928pt.
+
+<./images/scratch/Sauver.png, id=1495, 17.06375pt x 17.06375pt>
+File: ./images/scratch/Sauver.png Graphic file (type png)
+
+<use ./images/scratch/Sauver.png>
+Package pdftex.def Info: ./images/scratch/Sauver.png used on input line 126.
+(pdftex.def)             Requested size: 11.38092pt x 11.38081pt.
+
+<./images/scratch/ScratchEnregistrerProgramme1.png, id=1496, 245.718pt x 59.261
+4pt>
+File: ./images/scratch/ScratchEnregistrerProgramme1.png Graphic file (type png)
+
+ <use ./images/scratch/ScratchEnregistrerProgramme1.png>
+Package pdftex.def Info: ./images/scratch/ScratchEnregistrerProgramme1.png used
+ on input line 128.
+(pdftex.def)             Requested size: 245.71739pt x 59.26123pt.
+ [58 <./images/scratch/ScratchChangerScene1.png> <./images/scratch/ScratchChang
+erScene2.png> <./images/scratch/Sauver.png>]
+<./images/scratch/ScratchEnregistrerProgramme2.png, id=1506, 601.2864pt x 327.6
+24pt>
+File: ./images/scratch/ScratchEnregistrerProgramme2.png Graphic file (type png)
+
+ <use ./images/scratch/ScratchEnregistrerProgramme2.png>
+Package pdftex.def Info: ./images/scratch/ScratchEnregistrerProgramme2.png used
+ on input line 132.
+(pdftex.def)             Requested size: 601.28493pt x 327.62318pt.
+File: ./images/scratch/Sauver.png Graphic file (type png)
+
+<use ./images/scratch/Sauver.png>
+Package pdftex.def Info: ./images/scratch/Sauver.png used on input line 135.
+(pdftex.def)             Requested size: 11.38092pt x 11.38081pt.
+File: ./images/generales/clavierCmdS.png Graphic file (type png)
+ <use ./images/generales/clavierCmdS.png>
+Package pdftex.def Info: ./images/generales/clavierCmdS.png used on input line 
+137.
+(pdftex.def)             Requested size: 196.57391pt x 72.63116pt.
+
+<./images/scratch/ScratchPremierProgramme1.png, id=1507, 666.3294pt x 369.5406p
+t>
+File: ./images/scratch/ScratchPremierProgramme1.png Graphic file (type png)
+ <use ./images/scratch/ScratchPremierProgramme1.png>
+Package pdftex.def Info: ./images/scratch/ScratchPremierProgramme1.png used on 
+input line 153.
+(pdftex.def)             Requested size: 666.32777pt x 369.53969pt.
+ [59 <./images/scratch/ScratchEnregistrerProgramme1.png> <./images/scratch/Scra
+tchEnregistrerProgramme2.png>] <./images/scratch/Lutin.png, id=1515, 40.15pt x 
+44.165pt>
+File: ./images/scratch/Lutin.png Graphic file (type png)
+
+<use ./images/scratch/Lutin.png>
+Package pdftex.def Info: ./images/scratch/Lutin.png used on input line 156.
+(pdftex.def)             Requested size: 19.91684pt x 21.90924pt.
+
+<./images/scratch/BlocsControle.png, id=1516, 84.315pt x 18.0675pt>
+File: ./images/scratch/BlocsControle.png Graphic file (type png)
+
+<use ./images/scratch/BlocsControle.png>
+Package pdftex.def Info: ./images/scratch/BlocsControle.png used on input line 
+157.
+(pdftex.def)             Requested size: 56.9055pt x 12.1942pt.
+
+<./images/scratch/BlocDrapeauVert.png, id=1517, 135.50626pt x 44.165pt>
+File: ./images/scratch/BlocDrapeauVert.png Graphic file (type png)
+
+<use ./images/scratch/BlocDrapeauVert.png>
+Package pdftex.def Info: ./images/scratch/BlocDrapeauVert.png used on input lin
+e 158.
+(pdftex.def)             Requested size: 71.13188pt x 23.18427pt.
+
+<./images/scratch/BlocsMouvement.png, id=1518, 84.315pt x 19.07124pt>
+File: ./images/scratch/BlocsMouvement.png Graphic file (type png)
+
+<use ./images/scratch/BlocsMouvement.png>
+Package pdftex.def Info: ./images/scratch/BlocsMouvement.png used on input line
+ 159.
+(pdftex.def)             Requested size: 56.9055pt x 12.87164pt.
+
+<./images/scratch/BlocAllerA.png, id=1519, 114.4275pt x 24.09pt>
+File: ./images/scratch/BlocAllerA.png Graphic file (type png)
+
+<use ./images/scratch/BlocAllerA.png>
+Package pdftex.def Info: ./images/scratch/BlocAllerA.png used on input line 160
+.
+(pdftex.def)             Requested size: 71.13188pt x 14.9757pt.
+File: ./images/scratch/BlocDrapeauVert.png Graphic file (type png)
+
+<use ./images/scratch/BlocDrapeauVert.png>
+Package pdftex.def Info: ./images/scratch/BlocDrapeauVert.png used on input lin
+e 160.
+(pdftex.def)             Requested size: 71.13188pt x 23.18427pt.
+
+<./images/scratch/BlocGlisser.png, id=1520, 217.81375pt x 25.09375pt>
+File: ./images/scratch/BlocGlisser.png Graphic file (type png)
+
+<use ./images/scratch/BlocGlisser.png>
+Package pdftex.def Info: ./images/scratch/BlocGlisser.png used on input line 16
+1.
+(pdftex.def)             Requested size: 128.0374pt x 14.7508pt.
+File: ./images/scratch/BlocAllerA.png Graphic file (type png)
+ <use ./images/scratch/BlocAllerA.png>
+Package pdftex.def Info: ./images/scratch/BlocAllerA.png used on input line 161
+.
+(pdftex.def)             Requested size: 71.13188pt x 14.9757pt.
+File: ./images/scratch/BlocGlisser.png Graphic file (type png)
+
+<use ./images/scratch/BlocGlisser.png>
+Package pdftex.def Info: ./images/scratch/BlocGlisser.png used on input line 16
+3.
+(pdftex.def)             Requested size: 128.0374pt x 14.7508pt.
+
+Overfull \hbox (2.50462pt too wide) in paragraph at lines 163--164
+[]\T1/lmr/m/n/12 Ajouter les trois autres blocs [] et ré-gler leurs op-tions co
+mme
+ []
+
+<./images/scratch/BlocsSons.png, id=1521, 83.31125pt x 19.07124pt>
+File: ./images/scratch/BlocsSons.png Graphic file (type png)
+
+<use ./images/scratch/BlocsSons.png>
+Package pdftex.def Info: ./images/scratch/BlocsSons.png used on input line 164.
+
+(pdftex.def)             Requested size: 56.9055pt x 13.02675pt.
+
+<./images/scratch/BlocJouerTambour.png, id=1522, 226.8475pt x 25.09375pt>
+File: ./images/scratch/BlocJouerTambour.png Graphic file (type png)
+
+<use ./images/scratch/BlocJouerTambour.png>
+Package pdftex.def Info: ./images/scratch/BlocJouerTambour.png used on input li
+ne 165.
+(pdftex.def)             Requested size: 128.0374pt x 14.16342pt.
+
+<./images/scratch/DrapeauVert.png, id=1523, 24.09pt x 22.0825pt>
+File: ./images/scratch/DrapeauVert.png Graphic file (type png)
+
+<use ./images/scratch/DrapeauVert.png>
+Package pdftex.def Info: ./images/scratch/DrapeauVert.png used on input line 17
+0.
+(pdftex.def)             Requested size: 19.91684pt x 18.25702pt.
+
+<./images/scratch/Stop.png, id=1524, 21.07875pt x 21.07875pt>
+File: ./images/scratch/Stop.png Graphic file (type png)
+
+<use ./images/scratch/Stop.png>
+Package pdftex.def Info: ./images/scratch/Stop.png used on input line 172.
+(pdftex.def)             Requested size: 19.91684pt x 19.91724pt.
+
+<./images/scratch/ScratchPleinEcran.png, id=1525, 217.81375pt x 73.27374pt>
+File: ./images/scratch/ScratchPleinEcran.png Graphic file (type png)
+
+<use ./images/scratch/ScratchPleinEcran.png>
+Package pdftex.def Info: ./images/scratch/ScratchPleinEcran.png used on input l
+ine 174.
+(pdftex.def)             Requested size: 85.35826pt x 28.71416pt.
+
+<./images/scratch/ScratchQuitterPleinEcran.png, id=1526, 83.31125pt x 53.19875p
+t>
+File: ./images/scratch/ScratchQuitterPleinEcran.png Graphic file (type png)
+ <use ./images/scratch/ScratchQuitterPleinEcran.png>
+Package pdftex.def Info: ./images/scratch/ScratchQuitterPleinEcran.png used on 
+input line 176.
+(pdftex.def)             Requested size: 42.67912pt x 27.25357pt.
+ [60 <./images/scratch/ScratchPremierProgramme1.png> <./images/scratch/Lutin.pn
+g> <./images/scratch/BlocsControle.png> <./images/scratch/BlocDrapeauVert.png> 
+<./images/scratch/BlocsMouvement.png> <./images/scratch/BlocAllerA.png> <./imag
+es/scratch/BlocGlisser.png> <./images/scratch/BlocsSons.png> <./images/scratch/
+BlocJouerTambour.png> <./images/scratch/DrapeauVert.png> <./images/scratch/Stop
+.png> <./images/scratch/ScratchPleinEcran.png> <./images/scratch/ScratchQuitter
+PleinEcran.png>]
+File: ./images/scratch/Scene.png Graphic file (type png)
+
+<use ./images/scratch/Scene.png>
+Package pdftex.def Info: ./images/scratch/Scene.png used on input line 189.
+(pdftex.def)             Requested size: 28.45274pt x 30.16043pt.
+
+<./images/scratch/ScratchPremierProgramme2.png, id=1554, 644.6484pt x 349.7868p
+t>
+File: ./images/scratch/ScratchPremierProgramme2.png Graphic file (type png)
+ <use ./images/scratch/ScratchPremierProgramme2.png>
+Package pdftex.def Info: ./images/scratch/ScratchPremierProgramme2.png used on 
+input line 191.
+(pdftex.def)             Requested size: 644.64684pt x 349.78595pt.
+
+<./images/scratch/ScratchProgramme1Script2.png, id=1555, 244.915pt x 100.375pt>
+File: ./images/scratch/ScratchProgramme1Script2.png Graphic file (type png)
+<use ./images/scratch/ScratchProgramme1Script2.png>
+Package pdftex.def Info: ./images/scratch/ScratchProgramme1Script2.png used on 
+input line 195.
+(pdftex.def)             Requested size: 244.91438pt x 100.37474pt.
+File: ./images/scratch/DrapeauVert.png Graphic file (type png)
+
+<use ./images/scratch/DrapeauVert.png>
+Package pdftex.def Info: ./images/scratch/DrapeauVert.png used on input line 19
+7.
+(pdftex.def)             Requested size: 19.91684pt x 18.25702pt.
+File: ./images/methode/MoodleDevoirIcone1.png Graphic file (type png)
+
+<use ./images/methode/MoodleDevoirIcone1.png>
+Package pdftex.def Info: ./images/methode/MoodleDevoirIcone1.png used on input 
+line 204.
+(pdftex.def)             Requested size: 18.2067pt x 18.20648pt.
+
+<./images/scratch/ScratchScriptCarre1.png, id=1557, 340.27126pt x 249.93375pt>
+File: ./images/scratch/ScratchScriptCarre1.png Graphic file (type png)
+
+<use ./images/scratch/ScratchScriptCarre1.png>
+Package pdftex.def Info: ./images/scratch/ScratchScriptCarre1.png used on input
+ line 229.
+(pdftex.def)             Requested size: 340.27042pt x 249.93314pt.
+ [61 <./images/scratch/ScratchPremierProgramme2.png> <./images/scratch/ScratchP
+rogramme1Script2.png>]
+<./images/scratch/ScratchActivite23.png, id=1565, 331.2375pt x 29.10875pt>
+File: ./images/scratch/ScratchActivite23.png Graphic file (type png)
+
+<use ./images/scratch/ScratchActivite23.png>
+Package pdftex.def Info: ./images/scratch/ScratchActivite23.png used on input l
+ine 231.
+(pdftex.def)             Requested size: 170.71652pt x 15.00204pt.
+
+Overfull \hbox (12.451pt too wide) in paragraph at lines 231--232
+\T1/lmr/m/n/12 avant de construire le pro-gramme). Pour construire le bloc [],
+ []
+
+<./images/scratch/ScratchActivite21.png, id=1566, 419.5675pt x 40.15pt>
+File: ./images/scratch/ScratchActivite21.png Graphic file (type png)
+
+<use ./images/scratch/ScratchActivite21.png>
+Package pdftex.def Info: ./images/scratch/ScratchActivite21.png used on input l
+ine 236.
+(pdftex.def)             Requested size: 419.56647pt x 40.14989pt.
+
+<./images/scratch/ScratchActivite22.png, id=1567, 284.262pt x 42.3984pt>
+File: ./images/scratch/ScratchActivite22.png Graphic file (type png)
+
+<use ./images/scratch/ScratchActivite22.png>
+Package pdftex.def Info: ./images/scratch/ScratchActivite22.png used on input l
+ine 240.
+(pdftex.def)             Requested size: 284.26129pt x 42.39828pt.
+File: ./images/scratch/DrapeauVert.png Graphic file (type png)
+
+<use ./images/scratch/DrapeauVert.png>
+Package pdftex.def Info: ./images/scratch/DrapeauVert.png used on input line 24
+7.
+(pdftex.def)             Requested size: 19.91684pt x 18.25702pt.
+
+<./images/scratch/ScratchScriptCarre2.png, id=1568, 177.66376pt x 68.255pt>
+File: ./images/scratch/ScratchScriptCarre2.png Graphic file (type png)
+
+<use ./images/scratch/ScratchScriptCarre2.png>
+Package pdftex.def Info: ./images/scratch/ScratchScriptCarre2.png used on input
+ line 256.
+(pdftex.def)             Requested size: 177.66331pt x 68.25482pt.
+ [62 <./images/scratch/ScratchScriptCarre1.png> <./images/scratch/ScratchActivi
+te23.png> <./images/scratch/ScratchActivite21.png> <./images/scratch/ScratchAct
+ivite22.png> <./images/scratch/ScratchScriptCarre2.png>]
+<./images/scratch/ScratchScriptCarre3.png, id=1580, 164.615pt x 87.32625pt>
+File: ./images/scratch/ScratchScriptCarre3.png Graphic file (type png)
+
+<use ./images/scratch/ScratchScriptCarre3.png>
+Package pdftex.def Info: ./images/scratch/ScratchScriptCarre3.png used on input
+ line 267.
+(pdftex.def)             Requested size: 164.6146pt x 87.32603pt.
+
+<./images/scratch/enveloppe.png, id=1581, 97.8054pt x 145.9854pt>
+File: ./images/scratch/enveloppe.png Graphic file (type png)
+
+<use ./images/scratch/enveloppe.png>
+Package pdftex.def Info: ./images/scratch/enveloppe.png used on input line 274.
+
+(pdftex.def)             Requested size: 97.80515pt x 145.98503pt.
+
+<./images/scratch/ScratchEnveloppeTailleCrayon.png, id=1582, 209.78375pt x 84.3
+15pt>
+File: ./images/scratch/ScratchEnveloppeTailleCrayon.png Graphic file (type png)
+
+ <use ./images/scratch/ScratchEnveloppeTailleCrayon.png>
+Package pdftex.def Info: ./images/scratch/ScratchEnveloppeTailleCrayon.png used
+ on input line 283.
+(pdftex.def)             Requested size: 209.78322pt x 84.31477pt.
+File: ./images/methode/MoodleDevoirIcone1.png Graphic file (type png)
+
+<use ./images/methode/MoodleDevoirIcone1.png>
+Package pdftex.def Info: ./images/methode/MoodleDevoirIcone1.png used on input 
+line 289.
+(pdftex.def)             Requested size: 18.2067pt x 18.20648pt.
+ [63 <./images/scratch/ScratchScriptCarre3.png> <./images/scratch/enveloppe.png
+> <./images/scratch/ScratchEnveloppeTailleCrayon.png>]
+<./images/scratch/ScratchSpirales.png, id=1591, 296.7888pt x 100.2144pt>
+File: ./images/scratch/ScratchSpirales.png Graphic file (type png)
+
+<use ./images/scratch/ScratchSpirales.png>
+Package pdftex.def Info: ./images/scratch/ScratchSpirales.png used on input lin
+e 298.
+(pdftex.def)             Requested size: 296.78807pt x 100.21414pt.
+
+<./images/scratch/jeuAvion.png, id=1592, 499.8675pt x 376.40625pt>
+File: ./images/scratch/jeuAvion.png Graphic file (type png)
+
+<use ./images/scratch/jeuAvion.png>
+Package pdftex.def Info: ./images/scratch/jeuAvion.png used on input line 322.
+(pdftex.def)             Requested size: 499.86627pt x 376.40532pt.
+ [64 <./images/scratch/ScratchSpirales.png> <./images/scratch/jeuAvion.png>]
+<./images/scratch/Avion.png, id=1604, 85.31876pt x 56.21pt>
+File: ./images/scratch/Avion.png Graphic file (type png)
+
+<use ./images/scratch/Avion.png>
+Package pdftex.def Info: ./images/scratch/Avion.png used on input line 339.
+(pdftex.def)             Requested size: 28.45274pt x 18.7449pt.
+
+<./images/scratch/ScratchCostumeAvion1.png, id=1605, 1063.975pt x 444.66125pt>
+File: ./images/scratch/ScratchCostumeAvion1.png Graphic file (type png)
+
+<use ./images/scratch/ScratchCostumeAvion1.png>
+Package pdftex.def Info: ./images/scratch/ScratchCostumeAvion1.png used on inpu
+t line 340.
+(pdftex.def)             Requested size: 1063.97241pt x 444.66016pt.
+
+<./images/scratch/Supprimer.png, id=1606, 15.05624pt x 15.05624pt>
+File: ./images/scratch/Supprimer.png Graphic file (type png)
+
+<use ./images/scratch/Supprimer.png>
+Package pdftex.def Info: ./images/scratch/Supprimer.png used on input line 341.
+
+(pdftex.def)             Requested size: 19.91684pt x 19.91862pt.
+
+<./images/scratch/ScratchSupprimerLutin.png, id=1607, 421.575pt x 207.77625pt>
+File: ./images/scratch/ScratchSupprimerLutin.png Graphic file (type png)
+
+<use ./images/scratch/ScratchSupprimerLutin.png>
+Package pdftex.def Info: ./images/scratch/ScratchSupprimerLutin.png used on inp
+ut line 342.
+(pdftex.def)             Requested size: 421.57396pt x 207.77573pt.
+
+<./images/scratch/Reduire.png, id=1608, 33.12375pt x 29.10875pt>
+File: ./images/scratch/Reduire.png Graphic file (type png)
+
+<use ./images/scratch/Reduire.png>
+Package pdftex.def Info: ./images/scratch/Reduire.png used on input line 343.
+(pdftex.def)             Requested size: 28.45274pt x 25.00415pt.
+
+<./images/scratch/ScratchReduireTailleAvion.png, id=1609, 1141.26375pt x 491.83
+75pt>
+File: ./images/scratch/ScratchReduireTailleAvion.png Graphic file (type png)
+ <use ./images/scratch/ScratchReduireTailleAvion.png>
+Package pdftex.def Info: ./images/scratch/ScratchReduireTailleAvion.png used on
+ input line 344.
+(pdftex.def)             Requested size: 1141.26097pt x 491.83629pt.
+ [65 <./images/scratch/Avion.png> <./images/scratch/ScratchCostumeAvion1.png> <
+./images/scratch/Supprimer.png> <./images/scratch/ScratchSupprimerLutin.png> <.
+/images/scratch/Reduire.png> <./images/scratch/ScratchReduireTailleAvion.png>]
+<./images/scratch/ScratchSelectionAvion.png, id=1627, 607.26875pt x 384.43625pt
+>
+File: ./images/scratch/ScratchSelectionAvion.png Graphic file (type png)
+ <use ./images/scratch/ScratchSelectionAvion.png>
+Package pdftex.def Info: ./images/scratch/ScratchSelectionAvion.png used on inp
+ut line 350.
+(pdftex.def)             Requested size: 607.26727pt x 384.4353pt.
+
+<./images/scratch/ScratchBoucle.png, id=1628, 317.5062pt x 48.6618pt>
+File: ./images/scratch/ScratchBoucle.png Graphic file (type png)
+
+<use ./images/scratch/ScratchBoucle.png>
+Package pdftex.def Info: ./images/scratch/ScratchBoucle.png used on input line 
+363.
+(pdftex.def)             Requested size: 317.5054pt x 48.66167pt.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 363--363
+[] 
+ []
+
+<./images/scratch/ScratchActivite31.png, id=1629, 186.6975pt x 107.40125pt>
+File: ./images/scratch/ScratchActivite31.png Graphic file (type png)
+
+<use ./images/scratch/ScratchActivite31.png>
+Package pdftex.def Info: ./images/scratch/ScratchActivite31.png used on input l
+ine 371.
+(pdftex.def)             Requested size: 186.69704pt x 107.40097pt.
+
+<./images/scratch/ScratchActivite32.png, id=1630, 425.59pt x 58.2175pt>
+File: ./images/scratch/ScratchActivite32.png Graphic file (type png)
+
+<use ./images/scratch/ScratchActivite32.png>
+Package pdftex.def Info: ./images/scratch/ScratchActivite32.png used on input l
+ine 373.
+(pdftex.def)             Requested size: 425.58894pt x 58.21735pt.
+ [66 <./images/scratch/ScratchSelectionAvion.png> <./images/scratch/ScratchBouc
+le.png> <./images/scratch/ScratchActivite31.png>]
+File: ./images/scratch/DrapeauVert.png Graphic file (type png)
+ <use ./images/scratch/DrapeauVert.png>
+Package pdftex.def Info: ./images/scratch/DrapeauVert.png used on input line 37
+4.
+(pdftex.def)             Requested size: 19.91684pt x 18.25702pt.
+File: ./images/scratch/Stop.png Graphic file (type png)
+
+<use ./images/scratch/Stop.png>
+Package pdftex.def Info: ./images/scratch/Stop.png used on input line 374.
+(pdftex.def)             Requested size: 19.91684pt x 19.91724pt.
+File: ./images/scratch/ScratchPleinEcran.png Graphic file (type png)
+ <use ./images/scratch/ScratchPleinEcran.png>
+Package pdftex.def Info: ./images/scratch/ScratchPleinEcran.png used on input l
+ine 377.
+(pdftex.def)             Requested size: 85.35826pt x 28.71416pt.
+File: ./images/scratch/ScratchQuitterPleinEcran.png Graphic file (type png)
+
+<use ./images/scratch/ScratchQuitterPleinEcran.png>
+Package pdftex.def Info: ./images/scratch/ScratchQuitterPleinEcran.png used on 
+input line 379.
+(pdftex.def)             Requested size: 42.67912pt x 27.25357pt.
+
+<./images/scratch/EtoilePinceau.png, id=1639, 37.13875pt x 27.10126pt>
+File: ./images/scratch/EtoilePinceau.png Graphic file (type png)
+
+<use ./images/scratch/EtoilePinceau.png>
+Package pdftex.def Info: ./images/scratch/EtoilePinceau.png used on input line 
+387.
+(pdftex.def)             Requested size: 19.91684pt x 14.53438pt.
+
+<./images/scratch/ScratchActivite33.png, id=1640, 898.35625pt x 337.26pt>
+File: ./images/scratch/ScratchActivite33.png Graphic file (type png)
+
+<use ./images/scratch/ScratchActivite33.png>
+Package pdftex.def Info: ./images/scratch/ScratchActivite33.png used on input l
+ine 388.
+(pdftex.def)             Requested size: 898.35405pt x 337.25917pt.
+
+<./images/scratch/ScratchCreerRectangle.png, id=1641, 792.9625pt x 478.78876pt>
+File: ./images/scratch/ScratchCreerRectangle.png Graphic file (type png)
+<use ./images/scratch/ScratchCreerRectangle.png>
+Package pdftex.def Info: ./images/scratch/ScratchCreerRectangle.png used on inp
+ut line 390.
+(pdftex.def)             Requested size: 792.96056pt x 478.78758pt.
+ [67 <./images/scratch/ScratchActivite32.png> <./images/scratch/EtoilePinceau.p
+ng> <./images/scratch/ScratchActivite33.png> <./images/scratch/ScratchCreerRect
+angle.png>]
+<./images/scratch/ScratchActivite34.png, id=1654, 258.9675pt x 142.5325pt>
+File: ./images/scratch/ScratchActivite34.png Graphic file (type png)
+
+<use ./images/scratch/ScratchActivite34.png>
+Package pdftex.def Info: ./images/scratch/ScratchActivite34.png used on input l
+ine 393.
+(pdftex.def)             Requested size: 258.96684pt x 142.53214pt.
+
+<./images/scratch/ScratchSi.png, id=1655, 272.6988pt x 54.4434pt>
+File: ./images/scratch/ScratchSi.png Graphic file (type png)
+
+<use ./images/scratch/ScratchSi.png>
+Package pdftex.def Info: ./images/scratch/ScratchSi.png used on input line 404.
+
+(pdftex.def)             Requested size: 272.69812pt x 54.44325pt.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 404--404
+[] 
+ []
+
+<./images/scratch/BlocCapteur.png, id=1656, 91.34125pt x 19.07124pt>
+File: ./images/scratch/BlocCapteur.png Graphic file (type png)
+
+<use ./images/scratch/BlocCapteur.png>
+Package pdftex.def Info: ./images/scratch/BlocCapteur.png used on input line 41
+3.
+(pdftex.def)             Requested size: 56.9055pt x 11.88136pt.
+
+<./images/scratch/ScratchActivite35.png, id=1657, 237.88875pt x 208.78pt>
+File: ./images/scratch/ScratchActivite35.png Graphic file (type png)
+
+<use ./images/scratch/ScratchActivite35.png>
+Package pdftex.def Info: ./images/scratch/ScratchActivite35.png used on input l
+ine 414.
+(pdftex.def)             Requested size: 237.88815pt x 208.77946pt.
+ [68 <./images/scratch/ScratchActivite34.png> <./images/scratch/ScratchSi.png> 
+<./images/scratch/BlocCapteur.png> <./images/scratch/ScratchActivite35.png>]
+<./images/scratch/ScratchActiviteSonChanger.png, id=1669, 109.40875pt x 22.0825
+pt>
+File: ./images/scratch/ScratchActiviteSonChanger.png Graphic file (type png)
+ <use ./images/scratch/ScratchActiviteSonChanger.png>
+Package pdftex.def Info: ./images/scratch/ScratchActiviteSonChanger.png used on
+ input line 416.
+(pdftex.def)             Requested size: 109.40846pt x 22.08243pt.
+
+<./images/scratch/ScratchActivite36.png, id=1670, 243.91125pt x 69.25874pt>
+File: ./images/scratch/ScratchActivite36.png Graphic file (type png)
+
+<use ./images/scratch/ScratchActivite36.png>
+Package pdftex.def Info: ./images/scratch/ScratchActivite36.png used on input l
+ine 420.
+(pdftex.def)             Requested size: 243.91064pt x 69.25856pt.
+
+<./images/scratch/SonEnregistre.png, id=1671, 42.1575pt x 38.1425pt>
+File: ./images/scratch/SonEnregistre.png Graphic file (type png)
+
+<use ./images/scratch/SonEnregistre.png>
+Package pdftex.def Info: ./images/scratch/SonEnregistre.png used on input line 
+421.
+(pdftex.def)             Requested size: 19.91684pt x 18.02008pt.
+
+<./images/scratch/SonStop.png, id=1672, 38.1425pt x 37.13875pt>
+File: ./images/scratch/SonStop.png Graphic file (type png)
+
+<use ./images/scratch/SonStop.png>
+Package pdftex.def Info: ./images/scratch/SonStop.png used on input line 421.
+(pdftex.def)             Requested size: 19.91684pt x 19.3933pt.
+
+<./images/scratch/ScratchActivite37.png, id=1673, 667.49374pt x 164.615pt>
+File: ./images/scratch/ScratchActivite37.png Graphic file (type png)
+
+<use ./images/scratch/ScratchActivite37.png>
+Package pdftex.def Info: ./images/scratch/ScratchActivite37.png used on input l
+ine 422.
+(pdftex.def)             Requested size: 667.49213pt x 164.6146pt.
+File: ./images/scratch/Supprimer.png Graphic file (type png)
+
+<use ./images/scratch/Supprimer.png>
+Package pdftex.def Info: ./images/scratch/Supprimer.png used on input line 423.
+
+(pdftex.def)             Requested size: 19.91684pt x 19.91862pt.
+
+<./images/scratch/ScratchActivite38.png, id=1674, 365.365pt x 199.74625pt>
+File: ./images/scratch/ScratchActivite38.png Graphic file (type png)
+
+<use ./images/scratch/ScratchActivite38.png>
+Package pdftex.def Info: ./images/scratch/ScratchActivite38.png used on input l
+ine 424.
+(pdftex.def)             Requested size: 365.3641pt x 199.74576pt.
+
+<./images/scratch/ScratchActivite39.png, id=1675, 166.6225pt x 57.21375pt>
+File: ./images/scratch/ScratchActivite39.png Graphic file (type png)
+
+<use ./images/scratch/ScratchActivite39.png>
+Package pdftex.def Info: ./images/scratch/ScratchActivite39.png used on input l
+ine 426.
+(pdftex.def)             Requested size: 166.62209pt x 57.2136pt.
+File: ./images/methode/MoodleDevoirIcone1.png Graphic file (type png)
+
+<use ./images/methode/MoodleDevoirIcone1.png>
+Package pdftex.def Info: ./images/methode/MoodleDevoirIcone1.png used on input 
+line 436.
+(pdftex.def)             Requested size: 18.2067pt x 18.20648pt.
+ [69 <./images/scratch/ScratchActiviteSonChanger.png> <./images/scratch/Scratch
+Activite36.png> <./images/scratch/SonEnregistre.png> <./images/scratch/SonStop.
+png> <./images/scratch/ScratchActivite37.png> <./images/scratch/ScratchActivite
+38.png> <./images/scratch/ScratchActivite39.png>]
+<./images/scratch/jeuAvionV2.png, id=1692, 496.85625pt x 373.395pt>
+File: ./images/scratch/jeuAvionV2.png Graphic file (type png)
+
+<use ./images/scratch/jeuAvionV2.png>
+Package pdftex.def Info: ./images/scratch/jeuAvionV2.png used on input line 453
+.
+(pdftex.def)             Requested size: 496.85503pt x 373.39409pt.
+
+<./images/scratch/jeuAvionV3.png, id=1693, 494.84875pt x 373.395pt>
+File: ./images/scratch/jeuAvionV3.png Graphic file (type png)
+
+<use ./images/scratch/jeuAvionV3.png>
+Package pdftex.def Info: ./images/scratch/jeuAvionV3.png used on input line 453
+.
+(pdftex.def)             Requested size: 494.84755pt x 373.39409pt.
+) (./sources/methode/Moodle.tex [70 <./images/scratch/jeuAvionV2.png> <./images
+/scratch/jeuAvionV3.png>]
+Chapitre 6.
+File: ./images/chapitreVinci.png Graphic file (type png)
+<use ./images/chapitreVinci.png>
+Package pdftex.def Info: ./images/chapitreVinci.png used on input line 1.
+(pdftex.def)             Requested size: 597.50787pt x 284.21223pt.
+
+<./images/methode/FloreAcces1.png, id=1701, 1255.69125pt x 274.02374pt>
+File: ./images/methode/FloreAcces1.png Graphic file (type png)
+
+<use ./images/methode/FloreAcces1.png>
+Package pdftex.def Info: ./images/methode/FloreAcces1.png used on input line 26
+.
+(pdftex.def)             Requested size: 1255.6882pt x 274.02307pt.
+
+<./images/methode/FloreAcces2.png, id=1702, 717.882pt x 283.459pt>
+File: ./images/methode/FloreAcces2.png Graphic file (type png)
+
+<use ./images/methode/FloreAcces2.png>
+Package pdftex.def Info: ./images/methode/FloreAcces2.png used on input line 31
+.
+(pdftex.def)             Requested size: 717.88025pt x 283.4583pt.
+ [71
+
+ <./images/methode/FloreAcces1.png>]
+<./images/methode/PronoteAcces1.png, id=1710, 693.792pt x 280.247pt>
+File: ./images/methode/PronoteAcces1.png Graphic file (type png)
+
+<use ./images/methode/PronoteAcces1.png>
+Package pdftex.def Info: ./images/methode/PronoteAcces1.png used on input line 
+41.
+(pdftex.def)             Requested size: 693.7903pt x 280.2463pt.
+
+<./images/methode/PronotePresentation.png, id=1711, 1126.609pt x 525.162pt>
+File: ./images/methode/PronotePresentation.png Graphic file (type png)
+
+<use ./images/methode/PronotePresentation.png>
+Package pdftex.def Info: ./images/methode/PronotePresentation.png used on input
+ line 45.
+(pdftex.def)             Requested size: 1126.60625pt x 525.16072pt.
+ [72 <./images/methode/FloreAcces2.png> <./images/methode/PronoteAcces1.png> <.
+/images/methode/PronotePresentation.png>] <./images/methode/MoodleAcces1.png, i
+d=1720, 693.792pt x 280.247pt>
+File: ./images/methode/MoodleAcces1.png Graphic file (type png)
+
+<use ./images/methode/MoodleAcces1.png>
+Package pdftex.def Info: ./images/methode/MoodleAcces1.png used on input line 5
+9.
+(pdftex.def)             Requested size: 693.7903pt x 280.2463pt.
+
+<./images/methode/MoodleAcces2.png, id=1721, 1156.32pt x 338.063pt>
+File: ./images/methode/MoodleAcces2.png Graphic file (type png)
+
+<use ./images/methode/MoodleAcces2.png>
+Package pdftex.def Info: ./images/methode/MoodleAcces2.png used on input line 6
+3.
+(pdftex.def)             Requested size: 1156.31718pt x 338.06216pt.
+
+<./images/methode/MoodleRecupererFichier1.png, id=1722, 529.177pt x 336.457pt>
+File: ./images/methode/MoodleRecupererFichier1.png Graphic file (type png)
+
+<use ./images/methode/MoodleRecupererFichier1.png>
+Package pdftex.def Info: ./images/methode/MoodleRecupererFichier1.png used on i
+nput line 74.
+(pdftex.def)             Requested size: 529.1757pt x 336.45618pt.
+ [73 <./images/methode/MoodleAcces1.png> <./images/methode/MoodleAcces2.png> <.
+/images/methode/MoodleRecupererFichier1.png>]
+<./images/methode/MoodleRecupererFichier2.png, id=1730, 445.665pt x 341.275pt>
+File: ./images/methode/MoodleRecupererFichier2.png Graphic file (type png)
+
+<use ./images/methode/MoodleRecupererFichier2.png>
+Package pdftex.def Info: ./images/methode/MoodleRecupererFichier2.png used on i
+nput line 78.
+(pdftex.def)             Requested size: 445.66391pt x 341.27415pt.
+File: ./images/generales/loupe.png Graphic file (type png)
+
+<use ./images/generales/loupe.png>
+Package pdftex.def Info: ./images/generales/loupe.png used on input line 84.
+(pdftex.def)             Requested size: 409.52899pt x 42.15738pt.
+
+<./images/generales/loupeRechercheFinder.png, id=1731, 685.56125pt x 59.22125pt
+>
+File: ./images/generales/loupeRechercheFinder.png Graphic file (type png)
+ <use ./images/generales/loupeRechercheFinder.png>
+Package pdftex.def Info: ./images/generales/loupeRechercheFinder.png used on in
+put line 88.
+(pdftex.def)             Requested size: 685.55957pt x 59.22108pt.
+
+<./images/methode/MoodleRecupererFichier3.png, id=1732, 884.906pt x 309.958pt>
+File: ./images/methode/MoodleRecupererFichier3.png Graphic file (type png)
+
+<use ./images/methode/MoodleRecupererFichier3.png>
+Package pdftex.def Info: ./images/methode/MoodleRecupererFichier3.png used on i
+nput line 92.
+(pdftex.def)             Requested size: 884.90385pt x 309.95723pt.
+ [74 <./images/methode/MoodleRecupererFichier2.png (PNG copy)> <./images/genera
+les/loupeRechercheFinder.png>]
+File: ./images/methode/MoodleDevoirIcone1.png Graphic file (type png)
+ <use ./images/methode/MoodleDevoirIcone1.png>
+Package pdftex.def Info: ./images/methode/MoodleDevoirIcone1.png used on input 
+line 102.
+(pdftex.def)             Requested size: 18.2067pt x 18.20648pt.
+
+<./images/methode/MoodleDevoir1.png, id=1738, 853.589pt x 334.048pt>
+File: ./images/methode/MoodleDevoir1.png Graphic file (type png)
+
+<use ./images/methode/MoodleDevoir1.png>
+Package pdftex.def Info: ./images/methode/MoodleDevoir1.png used on input line 
+104.
+(pdftex.def)             Requested size: 853.58691pt x 334.04718pt.
+
+<./images/methode/MoodleDevoir2.png, id=1739, 817.454pt x 360.547pt>
+File: ./images/methode/MoodleDevoir2.png Graphic file (type png)
+
+<use ./images/methode/MoodleDevoir2.png>
+Package pdftex.def Info: ./images/methode/MoodleDevoir2.png used on input line 
+108.
+(pdftex.def)             Requested size: 817.452pt x 360.5461pt.
+
+<./images/methode/MoodleDevoirIcone2.png, id=1740, 192.72pt x 146.5475pt>
+File: ./images/methode/MoodleDevoirIcone2.png Graphic file (type png)
+
+<use ./images/methode/MoodleDevoirIcone2.png>
+Package pdftex.def Info: ./images/methode/MoodleDevoirIcone2.png used on input 
+line 112.
+(pdftex.def)             Requested size: 18.2067pt x 13.84389pt.
+ [75 <./images/methode/MoodleRecupererFichier3.png> <./images/methode/MoodleDev
+oir1.png> <./images/methode/MoodleDevoir2.png>]
+<./images/methode/MoodleDevoirIcone3.png, id=1748, 58.2175pt x 61.22874pt>
+File: ./images/methode/MoodleDevoirIcone3.png Graphic file (type png)
+
+<use ./images/methode/MoodleDevoirIcone3.png>
+Package pdftex.def Info: ./images/methode/MoodleDevoirIcone3.png used on input 
+line 113.
+(pdftex.def)             Requested size: 18.2067pt x 19.14793pt.
+
+<./images/methode/MoodleDevoir3b.png, id=1749, 611.083pt x 195.129pt>
+File: ./images/methode/MoodleDevoir3b.png Graphic file (type png)
+
+<use ./images/methode/MoodleDevoir3b.png>
+Package pdftex.def Info: ./images/methode/MoodleDevoir3b.png used on input line
+ 116.
+(pdftex.def)             Requested size: 611.0815pt x 195.12851pt.
+
+<./images/methode/MoodleDevoir4.png, id=1750, 704.231pt x 149.358pt>
+File: ./images/methode/MoodleDevoir4.png Graphic file (type png)
+
+<use ./images/methode/MoodleDevoir4.png>
+Package pdftex.def Info: ./images/methode/MoodleDevoir4.png used on input line 
+120.
+(pdftex.def)             Requested size: 704.22928pt x 149.35762pt.
+
+<./images/methode/MoodleDevoir5.png, id=1751, 375.001pt x 220.825pt>
+File: ./images/methode/MoodleDevoir5.png Graphic file (type png)
+
+<use ./images/methode/MoodleDevoir5.png>
+Package pdftex.def Info: ./images/methode/MoodleDevoir5.png used on input line 
+124.
+(pdftex.def)             Requested size: 375.00008pt x 220.82445pt.
+) (./sources/ideesProjets.tex [76 <./images/methode/MoodleDevoirIcone2.png (PNG
+ copy)> <./images/methode/MoodleDevoirIcone3.png (PNG copy)> <./images/methode/
+MoodleDevoir3b.png> <./images/methode/MoodleDevoir4.png> <./images/methode/Mood
+leDevoir5.png>]
+Chapitre 7.
+File: ./images/chapitreVinci.png Graphic file (type png)
+<use ./images/chapitreVinci.png>
+Package pdftex.def Info: ./images/chapitreVinci.png used on input line 1.
+(pdftex.def)             Requested size: 597.50787pt x 284.21223pt.
+
+<./images/activites/ActiviteParisTableauPopulation.jpg, id=1759, 236.5638pt x 3
+75.3222pt>
+File: ./images/activites/ActiviteParisTableauPopulation.jpg Graphic file (type 
+jpg)
+ <use ./images/activites/ActiviteParisTableauPopulation.jpg>
+Package pdftex.def Info: ./images/activites/ActiviteParisTableauPopulation.jpg 
+used on input line 35.
+(pdftex.def)             Requested size: 236.5632pt x 375.32129pt.
+
+<./images/activites/ActiviteParisGraphiquePopulation.jpg, id=1760, 382.0674pt x
+ 255.8358pt>
+File: ./images/activites/ActiviteParisGraphiquePopulation.jpg Graphic file (typ
+e jpg)
+ <use ./images/activites/ActiviteParisGraphiquePopulation.jpg>
+Package pdftex.def Info: ./images/activites/ActiviteParisGraphiquePopulation.jp
+g used on input line 35.
+(pdftex.def)             Requested size: 382.06645pt x 255.83517pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [77
+
+]
+<./images/activites/ActiviteParisImageVille.jpg, id=1766, 1263.72125pt x 608.27
+25pt>
+File: ./images/activites/ActiviteParisImageVille.jpg Graphic file (type jpg)
+ <use ./images/activites/ActiviteParisImageVille.jpg>
+Package pdftex.def Info: ./images/activites/ActiviteParisImageVille.jpg used on
+ input line 41.
+(pdftex.def)             Requested size: 1263.71819pt x 608.27103pt.
+
+<./images/activites/ScratchAllerPlusLoinImage1.png, id=1769, 270.00874pt x 332.
+24126pt>
+File: ./images/activites/ScratchAllerPlusLoinImage1.png Graphic file (type png)
+
+ <use ./images/activites/ScratchAllerPlusLoinImage1.png>
+Package pdftex.def Info: ./images/activites/ScratchAllerPlusLoinImage1.png used
+ on input line 57.
+(pdftex.def)             Requested size: 270.00807pt x 332.24043pt.
+ [78 <./images/activites/ActiviteParisTableauPopulation.jpg> <./images/activite
+s/ActiviteParisGraphiquePopulation.jpg> <./images/activites/ActiviteParisImageV
+ille.jpg>]
+<./images/activites/ScratchAllerPlusLoinImage2.png, id=1774, 262.9825pt x 129.4
+8375pt>
+File: ./images/activites/ScratchAllerPlusLoinImage2.png Graphic file (type png)
+
+ <use ./images/activites/ScratchAllerPlusLoinImage2.png>
+Package pdftex.def Info: ./images/activites/ScratchAllerPlusLoinImage2.png used
+ on input line 65.
+(pdftex.def)             Requested size: 262.98184pt x 129.48341pt.
+)
+No file nouveau_livret_MITIC_6e.ind.
+[79 <./images/activites/ScratchAllerPlusLoinImage1.png> <./images/activites/Scr
+atchAllerPlusLoinImage2.png (PNG copy)>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 44.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 44.
+ (./nouveau_livret_MITIC_6e.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 44.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 44.
+Package rerunfilecheck Info: File `nouveau_livret_MITIC_6e.out' has not changed
+.
+(rerunfilecheck)             Checksum: C425791FD035411F4598512EE19FCACD;8725.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 44.
+ ) 
+Here is how much of TeX's memory you used:
+ 19498 strings out of 493014
+ 378684 string characters out of 6133351
+ 414119 words of memory out of 5000000
+ 22107 multiletter control sequences out of 15000+600000
+ 117348 words of font info for 68 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 62i,12n,56p,1107b,1075s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/
+texlive/2016/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/local/texlive/20
+16/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/2016/texmf-dist/
+fonts/enc/dvips/lm/lm-mathsy.enc}</usr/local/texlive/2016/texmf-dist/fonts/type
+1/public/lm/lmbx12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/l
+m/lmbxi10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmbxo10
+.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmmi12.pfb></usr
+/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texl
+ive/2016/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2016/te
+xmf-dist/fonts/type1/public/lm/lmr17.pfb></usr/local/texlive/2016/texmf-dist/fo
+nts/type1/public/lm/lmr6.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/pu
+blic/lm/lmr7.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmr8
+.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr
+/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/tex
+live/2016/texmf-dist/fonts/type1/public/lm/lmro10.pfb></usr/local/texlive/2016/
+texmf-dist/fonts/type1/public/lm/lmro12.pfb></usr/local/texlive/2016/texmf-dist
+/fonts/type1/public/lm/lmro8.pfb></usr/local/texlive/2016/texmf-dist/fonts/type
+1/public/lm/lmsy10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/l
+m/lmtk10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmtt10.p
+fb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmtt12.pfb></usr/l
+ocal/texlive/2016/texmf-dist/fonts/type1/public/lm/lmtt8.pfb></usr/local/texliv
+e/2016/texmf-dist/fonts/type1/public/lm/lmtto10.pfb>
+Output written on nouveau_livret_MITIC_6e.pdf (93 pages, 16151901 bytes).
+PDF statistics:
+ 1914 PDF objects out of 2073 (max. 8388607)
+ 1237 compressed objects within 13 object streams
+ 262 named destinations out of 1000 (max. 500000)
+ 1953 words of extra memory for PDF output out of 10000 (max. 10000000)
+
