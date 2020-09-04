@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2018.8.21)  1 SEP 2020 13:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2018.8.21)  4 SEP 2020 15:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -369,35 +369,60 @@ Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen103
 \Gin@req@width=\dimen104
 )
+(/usr/local/texlive/2016/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen105
+\WF@size=\dimen106
+\c@WF@wrappedlines=\count88
+\WF@box=\box26
+\WF@everypar=\toks17
+Package: wrapfig 2003/01/31  v 3.6
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2016/02/04 v1.7-139 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen107
+\captionmargin@=\dimen108
+\captionwidth=\dimen109
+\caption@tempdima=\dimen110
+\caption@indent=\dimen111
+\caption@parindent=\dimen112
+\caption@hangindent=\dimen113
+)
+\c@ContinuedFloat=\count89
+Package caption Info: wrapfig package is loaded.
+)
 (./teams_accueil.aux)
 \openout1 = `teams_accueil.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
 
 (/usr/local/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count88
-\scratchdimen=\dimen105
-\scratchbox=\box26
-\nofMPsegments=\count89
-\nofMParguments=\count90
-\everyMPshowfont=\toks17
-\MPscratchCnt=\count91
-\MPscratchDim=\dimen106
-\MPnumerator=\count92
-\makeMPintoPDFobject=\count93
-\everyMPtoPDFconversion=\toks18
+\scratchcounter=\count90
+\scratchdimen=\dimen114
+\scratchbox=\box27
+\nofMPsegments=\count91
+\nofMParguments=\count92
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count93
+\MPscratchDim=\dimen115
+\MPnumerator=\count94
+\makeMPintoPDFobject=\count95
+\everyMPtoPDFconversion=\toks19
 ) (/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2016/05/10 v0.21 Utility functions of pdfTeX for LuaTeX (HO
 )
@@ -445,84 +470,93 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+
 <accueil_liste.png, id=1, 356.33125pt x 725.71124pt>
 File: accueil_liste.png Graphic file (type png)
  <use accueil_liste.png>
-Package pdftex.def Info: accueil_liste.png used on input line 17.
-(pdftex.def)             Requested size: 71.13188pt x 144.86284pt.
+Package pdftex.def Info: accueil_liste.png used on input line 21.
+(pdftex.def)             Requested size: 142.26378pt x 289.73676pt.
 
-<accueil_grille.png, id=2, 895.345pt x 662.475pt>
+[1
+
+{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./accue
+il_liste.png>] <accueil_grille.png, id=9, 895.345pt x 662.475pt>
 File: accueil_grille.png Graphic file (type png)
- <use accueil_grille.png>
-Package pdftex.def Info: accueil_grille.png used on input line 24.
-(pdftex.def)             Requested size: 142.26378pt x 105.26024pt.
 
-<bouton_parametres.png, id=3, 48.18pt x 39.14626pt>
+<use accueil_grille.png>
+Package pdftex.def Info: accueil_grille.png used on input line 28.
+(pdftex.def)             Requested size: 284.52756pt x 210.5306pt.
+ <bouton_parametres.png, id=10, 48.18pt x 39.14626pt>
 File: bouton_parametres.png Graphic file (type png)
 
 <use bouton_parametres.png>
-Package pdftex.def Info: bouton_parametres.png used on input line 28.
+Package pdftex.def Info: bouton_parametres.png used on input line 32.
 (pdftex.def)             Requested size: 19.91684pt x 16.18207pt.
 
-<changement_liste.png, id=5, 543.02875pt x 132.495pt>
+<changement_liste.png, id=12, 543.02875pt x 132.495pt>
 File: changement_liste.png Graphic file (type png)
 
 <use changement_liste.png>
-Package pdftex.def Info: changement_liste.png used on input line 31.
-(pdftex.def)             Requested size: 142.26378pt x 34.7107pt.
-
-<choix_parametre.png, id=6, 795.97375pt x 720.6925pt>
+Package pdftex.def Info: changement_liste.png used on input line 35.
+(pdftex.def)             Requested size: 284.52756pt x 69.42545pt.
+ [2 <./accueil_grille.png> <./bouton_parametres.png> <./changement_liste.png>]
+<choix_parametre.png, id=18, 795.97375pt x 720.6925pt>
 File: choix_parametre.png Graphic file (type png)
 
 <use choix_parametre.png>
-Package pdftex.def Info: choix_parametre.png used on input line 38.
-(pdftex.def)             Requested size: 284.52756pt x 257.61263pt.
+Package pdftex.def Info: choix_parametre.png used on input line 43.
+(pdftex.def)             Requested size: 341.43306pt x 309.13295pt.
+ <entree_classe.png, id=19, 895.345pt x 282.05376pt>
+File: entree_classe.png Graphic file (type png)
+
+<use entree_classe.png>
+Package pdftex.def Info: entree_classe.png used on input line 50.
+(pdftex.def)             Requested size: 341.43306pt x 107.56026pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-
-Overfull \hbox (8.50293pt too wide) in paragraph at lines 46--46
-[]\OT1/cmr/bx/n/14.4 Consulter un doc-u-ment d^^Sepos^^Se par l'enseignant 
- []
-
-<devoir1.png, id=7, 590.205pt x 159.59625pt>
+[3 <./choix_parametre.png>] <devoir1.png, id=23, 590.205pt x 159.59625pt>
 File: devoir1.png Graphic file (type png)
- <use devoir1.png>
-Package pdftex.def Info: devoir1.png used on input line 53.
-(pdftex.def)             Requested size: 227.62204pt x 61.55066pt.
- [1
 
-{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./accue
-il_liste.png> <./accueil_grille.png> <./bouton_parametres.png> <./changement_li
-ste.png>]
-<devoir2.png, id=17, 571.13374pt x 283.0575pt>
+<use devoir1.png>
+Package pdftex.def Info: devoir1.png used on input line 73.
+(pdftex.def)             Requested size: 284.52756pt x 76.93893pt.
+ <devoir2.png, id=24, 591.20876pt x 314.17375pt>
 File: devoir2.png Graphic file (type png)
- <use devoir2.png>
-Package pdftex.def Info: devoir2.png used on input line 60.
-(pdftex.def)             Requested size: 227.62204pt x 112.81067pt.
+
+<use devoir2.png>
+Package pdftex.def Info: devoir2.png used on input line 80.
+(pdftex.def)             Requested size: 284.52756pt x 151.20436pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[2 <./choix_parametre.png> <./devoir1.png>] [3 <./devoir2.png>]
-(./teams_accueil.aux) ) 
+[4 <./entree_classe.png> <./devoir1.png>]
+<devoir3.png, id=28, 780.9175pt x 536.0025pt>
+File: devoir3.png Graphic file (type png)
+ <use devoir3.png>
+Package pdftex.def Info: devoir3.png used on input line 88.
+(pdftex.def)             Requested size: 341.43306pt x 234.3533pt.
+ [5 <./devoir2.png> <./devoir3.png>] (./teams_accueil.aux) ) 
 Here is how much of TeX's memory you used:
- 1800 strings out of 493014
- 24447 string characters out of 6133351
- 82957 words of memory out of 5000000
- 5338 multiletter control sequences out of 15000+600000
+ 2935 strings out of 493014
+ 44688 string characters out of 6133351
+ 104004 words of memory out of 5000000
+ 6461 multiletter control sequences out of 15000+600000
  4591 words of font info for 17 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 37i,5n,23p,273b,216s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2016/texmf-dist/fonts/type1/public/a
-msfonts/cm/cmbx12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/am
-sfonts/cm/cmr10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsf
-onts/cm/cmti10.pfb>
-Output written on teams_accueil.pdf (3 pages, 280133 bytes).
+ 38i,5n,38p,432b,231s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive
+/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/
+2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/20
+16/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on teams_accueil.pdf (5 pages, 381111 bytes).
 PDF statistics:
- 35 PDF objects out of 1000 (max. 8388607)
- 18 compressed objects within 1 object stream
+ 43 PDF objects out of 1000 (max. 8388607)
+ 22 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 36 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 46 words of extra memory for PDF output out of 10000 (max. 10000000)
 
