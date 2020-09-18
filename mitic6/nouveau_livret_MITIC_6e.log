@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2018.8.21)  18 SEP 2020 17:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2018.8.21)  18 SEP 2020 19:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -934,7 +934,14 @@ Package: titletoc 2011/12/15 v1.6 TOC entries
 )
 (./headings.tex
 \textlarg=\skip63
-))
+)) (/usr/local/texlive/2016/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count127
+\float@exts=\toks33
+\float@box=\box37
+\@float@everytoks=\toks34
+\@floatcapt=\box38
+)
 \@indexfile=\write4
 \openout4 = `nouveau_livret_MITIC_6e.idx'.
 
@@ -1001,17 +1008,17 @@ LaTeX Info: Redefining \dots on input line 5.
 LaTeX Info: Redefining \up on input line 5.
 (/usr/local/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count127
+\scratchcounter=\count128
 \scratchdimen=\dimen171
-\scratchbox=\box37
-\nofMPsegments=\count128
-\nofMParguments=\count129
-\everyMPshowfont=\toks33
-\MPscratchCnt=\count130
+\scratchbox=\box39
+\nofMPsegments=\count129
+\nofMParguments=\count130
+\everyMPshowfont=\toks35
+\MPscratchCnt=\count131
 \MPscratchDim=\dimen172
-\MPnumerator=\count131
-\makeMPintoPDFobject=\count132
-\everyMPtoPDFconversion=\toks34
+\MPnumerator=\count132
+\makeMPintoPDFobject=\count133
+\everyMPtoPDFconversion=\toks36
 ) (/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
@@ -1027,7 +1034,7 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-\AtBeginShipoutBox=\box38
+\AtBeginShipoutBox=\box40
 Package hyperref Info: Link coloring OFF on input line 5.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/nameref.sty
@@ -1036,7 +1043,7 @@ Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 (/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count133
+\c@section@level=\count134
 LaTeX Info: Redefining \Ref on input line 513.
 )
 LaTeX Info: Redefining \ref on input line 5.
@@ -1050,7 +1057,7 @@ LaTeX Info: Redefining \nameref on input line 5.
 LaTeX Info: Redefining \Ref on input line 5.
 
 ABD: EveryShipout initializing macros
-<./images/couvertureFlo.png, id=39, 595.9866pt x 845.0772pt>
+<./images/couvertureFlo.png, id=47, 595.9866pt x 845.0772pt>
 File: ./images/couvertureFlo.png Graphic file (type png)
 
 <use ./images/couvertureFlo.png>
@@ -1078,7 +1085,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 12--12
 
  []
 
-<./images/logo_flo.pdf, id=47, 252.39996pt x 41.93597pt>
+<./images/logo_flo.pdf, id=55, 252.39996pt x 41.93597pt>
 File: ./images/logo_flo.pdf Graphic file (type pdf)
 
 <use ./images/logo_flo.pdf>
@@ -1100,7 +1107,7 @@ ges/logo_flo.pdf>] [3] [4
 
 ]
 (./sources/clavier.tex
-<./images/generales/clavierTouches.png, id=105, 847.4862pt x 351.714pt>
+<./images/generales/clavierTouches.png, id=119, 847.4862pt x 351.714pt>
 File: ./images/generales/clavierTouches.png Graphic file (type png)
 
 <use ./images/generales/clavierTouches.png>
@@ -1122,64 +1129,64 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 ]
 (./sources/teams/teams_accueil.tex
 Chapitre 1.
-<./images/chapitreVinci.png, id=118, 597.23125pt x 284.06125pt>
+<./images/chapitreVinci.png, id=132, 597.23125pt x 284.06125pt>
 File: ./images/chapitreVinci.png Graphic file (type png)
 
 <use ./images/chapitreVinci.png>
 Package pdftex.def Info: ./images/chapitreVinci.png used on input line 1.
 (pdftex.def)             Requested size: 597.50787pt x 284.21223pt.
-LaTeX Font Info:    Try loading font information for T1+lmtt on input line 10.
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 11.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 10.
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 11.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 10.
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 11.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 10.
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 11.
 
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 10.
+(Font)              <12> on input line 11.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 10.
+(Font)              <8> on input line 11.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 10.
+(Font)              <6> on input line 11.
 
-<./images/teams/ecran_office_com_crop.png, id=120, 440.64626pt x 308.15125pt>
+<./images/teams/ecran_office_com_crop.png, id=134, 440.64626pt x 308.15125pt>
 File: ./images/teams/ecran_office_com_crop.png Graphic file (type png)
 
 <use ./images/teams/ecran_office_com_crop.png>
 Package pdftex.def Info: ./images/teams/ecran_office_com_crop.png used on input
- line 13.
+ line 14.
 (pdftex.def)             Requested size: 142.26378pt x 99.48497pt.
 
-<./images/teams/ecran_connexion_office_com_crop.png, id=121, 461.725pt x 392.46
+<./images/teams/ecran_connexion_office_com_crop.png, id=135, 461.725pt x 392.46
 625pt>
 File: ./images/teams/ecran_connexion_office_com_crop.png Graphic file (type png
 )
  <use ./images/teams/ecran_connexion_office_com_crop.png>
 Package pdftex.def Info: ./images/teams/ecran_connexion_office_com_crop.png use
-d on input line 20.
+d on input line 21.
 (pdftex.def)             Requested size: 142.26378pt x 120.92068pt.
 
-<./images/teams/ecran_connexion_florimont_crop.png, id=122, 524.96124pt x 403.5
+<./images/teams/ecran_connexion_florimont_crop.png, id=136, 524.96124pt x 403.5
 075pt>
 File: ./images/teams/ecran_connexion_florimont_crop.png Graphic file (type png)
 
  <use ./images/teams/ecran_connexion_florimont_crop.png>
 Package pdftex.def Info: ./images/teams/ecran_connexion_florimont_crop.png used
- on input line 27.
+ on input line 28.
 (pdftex.def)             Requested size: 142.26378pt x 109.34868pt.
 
 
@@ -1189,201 +1196,216 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
  <./images/chapitreVinci.png> <./images/teams/ecran_office_com_crop.png> <./ima
 ges/teams/ecran_connexion_office_com_crop.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 31--32
+Underfull \hbox (badness 10000) in paragraph at lines 32--33
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 33--34
+Underfull \hbox (badness 10000) in paragraph at lines 34--35
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 35--36
+Underfull \hbox (badness 10000) in paragraph at lines 36--37
 
  []
 
 
-<./images/teams/ecran_installer_teams_crop.png, id=130, 668.4975pt x 274.02374p
+<./images/teams/ecran_installer_teams_crop.png, id=144, 459.7175pt x 191.71625p
 t>
 File: ./images/teams/ecran_installer_teams_crop.png Graphic file (type png)
  <use ./images/teams/ecran_installer_teams_crop.png>
 Package pdftex.def Info: ./images/teams/ecran_installer_teams_crop.png used on 
-input line 40.
-(pdftex.def)             Requested size: 170.71652pt x 69.97757pt.
+input line 41.
+(pdftex.def)             Requested size: 170.71652pt x 71.19424pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 44--45
+Underfull \hbox (badness 10000) in paragraph at lines 45--46
 
  []
 
-[2 <./images/teams/ecran_connexion_florimont_crop.png> <./images/teams/ecran_in
-staller_teams_crop.png>]
-<./images/teams/ecran_accueil_office_crop.png, id=136, 518.93875pt x 664.4825pt
+
+<./images/teams/ecran_accueil_office_crop.png, id=145, 518.93875pt x 664.4825pt
 >
 File: ./images/teams/ecran_accueil_office_crop.png Graphic file (type png)
  <use ./images/teams/ecran_accueil_office_crop.png>
 Package pdftex.def Info: ./images/teams/ecran_accueil_office_crop.png used on i
-nput line 49.
+nput line 50.
 (pdftex.def)             Requested size: 142.26378pt x 182.16039pt.
 
-<./images/teams/accueil_liste.png, id=137, 356.33125pt x 725.71124pt>
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [2 <./images/teams/ecran_connexion_florimont_crop.png> <./images/teams/ecran_i
+nstaller_teams_crop.png>]
+<./images/teams/accueil_liste.png, id=151, 356.33125pt x 725.71124pt>
 File: ./images/teams/accueil_liste.png Graphic file (type png)
 
 <use ./images/teams/accueil_liste.png>
-Package pdftex.def Info: ./images/teams/accueil_liste.png used on input line 63
+Package pdftex.def Info: ./images/teams/accueil_liste.png used on input line 64
 .
 (pdftex.def)             Requested size: 113.81102pt x 231.7894pt.
- [3 <./images/teams/ecran_accueil_office_crop.png> <./images/teams/accueil_list
-e.png>]
-<./images/teams/accueil_grille.png, id=142, 895.345pt x 662.475pt>
+
+<./images/teams/accueil_grille.png, id=152, 895.345pt x 662.475pt>
 File: ./images/teams/accueil_grille.png Graphic file (type png)
 
 <use ./images/teams/accueil_grille.png>
 Package pdftex.def Info: ./images/teams/accueil_grille.png used on input line 7
-0.
+1.
 (pdftex.def)             Requested size: 199.16928pt x 147.36232pt.
 
-<./images/teams/bouton_parametres.png, id=143, 48.18pt x 39.14626pt>
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [3 <./images/teams/ecran_accueil_office_crop.png> <./images/teams/accueil_list
+e.png>]
+<./images/teams/bouton_parametres.png, id=157, 48.18pt x 39.14626pt>
 File: ./images/teams/bouton_parametres.png Graphic file (type png)
 
 <use ./images/teams/bouton_parametres.png>
 Package pdftex.def Info: ./images/teams/bouton_parametres.png used on input lin
-e 74.
-(pdftex.def)             Requested size: 19.91684pt x 16.18207pt.
- [4 <./images/teams/accueil_grille.png> <./images/teams/bouton_parametres.png>]
+e 75.
+(pdftex.def)             Requested size: 22.76228pt x 18.49431pt.
 
-<./images/teams/changement_liste.png, id=148, 543.02875pt x 132.495pt>
+<./images/teams/changement_liste.png, id=158, 543.02875pt x 132.495pt>
 File: ./images/teams/changement_liste.png Graphic file (type png)
 
 <use ./images/teams/changement_liste.png>
 Package pdftex.def Info: ./images/teams/changement_liste.png used on input line
- 77.
+ 78.
 (pdftex.def)             Requested size: 227.62204pt x 55.53833pt.
 
-<./images/teams/choix_parametre.png, id=149, 775.89874pt x 576.1525pt>
+<./images/teams/choix_parametre.png, id=159, 775.89874pt x 576.1525pt>
 File: ./images/teams/choix_parametre.png Graphic file (type png)
 
 <use ./images/teams/choix_parametre.png>
 Package pdftex.def Info: ./images/teams/choix_parametre.png used on input line 
-84.
+85.
 (pdftex.def)             Requested size: 227.62204pt x 169.02283pt.
 
-<./images/teams/entree_classe.png, id=150, 895.345pt x 282.05376pt>
+<./images/teams/entree_classe.png, id=160, 895.345pt x 282.05376pt>
 File: ./images/teams/entree_classe.png Graphic file (type png)
 
 <use ./images/teams/entree_classe.png>
-Package pdftex.def Info: ./images/teams/entree_classe.png used on input line 91
+Package pdftex.def Info: ./images/teams/entree_classe.png used on input line 92
 .
 (pdftex.def)             Requested size: 227.62204pt x 71.7054pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 100--101
+ [4 <./images/teams/accueil_grille.png> <./images/teams/bouton_parametres.png> 
+<./images/teams/changement_liste.png> <./images/teams/choix_parametre.png> <./i
+mages/teams/entree_classe.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 101--102
 
  []
 
-<./images/teams/publications.png, id=151, 512.91624pt x 118.4425pt>
+<./images/teams/publications.png, id=165, 512.91624pt x 118.4425pt>
 File: ./images/teams/publications.png Graphic file (type png)
 
 <use ./images/teams/publications.png>
-Package pdftex.def Info: ./images/teams/publications.png used on input line 105
+Package pdftex.def Info: ./images/teams/publications.png used on input line 106
 .
 (pdftex.def)             Requested size: 227.62204pt x 52.56305pt.
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<./images/teams/publications2.png, id=152, 682.55pt x 82.3075pt>
+<./images/teams/publications2.png, id=166, 682.55pt x 82.3075pt>
 File: ./images/teams/publications2.png Graphic file (type png)
 
 <use ./images/teams/publications2.png>
 Package pdftex.def Info: ./images/teams/publications2.png used on input line 11
-2.
+3.
 (pdftex.def)             Requested size: 227.62204pt x 27.44789pt.
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<./images/teams/envoi_message.png, id=153, 29.10875pt x 26.0975pt>
+<./images/teams/envoi_message.png, id=167, 29.10875pt x 26.0975pt>
 File: ./images/teams/envoi_message.png Graphic file (type png)
 
 <use ./images/teams/envoi_message.png>
 Package pdftex.def Info: ./images/teams/envoi_message.png used on input line 11
-6.
+7.
 (pdftex.def)             Requested size: 19.91684pt x 17.85715pt.
 
-<./images/teams/publications3.png, id=154, 691.58376pt x 145.54375pt>
+<./images/teams/publications3.png, id=168, 691.58376pt x 145.54375pt>
 File: ./images/teams/publications3.png Graphic file (type png)
 
 <use ./images/teams/publications3.png>
-Package pdftex.def Info: ./images/teams/publications3.png used on input line 11
-9.
+Package pdftex.def Info: ./images/teams/publications3.png used on input line 12
+0.
 (pdftex.def)             Requested size: 227.62204pt x 47.90298pt.
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 135--136
+Underfull \hbox (badness 10000) in paragraph at lines 137--138
 
  []
 
-[5 <./images/teams/changement_liste.png> <./images/teams/choix_parametre.png> <
-./images/teams/entree_classe.png> <./images/teams/envoi_message.png>]
-<./images/teams/devoir1.png, id=160, 590.205pt x 159.59625pt>
+<./images/teams/devoir1.png, id=169, 590.205pt x 159.59625pt>
 File: ./images/teams/devoir1.png Graphic file (type png)
 
 <use ./images/teams/devoir1.png>
-Package pdftex.def Info: ./images/teams/devoir1.png used on input line 138.
+Package pdftex.def Info: ./images/teams/devoir1.png used on input line 140.
 (pdftex.def)             Requested size: 227.62204pt x 61.55066pt.
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 142--143
+Underfull \hbox (badness 10000) in paragraph at lines 144--145
 
  []
 
-<./images/teams/devoir2.png, id=161, 591.20876pt x 314.17375pt>
+[5 <./images/teams/publications.png> <./images/teams/publications2.png> <./imag
+es/teams/envoi_message.png> <./images/teams/publications3.png> <./images/teams/
+devoir1.png>] <./images/teams/devoir2.png, id=175, 591.20876pt x 314.17375pt>
 File: ./images/teams/devoir2.png Graphic file (type png)
 
 <use ./images/teams/devoir2.png>
-Package pdftex.def Info: ./images/teams/devoir2.png used on input line 145.
+Package pdftex.def Info: ./images/teams/devoir2.png used on input line 147.
 (pdftex.def)             Requested size: 227.62204pt x 120.95966pt.
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[6 <./images/teams/publications.png> <./images/teams/publications2.png>]
-<./images/teams/devoir3.png, id=166, 780.9175pt x 536.0025pt>
+<./images/teams/devoir3.png, id=176, 780.9175pt x 536.0025pt>
 File: ./images/teams/devoir3.png Graphic file (type png)
 
 <use ./images/teams/devoir3.png>
-Package pdftex.def Info: ./images/teams/devoir3.png used on input line 152.
+Package pdftex.def Info: ./images/teams/devoir3.png used on input line 154.
 (pdftex.def)             Requested size: 227.62204pt x 156.23007pt.
 
+<./images/teams/pointilles.png, id=177, 46.1725pt x 40.15pt>
+File: ./images/teams/pointilles.png Graphic file (type png)
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+<use ./images/teams/pointilles.png>
+Package pdftex.def Info: ./images/teams/pointilles.png used on input line 158.
+(pdftex.def)             Requested size: 19.91684pt x 17.31868pt.
+
+<./images/teams/choix_pointilles.png, id=178, 744.7825pt x 193.72375pt>
+File: ./images/teams/choix_pointilles.png Graphic file (type png)
+
+<use ./images/teams/choix_pointilles.png>
+Package pdftex.def Info: ./images/teams/choix_pointilles.png used on input line
+ 161.
+(pdftex.def)             Requested size: 256.0748pt x 66.60715pt.
+
+<./images/teams/selection_devoir.png, id=179, 864.22874pt x 580.1675pt>
+File: ./images/teams/selection_devoir.png Graphic file (type png)
+
+<use ./images/teams/selection_devoir.png>
+Package pdftex.def Info: ./images/teams/selection_devoir.png used on input line
+ 170.
+(pdftex.def)             Requested size: 284.52756pt x 191.00436pt.
+
+Underfull \vbox (badness 1237) has occurred while \output is active []
+
+ [6 <./images/teams/devoir2.png> <./images/teams/devoir3.png> <./images/teams/p
+ointilles.png> <./images/teams/choix_pointilles.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 174--175
+
+ []
 
 )
 No file nouveau_livret_MITIC_6e.ind.
-[7 <./images/teams/publications3.png> <./images/teams/devoir1.png>]
+[7 <./images/teams/selection_devoir.png>]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 45.
- [8 <./images/teams/devoir2.png> <./images/teams/devoir3.png>]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 45.
-
-(./nouveau_livret_MITIC_6e.aux)
+ (./nouveau_livret_MITIC_6e.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 45.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 45.
 Package rerunfilecheck Info: File `nouveau_livret_MITIC_6e.out' has not changed
 .
-(rerunfilecheck)             Checksum: 975E36BE38A371EB87DD2DA8C729A237;586.
+(rerunfilecheck)             Checksum: C170E20BCEC33C716D5C9C926A5E8A66;761.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 45.
  ) 
 Here is how much of TeX's memory you used:
- 17924 strings out of 493014
- 330766 string characters out of 6133351
- 399507 words of memory out of 5000000
- 21045 multiletter control sequences out of 15000+600000
+ 17996 strings out of 493014
+ 332066 string characters out of 6133351
+ 400763 words of memory out of 5000000
+ 21109 multiletter control sequences out of 15000+600000
  71434 words of font info for 45 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  62i,12n,56p,618b,1075s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1398,10 +1420,10 @@ cal/texlive/2016/texmf-dist/fonts/type1/public/lm/lmro12.pfb></usr/local/texliv
 e/2016/texmf-dist/fonts/type1/public/lm/lmro8.pfb></usr/local/texlive/2016/texm
 f-dist/fonts/type1/public/lm/lmsy10.pfb></usr/local/texlive/2016/texmf-dist/fon
 ts/type1/public/lm/lmtt12.pfb>
-Output written on nouveau_livret_MITIC_6e.pdf (16 pages, 2909838 bytes).
+Output written on nouveau_livret_MITIC_6e.pdf (15 pages, 3013471 bytes).
 PDF statistics:
- 219 PDF objects out of 1000 (max. 8388607)
- 155 compressed objects within 2 object streams
- 27 named destinations out of 1000 (max. 500000)
- 187 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 232 PDF objects out of 1000 (max. 8388607)
+ 164 compressed objects within 2 object streams
+ 28 named destinations out of 1000 (max. 500000)
+ 218 words of extra memory for PDF output out of 10000 (max. 10000000)
 
