@@ -9,7 +9,7 @@
 
 \frontmatter
 
-\titlePage[./images/couvertureFlo]{Informatique 6\up{e}}{Fiches MITIC}{Institut Florimont}{\textcopyright\ Tout droit réservé. Crédit photographie couverture : Institut Florimont. Illustration des premières pages de chapitre issue de \emph{Codex Leicester} de Leonardo da Vinci (domaine public).  \\ Auteurs : N. Samarine et S. Robin \\ Version : septembre 2020 \\ 1\up{e} édition \\ Petit-Lancy (Suisse)} 
+\titlePage[./images/couvertureFlo]{Informatique 6\up{e}}{Fiches MITIC Teams}{Institut Florimont}{\textcopyright\ Tout droit réservé. Crédit photographie couverture : Institut Florimont. Illustration des premières pages de chapitre issue de \emph{Codex Leicester} de Leonardo da Vinci (domaine public). \\ Version : septembre 2020 \\ 1\up{e} édition \\ Petit-Lancy (Suisse)} 
 
 % TOC
 \pagestyle{empty} % No headers
@@ -18,12 +18,12 @@
 \cleardoublepage % Forces the first chapter to start on an odd page so it's on the right
 \pagestyle{fancy} % Print headers again
 
-\cleardoublepage % on force une page impaire
-\input{./sources/planning.tex}
-\cleardoublepage % on force une page impaire pour le clavier
+%\cleardoublepage % on force une page impaire
+%\input{./sources/planning.tex}
+%\cleardoublepage % on force une page impaire pour le clavier
 \input{./sources/clavier.tex}
-\cleardoublepage % on force une page impaire pour la philosophie du document
-\input{./sources/philosophie.tex}
+%\cleardoublepage % on force une page impaire pour la philosophie du document
+%\input{./sources/philosophie.tex}
 
 % Début des chapitres
 %\setcounter{page}{1} % si on veut forcer la page 1 au début du premier chapitre
@@ -31,13 +31,14 @@
 %
   
 \chapterImage{./images/chapitreVinci}
-\input{./sources/tableur01/tableur01.tex}
-\input{./sources/texte01/texte01.tex}
-\input{./sources/presentation01/presentation01.tex}
-\input{./sources/image01/image01.tex}
-\input{./sources/scratch01/scratch01.tex}
-\input{./sources/methode/Moodle.tex}
-\input{./sources/ideesProjets.tex}
+\input{./sources/teams/teams_accueil.tex}
+%\input{./sources/tableur01/tableur01.tex}
+%\input{./sources/texte01/texte01.tex}
+%\input{./sources/presentation01/presentation01.tex}
+%\input{./sources/image01/image01.tex}
+%\input{./sources/scratch01/scratch01.tex}
+%\input{./sources/methode/Moodle.tex}
+%\input{./sources/ideesProjets.tex}
 
 \printindex % il faut utiliser en console "makeindex monfichier.idx" pour faire afficher l'index
 
