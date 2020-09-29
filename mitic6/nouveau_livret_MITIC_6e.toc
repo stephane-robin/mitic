@@ -4,9 +4,9 @@
 \contentsline {section}{\numberline {2}Apparence de la page d'accueil}{3}{section.1.2}
 \contentsline {section}{\numberline {3}Utilisation de la Publication}{5}{section.1.3}
 \contentsline {section}{\numberline {4}Consulter et t\IeC {\'e}l\IeC {\'e}charger un document}{5}{section.1.4}
-\contentsline {section}{\numberline {5}D\IeC {\'e}poser un devoir}{5}{section.1.5}
-\contentsline {subsection}{\numberline {5.1}Consulter le sujet d'un devoir en pi\IeC {\`e}ce jointe}{5}{subsection.1.5.1}
-\contentsline {subsection}{\numberline {5.2}Remettre son devoir}{6}{subsection.1.5.2}
-\contentsline {section}{\numberline {6}Acc\IeC {\'e}der \IeC {\`a} mon carnet}{8}{section.1.6}
-\contentsline {section}{\numberline {7}Rejoindre une visio-conf\IeC {\'e}rence}{8}{section.1.7}
+\contentsline {section}{\numberline {5}D\IeC {\'e}poser un devoir}{7}{section.1.5}
+\contentsline {subsection}{\numberline {5.1}Consulter le sujet d'un devoir en pi\IeC {\`e}ce jointe}{7}{subsection.1.5.1}
+\contentsline {subsection}{\numberline {5.2}Remettre son devoir}{7}{subsection.1.5.2}
+\contentsline {section}{\numberline {6}Acc\IeC {\'e}der \IeC {\`a} mon carnet}{9}{section.1.6}
+\contentsline {section}{\numberline {7}Rejoindre une t\IeC {\'e}l\IeC {\'e}conf\IeC {\'e}rence}{11}{section.1.7}
 \contentsfinish 
