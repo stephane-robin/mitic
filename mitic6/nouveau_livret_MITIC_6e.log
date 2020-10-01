@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2018.8.21)  29 SEP 2020 16:52
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2018.8.21)  1 OCT 2020 17:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1397,17 +1397,18 @@ File: ./images/teams/devoir3.png Graphic file (type png)
 Package pdftex.def Info: ./images/teams/devoir3.png used on input line 212.
 (pdftex.def)             Requested size: 256.0748pt x 168.73636pt.
 
+Underfull \vbox (badness 2512) has occurred while \output is active []
 
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<./images/teams/pointilles.png, id=187, 46.1725pt x 40.15pt>
+ [7 <./images/teams/telecharger2_crop.png> <./images/teams/devoir1.png> <./imag
+es/teams/devoir2.png>] <./images/teams/pointilles.png, id=192, 46.1725pt x 40.1
+5pt>
 File: ./images/teams/pointilles.png Graphic file (type png)
 
 <use ./images/teams/pointilles.png>
 Package pdftex.def Info: ./images/teams/pointilles.png used on input line 216.
 (pdftex.def)             Requested size: 19.91684pt x 17.31868pt.
 
-<./images/teams/choix_pointilles.png, id=188, 744.7825pt x 193.72375pt>
+<./images/teams/choix_pointilles.png, id=193, 744.7825pt x 193.72375pt>
 File: ./images/teams/choix_pointilles.png Graphic file (type png)
 
 <use ./images/teams/choix_pointilles.png>
@@ -1415,34 +1416,31 @@ Package pdftex.def Info: ./images/teams/choix_pointilles.png used on input line
  219.
 (pdftex.def)             Requested size: 256.0748pt x 66.60715pt.
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<./images/teams/ajout.png, id=189, 743.77875pt x 126.4725pt>
+<./images/teams/ajout.png, id=194, 743.77875pt x 126.4725pt>
 File: ./images/teams/ajout.png Graphic file (type png)
 
 <use ./images/teams/ajout.png>
 Package pdftex.def Info: ./images/teams/ajout.png used on input line 228.
 (pdftex.def)             Requested size: 256.0748pt x 43.54428pt.
- [7 <./images/teams/telecharger2_crop.png> <./images/teams/devoir1.png> <./imag
-es/teams/devoir2.png> <./images/teams/pointilles.png>] <./images/teams/selectio
-n_devoir.png, id=195, 864.22874pt x 580.1675pt>
+
+<./images/teams/selection_devoir.png, id=195, 864.22874pt x 580.1675pt>
 File: ./images/teams/selection_devoir.png Graphic file (type png)
 
 <use ./images/teams/selection_devoir.png>
 Package pdftex.def Info: ./images/teams/selection_devoir.png used on input line
  235.
 (pdftex.def)             Requested size: 312.9803pt x 210.10835pt.
-
-<./images/teams/ajout2.png, id=196, 848.16875pt x 543.02875pt>
+ [8 <./images/teams/devoir3.png> <./images/teams/pointilles.png> <./images/team
+s/choix_pointilles.png> <./images/teams/ajout.png> <./images/teams/selection_de
+voir.png>]
+<./images/teams/ajout2.png, id=200, 848.16875pt x 543.02875pt>
 File: ./images/teams/ajout2.png Graphic file (type png)
 
 <use ./images/teams/ajout2.png>
 Package pdftex.def Info: ./images/teams/ajout2.png used on input line 242.
 (pdftex.def)             Requested size: 256.0748pt x 163.94562pt.
- [8 <./images/teams/devoir3.png> <./images/teams/choix_pointilles.png> <./image
-s/teams/ajout.png> <./images/teams/selection_devoir.png>] <./images/teams/ajout
-3.png, id=201, 743.77875pt x 263.98625pt>
+
+<./images/teams/ajout3.png, id=201, 743.77875pt x 263.98625pt>
 File: ./images/teams/ajout3.png Graphic file (type png)
 
 <use ./images/teams/ajout3.png>
@@ -1455,6 +1453,10 @@ File: ./images/teams/ajout4.png Graphic file (type png)
 <use ./images/teams/ajout4.png>
 Package pdftex.def Info: ./images/teams/ajout4.png used on input line 256.
 (pdftex.def)             Requested size: 256.0748pt x 44.83711pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 264--265
+
+ []
 
 <./images/teams/acces_bloc_notes_crop.png, id=203, 593.21625pt x 93.34875pt>
 File: ./images/teams/acces_bloc_notes_crop.png Graphic file (type png)
@@ -1471,12 +1473,9 @@ File: ./images/teams/ouvrir_menu_bloc_notes_crop.png Graphic file (type png)
 Package pdftex.def Info: ./images/teams/ouvrir_menu_bloc_notes_crop.png used on
  input line 276.
 (pdftex.def)             Requested size: 312.9803pt x 90.19981pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-<./images/teams/ouvrir_liste_dossiers_docs_crop.png, id=205, 379.4175pt x 240.9
+ [9 <./images/teams/ajout2.png> <./images/teams/ajout3.png> <./images/teams/ajo
+ut4.png> <./images/teams/acces_bloc_notes_crop.png>]
+<./images/teams/ouvrir_liste_dossiers_docs_crop.png, id=209, 379.4175pt x 240.9
 pt>
 File: ./images/teams/ouvrir_liste_dossiers_docs_crop.png Graphic file (type png
 )
@@ -1484,8 +1483,17 @@ File: ./images/teams/ouvrir_liste_dossiers_docs_crop.png Graphic file (type png
 Package pdftex.def Info: ./images/teams/ouvrir_liste_dossiers_docs_crop.png use
 d on input line 283.
 (pdftex.def)             Requested size: 170.71652pt x 108.39296pt.
- [9 <./images/teams/ajout2.png> <./images/teams/ajout3.png> <./images/teams/ajo
-ut4.png> <./images/teams/acces_bloc_notes_crop.png>]
+
+Underfull \hbox (badness 10000) in paragraph at lines 287--288
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 289--290
+
+ []
+
+
 <./images/teams/sous_section_documents_crop.png, id=210, 1060.96375pt x 676.527
 5pt>
 File: ./images/teams/sous_section_documents_crop.png Graphic file (type png)
@@ -1493,9 +1501,6 @@ File: ./images/teams/sous_section_documents_crop.png Graphic file (type png)
 Package pdftex.def Info: ./images/teams/sous_section_documents_crop.png used on
  input line 294.
 (pdftex.def)             Requested size: 284.52756pt x 181.4261pt.
-
-Underfull \vbox (badness 1281) has occurred while \output is active []
-
  [10 <./images/teams/ouvrir_menu_bloc_notes_crop.png> <./images/teams/ouvrir_li
 ste_dossiers_docs_crop.png> <./images/teams/sous_section_documents_crop.png>]
 <./images/teams/video1.png, id=215, 735.74875pt x 204.765pt>
@@ -1544,7 +1549,7 @@ cal/texlive/2016/texmf-dist/fonts/type1/public/lm/lmro12.pfb></usr/local/texliv
 e/2016/texmf-dist/fonts/type1/public/lm/lmro8.pfb></usr/local/texlive/2016/texm
 f-dist/fonts/type1/public/lm/lmsy10.pfb></usr/local/texlive/2016/texmf-dist/fon
 ts/type1/public/lm/lmtt12.pfb>
-Output written on nouveau_livret_MITIC_6e.pdf (19 pages, 3502740 bytes).
+Output written on nouveau_livret_MITIC_6e.pdf (19 pages, 3504264 bytes).
 PDF statistics:
  266 PDF objects out of 1000 (max. 8388607)
  178 compressed objects within 2 object streams
