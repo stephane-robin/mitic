@@ -21,7 +21,7 @@
 \LoadClass[12pt,fleqn]{book}
 
 % on règle les marges avec le package geometry
-% 
+%
 \usepackage[a4paper,headsep=10pt,top=3cm,bottom=3cm,inner=3cm,outer=2cm]{geometry}
 %
 %
@@ -29,7 +29,7 @@
 % puis téléchargement sur www.ctan.org (le .zip))
 % cela donne :	cd ~/.texmf
 %		wget http://mirrors.ctan.org/fonts/emerald.zip
-%		unzip emerald.zip 
+%		unzip emerald.zip
 %		rm emerald.zip README
 %		cp -R emerald/*
 %		rm -R emerald
@@ -56,7 +56,7 @@
 
 
 % packages généraux
-\usepackage{ifthen}		% pour des conditions de compilations	    	
+\usepackage{ifthen}		% pour des conditions de compilations
 \usepackage[linktoc=all,hidelinks]{hyperref} % pour les hyperliens
 % hidelinks permet de cacher les boîtes rouges autour des liens
 % si version < 2012, il faut ajouter, pour cacher les boîtes rouges :
@@ -75,7 +75,7 @@
 
 
 %
-% Page de titre : 
+% Page de titre :
 % [#1] image de fond #2 titre #3 sous-titre #4 auteur #5 info additionnel (on peut laisser blanc si non utilisé)
 %
 \newcommand{\titlePage}[5][backgroundImage]{
@@ -108,16 +108,16 @@
     \ifthenelse{\equal{#5}{}}{		% ici ce qu'on doit faire si test vrai
 			     }
 	 		     {		% ici ce qu'on doit faire si test faux
-			     \noindent #5\\ 
+			     \noindent #5\\
 
 			     \vspace{6pt}
-                             
+
                              \includegraphics[angle=0,width=5cm]{./images/logo_flo}\\
 			     %\includegraphics[angle=0,width=4cm]{./images/ccbysa} \hfill \includegraphics[angle=0,width=5cm]{./images/logo_flo}\\
 			     }
     \endgroup
 
-% 
+%
 % et rappel de la page de titre, sans l'image de fond
 %
 
@@ -152,7 +152,7 @@
 \usepackage{xcolor}		% permet de définir des couleurs
 %\definecolor{defaultColor}{rgb}{0,0.56,1}
 %\definecolor{defaultColor}{rgb}{.13,.28,.71}
-% ancienne defaultColor .67,.53,.45 
+% ancienne defaultColor .67,.53,.45
 \definecolor{defaultColor}{rgb}{.67,.53,.45} % brun clair
 \definecolor{black}{rgb}{0,0,0}
 
@@ -272,7 +272,7 @@
     \textbf{\textcolor{black}\thepage}
 }
 % bas de page
-\cfoot[\scriptsize{\textsl{Fiches MITIC 6\up{e}}}]{\scriptsize{\textsl{Institut Florimont}}}
+\cfoot[\scriptsize{\textsl{Fiches MITIC Teams}}]{\scriptsize{\textsl{Institut Florimont}}}
 %
 % espacement entre l'en-tête et le corps du document (13pt par défaut)
 %\setlength{\headsep}{16pt}
