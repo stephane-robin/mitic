@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2018.8.21)  3 NOV 2020 14:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2018.8.21)  12 NOV 2020 13:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -952,12 +952,6 @@ Writing index file nouveau_livret_MITIC_6e.idx
 LaTeX Warning: Label `modelePage' multiply defined.
 
 
-LaTeX Warning: Label `ficheTexte2' multiply defined.
-
-
-LaTeX Warning: Label `modelePage' multiply defined.
-
-
 LaTeX Warning: Label `ficheTexte3' multiply defined.
 
 )
@@ -1069,7 +1063,7 @@ LaTeX Info: Redefining \nameref on input line 5.
 LaTeX Info: Redefining \Ref on input line 5.
 
 ABD: EveryShipout initializing macros
-<./images/pageGarde2.png, id=143, 1192.455pt x 1806.75pt>
+<./images/pageGarde2.png, id=127, 1192.455pt x 1806.75pt>
 File: ./images/pageGarde2.png Graphic file (type png)
 
 <use ./images/pageGarde2.png>
@@ -1097,7 +1091,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 12--12
 
  []
 
-<./images/logo_flo.pdf, id=149, 252.39996pt x 41.93597pt>
+<./images/logo_flo.pdf, id=133, 252.39996pt x 41.93597pt>
 File: ./images/logo_flo.pdf Graphic file (type pdf)
 
 <use ./images/logo_flo.pdf>
@@ -1119,7 +1113,7 @@ ges/logo_flo.pdf>] [3] [4
 
 ]
 (./sources/clavier.tex
-<./images/generales/clavierTouches.png, id=287, 847.4862pt x 351.714pt>
+<./images/generales/clavierTouches.png, id=259, 847.4862pt x 351.714pt>
 File: ./images/generales/clavierTouches.png Graphic file (type png)
 
 <use ./images/generales/clavierTouches.png>
@@ -1141,7 +1135,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 ]
 (./sources/texte01/enonce_texte01.tex
 Chapitre 1.
-<./images/chapitreVinci.png, id=301, 597.23125pt x 284.06125pt>
+<./images/chapitreVinci.png, id=273, 597.23125pt x 284.06125pt>
 File: ./images/chapitreVinci.png Graphic file (type png)
 
 <use ./images/chapitreVinci.png>
@@ -1180,7 +1174,7 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 4.
 
-<./images/generales/loupe.png, id=304, 409.53pt x 42.1575pt>
+<./images/generales/loupe.png, id=276, 409.53pt x 42.1575pt>
 File: ./images/generales/loupe.png Graphic file (type png)
 
 <use ./images/generales/loupe.png>
@@ -1189,7 +1183,7 @@ Package pdftex.def Info: ./images/generales/loupe.png used on input line 43.
  [1
 
  <./images/chapitreVinci.png>]
-<./images/texte/loupeRecherche.png, id=313, 688.5725pt x 58.2175pt>
+<./images/texte/loupeRecherche.png, id=285, 688.5725pt x 58.2175pt>
 File: ./images/texte/loupeRecherche.png Graphic file (type png)
 
 <use ./images/texte/loupeRecherche.png>
@@ -1197,7 +1191,7 @@ Package pdftex.def Info: ./images/texte/loupeRecherche.png used on input line 4
 7.
 (pdftex.def)             Requested size: 688.5708pt x 58.21735pt.
 
-<./images/texte/WordOuverture.png, id=314, 667.49374pt x 301.125pt>
+<./images/texte/WordOuverture.png, id=286, 667.49374pt x 301.125pt>
 File: ./images/texte/WordOuverture.png Graphic file (type png)
 
 <use ./images/texte/WordOuverture.png>
@@ -1205,7 +1199,7 @@ Package pdftex.def Info: ./images/texte/WordOuverture.png used on input line 51
 .
 (pdftex.def)             Requested size: 667.49213pt x 301.12425pt.
 
-<./images/texte/WordPresentation.png, id=315, 739.76375pt x 583.17876pt>
+<./images/texte/WordPresentation.png, id=287, 739.76375pt x 583.17876pt>
 File: ./images/texte/WordPresentation.png Graphic file (type png)
 
 <use ./images/texte/WordPresentation.png>
@@ -1214,7 +1208,7 @@ Package pdftex.def Info: ./images/texte/WordPresentation.png used on input line
 (pdftex.def)             Requested size: 739.76193pt x 583.17734pt.
  [2 <./images/generales/loupe.png> <./images/texte/loupeRecherche.png> <./image
 s/texte/WordOuverture.png> <./images/texte/WordPresentation.png>]
-<./images/texte/WriterPresentation.png, id=322, 1114.1625pt x 302.12875pt>
+<./images/texte/WriterPresentation.png, id=294, 1114.1625pt x 302.12875pt>
 File: ./images/texte/WriterPresentation.png Graphic file (type png)
 
 <use ./images/texte/WriterPresentation.png>
@@ -1231,7 +1225,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 86--87
 
  []
 
-<./images/texte/WriterOuvrirFichier1.png, id=323, 537.207pt x 436.832pt>
+<./images/texte/WriterOuvrirFichier1.png, id=295, 537.207pt x 436.832pt>
 File: ./images/texte/WriterOuvrirFichier1.png Graphic file (type png)
 
 <use ./images/texte/WriterOuvrirFichier1.png>
@@ -1239,7 +1233,7 @@ Package pdftex.def Info: ./images/texte/WriterOuvrirFichier1.png used on input
 line 91.
 (pdftex.def)             Requested size: 537.20569pt x 436.83093pt.
 
-<./images/texte/WriterOuvrirFichier2.png, id=324, 546.04pt x 402.303pt>
+<./images/texte/WriterOuvrirFichier2.png, id=296, 546.04pt x 402.303pt>
 File: ./images/texte/WriterOuvrirFichier2.png Graphic file (type png)
 
 <use ./images/texte/WriterOuvrirFichier2.png>
@@ -1248,7 +1242,7 @@ line 91.
 (pdftex.def)             Requested size: 546.03867pt x 402.302pt.
  [3 <./images/texte/WriterPresentation.png> <./images/texte/WriterOuvrirFichier
 1.png> <./images/texte/WriterOuvrirFichier2.png>]
-<./images/tableur/CalcEnregistrerFichier.png, id=333, 790.955pt x 113.42375pt>
+<./images/tableur/CalcEnregistrerFichier.png, id=305, 790.955pt x 113.42375pt>
 File: ./images/tableur/CalcEnregistrerFichier.png Graphic file (type png)
 
 <use ./images/tableur/CalcEnregistrerFichier.png>
@@ -1256,7 +1250,7 @@ Package pdftex.def Info: ./images/tableur/CalcEnregistrerFichier.png used on in
 put line 107.
 (pdftex.def)             Requested size: 790.95308pt x 113.42346pt.
 
-<./images/generales/clavierCmdS.png, id=334, 196.5744pt x 72.63135pt>
+<./images/generales/clavierCmdS.png, id=306, 196.5744pt x 72.63135pt>
 File: ./images/generales/clavierCmdS.png Graphic file (type png)
 
 <use ./images/generales/clavierCmdS.png>
@@ -1269,7 +1263,7 @@ Overfull \hbox (6.0pt too wide) in paragraph at lines 118--119
  []
 
 
-<./sources/texte01/LaBelleEtLaBeteFormatee.pdf, id=335, 597.23125pt x 845.1575p
+<./sources/texte01/LaBelleEtLaBeteFormatee.pdf, id=307, 597.23125pt x 845.1575p
 t>
 File: ./sources/texte01/LaBelleEtLaBeteFormatee.pdf Graphic file (type pdf)
  <use ./sources/texte01/LaBelleEtLaBeteFormatee.pdf>
@@ -1286,7 +1280,12 @@ Overfull \hbox (6.0pt too wide) in paragraph at lines 122--123
  []
 
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 156--157
+Underfull \hbox (badness 10000) in paragraph at lines 157--157
+
+ []
+
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 157--158
 [][][][][][][]
  []
 
@@ -1294,7 +1293,7 @@ Overfull \hbox (6.0pt too wide) in paragraph at lines 156--157
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [5 <./sources/texte01/LaBelleEtLaBeteFormatee.pdf>]
-<./sources/texte01/ExtraitGulliver6eFormate.pdf, id=368, 597.23125pt x 845.1575
+<./sources/texte01/ExtraitGulliver6eFormate.pdf, id=339, 597.23125pt x 845.1575
 pt>
 File: ./sources/texte01/ExtraitGulliver6eFormate.pdf Graphic file (type pdf)
  <use ./sources/texte01/ExtraitGulliver6eFormate.pdf>
@@ -1302,88 +1301,42 @@ Package pdftex.def Info: ./sources/texte01/ExtraitGulliver6eFormate.pdf used on
  input line 160.
 (pdftex.def)             Requested size: 341.43307pt x 483.17624pt.
 LaTeX Font Info:    Font shape `OMS/lmr/m/sl' in size <12> not available
-(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 171.
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 172.
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 171--172
+Underfull \hbox (badness 10000) in paragraph at lines 172--172
+
+ []
+
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 172--173
 [][][][][][][]
  []
 
 [6 <./sources/texte01/ExtraitGulliver6eFormate.pdf>]
-<./images/texte/WriterTexteMajuscule.png, id=399, 1110.1475pt x 525.965pt>
-File: ./images/texte/WriterTexteMajuscule.png Graphic file (type png)
 
-<use ./images/texte/WriterTexteMajuscule.png>
-Package pdftex.def Info: ./images/texte/WriterTexteMajuscule.png used on input 
-line 180.
-(pdftex.def)             Requested size: 1110.14479pt x 525.9637pt.
+LaTeX Warning: Reference `correction_texte02' on page 7 undefined on input line
+ 174.
 
-<./images/texte/WriterParagrapheEncadre.png, id=400, 993.7125pt x 446.66875pt>
-File: ./images/texte/WriterParagrapheEncadre.png Graphic file (type png)
 
-<use ./images/texte/WriterParagrapheEncadre.png>
-Package pdftex.def Info: ./images/texte/WriterParagrapheEncadre.png used on inp
-ut line 194.
-(pdftex.def)             Requested size: 993.71007pt x 446.66765pt.
- [7 <./images/texte/WriterTexteMajuscule.png>]
-Overfull \hbox (6.0pt too wide) in paragraph at lines 221--222
-[][][][][][][]
+Underfull \hbox (badness 10000) in paragraph at lines 189--189
+
  []
 
 
-LaTeX Warning: Hyper reference `MoodlePrendreDoc' on page 8 undefined on input 
-line 226.
+Overfull \hbox (6.0pt too wide) in paragraph at lines 189--190
+[][][][][][][]
+ []
 
-
-LaTeX Warning: Reference `MoodlePrendreDoc' on page 8 undefined on input line 2
-26.
-
-[8 <./images/texte/WriterParagrapheEncadre.png>]
-<./images/texte/WriterInsertionImage2.png, id=413, 642.4pt x 161.60374pt>
-File: ./images/texte/WriterInsertionImage2.png Graphic file (type png)
-
-<use ./images/texte/WriterInsertionImage2.png>
-Package pdftex.def Info: ./images/texte/WriterInsertionImage2.png used on input
- line 235.
-(pdftex.def)             Requested size: 642.39844pt x 161.60335pt.
-
-<./images/texte/WriterInsertionImage1.png, id=414, 534.798pt x 354.123pt>
-File: ./images/texte/WriterInsertionImage1.png Graphic file (type png)
-
-<use ./images/texte/WriterInsertionImage1.png>
-Package pdftex.def Info: ./images/texte/WriterInsertionImage1.png used on input
- line 239.
-(pdftex.def)             Requested size: 534.79669pt x 354.12212pt.
-
-<./images/texte/WriterInsertionImage3.png, id=415, 922.44624pt x 395.4775pt>
-File: ./images/texte/WriterInsertionImage3.png Graphic file (type png)
-
-<use ./images/texte/WriterInsertionImage3.png>
-Package pdftex.def Info: ./images/texte/WriterInsertionImage3.png used on input
- line 246.
-(pdftex.def)             Requested size: 922.44398pt x 395.47653pt.
-
-<./images/texte/WriterInsertionImage4.png, id=416, 656.4525pt x 544.0325pt>
-File: ./images/texte/WriterInsertionImage4.png Graphic file (type png)
-
-<use ./images/texte/WriterInsertionImage4.png>
-Package pdftex.def Info: ./images/texte/WriterInsertionImage4.png used on input
- line 248.
-(pdftex.def)             Requested size: 656.4509pt x 544.03117pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [9 <./images/texte/WriterInsertionImage2.png> <./images/texte/WriterInsertionI
-mage1.png> <./images/texte/WriterInsertionImage3.png>]) (./sources/texte01/text
-e01.tex
-<./images/texte/WriterFormatMenu.png, id=427, 265.99374pt x 225.84375pt>
+) (./sources/texte01/texte01.tex
+<./images/texte/WriterFormatMenu.png, id=369, 265.99374pt x 225.84375pt>
 File: ./images/texte/WriterFormatMenu.png Graphic file (type png)
 
 <use ./images/texte/WriterFormatMenu.png>
 Package pdftex.def Info: ./images/texte/WriterFormatMenu.png used on input line
  14.
 (pdftex.def)             Requested size: 265.99309pt x 225.84319pt.
-
-<./images/texte/WriterBoiteMarge.png, id=428, 714.67pt x 522.95375pt>
+ [7 <./images/texte/WriterFormatMenu.png>] <./images/texte/WriterBoiteMarge.png
+, id=375, 714.67pt x 522.95375pt>
 File: ./images/texte/WriterBoiteMarge.png Graphic file (type png)
 
 <use ./images/texte/WriterBoiteMarge.png>
@@ -1391,11 +1344,7 @@ Package pdftex.def Info: ./images/texte/WriterBoiteMarge.png used on input line
  18.
 (pdftex.def)             Requested size: 714.66824pt x 522.95247pt.
 
-Underfull \vbox (badness 4940) has occurred while \output is active []
-
- [10 <./images/texte/WriterInsertionImage4.png> <./images/texte/WriterFormatMen
-u.png>]
-<./images/texte/WriterEditionMenuSelectAll.png, id=435, 315.1775pt x 271.0125pt
+<./images/texte/WriterEditionMenuSelectAll.png, id=376, 315.1775pt x 271.0125pt
 >
 File: ./images/texte/WriterEditionMenuSelectAll.png Graphic file (type png)
  <use ./images/texte/WriterEditionMenuSelectAll.png>
@@ -1403,7 +1352,7 @@ Package pdftex.def Info: ./images/texte/WriterEditionMenuSelectAll.png used on
 input line 40.
 (pdftex.def)             Requested size: 315.17673pt x 271.01183pt.
 
-<./images/generales/clavierCmdA.png, id=436, 134.4222pt x 74.79945pt>
+<./images/generales/clavierCmdA.png, id=377, 134.4222pt x 74.79945pt>
 File: ./images/generales/clavierCmdA.png Graphic file (type png)
 
 <use ./images/generales/clavierCmdA.png>
@@ -1411,19 +1360,16 @@ Package pdftex.def Info: ./images/generales/clavierCmdA.png used on input line
 40.
 (pdftex.def)             Requested size: 134.42186pt x 74.79926pt.
 
-<./images/texte/WriterChangePolice.png, id=437, 901.3675pt x 393.47pt>
+<./images/texte/WriterChangePolice.png, id=378, 901.3675pt x 393.47pt>
 File: ./images/texte/WriterChangePolice.png Graphic file (type png)
 
 <use ./images/texte/WriterChangePolice.png>
 Package pdftex.def Info: ./images/texte/WriterChangePolice.png used on input li
 ne 45.
 (pdftex.def)             Requested size: 901.36528pt x 393.46902pt.
-
-Underfull \vbox (badness 3219) has occurred while \output is active []
-
- [11 <./images/texte/WriterBoiteMarge.png> <./images/texte/WriterEditionMenuSel
-ectAll.png> <./images/generales/clavierCmdA.png>]
-<./images/texte/WriterChangeTailleCaractere1.png, id=446, 434.62375pt x 225.843
+ [8 <./images/texte/WriterBoiteMarge.png> <./images/texte/WriterEditionMenuSele
+ctAll.png> <./images/generales/clavierCmdA.png>]
+<./images/texte/WriterChangeTailleCaractere1.png, id=386, 434.62375pt x 225.843
 75pt>
 File: ./images/texte/WriterChangeTailleCaractere1.png Graphic file (type png)
  <use ./images/texte/WriterChangeTailleCaractere1.png>
@@ -1431,7 +1377,7 @@ Package pdftex.def Info: ./images/texte/WriterChangeTailleCaractere1.png used o
 n input line 53.
 (pdftex.def)             Requested size: 434.62268pt x 225.84319pt.
 
-<./images/texte/WriterChangeTailleCaractere2.png, id=447, 436.63126pt x 227.851
+<./images/texte/WriterChangeTailleCaractere2.png, id=387, 436.63126pt x 227.851
 26pt>
 File: ./images/texte/WriterChangeTailleCaractere2.png Graphic file (type png)
  <use ./images/texte/WriterChangeTailleCaractere2.png>
@@ -1439,17 +1385,17 @@ Package pdftex.def Info: ./images/texte/WriterChangeTailleCaractere2.png used o
 n input line 53.
 (pdftex.def)             Requested size: 436.63019pt x 227.8507pt.
 
-<./images/texte/WriterCentrerTitre.png, id=448, 803.0pt x 320.19624pt>
+<./images/texte/WriterCentrerTitre.png, id=388, 803.0pt x 320.19624pt>
 File: ./images/texte/WriterCentrerTitre.png Graphic file (type png)
 
 <use ./images/texte/WriterCentrerTitre.png>
 Package pdftex.def Info: ./images/texte/WriterCentrerTitre.png used on input li
 ne 65.
 (pdftex.def)             Requested size: 802.99805pt x 320.19545pt.
- [12 <./images/texte/WriterChangePolice.png> <./images/texte/WriterChangeTaille
-Caractere1.png (PNG copy)> <./images/texte/WriterChangeTailleCaractere2.png (PN
-G copy)> <./images/texte/WriterCentrerTitre.png>]
-<./images/texte/WriterSouligne.png, id=455, 640.3925pt x 230.8625pt>
+ [9 <./images/texte/WriterChangePolice.png> <./images/texte/WriterChangeTailleC
+aractere1.png (PNG copy)> <./images/texte/WriterChangeTailleCaractere2.png (PNG
+ copy)> <./images/texte/WriterCentrerTitre.png>]
+<./images/texte/WriterSouligne.png, id=395, 640.3925pt x 230.8625pt>
 File: ./images/texte/WriterSouligne.png Graphic file (type png)
 
 <use ./images/texte/WriterSouligne.png>
@@ -1457,7 +1403,7 @@ Package pdftex.def Info: ./images/texte/WriterSouligne.png used on input line 8
 6.
 (pdftex.def)             Requested size: 640.39093pt x 230.86192pt.
 
-<./images/generales/clavierCmdU.png, id=456, 141.46852pt x 94.85437pt>
+<./images/generales/clavierCmdU.png, id=396, 141.46852pt x 94.85437pt>
 File: ./images/generales/clavierCmdU.png Graphic file (type png)
 
 <use ./images/generales/clavierCmdU.png>
@@ -1465,7 +1411,7 @@ Package pdftex.def Info: ./images/generales/clavierCmdU.png used on input line
 88.
 (pdftex.def)             Requested size: 141.46817pt x 94.85413pt.
 
-<./images/texte/WriterFonteGrasse.png, id=457, 559.08875pt x 248.93pt>
+<./images/texte/WriterFonteGrasse.png, id=397, 559.08875pt x 248.93pt>
 File: ./images/texte/WriterFonteGrasse.png Graphic file (type png)
 
 <use ./images/texte/WriterFonteGrasse.png>
@@ -1473,7 +1419,7 @@ Package pdftex.def Info: ./images/texte/WriterFonteGrasse.png used on input lin
 e 104.
 (pdftex.def)             Requested size: 559.08737pt x 248.92938pt.
 
-<./images/texte/WriterTexteItalique.png, id=458, 451.6875pt x 231.86626pt>
+<./images/texte/WriterTexteItalique.png, id=398, 451.6875pt x 231.86626pt>
 File: ./images/texte/WriterTexteItalique.png Graphic file (type png)
 
 <use ./images/texte/WriterTexteItalique.png>
@@ -1481,7 +1427,7 @@ Package pdftex.def Info: ./images/texte/WriterTexteItalique.png used on input l
 ine 104.
 (pdftex.def)             Requested size: 451.68639pt x 231.86568pt.
 
-<./images/generales/clavierCmdB.png, id=459, 141.46852pt x 94.85437pt>
+<./images/generales/clavierCmdB.png, id=399, 141.46852pt x 94.85437pt>
 File: ./images/generales/clavierCmdB.png Graphic file (type png)
 
 <use ./images/generales/clavierCmdB.png>
@@ -1489,17 +1435,17 @@ Package pdftex.def Info: ./images/generales/clavierCmdB.png used on input line
 109.
 (pdftex.def)             Requested size: 141.46817pt x 94.85413pt.
 
-<./images/generales/clavierCmdI.png, id=460, 141.46852pt x 94.85437pt>
+<./images/generales/clavierCmdI.png, id=400, 141.46852pt x 94.85437pt>
 File: ./images/generales/clavierCmdI.png Graphic file (type png)
 
 <use ./images/generales/clavierCmdI.png>
 Package pdftex.def Info: ./images/generales/clavierCmdI.png used on input line 
 109.
 (pdftex.def)             Requested size: 141.46817pt x 94.85413pt.
- [13 <./images/texte/WriterSouligne.png> <./images/generales/clavierCmdU.png> <
+ [10 <./images/texte/WriterSouligne.png> <./images/generales/clavierCmdU.png> <
 ./images/texte/WriterFonteGrasse.png> <./images/texte/WriterTexteItalique.png> 
 <./images/generales/clavierCmdB.png> <./images/generales/clavierCmdI.png>]
-<./images/texte/WriterCouleurPolice.png, id=471, 484.81125pt x 268.00125pt>
+<./images/texte/WriterCouleurPolice.png, id=411, 484.81125pt x 268.00125pt>
 File: ./images/texte/WriterCouleurPolice.png Graphic file (type png)
 
 <use ./images/texte/WriterCouleurPolice.png>
@@ -1507,16 +1453,16 @@ Package pdftex.def Info: ./images/texte/WriterCouleurPolice.png used on input l
 ine 127.
 (pdftex.def)             Requested size: 484.81006pt x 268.00058pt.
 
-<./images/texte/WriterMiseEnFormeParagraphe1.png, id=472, 893.739pt x 656.854pt
+<./images/texte/WriterMiseEnFormeParagraphe1.png, id=412, 893.739pt x 656.854pt
 >
 File: ./images/texte/WriterMiseEnFormeParagraphe1.png Graphic file (type png)
  <use ./images/texte/WriterMiseEnFormeParagraphe1.png>
 Package pdftex.def Info: ./images/texte/WriterMiseEnFormeParagraphe1.png used o
 n input line 153.
 (pdftex.def)             Requested size: 893.73682pt x 656.85239pt.
- [14 <./images/texte/WriterCouleurPolice.png> <./images/texte/WriterMiseEnForme
+ [11 <./images/texte/WriterCouleurPolice.png> <./images/texte/WriterMiseEnForme
 Paragraphe1.png>]
-<./images/texte/WriterMiseEnFormeParagraphe2.png, id=479, 542.828pt x 438.438pt
+<./images/texte/WriterMiseEnFormeParagraphe2.png, id=420, 542.828pt x 438.438pt
 >
 File: ./images/texte/WriterMiseEnFormeParagraphe2.png Graphic file (type png)
  <use ./images/texte/WriterMiseEnFormeParagraphe2.png>
@@ -1524,16 +1470,16 @@ Package pdftex.def Info: ./images/texte/WriterMiseEnFormeParagraphe2.png used o
 n input line 157.
 (pdftex.def)             Requested size: 542.82668pt x 438.43692pt.
 
-<./images/texte/WriterParagrapheJustifie.png, id=480, 882.497pt x 462.528pt>
+<./images/texte/WriterParagrapheJustifie.png, id=421, 882.497pt x 462.528pt>
 File: ./images/texte/WriterParagrapheJustifie.png Graphic file (type png)
 
 <use ./images/texte/WriterParagrapheJustifie.png>
 Package pdftex.def Info: ./images/texte/WriterParagrapheJustifie.png used on in
 put line 174.
 (pdftex.def)             Requested size: 882.49484pt x 462.52686pt.
- [15 <./images/texte/WriterMiseEnFormeParagraphe2.png> <./images/texte/WriterPa
+ [12 <./images/texte/WriterMiseEnFormeParagraphe2.png> <./images/texte/WriterPa
 ragrapheJustifie.png>]
-<./images/texte/WriterAlignerADroite.png, id=487, 941.116pt x 130.086pt>
+<./images/texte/WriterAlignerADroite.png, id=428, 941.116pt x 130.086pt>
 File: ./images/texte/WriterAlignerADroite.png Graphic file (type png)
 
 <use ./images/texte/WriterAlignerADroite.png>
@@ -1541,7 +1487,7 @@ Package pdftex.def Info: ./images/texte/WriterAlignerADroite.png used on input
 line 184.
 (pdftex.def)             Requested size: 941.11371pt x 130.08566pt.
 
-<./images/texte/WriterMenuFichier.png, id=488, 289.08pt x 445.665pt>
+<./images/texte/WriterMenuFichier.png, id=429, 289.08pt x 445.665pt>
 File: ./images/texte/WriterMenuFichier.png Graphic file (type png)
 
 <use ./images/texte/WriterMenuFichier.png>
@@ -1549,7 +1495,7 @@ Package pdftex.def Info: ./images/texte/WriterMenuFichier.png used on input lin
 e 194.
 (pdftex.def)             Requested size: 289.07928pt x 445.66391pt.
 
-<./images/texte/WriterBoiteExportPDF.png, id=489, 884.30376pt x 481.8pt>
+<./images/texte/WriterBoiteExportPDF.png, id=430, 884.30376pt x 481.8pt>
 File: ./images/texte/WriterBoiteExportPDF.png Graphic file (type png)
 
 <use ./images/texte/WriterBoiteExportPDF.png>
@@ -1557,7 +1503,7 @@ Package pdftex.def Info: ./images/texte/WriterBoiteExportPDF.png used on input
 line 194.
 (pdftex.def)             Requested size: 884.3016pt x 481.79881pt.
 
-<./images/texte/WriterIconePDF.png, id=490, 261.97874pt x 86.3225pt>
+<./images/texte/WriterIconePDF.png, id=431, 261.97874pt x 86.3225pt>
 File: ./images/texte/WriterIconePDF.png Graphic file (type png)
 
 <use ./images/texte/WriterIconePDF.png>
@@ -1569,10 +1515,10 @@ Overfull \hbox (6.79999pt too wide) in paragraph at lines 202--202
 [] 
  []
 
-[16 <./images/texte/WriterAlignerADroite.png> <./images/texte/WriterMenuFichier
+[13 <./images/texte/WriterAlignerADroite.png> <./images/texte/WriterMenuFichier
 .png> <./images/texte/WriterBoiteExportPDF.png> <./images/texte/WriterIconePDF.
 png>]
-<./images/methode/MoodleDevoirIcone1.png, id=499, 77.28876pt x 77.28876pt>
+<./images/methode/MoodleDevoirIcone1.png, id=440, 77.28876pt x 77.28876pt>
 File: ./images/methode/MoodleDevoirIcone1.png Graphic file (type png)
 
 <use ./images/methode/MoodleDevoirIcone1.png>
@@ -1581,14 +1527,14 @@ line 213.
 (pdftex.def)             Requested size: 18.2067pt x 18.20648pt.
 
 
-LaTeX Warning: Hyper reference `MoodleRendreDevoir' on page 17 undefined on inp
+LaTeX Warning: Hyper reference `MoodleRendreDevoir' on page 14 undefined on inp
 ut line 213.
 
 
-LaTeX Warning: Reference `MoodleRendreDevoir' on page 17 undefined on input lin
+LaTeX Warning: Reference `MoodleRendreDevoir' on page 14 undefined on input lin
 e 213.
 
-<./images/generales/clavierCmdF.png, id=500, 134.4222pt x 74.79945pt>
+<./images/generales/clavierCmdF.png, id=441, 134.4222pt x 74.79945pt>
 File: ./images/generales/clavierCmdF.png Graphic file (type png)
 
 <use ./images/generales/clavierCmdF.png>
@@ -1596,94 +1542,91 @@ Package pdftex.def Info: ./images/generales/clavierCmdF.png used on input line
 225.
 (pdftex.def)             Requested size: 134.42186pt x 74.79926pt.
 
-<./images/texte/WriterBarreRecherche.png, id=501, 856.801pt x 85.921pt>
+<./images/texte/WriterBarreRecherche.png, id=442, 856.801pt x 85.921pt>
 File: ./images/texte/WriterBarreRecherche.png Graphic file (type png)
 
 <use ./images/texte/WriterBarreRecherche.png>
 Package pdftex.def Info: ./images/texte/WriterBarreRecherche.png used on input 
 line 229.
 (pdftex.def)             Requested size: 856.7989pt x 85.92079pt.
-
-Overfull \hbox (6.0pt too wide) in paragraph at lines 257--258
-[][][][][][][]
- []
-
-[17 <./images/methode/MoodleDevoirIcone1.png (PNG copy)> <./images/generales/cl
-avierCmdF.png> <./images/texte/WriterBarreRecherche.png>]
-File: ./sources/texte01/ExtraitGulliver6eFormate.pdf Graphic file (type pdf)
-
-<use ./sources/texte01/ExtraitGulliver6eFormate.pdf>
-Package pdftex.def Info: ./sources/texte01/ExtraitGulliver6eFormate.pdf used on
- input line 261.
-(pdftex.def)             Requested size: 341.43307pt x 483.17624pt.
- [18]
+ [14 <./images/methode/MoodleDevoirIcone1.png (PNG copy)> <./images/generales/c
+lavierCmdF.png> <./images/texte/WriterBarreRecherche.png>]
+<./images/texte/WriterTexteMajuscule.png, id=451, 1110.1475pt x 525.965pt>
 File: ./images/texte/WriterTexteMajuscule.png Graphic file (type png)
 
 <use ./images/texte/WriterTexteMajuscule.png>
 Package pdftex.def Info: ./images/texte/WriterTexteMajuscule.png used on input 
-line 280.
+line 258.
 (pdftex.def)             Requested size: 1110.14479pt x 525.9637pt.
+
+<./images/texte/WriterParagrapheEncadre.png, id=452, 993.7125pt x 446.66875pt>
 File: ./images/texte/WriterParagrapheEncadre.png Graphic file (type png)
 
 <use ./images/texte/WriterParagrapheEncadre.png>
 Package pdftex.def Info: ./images/texte/WriterParagrapheEncadre.png used on inp
-ut line 294.
+ut line 272.
 (pdftex.def)             Requested size: 993.71007pt x 446.66765pt.
+ [15 <./images/texte/WriterTexteMajuscule.png> <./images/texte/WriterParagraphe
+Encadre.png>]
 
-Underfull \vbox (badness 1087) has occurred while \output is active []
-
- [19]
-Overfull \hbox (6.0pt too wide) in paragraph at lines 321--322
-[][][][][][][]
- []
+LaTeX Warning: Hyper reference `MoodlePrendreDoc' on page 16 undefined on input
+ line 301.
 
 
-LaTeX Warning: Hyper reference `MoodlePrendreDoc' on page 20 undefined on input
- line 326.
+LaTeX Warning: Reference `MoodlePrendreDoc' on page 16 undefined on input line 
+301.
 
-
-LaTeX Warning: Reference `MoodlePrendreDoc' on page 20 undefined on input line 
-326.
-
-[20]
+<./images/texte/WriterInsertionImage2.png, id=460, 642.4pt x 161.60374pt>
 File: ./images/texte/WriterInsertionImage2.png Graphic file (type png)
- <use ./images/texte/WriterInsertionImage2.png>
+
+<use ./images/texte/WriterInsertionImage2.png>
 Package pdftex.def Info: ./images/texte/WriterInsertionImage2.png used on input
- line 335.
+ line 310.
 (pdftex.def)             Requested size: 642.39844pt x 161.60335pt.
+
+<./images/texte/WriterInsertionImage1.png, id=461, 534.798pt x 354.123pt>
 File: ./images/texte/WriterInsertionImage1.png Graphic file (type png)
 
 <use ./images/texte/WriterInsertionImage1.png>
 Package pdftex.def Info: ./images/texte/WriterInsertionImage1.png used on input
- line 339.
+ line 314.
 (pdftex.def)             Requested size: 534.79669pt x 354.12212pt.
+ [16 <./images/texte/WriterInsertionImage2.png> <./images/texte/WriterInsertion
+Image1.png>]
+<./images/texte/WriterInsertionImage3.png, id=471, 922.44624pt x 395.4775pt>
 File: ./images/texte/WriterInsertionImage3.png Graphic file (type png)
 
 <use ./images/texte/WriterInsertionImage3.png>
 Package pdftex.def Info: ./images/texte/WriterInsertionImage3.png used on input
- line 346.
+ line 321.
 (pdftex.def)             Requested size: 922.44398pt x 395.47653pt.
+
+<./images/texte/WriterInsertionImage4.png, id=472, 656.4525pt x 544.0325pt>
 File: ./images/texte/WriterInsertionImage4.png Graphic file (type png)
 
 <use ./images/texte/WriterInsertionImage4.png>
 Package pdftex.def Info: ./images/texte/WriterInsertionImage4.png used on input
- line 348.
+ line 323.
 (pdftex.def)             Requested size: 656.4509pt x 544.03117pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [21])
+)
 No file nouveau_livret_MITIC_6e.ind.
-[22]
+[17 <./images/texte/WriterInsertionImage3.png> <./images/texte/WriterInsertionI
+mage4.png>]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 46.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 46.
  (./nouveau_livret_MITIC_6e.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 46.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 46.
-Package rerunfilecheck Info: File `nouveau_livret_MITIC_6e.out' has not changed
-.
-(rerunfilecheck)             Checksum: 457A05461A460DC81C709FB39B2F49CD;2763.
 
+
+Package rerunfilecheck Warning: File `nouveau_livret_MITIC_6e.out' has changed.
+
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `nouveau_livret_MITIC_6e.out':
+(rerunfilecheck)             Before: 3A49C58F6B071450ECEF6E2EE8C0F50F;2386
+(rerunfilecheck)             After:  3CBAC35C7D568A3D4393DA526E9F3F4C;2397.
 
 LaTeX Warning: There were undefined references.
 
@@ -1693,13 +1636,13 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 46.
  ) 
 Here is how much of TeX's memory you used:
- 18231 strings out of 493014
- 338238 string characters out of 6133351
- 404473 words of memory out of 5000000
- 21248 multiletter control sequences out of 15000+600000
+ 18211 strings out of 493014
+ 338019 string characters out of 6133351
+ 404261 words of memory out of 5000000
+ 21242 multiletter control sequences out of 15000+600000
  88378 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,12n,56p,766b,1075s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 62i,12n,56p,756b,1075s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/
 texlive/2016/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}</usr/local/texlive/20
 16/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2016/texmf-d
@@ -1715,10 +1658,10 @@ fonts/type1/public/lm/lmro12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type
 /lmsy10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmtt10.pf
 b></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmtt12.pfb></usr/lo
 cal/texlive/2016/texmf-dist/fonts/type1/public/lm/lmtto10.pfb>
-Output written on nouveau_livret_MITIC_6e.pdf (30 pages, 4242906 bytes).
+Output written on nouveau_livret_MITIC_6e.pdf (25 pages, 4234754 bytes).
 PDF statistics:
- 607 PDF objects out of 1000 (max. 8388607)
- 424 compressed objects within 5 object streams
- 78 named destinations out of 1000 (max. 500000)
- 515 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 548 PDF objects out of 1000 (max. 8388607)
+ 375 compressed objects within 4 object streams
+ 64 named destinations out of 1000 (max. 500000)
+ 483 words of extra memory for PDF output out of 10000 (max. 10000000)
 
