@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2018.8.21)  12 NOV 2020 13:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2018.8.21)  17 NOV 2020 13:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -951,9 +951,6 @@ Writing index file nouveau_livret_MITIC_6e.idx
 
 LaTeX Warning: Label `modelePage' multiply defined.
 
-
-LaTeX Warning: Label `ficheTexte3' multiply defined.
-
 )
 \openout1 = `nouveau_livret_MITIC_6e.aux'.
 
@@ -1247,7 +1244,7 @@ File: ./images/tableur/CalcEnregistrerFichier.png Graphic file (type png)
 
 <use ./images/tableur/CalcEnregistrerFichier.png>
 Package pdftex.def Info: ./images/tableur/CalcEnregistrerFichier.png used on in
-put line 107.
+put line 106.
 (pdftex.def)             Requested size: 790.95308pt x 113.42346pt.
 
 <./images/generales/clavierCmdS.png, id=306, 196.5744pt x 72.63135pt>
@@ -1255,10 +1252,10 @@ File: ./images/generales/clavierCmdS.png Graphic file (type png)
 
 <use ./images/generales/clavierCmdS.png>
 Package pdftex.def Info: ./images/generales/clavierCmdS.png used on input line 
-111.
+110.
 (pdftex.def)             Requested size: 196.57391pt x 72.63116pt.
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 118--119
+Overfull \hbox (6.0pt too wide) in paragraph at lines 117--118
 [][][][][][][]
  []
 
@@ -1268,24 +1265,24 @@ t>
 File: ./sources/texte01/LaBelleEtLaBeteFormatee.pdf Graphic file (type pdf)
  <use ./sources/texte01/LaBelleEtLaBeteFormatee.pdf>
 Package pdftex.def Info: ./sources/texte01/LaBelleEtLaBeteFormatee.pdf used on 
-input line 120.
+input line 119.
 (pdftex.def)             Requested size: 364.19667pt x 515.39058pt.
 
-Underfull \vbox (badness 8132) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [4 <./images/tableur/CalcEnregistrerFichier.png (PNG copy)> <./images/generale
 s/clavierCmdS.png>]
-Overfull \hbox (6.0pt too wide) in paragraph at lines 122--123
+Overfull \hbox (6.0pt too wide) in paragraph at lines 121--122
 [][][][][][][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 157--157
+Underfull \hbox (badness 10000) in paragraph at lines 156--156
 
  []
 
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 157--158
+Overfull \hbox (6.0pt too wide) in paragraph at lines 156--157
 [][][][][][][]
  []
 
@@ -1298,45 +1295,43 @@ pt>
 File: ./sources/texte01/ExtraitGulliver6eFormate.pdf Graphic file (type pdf)
  <use ./sources/texte01/ExtraitGulliver6eFormate.pdf>
 Package pdftex.def Info: ./sources/texte01/ExtraitGulliver6eFormate.pdf used on
- input line 160.
+ input line 159.
 (pdftex.def)             Requested size: 341.43307pt x 483.17624pt.
 LaTeX Font Info:    Font shape `OMS/lmr/m/sl' in size <12> not available
-(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 172.
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 171.
 
-Underfull \hbox (badness 10000) in paragraph at lines 172--172
+Underfull \hbox (badness 10000) in paragraph at lines 171--171
 
  []
 
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 172--173
+Overfull \hbox (6.0pt too wide) in paragraph at lines 171--172
 [][][][][][][]
  []
 
 [6 <./sources/texte01/ExtraitGulliver6eFormate.pdf>]
-
-LaTeX Warning: Reference `correction_texte02' on page 7 undefined on input line
- 174.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 189--189
+Underfull \hbox (badness 10000) in paragraph at lines 190--190
 
  []
 
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 189--190
+Overfull \hbox (6.0pt too wide) in paragraph at lines 190--191
 [][][][][][][]
  []
 
 ) (./sources/texte01/texte01.tex
-<./images/texte/WriterFormatMenu.png, id=369, 265.99374pt x 225.84375pt>
+<./images/texte/WriterFormatMenu.png, id=371, 265.99374pt x 225.84375pt>
 File: ./images/texte/WriterFormatMenu.png Graphic file (type png)
 
 <use ./images/texte/WriterFormatMenu.png>
 Package pdftex.def Info: ./images/texte/WriterFormatMenu.png used on input line
  14.
 (pdftex.def)             Requested size: 265.99309pt x 225.84319pt.
- [7 <./images/texte/WriterFormatMenu.png>] <./images/texte/WriterBoiteMarge.png
-, id=375, 714.67pt x 522.95375pt>
+
+Underfull \vbox (badness 3601) has occurred while \output is active []
+
+ [7]
+<./images/texte/WriterBoiteMarge.png, id=377, 714.67pt x 522.95375pt>
 File: ./images/texte/WriterBoiteMarge.png Graphic file (type png)
 
 <use ./images/texte/WriterBoiteMarge.png>
@@ -1344,7 +1339,7 @@ Package pdftex.def Info: ./images/texte/WriterBoiteMarge.png used on input line
  18.
 (pdftex.def)             Requested size: 714.66824pt x 522.95247pt.
 
-<./images/texte/WriterEditionMenuSelectAll.png, id=376, 315.1775pt x 271.0125pt
+<./images/texte/WriterEditionMenuSelectAll.png, id=378, 315.1775pt x 271.0125pt
 >
 File: ./images/texte/WriterEditionMenuSelectAll.png Graphic file (type png)
  <use ./images/texte/WriterEditionMenuSelectAll.png>
@@ -1352,24 +1347,25 @@ Package pdftex.def Info: ./images/texte/WriterEditionMenuSelectAll.png used on
 input line 40.
 (pdftex.def)             Requested size: 315.17673pt x 271.01183pt.
 
-<./images/generales/clavierCmdA.png, id=377, 134.4222pt x 74.79945pt>
+<./images/generales/clavierCmdA.png, id=379, 134.4222pt x 74.79945pt>
 File: ./images/generales/clavierCmdA.png Graphic file (type png)
 
 <use ./images/generales/clavierCmdA.png>
 Package pdftex.def Info: ./images/generales/clavierCmdA.png used on input line 
 40.
 (pdftex.def)             Requested size: 134.42186pt x 74.79926pt.
-
-<./images/texte/WriterChangePolice.png, id=378, 901.3675pt x 393.47pt>
+ [8 <./images/texte/WriterFormatMenu.png> <./images/texte/WriterBoiteMarge.png>
+ <./images/texte/WriterEditionMenuSelectAll.png> <./images/generales/clavierCmd
+A.png>]
+<./images/texte/WriterChangePolice.png, id=389, 901.3675pt x 393.47pt>
 File: ./images/texte/WriterChangePolice.png Graphic file (type png)
 
 <use ./images/texte/WriterChangePolice.png>
 Package pdftex.def Info: ./images/texte/WriterChangePolice.png used on input li
 ne 45.
 (pdftex.def)             Requested size: 901.36528pt x 393.46902pt.
- [8 <./images/texte/WriterBoiteMarge.png> <./images/texte/WriterEditionMenuSele
-ctAll.png> <./images/generales/clavierCmdA.png>]
-<./images/texte/WriterChangeTailleCaractere1.png, id=386, 434.62375pt x 225.843
+
+<./images/texte/WriterChangeTailleCaractere1.png, id=390, 434.62375pt x 225.843
 75pt>
 File: ./images/texte/WriterChangeTailleCaractere1.png Graphic file (type png)
  <use ./images/texte/WriterChangeTailleCaractere1.png>
@@ -1377,7 +1373,7 @@ Package pdftex.def Info: ./images/texte/WriterChangeTailleCaractere1.png used o
 n input line 53.
 (pdftex.def)             Requested size: 434.62268pt x 225.84319pt.
 
-<./images/texte/WriterChangeTailleCaractere2.png, id=387, 436.63126pt x 227.851
+<./images/texte/WriterChangeTailleCaractere2.png, id=391, 436.63126pt x 227.851
 26pt>
 File: ./images/texte/WriterChangeTailleCaractere2.png Graphic file (type png)
  <use ./images/texte/WriterChangeTailleCaractere2.png>
@@ -1385,7 +1381,7 @@ Package pdftex.def Info: ./images/texte/WriterChangeTailleCaractere2.png used o
 n input line 53.
 (pdftex.def)             Requested size: 436.63019pt x 227.8507pt.
 
-<./images/texte/WriterCentrerTitre.png, id=388, 803.0pt x 320.19624pt>
+<./images/texte/WriterCentrerTitre.png, id=392, 803.0pt x 320.19624pt>
 File: ./images/texte/WriterCentrerTitre.png Graphic file (type png)
 
 <use ./images/texte/WriterCentrerTitre.png>
@@ -1395,7 +1391,7 @@ ne 65.
  [9 <./images/texte/WriterChangePolice.png> <./images/texte/WriterChangeTailleC
 aractere1.png (PNG copy)> <./images/texte/WriterChangeTailleCaractere2.png (PNG
  copy)> <./images/texte/WriterCentrerTitre.png>]
-<./images/texte/WriterSouligne.png, id=395, 640.3925pt x 230.8625pt>
+<./images/texte/WriterSouligne.png, id=401, 640.3925pt x 230.8625pt>
 File: ./images/texte/WriterSouligne.png Graphic file (type png)
 
 <use ./images/texte/WriterSouligne.png>
@@ -1403,7 +1399,7 @@ Package pdftex.def Info: ./images/texte/WriterSouligne.png used on input line 8
 6.
 (pdftex.def)             Requested size: 640.39093pt x 230.86192pt.
 
-<./images/generales/clavierCmdU.png, id=396, 141.46852pt x 94.85437pt>
+<./images/generales/clavierCmdU.png, id=402, 141.46852pt x 94.85437pt>
 File: ./images/generales/clavierCmdU.png Graphic file (type png)
 
 <use ./images/generales/clavierCmdU.png>
@@ -1411,7 +1407,7 @@ Package pdftex.def Info: ./images/generales/clavierCmdU.png used on input line
 88.
 (pdftex.def)             Requested size: 141.46817pt x 94.85413pt.
 
-<./images/texte/WriterFonteGrasse.png, id=397, 559.08875pt x 248.93pt>
+<./images/texte/WriterFonteGrasse.png, id=403, 559.08875pt x 248.93pt>
 File: ./images/texte/WriterFonteGrasse.png Graphic file (type png)
 
 <use ./images/texte/WriterFonteGrasse.png>
@@ -1419,7 +1415,7 @@ Package pdftex.def Info: ./images/texte/WriterFonteGrasse.png used on input lin
 e 104.
 (pdftex.def)             Requested size: 559.08737pt x 248.92938pt.
 
-<./images/texte/WriterTexteItalique.png, id=398, 451.6875pt x 231.86626pt>
+<./images/texte/WriterTexteItalique.png, id=404, 451.6875pt x 231.86626pt>
 File: ./images/texte/WriterTexteItalique.png Graphic file (type png)
 
 <use ./images/texte/WriterTexteItalique.png>
@@ -1427,7 +1423,7 @@ Package pdftex.def Info: ./images/texte/WriterTexteItalique.png used on input l
 ine 104.
 (pdftex.def)             Requested size: 451.68639pt x 231.86568pt.
 
-<./images/generales/clavierCmdB.png, id=399, 141.46852pt x 94.85437pt>
+<./images/generales/clavierCmdB.png, id=405, 141.46852pt x 94.85437pt>
 File: ./images/generales/clavierCmdB.png Graphic file (type png)
 
 <use ./images/generales/clavierCmdB.png>
@@ -1435,7 +1431,7 @@ Package pdftex.def Info: ./images/generales/clavierCmdB.png used on input line
 109.
 (pdftex.def)             Requested size: 141.46817pt x 94.85413pt.
 
-<./images/generales/clavierCmdI.png, id=400, 141.46852pt x 94.85437pt>
+<./images/generales/clavierCmdI.png, id=406, 141.46852pt x 94.85437pt>
 File: ./images/generales/clavierCmdI.png Graphic file (type png)
 
 <use ./images/generales/clavierCmdI.png>
@@ -1445,7 +1441,7 @@ Package pdftex.def Info: ./images/generales/clavierCmdI.png used on input line
  [10 <./images/texte/WriterSouligne.png> <./images/generales/clavierCmdU.png> <
 ./images/texte/WriterFonteGrasse.png> <./images/texte/WriterTexteItalique.png> 
 <./images/generales/clavierCmdB.png> <./images/generales/clavierCmdI.png>]
-<./images/texte/WriterCouleurPolice.png, id=411, 484.81125pt x 268.00125pt>
+<./images/texte/WriterCouleurPolice.png, id=419, 484.81125pt x 268.00125pt>
 File: ./images/texte/WriterCouleurPolice.png Graphic file (type png)
 
 <use ./images/texte/WriterCouleurPolice.png>
@@ -1453,7 +1449,7 @@ Package pdftex.def Info: ./images/texte/WriterCouleurPolice.png used on input l
 ine 127.
 (pdftex.def)             Requested size: 484.81006pt x 268.00058pt.
 
-<./images/texte/WriterMiseEnFormeParagraphe1.png, id=412, 893.739pt x 656.854pt
+<./images/texte/WriterMiseEnFormeParagraphe1.png, id=420, 893.739pt x 656.854pt
 >
 File: ./images/texte/WriterMiseEnFormeParagraphe1.png Graphic file (type png)
  <use ./images/texte/WriterMiseEnFormeParagraphe1.png>
@@ -1462,7 +1458,7 @@ n input line 153.
 (pdftex.def)             Requested size: 893.73682pt x 656.85239pt.
  [11 <./images/texte/WriterCouleurPolice.png> <./images/texte/WriterMiseEnForme
 Paragraphe1.png>]
-<./images/texte/WriterMiseEnFormeParagraphe2.png, id=420, 542.828pt x 438.438pt
+<./images/texte/WriterMiseEnFormeParagraphe2.png, id=430, 542.828pt x 438.438pt
 >
 File: ./images/texte/WriterMiseEnFormeParagraphe2.png Graphic file (type png)
  <use ./images/texte/WriterMiseEnFormeParagraphe2.png>
@@ -1470,7 +1466,7 @@ Package pdftex.def Info: ./images/texte/WriterMiseEnFormeParagraphe2.png used o
 n input line 157.
 (pdftex.def)             Requested size: 542.82668pt x 438.43692pt.
 
-<./images/texte/WriterParagrapheJustifie.png, id=421, 882.497pt x 462.528pt>
+<./images/texte/WriterParagrapheJustifie.png, id=431, 882.497pt x 462.528pt>
 File: ./images/texte/WriterParagrapheJustifie.png Graphic file (type png)
 
 <use ./images/texte/WriterParagrapheJustifie.png>
@@ -1479,7 +1475,7 @@ put line 174.
 (pdftex.def)             Requested size: 882.49484pt x 462.52686pt.
  [12 <./images/texte/WriterMiseEnFormeParagraphe2.png> <./images/texte/WriterPa
 ragrapheJustifie.png>]
-<./images/texte/WriterAlignerADroite.png, id=428, 941.116pt x 130.086pt>
+<./images/texte/WriterAlignerADroite.png, id=439, 941.116pt x 130.086pt>
 File: ./images/texte/WriterAlignerADroite.png Graphic file (type png)
 
 <use ./images/texte/WriterAlignerADroite.png>
@@ -1487,7 +1483,7 @@ Package pdftex.def Info: ./images/texte/WriterAlignerADroite.png used on input
 line 184.
 (pdftex.def)             Requested size: 941.11371pt x 130.08566pt.
 
-<./images/texte/WriterMenuFichier.png, id=429, 289.08pt x 445.665pt>
+<./images/texte/WriterMenuFichier.png, id=440, 289.08pt x 445.665pt>
 File: ./images/texte/WriterMenuFichier.png Graphic file (type png)
 
 <use ./images/texte/WriterMenuFichier.png>
@@ -1495,7 +1491,7 @@ Package pdftex.def Info: ./images/texte/WriterMenuFichier.png used on input lin
 e 194.
 (pdftex.def)             Requested size: 289.07928pt x 445.66391pt.
 
-<./images/texte/WriterBoiteExportPDF.png, id=430, 884.30376pt x 481.8pt>
+<./images/texte/WriterBoiteExportPDF.png, id=441, 884.30376pt x 481.8pt>
 File: ./images/texte/WriterBoiteExportPDF.png Graphic file (type png)
 
 <use ./images/texte/WriterBoiteExportPDF.png>
@@ -1503,7 +1499,7 @@ Package pdftex.def Info: ./images/texte/WriterBoiteExportPDF.png used on input
 line 194.
 (pdftex.def)             Requested size: 884.3016pt x 481.79881pt.
 
-<./images/texte/WriterIconePDF.png, id=431, 261.97874pt x 86.3225pt>
+<./images/texte/WriterIconePDF.png, id=442, 261.97874pt x 86.3225pt>
 File: ./images/texte/WriterIconePDF.png Graphic file (type png)
 
 <use ./images/texte/WriterIconePDF.png>
@@ -1518,7 +1514,7 @@ Overfull \hbox (6.79999pt too wide) in paragraph at lines 202--202
 [13 <./images/texte/WriterAlignerADroite.png> <./images/texte/WriterMenuFichier
 .png> <./images/texte/WriterBoiteExportPDF.png> <./images/texte/WriterIconePDF.
 png>]
-<./images/methode/MoodleDevoirIcone1.png, id=440, 77.28876pt x 77.28876pt>
+<./images/methode/MoodleDevoirIcone1.png, id=453, 77.28876pt x 77.28876pt>
 File: ./images/methode/MoodleDevoirIcone1.png Graphic file (type png)
 
 <use ./images/methode/MoodleDevoirIcone1.png>
@@ -1534,7 +1530,7 @@ ut line 213.
 LaTeX Warning: Reference `MoodleRendreDevoir' on page 14 undefined on input lin
 e 213.
 
-<./images/generales/clavierCmdF.png, id=441, 134.4222pt x 74.79945pt>
+<./images/generales/clavierCmdF.png, id=454, 134.4222pt x 74.79945pt>
 File: ./images/generales/clavierCmdF.png Graphic file (type png)
 
 <use ./images/generales/clavierCmdF.png>
@@ -1542,7 +1538,7 @@ Package pdftex.def Info: ./images/generales/clavierCmdF.png used on input line
 225.
 (pdftex.def)             Requested size: 134.42186pt x 74.79926pt.
 
-<./images/texte/WriterBarreRecherche.png, id=442, 856.801pt x 85.921pt>
+<./images/texte/WriterBarreRecherche.png, id=455, 856.801pt x 85.921pt>
 File: ./images/texte/WriterBarreRecherche.png Graphic file (type png)
 
 <use ./images/texte/WriterBarreRecherche.png>
@@ -1551,7 +1547,7 @@ line 229.
 (pdftex.def)             Requested size: 856.7989pt x 85.92079pt.
  [14 <./images/methode/MoodleDevoirIcone1.png (PNG copy)> <./images/generales/c
 lavierCmdF.png> <./images/texte/WriterBarreRecherche.png>]
-<./images/texte/WriterTexteMajuscule.png, id=451, 1110.1475pt x 525.965pt>
+<./images/texte/WriterTexteMajuscule.png, id=466, 1110.1475pt x 525.965pt>
 File: ./images/texte/WriterTexteMajuscule.png Graphic file (type png)
 
 <use ./images/texte/WriterTexteMajuscule.png>
@@ -1559,7 +1555,7 @@ Package pdftex.def Info: ./images/texte/WriterTexteMajuscule.png used on input
 line 258.
 (pdftex.def)             Requested size: 1110.14479pt x 525.9637pt.
 
-<./images/texte/WriterParagrapheEncadre.png, id=452, 993.7125pt x 446.66875pt>
+<./images/texte/WriterParagrapheEncadre.png, id=467, 993.7125pt x 446.66875pt>
 File: ./images/texte/WriterParagrapheEncadre.png Graphic file (type png)
 
 <use ./images/texte/WriterParagrapheEncadre.png>
@@ -1576,7 +1572,7 @@ LaTeX Warning: Hyper reference `MoodlePrendreDoc' on page 16 undefined on input
 LaTeX Warning: Reference `MoodlePrendreDoc' on page 16 undefined on input line 
 301.
 
-<./images/texte/WriterInsertionImage2.png, id=460, 642.4pt x 161.60374pt>
+<./images/texte/WriterInsertionImage2.png, id=477, 642.4pt x 161.60374pt>
 File: ./images/texte/WriterInsertionImage2.png Graphic file (type png)
 
 <use ./images/texte/WriterInsertionImage2.png>
@@ -1584,7 +1580,7 @@ Package pdftex.def Info: ./images/texte/WriterInsertionImage2.png used on input
  line 310.
 (pdftex.def)             Requested size: 642.39844pt x 161.60335pt.
 
-<./images/texte/WriterInsertionImage1.png, id=461, 534.798pt x 354.123pt>
+<./images/texte/WriterInsertionImage1.png, id=478, 534.798pt x 354.123pt>
 File: ./images/texte/WriterInsertionImage1.png Graphic file (type png)
 
 <use ./images/texte/WriterInsertionImage1.png>
@@ -1593,7 +1589,7 @@ Package pdftex.def Info: ./images/texte/WriterInsertionImage1.png used on input
 (pdftex.def)             Requested size: 534.79669pt x 354.12212pt.
  [16 <./images/texte/WriterInsertionImage2.png> <./images/texte/WriterInsertion
 Image1.png>]
-<./images/texte/WriterInsertionImage3.png, id=471, 922.44624pt x 395.4775pt>
+<./images/texte/WriterInsertionImage3.png, id=491, 922.44624pt x 395.4775pt>
 File: ./images/texte/WriterInsertionImage3.png Graphic file (type png)
 
 <use ./images/texte/WriterInsertionImage3.png>
@@ -1601,7 +1597,7 @@ Package pdftex.def Info: ./images/texte/WriterInsertionImage3.png used on input
  line 321.
 (pdftex.def)             Requested size: 922.44398pt x 395.47653pt.
 
-<./images/texte/WriterInsertionImage4.png, id=472, 656.4525pt x 544.0325pt>
+<./images/texte/WriterInsertionImage4.png, id=492, 656.4525pt x 544.0325pt>
 File: ./images/texte/WriterInsertionImage4.png Graphic file (type png)
 
 <use ./images/texte/WriterInsertionImage4.png>
@@ -1625,8 +1621,8 @@ Package rerunfilecheck Warning: File `nouveau_livret_MITIC_6e.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `nouveau_livret_MITIC_6e.out':
-(rerunfilecheck)             Before: 3A49C58F6B071450ECEF6E2EE8C0F50F;2386
-(rerunfilecheck)             After:  3CBAC35C7D568A3D4393DA526E9F3F4C;2397.
+(rerunfilecheck)             Before: 00B1B5E5387536FDFB1F06909092E158;2396
+(rerunfilecheck)             After:  548CC5EAD374712EEC3F0546D1C3AC40;1110.
 
 LaTeX Warning: There were undefined references.
 
@@ -1636,32 +1632,80 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 46.
  ) 
 Here is how much of TeX's memory you used:
- 18211 strings out of 493014
- 338019 string characters out of 6133351
- 404261 words of memory out of 5000000
- 21242 multiletter control sequences out of 15000+600000
+ 18231 strings out of 493014
+ 338242 string characters out of 6133351
+ 404384 words of memory out of 5000000
+ 21245 multiletter control sequences out of 15000+600000
  88378 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  62i,12n,56p,756b,1075s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/
-texlive/2016/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}</usr/local/texlive/20
-16/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2016/texmf-d
-ist/fonts/type1/public/lm/lmbxi10.pfb></usr/local/texlive/2016/texmf-dist/fonts
-/type1/public/lm/lmbxo10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/pu
-blic/lm/lmr10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmr
-12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmr17.pfb></us
-r/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/texl
-ive/2016/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/local/texlive/2016/t
-exmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/texlive/2016/texmf-dist/
-fonts/type1/public/lm/lmro12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type
-1/public/lm/lmro8.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm
-/lmsy10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmtt10.pf
-b></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmtt12.pfb></usr/lo
-cal/texlive/2016/texmf-dist/fonts/type1/public/lm/lmtto10.pfb>
-Output written on nouveau_livret_MITIC_6e.pdf (25 pages, 4234754 bytes).
+pdfTeX warning (dest): name{subsection.1.8.1} has been referenced but does no
+t exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.1.8} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.1.7.3} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.1.7.2} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.1.7.1} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.1.7} has been referenced but does not exist
+, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.1.6.13} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.1.6.12} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.1.6.11} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.1.6.10} has been referenced but does not
+ exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.1.6.9} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.1.6.8} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.1.6.7} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.1.6.6} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.1.6.5} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.1.6.4} has been referenced but does not 
+exist, replaced by a fixed one
+
+{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/te
+xlive/2016/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}</usr/local/texlive/2016
+/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2016/texmf-dis
+t/fonts/type1/public/lm/lmbxi10.pfb></usr/local/texlive/2016/texmf-dist/fonts/t
+ype1/public/lm/lmbxo10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/publ
+ic/lm/lmr10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmr12
+.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmr17.pfb></usr/
+local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/texliv
+e/2016/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/local/texlive/2016/tex
+mf-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/texlive/2016/texmf-dist/fo
+nts/type1/public/lm/lmro12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/
+public/lm/lmro8.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/l
+msy10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmtt10.pfb>
+</usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmtt12.pfb></usr/loca
+l/texlive/2016/texmf-dist/fonts/type1/public/lm/lmtto10.pfb>
+Output written on nouveau_livret_MITIC_6e.pdf (25 pages, 4235336 bytes).
 PDF statistics:
- 548 PDF objects out of 1000 (max. 8388607)
- 375 compressed objects within 4 object streams
- 64 named destinations out of 1000 (max. 500000)
+ 571 PDF objects out of 1000 (max. 8388607)
+ 398 compressed objects within 4 object streams
+ 81 named destinations out of 1000 (max. 500000)
  483 words of extra memory for PDF output out of 10000 (max. 10000000)
 
