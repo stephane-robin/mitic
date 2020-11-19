@@ -12,100 +12,90 @@
 \contentsline {subsection}{\numberline {7.1}Apparence de la page d'accueil}{10}{subsection.1.7.1}
 \contentsline {chapter}{\numberline {2}Traitement de texte}{13}{chapter.2}
 \contentsline {section}{\numberline {1}Qu'est-ce qu'un traitement de texte ?}{13}{section.2.1}
-\contentsline {section}{\numberline {2}Ouvrir Microsoft Word}{13}{section.2.2}
+\contentsline {section}{\numberline {2}Premiers pas avec Microsoft Word}{13}{section.2.2}
 \contentsline {section}{\numberline {3}S\IeC {\'e}ance 1 : mise en forme de \emph {La Belle et la B\IeC {\^e}te}}{15}{section.2.3}
 \contentsline {subsection}{\numberline {3.1}Pr\IeC {\'e}paration de l'activit\IeC {\'e}}{15}{subsection.2.3.1}
 \contentsline {subsection}{\numberline {3.2}L'activit\IeC {\'e} demand\IeC {\'e}e}{16}{subsection.2.3.2}
-\contentsline {section}{\numberline {4}S\IeC {\'e}ance 2 : mise en forme d'un texte de J. Swift}{18}{section.2.4}
-\contentsline {subsection}{\numberline {4.1}L'activit\IeC {\'e} demand\IeC {\'e}e}{18}{subsection.2.4.1}
-\contentsline {section}{\numberline {5}S\IeC {\'e}ance 3 : mise en forme d'un compte rendu}{19}{section.2.5}
-\contentsline {subsection}{\numberline {5.1}L'activit\IeC {\'e} demand\IeC {\'e}e}{19}{subsection.2.5.1}
-\contentsline {section}{\numberline {6}Aide aux activit\IeC {\'e}s}{19}{section.2.6}
-\contentsline {subsection}{\numberline {6.1}Aide pour la S\IeC {\'e}ance 1}{19}{subsection.2.6.1}
-\contentsline {subsubsection}{Mettre en forme la page}{19}{section*.3}
-\contentsline {subsubsection}{Choisir une police de caract\IeC {\`e}res}{20}{section*.4}
-\contentsline {subsubsection}{Modifier la taille des caract\IeC {\`e}res}{21}{section*.5}
-\contentsline {subsubsection}{Centrer du texte}{21}{section*.6}
-\contentsline {subsubsection}{Souligner du texte}{22}{section*.7}
-\contentsline {subsubsection}{Mettre un texte en gras ou en italique}{22}{section*.8}
-\contentsline {subsubsection}{Modifier la couleur des caract\IeC {\`e}res}{23}{section*.9}
-\contentsline {subsubsection}{Mettre en forme des paragraphes}{23}{section*.10}
-\contentsline {subsubsection}{Justifier un paragraphe}{24}{section*.11}
-\contentsline {subsubsection}{Aligner \IeC {\`a} droite}{25}{section*.12}
-\contentsline {subsubsection}{Exporter au format PDF}{25}{section*.13}
-\contentsline {subsubsection}{Remettre le travail achev\IeC {\'e} sur Teams}{26}{section*.14}
-\contentsline {subsubsection}{Pour aller plus loin...}{26}{section*.15}
-\contentsline {subsection}{\numberline {6.2}Aide pour la S\IeC {\'e}ance 2}{27}{subsection.2.6.2}
-\contentsline {subsubsection}{Passer le texte en majuscule}{27}{section*.16}
-\contentsline {subsubsection}{Encadrer un paragraphe}{27}{section*.17}
-\contentsline {subsubsection}{Pour aller plus loin...}{28}{section*.18}
-\contentsline {subsection}{\numberline {6.3}Aide pour la S\IeC {\'e}ance 3}{28}{subsection.2.6.3}
-\contentsline {subsubsection}{Ins\IeC {\'e}rer une image}{28}{section*.19}
-\contentsline {chapter}{\numberline {3}Traitement d'images 1}{31}{chapter.3}
-\contentsline {section}{\numberline {1}Introduction}{31}{section.3.1}
-\contentsline {section}{\numberline {2}Ouvrir }{31}{section.3.2}
-\contentsline {section}{\numberline {3}S\IeC {\'e}ance 1 : recadrer une image}{32}{section.3.3}
-\contentsline {subsection}{\numberline {3.1}Ouvrir le fichier \IeC {\`a} traiter}{32}{subsection.3.3.1}
-\contentsline {subsection}{\numberline {3.2}\IeC {\'E}nonc\IeC {\'e}}{33}{subsection.3.3.2}
-\contentsline {subsection}{\numberline {3.3}Utiliser l'outil de d\IeC {\'e}coupage}{33}{subsection.3.3.3}
-\contentsline {subsection}{\numberline {3.4}Sauvegarder le fichier}{34}{subsection.3.3.4}
-\contentsline {subsection}{\numberline {3.5}Exporter l'image dans un autre format}{35}{subsection.3.3.5}
-\contentsline {subsection}{\numberline {3.6}Remettre le travail achev\IeC {\'e} sur Moodle}{36}{subsection.3.3.6}
-\contentsline {subsection}{\numberline {3.7}Pour aller plus loin...}{36}{subsection.3.3.7}
-\contentsline {section}{\numberline {4}S\IeC {\'e}ance 2 : recadrer une image et ajouter un cadre}{37}{section.3.4}
-\contentsline {subsection}{\numberline {4.1}Ajouter un cadre autour de l'image}{37}{subsection.3.4.1}
-\contentsline {subsection}{\numberline {4.2}Pour aller plus loin...}{38}{subsection.3.4.2}
-\contentsline {section}{\numberline {5}S\IeC {\'e}ance 3 : recadrer et r\IeC {\'e}gler luminosit\IeC {\'e} et contraste}{39}{section.3.5}
-\contentsline {subsection}{\numberline {5.1}Luminosit\IeC {\'e} et contraste}{39}{subsection.3.5.1}
-\contentsline {subsection}{\numberline {5.2}Pour aller plus loin : r\IeC {\'e}aliser une copie d'\IeC {\'e}cran}{40}{subsection.3.5.2}
-\contentsline {chapter}{\numberline {4}Programmation Scratch 1}{43}{chapter.4}
-\contentsline {section}{\numberline {1}Qu'est-ce qu'un language de programmation ?}{43}{section.4.1}
-\contentsline {section}{\numberline {2}Ouvrir Scratch}{44}{section.4.2}
-\contentsline {section}{\numberline {3}S\IeC {\'e}ance 1 : un premier programme}{45}{section.4.3}
-\contentsline {subsection}{\numberline {3.1}Modifier la sc\IeC {\`e}ne o\IeC {\`u} se passe l'action}{45}{subsection.4.3.1}
-\contentsline {subsection}{\numberline {3.2}Enregistrer le programme}{46}{subsection.4.3.2}
-\contentsline {subsection}{\numberline {3.3}Ajouter un script associ\IeC {\'e} au lutin}{47}{subsection.4.3.3}
-\contentsline {subsection}{\numberline {3.4}Ajouter un script associ\IeC {\'e} \IeC {\`a} la sc\IeC {\`e}ne}{49}{subsection.4.3.4}
-\contentsline {subsection}{\numberline {3.5}Remettre le programme achev\IeC {\'e} sur Moodle}{49}{subsection.4.3.5}
-\contentsline {section}{\numberline {4}S\IeC {\'e}ance 2 : dessiner avec Scratch}{49}{section.4.4}
-\contentsline {subsection}{\numberline {4.1}Un programme pour dessiner}{49}{subsection.4.4.1}
-\contentsline {subsection}{\numberline {4.2}Ajouter l'effacement de l'\IeC {\'e}cran}{50}{subsection.4.4.2}
-\contentsline {subsection}{\numberline {4.3}Un carr\IeC {\'e} o\IeC {\`u} on veut !}{51}{subsection.4.4.3}
-\contentsline {subsection}{\numberline {4.4}Dessiner une enveloppe}{51}{subsection.4.4.4}
-\contentsline {subsection}{\numberline {4.5}Modifier la taille et la couleur du stylo}{51}{subsection.4.4.5}
-\contentsline {subsection}{\numberline {4.6}Remettre le programme achev\IeC {\'e} sur Moodle}{52}{subsection.4.4.6}
-\contentsline {subsection}{\numberline {4.7}Pour aller plus loin...}{52}{subsection.4.4.7}
-\contentsline {section}{\numberline {5}S\IeC {\'e}ance 3 : cr\IeC {\'e}er un petit jeu en Scratch}{52}{section.4.5}
-\contentsline {subsection}{\numberline {5.1}Ajouter un nouvel objet : l'avion}{53}{subsection.4.5.1}
-\contentsline {subsection}{\numberline {5.2}G\IeC {\'e}rer les mouvements de l'avion dans la sc\IeC {\`e}ne}{54}{subsection.4.5.2}
-\contentsline {subsection}{\numberline {5.3}Un nouvel objet : l'obstacle}{55}{subsection.4.5.3}
-\contentsline {subsection}{\numberline {5.4}G\IeC {\'e}rer la collision entre l'avion et l'obstacle}{56}{subsection.4.5.4}
-\contentsline {subsection}{\numberline {5.5}Remettre le programme achev\IeC {\'e} sur Moodle}{58}{subsection.4.5.5}
-\contentsline {subsection}{\numberline {5.6}Pour aller plus loin...}{58}{subsection.4.5.6}
-\contentsline {section}{\numberline {6}Aide aux activit\IeC {\'e}s}{58}{section.4.6}
-\contentsline {subsection}{\numberline {6.1}Aide pour la s\IeC {\'e}ance 1}{58}{subsection.4.6.1}
-\contentsline {subsubsection}{Modifier la sc\IeC {\`e}ne o\IeC {\`u} se passe l'action}{58}{section*.20}
-\contentsline {subsubsection}{Enregistrer le programme}{60}{section*.21}
-\contentsline {subsubsection}{Ajouter un script associ\IeC {\'e} au lutin}{60}{section*.22}
-\contentsline {subsubsection}{Ajouter un script associ\IeC {\'e} \IeC {\`a} la sc\IeC {\`e}ne}{62}{section*.23}
-\contentsline {subsubsection}{Remettre le programme achev\IeC {\'e} sur Teams}{62}{section*.24}
-\contentsline {section}{\numberline {7}Aide pour la s\IeC {\'e}ance 2}{62}{section.4.7}
-\contentsline {subsection}{\numberline {7.1}Un programme pour dessiner}{62}{subsection.4.7.1}
-\contentsline {subsection}{\numberline {7.2}Ajouter l'effacement de l'\IeC {\'e}cran}{63}{subsection.4.7.2}
-\contentsline {subsection}{\numberline {7.3}Un carr\IeC {\'e} o\IeC {\`u} on veut !}{64}{subsection.4.7.3}
-\contentsline {subsection}{\numberline {7.4}Dessiner une enveloppe}{64}{subsection.4.7.4}
-\contentsline {subsection}{\numberline {7.5}Modifier la taille et la couleur du stylo}{64}{subsection.4.7.5}
-\contentsline {subsection}{\numberline {7.6}Remettre le programme achev\IeC {\'e} sur Teams}{65}{subsection.4.7.6}
-\contentsline {subsection}{\numberline {7.7}Pour aller plus loin...}{65}{subsection.4.7.7}
-\contentsline {section}{\numberline {8}Aide pour la s\IeC {\'e}ance 3}{65}{section.4.8}
-\contentsline {subsection}{\numberline {8.1}Ajouter un nouvel objet : l'avion}{66}{subsection.4.8.1}
-\contentsline {subsection}{\numberline {8.2}G\IeC {\'e}rer les mouvements de l'avion dans la sc\IeC {\`e}ne}{67}{subsection.4.8.2}
-\contentsline {subsection}{\numberline {8.3}Un nouvel objet : l'obstacle}{68}{subsection.4.8.3}
-\contentsline {subsection}{\numberline {8.4}G\IeC {\'e}rer la collision entre l'avion et l'obstacle}{69}{subsection.4.8.4}
-\contentsline {subsection}{\numberline {8.5}Remettre le programme achev\IeC {\'e} sur Teams}{71}{subsection.4.8.5}
-\contentsline {subsection}{\numberline {8.6}Pour aller plus loin...}{71}{subsection.4.8.6}
-\contentsline {chapter}{\numberline {5}Activit\IeC {\'e}s suppl\IeC {\'e}mentaires}{73}{chapter.5}
-\contentsline {section}{\numberline {1}Pr\IeC {\'e}parer un compte rendu d'exp\IeC {\'e}rience en science}{73}{section.5.1}
-\contentsline {section}{\numberline {2}\IeC {\'E}laborer un document en histoire-g\IeC {\'e}ographie}{73}{section.5.2}
-\contentsline {section}{\numberline {3}Construire un programme en \emph {Scratch}}{74}{section.5.3}
+\contentsline {section}{\numberline {4}Aide aux activit\IeC {\'e}s}{18}{section.2.4}
+\contentsline {subsection}{\numberline {4.1}Aide pour la S\IeC {\'e}ance 1}{18}{subsection.2.4.1}
+\contentsline {subsubsection}{Mettre en forme la page}{18}{section*.3}
+\contentsline {subsubsection}{Choisir une police de caract\IeC {\`e}res}{18}{section*.4}
+\contentsline {subsubsection}{Modifier la taille des caract\IeC {\`e}res}{19}{section*.5}
+\contentsline {subsubsection}{Centrer du texte}{20}{section*.6}
+\contentsline {subsubsection}{Souligner du texte}{20}{section*.7}
+\contentsline {subsubsection}{Mettre un texte en gras ou en italique}{20}{section*.8}
+\contentsline {subsubsection}{Modifier la couleur des caract\IeC {\`e}res}{21}{section*.9}
+\contentsline {subsubsection}{Mettre en forme des paragraphes}{21}{section*.10}
+\contentsline {subsubsection}{Justifier un paragraphe}{23}{section*.11}
+\contentsline {subsubsection}{Aligner \IeC {\`a} droite}{23}{section*.12}
+\contentsline {subsubsection}{Exporter au format PDF}{23}{section*.13}
+\contentsline {subsubsection}{Remettre le travail achev\IeC {\'e} sur Teams}{24}{section*.14}
+\contentsline {subsubsection}{Pour aller plus loin...}{24}{section*.15}
+\contentsline {chapter}{\numberline {3}Traitement d'images 1}{27}{chapter.3}
+\contentsline {section}{\numberline {1}Introduction}{27}{section.3.1}
+\contentsline {section}{\numberline {2}Ouvrir }{27}{section.3.2}
+\contentsline {section}{\numberline {3}S\IeC {\'e}ance 1 : recadrer une image}{28}{section.3.3}
+\contentsline {subsection}{\numberline {3.1}Ouvrir le fichier \IeC {\`a} traiter}{28}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.2}\IeC {\'E}nonc\IeC {\'e}}{29}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3}Utiliser l'outil de d\IeC {\'e}coupage}{29}{subsection.3.3.3}
+\contentsline {subsection}{\numberline {3.4}Sauvegarder le fichier}{30}{subsection.3.3.4}
+\contentsline {subsection}{\numberline {3.5}Exporter l'image dans un autre format}{31}{subsection.3.3.5}
+\contentsline {subsection}{\numberline {3.6}Remettre le travail achev\IeC {\'e} sur Moodle}{32}{subsection.3.3.6}
+\contentsline {subsection}{\numberline {3.7}Pour aller plus loin...}{32}{subsection.3.3.7}
+\contentsline {section}{\numberline {4}S\IeC {\'e}ance 2 : recadrer une image et ajouter un cadre}{33}{section.3.4}
+\contentsline {subsection}{\numberline {4.1}Ajouter un cadre autour de l'image}{33}{subsection.3.4.1}
+\contentsline {subsection}{\numberline {4.2}Pour aller plus loin...}{34}{subsection.3.4.2}
+\contentsline {section}{\numberline {5}S\IeC {\'e}ance 3 : recadrer et r\IeC {\'e}gler luminosit\IeC {\'e} et contraste}{35}{section.3.5}
+\contentsline {subsection}{\numberline {5.1}Luminosit\IeC {\'e} et contraste}{35}{subsection.3.5.1}
+\contentsline {subsection}{\numberline {5.2}Pour aller plus loin : r\IeC {\'e}aliser une copie d'\IeC {\'e}cran}{36}{subsection.3.5.2}
+\contentsline {chapter}{\numberline {4}Programmation Scratch 1}{39}{chapter.4}
+\contentsline {section}{\numberline {1}Qu'est-ce qu'un language de programmation ?}{39}{section.4.1}
+\contentsline {section}{\numberline {2}Ouvrir Scratch}{40}{section.4.2}
+\contentsline {section}{\numberline {3}S\IeC {\'e}ance 1 : un premier programme}{41}{section.4.3}
+\contentsline {subsection}{\numberline {3.1}Modifier la sc\IeC {\`e}ne o\IeC {\`u} se passe l'action}{41}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {3.2}Enregistrer le programme}{42}{subsection.4.3.2}
+\contentsline {subsection}{\numberline {3.3}Ajouter un script associ\IeC {\'e} au lutin}{43}{subsection.4.3.3}
+\contentsline {subsection}{\numberline {3.4}Ajouter un script associ\IeC {\'e} \IeC {\`a} la sc\IeC {\`e}ne}{45}{subsection.4.3.4}
+\contentsline {subsection}{\numberline {3.5}Remettre le programme achev\IeC {\'e} sur Moodle}{45}{subsection.4.3.5}
+\contentsline {section}{\numberline {4}S\IeC {\'e}ance 2 : dessiner avec Scratch}{45}{section.4.4}
+\contentsline {subsection}{\numberline {4.1}Un programme pour dessiner}{45}{subsection.4.4.1}
+\contentsline {subsection}{\numberline {4.2}Ajouter l'effacement de l'\IeC {\'e}cran}{46}{subsection.4.4.2}
+\contentsline {subsection}{\numberline {4.3}Un carr\IeC {\'e} o\IeC {\`u} on veut !}{47}{subsection.4.4.3}
+\contentsline {subsection}{\numberline {4.4}Dessiner une enveloppe}{47}{subsection.4.4.4}
+\contentsline {subsection}{\numberline {4.5}Modifier la taille et la couleur du stylo}{47}{subsection.4.4.5}
+\contentsline {subsection}{\numberline {4.6}Remettre le programme achev\IeC {\'e} sur Moodle}{48}{subsection.4.4.6}
+\contentsline {subsection}{\numberline {4.7}Pour aller plus loin...}{48}{subsection.4.4.7}
+\contentsline {section}{\numberline {5}S\IeC {\'e}ance 3 : cr\IeC {\'e}er un petit jeu en Scratch}{48}{section.4.5}
+\contentsline {subsection}{\numberline {5.1}Ajouter un nouvel objet : l'avion}{49}{subsection.4.5.1}
+\contentsline {subsection}{\numberline {5.2}G\IeC {\'e}rer les mouvements de l'avion dans la sc\IeC {\`e}ne}{50}{subsection.4.5.2}
+\contentsline {subsection}{\numberline {5.3}Un nouvel objet : l'obstacle}{51}{subsection.4.5.3}
+\contentsline {subsection}{\numberline {5.4}G\IeC {\'e}rer la collision entre l'avion et l'obstacle}{52}{subsection.4.5.4}
+\contentsline {subsection}{\numberline {5.5}Remettre le programme achev\IeC {\'e} sur Moodle}{54}{subsection.4.5.5}
+\contentsline {subsection}{\numberline {5.6}Pour aller plus loin...}{54}{subsection.4.5.6}
+\contentsline {section}{\numberline {6}Aide aux activit\IeC {\'e}s}{54}{section.4.6}
+\contentsline {subsection}{\numberline {6.1}Aide pour la s\IeC {\'e}ance 1}{54}{subsection.4.6.1}
+\contentsline {subsubsection}{Modifier la sc\IeC {\`e}ne o\IeC {\`u} se passe l'action}{54}{section*.16}
+\contentsline {subsubsection}{Enregistrer le programme}{56}{section*.17}
+\contentsline {subsubsection}{Ajouter un script associ\IeC {\'e} au lutin}{56}{section*.18}
+\contentsline {subsubsection}{Ajouter un script associ\IeC {\'e} \IeC {\`a} la sc\IeC {\`e}ne}{58}{section*.19}
+\contentsline {subsubsection}{Remettre le programme achev\IeC {\'e} sur Teams}{58}{section*.20}
+\contentsline {section}{\numberline {7}Aide pour la s\IeC {\'e}ance 2}{58}{section.4.7}
+\contentsline {subsection}{\numberline {7.1}Un programme pour dessiner}{58}{subsection.4.7.1}
+\contentsline {subsection}{\numberline {7.2}Ajouter l'effacement de l'\IeC {\'e}cran}{59}{subsection.4.7.2}
+\contentsline {subsection}{\numberline {7.3}Un carr\IeC {\'e} o\IeC {\`u} on veut !}{60}{subsection.4.7.3}
+\contentsline {subsection}{\numberline {7.4}Dessiner une enveloppe}{60}{subsection.4.7.4}
+\contentsline {subsection}{\numberline {7.5}Modifier la taille et la couleur du stylo}{60}{subsection.4.7.5}
+\contentsline {subsection}{\numberline {7.6}Remettre le programme achev\IeC {\'e} sur Teams}{61}{subsection.4.7.6}
+\contentsline {subsection}{\numberline {7.7}Pour aller plus loin...}{61}{subsection.4.7.7}
+\contentsline {section}{\numberline {8}Aide pour la s\IeC {\'e}ance 3}{61}{section.4.8}
+\contentsline {subsection}{\numberline {8.1}Ajouter un nouvel objet : l'avion}{62}{subsection.4.8.1}
+\contentsline {subsection}{\numberline {8.2}G\IeC {\'e}rer les mouvements de l'avion dans la sc\IeC {\`e}ne}{63}{subsection.4.8.2}
+\contentsline {subsection}{\numberline {8.3}Un nouvel objet : l'obstacle}{64}{subsection.4.8.3}
+\contentsline {subsection}{\numberline {8.4}G\IeC {\'e}rer la collision entre l'avion et l'obstacle}{65}{subsection.4.8.4}
+\contentsline {subsection}{\numberline {8.5}Remettre le programme achev\IeC {\'e} sur Teams}{67}{subsection.4.8.5}
+\contentsline {subsection}{\numberline {8.6}Pour aller plus loin...}{67}{subsection.4.8.6}
+\contentsline {chapter}{\numberline {5}Activit\IeC {\'e}s suppl\IeC {\'e}mentaires}{69}{chapter.5}
+\contentsline {section}{\numberline {1}Pr\IeC {\'e}parer un compte rendu d'exp\IeC {\'e}rience en science}{69}{section.5.1}
+\contentsline {section}{\numberline {2}\IeC {\'E}laborer un document en histoire-g\IeC {\'e}ographie}{69}{section.5.2}
+\contentsline {section}{\numberline {3}Construire un programme en \emph {Scratch}}{70}{section.5.3}
 \contentsfinish 
