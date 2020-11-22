@@ -19,13 +19,13 @@
 \contentsline {section}{\numberline {4}Aide aux activit\IeC {\'e}s}{18}{section.2.4}
 \contentsline {subsection}{\numberline {4.1}Aide pour la S\IeC {\'e}ance 1}{18}{subsection.2.4.1}
 \contentsline {subsubsection}{Mettre en forme la page}{18}{section*.3}
-\contentsline {subsubsection}{Choisir une police de caract\IeC {\`e}res}{18}{section*.4}
+\contentsline {subsubsection}{Choisir une police de caract\IeC {\`e}res}{19}{section*.4}
 \contentsline {subsubsection}{Modifier la taille des caract\IeC {\`e}res}{19}{section*.5}
 \contentsline {subsubsection}{Centrer du texte}{20}{section*.6}
 \contentsline {subsubsection}{Souligner du texte}{20}{section*.7}
-\contentsline {subsubsection}{Mettre un texte en gras ou en italique}{20}{section*.8}
+\contentsline {subsubsection}{Mettre un texte en gras ou en italique}{21}{section*.8}
 \contentsline {subsubsection}{Modifier la couleur des caract\IeC {\`e}res}{21}{section*.9}
-\contentsline {subsubsection}{Mettre en forme des paragraphes}{21}{section*.10}
+\contentsline {subsubsection}{Mettre en forme des paragraphes}{22}{section*.10}
 \contentsline {subsubsection}{Justifier un paragraphe}{23}{section*.11}
 \contentsline {subsubsection}{Aligner \IeC {\`a} droite}{23}{section*.12}
 \contentsline {subsubsection}{Exporter au format PDF}{23}{section*.13}
