@@ -34,48 +34,29 @@
 \BOOKMARK [1][-]{section.3.5}{S\351ance 3 : recadrer et r\351gler luminosit\351 et contraste}{chapter.3}% 34
 \BOOKMARK [2][-]{subsection.3.5.1}{Luminosit\351 et contraste}{section.3.5}% 35
 \BOOKMARK [2][-]{subsection.3.5.2}{Pour aller plus loin : r\351aliser une copie d'\351cran}{section.3.5}% 36
-\BOOKMARK [0][-]{chapter.4}{Programmation Scratch 1}{}% 37
+\BOOKMARK [0][-]{chapter.4}{Programmation Scratch}{}% 37
 \BOOKMARK [1][-]{section.4.1}{Qu'est-ce qu'un language de programmation ?}{chapter.4}% 38
-\BOOKMARK [1][-]{section.4.2}{Ouvrir Scratch}{chapter.4}% 39
+\BOOKMARK [1][-]{section.4.2}{Mes premiers pas avec Scratch}{chapter.4}% 39
 \BOOKMARK [1][-]{section.4.3}{S\351ance 1 : un premier programme}{chapter.4}% 40
-\BOOKMARK [2][-]{subsection.4.3.1}{Modifier la sc\350ne o\371 se passe l'action}{section.4.3}% 41
-\BOOKMARK [2][-]{subsection.4.3.2}{Enregistrer le programme}{section.4.3}% 42
-\BOOKMARK [2][-]{subsection.4.3.3}{Ajouter un script associ\351 au lutin}{section.4.3}% 43
-\BOOKMARK [2][-]{subsection.4.3.4}{Ajouter un script associ\351 \340 la sc\350ne}{section.4.3}% 44
-\BOOKMARK [2][-]{subsection.4.3.5}{Remettre le programme achev\351 sur Moodle}{section.4.3}% 45
-\BOOKMARK [1][-]{section.4.4}{S\351ance 2 : dessiner avec Scratch}{chapter.4}% 46
-\BOOKMARK [2][-]{subsection.4.4.1}{Un programme pour dessiner}{section.4.4}% 47
-\BOOKMARK [2][-]{subsection.4.4.2}{Ajouter l'effacement de l'\351cran}{section.4.4}% 48
-\BOOKMARK [2][-]{subsection.4.4.3}{Un carr\351 o\371 on veut !}{section.4.4}% 49
-\BOOKMARK [2][-]{subsection.4.4.4}{Dessiner une enveloppe}{section.4.4}% 50
-\BOOKMARK [2][-]{subsection.4.4.5}{Modifier la taille et la couleur du stylo}{section.4.4}% 51
-\BOOKMARK [2][-]{subsection.4.4.6}{Remettre le programme achev\351 sur Moodle}{section.4.4}% 52
-\BOOKMARK [2][-]{subsection.4.4.7}{Pour aller plus loin...}{section.4.4}% 53
-\BOOKMARK [1][-]{section.4.5}{S\351ance 3 : cr\351er un petit jeu en Scratch}{chapter.4}% 54
-\BOOKMARK [2][-]{subsection.4.5.1}{Ajouter un nouvel objet : l'avion}{section.4.5}% 55
-\BOOKMARK [2][-]{subsection.4.5.2}{G\351rer les mouvements de l'avion dans la sc\350ne}{section.4.5}% 56
-\BOOKMARK [2][-]{subsection.4.5.3}{Un nouvel objet : l'obstacle}{section.4.5}% 57
-\BOOKMARK [2][-]{subsection.4.5.4}{G\351rer la collision entre l'avion et l'obstacle}{section.4.5}% 58
-\BOOKMARK [2][-]{subsection.4.5.5}{Remettre le programme achev\351 sur Moodle}{section.4.5}% 59
-\BOOKMARK [2][-]{subsection.4.5.6}{Pour aller plus loin...}{section.4.5}% 60
-\BOOKMARK [1][-]{section.4.6}{Aide aux activit\351s}{chapter.4}% 61
-\BOOKMARK [2][-]{subsection.4.6.1}{Aide pour la s\351ance 1}{section.4.6}% 62
-\BOOKMARK [1][-]{section.4.7}{Aide pour la s\351ance 2}{chapter.4}% 63
-\BOOKMARK [2][-]{subsection.4.7.1}{Un programme pour dessiner}{section.4.7}% 64
-\BOOKMARK [2][-]{subsection.4.7.2}{Ajouter l'effacement de l'\351cran}{section.4.7}% 65
-\BOOKMARK [2][-]{subsection.4.7.3}{Un carr\351 o\371 on veut !}{section.4.7}% 66
-\BOOKMARK [2][-]{subsection.4.7.4}{Dessiner une enveloppe}{section.4.7}% 67
-\BOOKMARK [2][-]{subsection.4.7.5}{Modifier la taille et la couleur du stylo}{section.4.7}% 68
-\BOOKMARK [2][-]{subsection.4.7.6}{Remettre le programme achev\351 sur Teams}{section.4.7}% 69
-\BOOKMARK [2][-]{subsection.4.7.7}{Pour aller plus loin...}{section.4.7}% 70
-\BOOKMARK [1][-]{section.4.8}{Aide pour la s\351ance 3}{chapter.4}% 71
-\BOOKMARK [2][-]{subsection.4.8.1}{Ajouter un nouvel objet : l'avion}{section.4.8}% 72
-\BOOKMARK [2][-]{subsection.4.8.2}{G\351rer les mouvements de l'avion dans la sc\350ne}{section.4.8}% 73
-\BOOKMARK [2][-]{subsection.4.8.3}{Un nouvel objet : l'obstacle}{section.4.8}% 74
-\BOOKMARK [2][-]{subsection.4.8.4}{G\351rer la collision entre l'avion et l'obstacle}{section.4.8}% 75
-\BOOKMARK [2][-]{subsection.4.8.5}{Remettre le programme achev\351 sur Teams}{section.4.8}% 76
-\BOOKMARK [2][-]{subsection.4.8.6}{Pour aller plus loin...}{section.4.8}% 77
-\BOOKMARK [0][-]{chapter.5}{Activit\351s suppl\351mentaires}{}% 78
-\BOOKMARK [1][-]{section.5.1}{Pr\351parer un compte rendu d'exp\351rience en science}{chapter.5}% 79
-\BOOKMARK [1][-]{section.5.2}{\311laborer un document en histoire-g\351ographie}{chapter.5}% 80
-\BOOKMARK [1][-]{section.5.3}{Construire un programme en Scratch}{chapter.5}% 81
+\BOOKMARK [2][-]{subsection.4.3.1}{L'activit\351 demand\351e}{section.4.3}% 41
+\BOOKMARK [1][-]{section.4.4}{S\351ance 2 : dessiner avec Scratch}{chapter.4}% 42
+\BOOKMARK [2][-]{subsection.4.4.1}{L'activit\351 demand\351e}{section.4.4}% 43
+\BOOKMARK [2][-]{subsection.4.4.2}{Pour aller plus loin...}{section.4.4}% 44
+\BOOKMARK [1][-]{section.4.5}{S\351ance 3 : cr\351er un petit jeu en Scratch}{chapter.4}% 45
+\BOOKMARK [2][-]{subsection.4.5.1}{Pour aller plus loin...}{section.4.5}% 46
+\BOOKMARK [1][-]{section.4.6}{Aide aux activit\351s}{chapter.4}% 47
+\BOOKMARK [2][-]{subsection.4.6.1}{Aide pour la s\351ance 1}{section.4.6}% 48
+\BOOKMARK [1][-]{section.4.7}{Aide pour la s\351ance 2}{chapter.4}% 49
+\BOOKMARK [2][-]{subsection.4.7.1}{Ajouter l'effacement de l'\351cran}{section.4.7}% 50
+\BOOKMARK [2][-]{subsection.4.7.2}{Un carr\351 o\371 on veut !}{section.4.7}% 51
+\BOOKMARK [2][-]{subsection.4.7.3}{Dessiner une enveloppe}{section.4.7}% 52
+\BOOKMARK [2][-]{subsection.4.7.4}{Modifier la taille et la couleur du stylo}{section.4.7}% 53
+\BOOKMARK [1][-]{section.4.8}{Aide pour la s\351ance 3}{chapter.4}% 54
+\BOOKMARK [2][-]{subsection.4.8.1}{Ajouter un nouvel objet : l'avion}{section.4.8}% 55
+\BOOKMARK [2][-]{subsection.4.8.2}{G\351rer les mouvements de l'avion dans la sc\350ne}{section.4.8}% 56
+\BOOKMARK [2][-]{subsection.4.8.3}{Un nouvel objet : l'obstacle}{section.4.8}% 57
+\BOOKMARK [2][-]{subsection.4.8.4}{G\351rer la collision entre l'avion et l'obstacle}{section.4.8}% 58
+\BOOKMARK [0][-]{chapter.5}{Activit\351s suppl\351mentaires}{}% 59
+\BOOKMARK [1][-]{section.5.1}{Pr\351parer un compte rendu d'exp\351rience en science}{chapter.5}% 60
+\BOOKMARK [1][-]{section.5.2}{\311laborer un document en histoire-g\351ographie}{chapter.5}% 61
+\BOOKMARK [1][-]{section.5.3}{Construire un programme en Scratch}{chapter.5}% 62

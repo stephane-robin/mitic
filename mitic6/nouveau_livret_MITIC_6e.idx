@@ -36,65 +36,43 @@
 \indexentry{Writer!Rechercher|hyperpage}{24}
 \indexentry{Rechercher (Writer)|hyperpage}{24}
 \indexentry{Raccourci Clavier! Cmd + F, rechercher (Writer)|hyperpage}{24}
-\indexentry{Ouvrir!Gimp|hyperpage}{27}
-\indexentry{Gimp!Ouvrir|hyperpage}{27}
-\indexentry{Gimp!Recadrer une image|hyperpage}{28}
-\indexentry{Recadrage d'une image (Gimp)|hyperpage}{28}
-\indexentry{Gimp!D\IeC {\'e}coupage d'une image|hyperpage}{29}
-\indexentry{D\IeC {\'e}coupage d'une image (Gimp)|hyperpage}{29}
-\indexentry{Gimp!Ajouter un cadre autour d'une image|hyperpage}{33}
-\indexentry{Cadre autour d'une image (Gimp)|hyperpage}{33}
-\indexentry{Gimp!Luminosit\IeC {\'e}|hyperpage}{35}
-\indexentry{Luminosit\IeC {\'e} (Gimp)|hyperpage}{35}
-\indexentry{Gimp!Contraste|hyperpage}{35}
-\indexentry{Contraste (Gimp)|hyperpage}{35}
-\indexentry{Capture d'\IeC {\'e}cran|hyperpage}{36}
-\indexentry{Gimp!Capture d'\IeC {\'e}cran|hyperpage}{36}
-\indexentry{Raccourci Clavier! Ctrl + Maj + Cmd + 3, copier tout l'\IeC {\'e}cran|hyperpage}{36}
-\indexentry{Raccourci Clavier! Ctrl + Maj + Cmd + 4, copier une partie de l'\IeC {\'e}cran|hyperpage}{36}
-\indexentry{Ouvrir!Scratch|hyperpage}{40}
-\indexentry{Scratch!Ouvrir|hyperpage}{40}
-\indexentry{Scratch!Modifier la sc\IeC {\`e}ne|hyperpage}{41}
-\indexentry{Modifier la sc\IeC {\`e}ne (Scratch)|hyperpage}{41}
-\indexentry{Enregistrer!Scratch|hyperpage}{42}
-\indexentry{Scratch!Enregistrer|hyperpage}{42}
-\indexentry{Scratch!Script associ\IeC {\'e} \IeC {\`a} un objet|hyperpage}{43}
-\indexentry{Script associ\IeC {\'e} \IeC {\`a} un objet (Scratch)|hyperpage}{43}
-\indexentry{Scratch! Passer en mode plein \IeC {\'e}cran|hyperpage}{44}
-\indexentry{Passer en mode plein \IeC {\'e}cran (Scratch)|hyperpage}{44}
-\indexentry{Scratch! Quitter le mode plein \IeC {\'e}cran|hyperpage}{44}
-\indexentry{Quitter le mode plein \IeC {\'e}cran (Scratch)|hyperpage}{44}
-\indexentry{Scratch!Script associ\IeC {\'e} \IeC {\`a} la sc\IeC {\`e}ne|hyperpage}{45}
-\indexentry{Script associ\IeC {\'e} \IeC {\`a} la sc\IeC {\`e}ne (Scratch)|hyperpage}{45}
-\indexentry{Scratch!Ajouter et \IeC {\'e}diter un objet|hyperpage}{49}
-\indexentry{Ajouter et \IeC {\'e}diter un objet (Scratch)|hyperpage}{49}
+\indexentry{Ouvrir!Gimp|hyperpage}{25}
+\indexentry{Gimp!Ouvrir|hyperpage}{25}
+\indexentry{Gimp!Recadrer une image|hyperpage}{26}
+\indexentry{Recadrage d'une image (Gimp)|hyperpage}{26}
+\indexentry{Gimp!D\IeC {\'e}coupage d'une image|hyperpage}{27}
+\indexentry{D\IeC {\'e}coupage d'une image (Gimp)|hyperpage}{27}
+\indexentry{Gimp!Ajouter un cadre autour d'une image|hyperpage}{31}
+\indexentry{Cadre autour d'une image (Gimp)|hyperpage}{31}
+\indexentry{Gimp!Luminosit\IeC {\'e}|hyperpage}{33}
+\indexentry{Luminosit\IeC {\'e} (Gimp)|hyperpage}{33}
+\indexentry{Gimp!Contraste|hyperpage}{33}
+\indexentry{Contraste (Gimp)|hyperpage}{33}
+\indexentry{Capture d'\IeC {\'e}cran|hyperpage}{34}
+\indexentry{Gimp!Capture d'\IeC {\'e}cran|hyperpage}{34}
+\indexentry{Raccourci Clavier! Ctrl + Maj + Cmd + 3, copier tout l'\IeC {\'e}cran|hyperpage}{34}
+\indexentry{Raccourci Clavier! Ctrl + Maj + Cmd + 4, copier une partie de l'\IeC {\'e}cran|hyperpage}{34}
+\indexentry{Ouvrir!Scratch|hyperpage}{38}
+\indexentry{Scratch!Ouvrir|hyperpage}{38}
+\indexentry{Scratch!Modifier la sc\IeC {\`e}ne|hyperpage}{42}
+\indexentry{Modifier la sc\IeC {\`e}ne (Scratch)|hyperpage}{42}
+\indexentry{Enregistrer!Scratch|hyperpage}{43}
+\indexentry{Scratch!Enregistrer|hyperpage}{43}
+\indexentry{Scratch!Script associ\IeC {\'e} \IeC {\`a} un objet|hyperpage}{44}
+\indexentry{Script associ\IeC {\'e} \IeC {\`a} un objet (Scratch)|hyperpage}{44}
+\indexentry{Scratch! Passer en mode plein \IeC {\'e}cran|hyperpage}{45}
+\indexentry{Passer en mode plein \IeC {\'e}cran (Scratch)|hyperpage}{45}
+\indexentry{Scratch! Quitter le mode plein \IeC {\'e}cran|hyperpage}{45}
+\indexentry{Quitter le mode plein \IeC {\'e}cran (Scratch)|hyperpage}{45}
+\indexentry{Scratch!Script associ\IeC {\'e} \IeC {\`a} la sc\IeC {\`e}ne|hyperpage}{46}
+\indexentry{Script associ\IeC {\'e} \IeC {\`a} la sc\IeC {\`e}ne (Scratch)|hyperpage}{46}
+\indexentry{Scratch!Ajouter et \IeC {\'e}diter un objet|hyperpage}{48}
+\indexentry{Ajouter et \IeC {\'e}diter un objet (Scratch)|hyperpage}{48}
 \indexentry{Scratch!Boucle infinie|hyperpage}{50}
 \indexentry{Boucle infinie (Scratch)|hyperpage}{50}
-\indexentry{Scratch!Cr\IeC {\'e}er un objet|hyperpage}{51}
-\indexentry{Cr\IeC {\'e}er un objet (Scratch)|hyperpage}{51}
-\indexentry{Scratch!Collision entre objets|hyperpage}{52}
-\indexentry{Collision entre objets (Scratch)|hyperpage}{52}
-\indexentry{Scratch!Structure conditionnelle \emph{si}|hyperpage}{52}
-\indexentry{Structure conditionnelle \emph{si} (Scratch)|hyperpage}{52}
-\indexentry{Scratch!Modifier la sc\IeC {\`e}ne|hyperpage}{54}
-\indexentry{Modifier la sc\IeC {\`e}ne (Scratch)|hyperpage}{54}
-\indexentry{Enregistrer!Scratch|hyperpage}{56}
-\indexentry{Scratch!Enregistrer|hyperpage}{56}
-\indexentry{Scratch!Script associ\IeC {\'e} \IeC {\`a} un objet|hyperpage}{56}
-\indexentry{Script associ\IeC {\'e} \IeC {\`a} un objet (Scratch)|hyperpage}{56}
-\indexentry{Scratch! Passer en mode plein \IeC {\'e}cran|hyperpage}{57}
-\indexentry{Passer en mode plein \IeC {\'e}cran (Scratch)|hyperpage}{57}
-\indexentry{Scratch! Quitter le mode plein \IeC {\'e}cran|hyperpage}{57}
-\indexentry{Quitter le mode plein \IeC {\'e}cran (Scratch)|hyperpage}{57}
-\indexentry{Scratch!Script associ\IeC {\'e} \IeC {\`a} la sc\IeC {\`e}ne|hyperpage}{58}
-\indexentry{Script associ\IeC {\'e} \IeC {\`a} la sc\IeC {\`e}ne (Scratch)|hyperpage}{58}
-\indexentry{Scratch!Ajouter et \IeC {\'e}diter un objet|hyperpage}{62}
-\indexentry{Ajouter et \IeC {\'e}diter un objet (Scratch)|hyperpage}{62}
-\indexentry{Scratch!Boucle infinie|hyperpage}{63}
-\indexentry{Boucle infinie (Scratch)|hyperpage}{63}
-\indexentry{Scratch!Cr\IeC {\'e}er un objet|hyperpage}{64}
-\indexentry{Cr\IeC {\'e}er un objet (Scratch)|hyperpage}{64}
-\indexentry{Scratch!Collision entre objets|hyperpage}{65}
-\indexentry{Collision entre objets (Scratch)|hyperpage}{65}
-\indexentry{Scratch!Structure conditionnelle \emph{si}|hyperpage}{65}
-\indexentry{Structure conditionnelle \emph{si} (Scratch)|hyperpage}{65}
+\indexentry{Scratch!Cr\IeC {\'e}er un objet|hyperpage}{50}
+\indexentry{Cr\IeC {\'e}er un objet (Scratch)|hyperpage}{50}
+\indexentry{Scratch!Collision entre objets|hyperpage}{51}
+\indexentry{Collision entre objets (Scratch)|hyperpage}{51}
+\indexentry{Scratch!Structure conditionnelle \emph{si}|hyperpage}{51}
+\indexentry{Structure conditionnelle \emph{si} (Scratch)|hyperpage}{51}
