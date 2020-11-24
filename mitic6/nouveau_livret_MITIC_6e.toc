@@ -51,8 +51,34 @@
 \contentsline {subsubsection}{Ajouter un cadre autour de l'image}{33}{section*.19}
 \contentsline {subsection}{\numberline {5.3}Aide pour la s\IeC {\'e}ance 3}{34}{subsection.3.5.3}
 \contentsline {subsubsection}{Luminosit\IeC {\'e} et contraste}{34}{section*.20}
-\contentsline {chapter}{\numberline {4}Activit\IeC {\'e}s suppl\IeC {\'e}mentaires}{37}{chapter.4}
-\contentsline {section}{\numberline {1}Pr\IeC {\'e}parer un compte rendu d'exp\IeC {\'e}rience en science}{37}{section.4.1}
-\contentsline {section}{\numberline {2}\IeC {\'E}laborer un document en histoire-g\IeC {\'e}ographie}{37}{section.4.2}
-\contentsline {section}{\numberline {3}Construire un programme en \emph {Scratch}}{38}{section.4.3}
+\contentsline {chapter}{\numberline {4}Programmation Scratch}{37}{chapter.4}
+\contentsline {section}{\numberline {1}Premiers pas avec Scratch}{37}{section.4.1}
+\contentsline {section}{\numberline {2}S\IeC {\'e}ance 1 : un premier programme}{38}{section.4.2}
+\contentsline {subsection}{\numberline {2.1}L'activit\IeC {\'e} demand\IeC {\'e}e}{38}{subsection.4.2.1}
+\contentsline {section}{\numberline {3}S\IeC {\'e}ance 2 : dessiner avec Scratch}{39}{section.4.3}
+\contentsline {subsection}{\numberline {3.1}L'activit\IeC {\'e} demand\IeC {\'e}e}{39}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {3.2}Pour aller plus loin...}{40}{subsection.4.3.2}
+\contentsline {section}{\numberline {4}S\IeC {\'e}ance 3 : cr\IeC {\'e}er un petit jeu en Scratch}{40}{section.4.4}
+\contentsline {subsection}{\numberline {4.1}L'activit\IeC {\'e} demand\IeC {\'e}e}{40}{subsection.4.4.1}
+\contentsline {subsection}{\numberline {4.2}Pour aller plus loin...}{41}{subsection.4.4.2}
+\contentsline {section}{\numberline {5}Aide pour r\IeC {\'e}aliser les activit\IeC {\'e}s}{41}{section.4.5}
+\contentsline {subsection}{\numberline {5.1}Aide pour la s\IeC {\'e}ance 1}{41}{subsection.4.5.1}
+\contentsline {subsubsection}{Modifier la sc\IeC {\`e}ne o\IeC {\`u} se passe l'action}{41}{section*.21}
+\contentsline {subsubsection}{Enregistrer le programme}{43}{section*.22}
+\contentsline {subsubsection}{Ajouter un script associ\IeC {\'e} au lutin}{44}{section*.23}
+\contentsline {subsubsection}{Ajouter un script associ\IeC {\'e} \IeC {\`a} la sc\IeC {\`e}ne}{45}{section*.24}
+\contentsline {subsection}{\numberline {5.2}Aide pour la s\IeC {\'e}ance 2}{46}{subsection.4.5.2}
+\contentsline {subsubsection}{Ajouter l'effacement de l'\IeC {\'e}cran}{46}{section*.25}
+\contentsline {subsubsection}{Un carr\IeC {\'e} o\IeC {\`u} on veut !}{46}{section*.26}
+\contentsline {subsubsection}{Dessiner une enveloppe}{47}{section*.27}
+\contentsline {subsubsection}{Modifier la taille et la couleur du stylo}{47}{section*.28}
+\contentsline {subsection}{\numberline {5.3}Aide pour la s\IeC {\'e}ance 3}{47}{subsection.4.5.3}
+\contentsline {subsubsection}{Ajouter un nouvel objet : l'avion}{47}{section*.29}
+\contentsline {subsubsection}{G\IeC {\'e}rer les mouvements de l'avion dans la sc\IeC {\`e}ne}{49}{section*.30}
+\contentsline {subsubsection}{Un nouvel objet : l'obstacle}{50}{section*.31}
+\contentsline {subsubsection}{G\IeC {\'e}rer la collision entre l'avion et l'obstacle}{51}{section*.32}
+\contentsline {chapter}{\numberline {5}Activit\IeC {\'e}s suppl\IeC {\'e}mentaires}{53}{chapter.5}
+\contentsline {section}{\numberline {1}Pr\IeC {\'e}parer un compte rendu d'exp\IeC {\'e}rience en science}{53}{section.5.1}
+\contentsline {section}{\numberline {2}\IeC {\'E}laborer un document en histoire-g\IeC {\'e}ographie}{53}{section.5.2}
+\contentsline {section}{\numberline {3}Construire un programme en \emph {Scratch}}{54}{section.5.3}
 \contentsfinish 
