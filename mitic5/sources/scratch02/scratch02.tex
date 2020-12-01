@@ -1,0 +1,348 @@
+\chapter{Programmation Scratch 2}  
+
+{\footnotesize
+\begin{itemize}
+\item Logiciel\footnote{Le logiciel Scratch est librement téléchargeable : \url{https://scratch.mit.edu/scratch2download/}} : \emph{Scratch 2.0}
+\item Prérequis (se reporter si nécessaire aux \emph{Fiches Mitic 6\up{e}}) : 
+        \begin{itemize}
+        \item choisir et paramétrer l'objet lutin et l'objet scène ;
+        \item créer/insérer un nouvel objet ; 
+        \item écrire un script comprenant mouvements, réponses à événement, boucles et son ;
+        \item associer un script à un objet ;
+        \item utiliser la structure conditionnelle if (bloc \emph{si ..}) ; 
+        \item écrire un programme simple qui réponde à une problématique donnée.
+        \end{itemize}
+\item Matière concernée : mathématiques.
+\item Compétences : 
+        \begin{itemize}
+        \item créer une variable et modifier sa valeur ;
+        \item utiliser la boucle for (bloc \emph{répéter $n$ fois}) ;
+        \item utiliser la structure if .. then .. else (bloc \emph{si .. alors .. sinon}) ; 
+        \item utiliser la boucle infinie (bloc \emph{répéter indéfiniment}) ;
+        \item lire un algorithme écrit sous la forme d'un \emph{flowchart} ;
+        \item écrire un programme à partir d'un \emph{flowchart}.
+        \end{itemize}
+\item Cette fiche est à réaliser :
+        \begin{itemize}
+        \item avant les vacances de Noël en mathématiques (séance 1) ;
+        \item avant les vacances de printemps en mathématiques (séance 2) ;
+        \item avant les vacances d'été en mathématiques (séance 3). 
+        \end{itemize}
+\end{itemize}
+} % fin du footnotesize
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\section*{Passer Scratch en langue française} 
+
+
+Avant de commencer, il faut si nécessaire passer Scratch en langue française :
+
+\uneimageici{./images/scratch02/scratchFrancais}{.4\textwidth}
+
+
+
+
+%
+%
+%  S  É  A  N  C  E     I
+%
+%
+
+
+
+\section{Séance 1 : un programme qui dessine une spirale}\label{ficheScratch5e1}
+
+
+\boiteEnonceLarge{Le but de cette séance est de dessiner une spirale, comme montré sur la figure ci-dessous. Une fois cette première étape achevée, il faudra dessiner une fleur en réutilisant le script conçu pour dessiner la spirale.}
+
+\uneimageici{./images/scratch02/1ResultatSpirale}{.4\textwidth}
+
+
+\subsection{Avant de commencer...}
+
+Donnez un nom à votre programme pour le sauvegarder : dans le menu \texttt{Fichier}, choisir \texttt{Enregistrer}. Pendant que vous travaillez, pensez à sauvegarder régulièrement votre travail (raccourci clavier \texttt{Cmd + S}).   
+
+
+\subsection{Première étape : création d'une variable}\label{Scratch5eCreationVariable}\index{Scratch!Créer une variable}\index{Créer une variable (Scratch)} 
+  
+
+Pour dessiner la spirale, il faut utiliser une \emph{variable} : c'est une case dans la mémoire de l'ordinateur qui permet d'enregistrer une valeur et de la modifier par la suite. La case mémoire porte un nom (ici \emph{longueur}), et c'est ce nom qui est utilisé pour accéder à la valeur.
+
+Pour créer une variable, il faut choisir \texttt{Données} (\circled{1} sur la figure ci-dessous) puis \texttt{Créer une variable} \circled{2} :
+
+\uneimageici{./images/scratch02/scratchVariable1}{.6\textwidth}
+
+Une boîte de dialogue s'ouvre alors (ci-dessous, à gauche) : il faut y inscrire le nom de la variable, puis choisir une \emph{variable locale} en sélectionnant \texttt{Pour ce lutin uniquement}, et enfin cliquer sur \texttt{OK}. Le menu \texttt{Données} possède alors de nouveaux blocs de commande associés à notre variable (ci-dessous à droite).
+
+\deuximagesici{./images/scratch02/scratchVariable2}{.7\textwidth}%
+              {./images/scratch02/scratchVariable3}{.5\textwidth}
+
+La nouvelle variable \texttt{longueur} peut alors être utilisée, par exemple pour faire avancer le lutin d'un nombre de pas égal à la valeur de la variable \texttt{longueur} :
+
+\uneimageici{./images/scratch02/scratchVariable4}{.6\textwidth}
+
+Il est également possible de modifier la valeur de la variable \texttt{longueur} en lui ajoutant une valeur (par exemple sur la figure ci-dessous, on ajoute 0,1). Le contenu de la case mémoire \texttt{longueur} est augmenté de la valeur indiquée. Par exemple, si la case mémoire \texttt{longueur} contenait la valeur 14,5, après cette instruction elle contient la valeur 14,6.    
+
+\uneimageici{./images/scratch02/scratchVariableAjouter}{.3\textwidth}
+
+
+
+\vspace{12pt}
+
+\cadre{Les \textbf{variables}\index{Scratch!Variables}\index{Variables (Scratch)} sont très importantes pour la programmation. Une variable correspond à une case dans la mémoire de l'ordinateur où l'on peut stocker une valeur. Pour rappeler cette valeur, il suffit d'utiliser le nom de la variable. Des opérations peuvent être effectuées avec les variables :
+\begin{itemize}
+\item On peut \textbf{créer} une nouvelle variable : \uneimageici{./images/scratch02/scratchVariable2}{.4\textwidth} Si on choisit \emph{Pour tous les lutins}, la variable est \textbf{globale}, c'est-à-dire qu'elle peut être utilisée partout dans le programme. Si on choisit \emph{Pour ce lutin uniquement}, la variable est \textbf{locale}, c'est-à-dire qu'elle ne peut être utilisée que pour le lutin pour lequel elle a été créée.    
+\vspace{8pt}\item On peut \textbf{assigner} une valeur à la variable, c'est-à-dire ranger une valeur dans la case mémoire désignée par le nom choisi (ici, on range la valeur 0 dans la case mémoire \emph{longueur}) : \uneimageici{./images/scratch02/scratchVariableAssigner}{.25\textwidth}
+\item On peut \textbf{ajouter} un nombre à la valeur de la variable, ce qui fait changer la valeur stockée dans la case mémoire désignée par le nom choisi (ici, on ajoute 0,1 à la valeur stockée dans la case mémoire \emph{longueur}): \uneimageici{./images/scratch02/scratchVariableAjouter}{.25\textwidth}  
+\item Enfin, ce nom de variable peut être utilisé à tout moment dans le programme (ici, on demande que le lutin avance d'un nombre de pas égal à la valeur stockée dans la case mémoire \emph{longueur}) : \uneimageici{./images/scratch02/scratchVariableUtiliser}{.22\textwidth}
+\end{itemize}
+}  
+
+\vspace{12pt}
+
+\subsection{Deuxième étape : le script qui dessine la spirale} 
+
+
+Pour dessiner une spirale, il faut répéter plusieurs fois le même bloc d'instructions \emph{<<\,Avancer de $x$ pas -- Tourner un peu -- Augmenter la valeur de $x$\,>>}. Nous avons vu l'année passée que ceci était possible grâce à une \textbf{boucle} qui permet de répéter un certain nombre de fois un bloc d'instructions.
+
+\cadre{La \textbf{boucle} est une structure importante en programmation : elle permet de répéter un bloc d'instructions plusieurs fois, tant qu'une condition est vérifiée ou même indéfiniment. Dans notre programme, nous utilisons une boucle <<\,répéter 300 fois\,>>.\uneimageici{./images/scratch02/1Boucle300texte}{.6\textwidth}}
+
+Créer maintenant le script suivant, qui doit être associé au lutin (à gauche, ci-dessous, l'\emph{algorithme} qui correspond au script) :
+
+\deuximagesGPici{./images/scratch02/flowchartActivite1}{\textwidth}% 
+              {./images/scratch02/1CodeSpirale}{.9\textwidth}  
+
+\emph{Attention ! Comprenez bien l'algorithme ci-dessus, car lors de la prochaine séance, seul l'algorithme sera donné.} 
+
+\subsection{Troisième étape : un script qui efface l'écran}\index{Scratch!Effacer l'écran}\index{Effacer l'écran (Scratch)}
+
+Créer enfin ce petit script, associé au lutin, qui permet d'effacer l'écran :
+
+\deuximagesGPici{./images/scratch02/flowchartActivite1b}{.75\textwidth}%
+              {./images/scratch02/1CodeEffaceEcran}{.75\textwidth}
+
+
+\subsection{Quatrième étape : à vous de jouer !}
+
+Compléter le programme afin de dessiner une fleur qui ressemble à celle montrée ci-dessous.
+
+\uneimageici{./images/scratch02/1Fleurs}{.4\textwidth}
+
+
+\subsection{Rendre le programme}
+
+Une fois le programme terminé, dans le menu \texttt{Fichier} choisir \texttt{Enregistrer} (le fichier doit être nommé à partir de votre nom : \texttt{Nom-Prénom-date.sb2}) et le rendre sur la plateforme Moodle à l'endroit indiqué par votre enseignant (si nécessaire, se reporter à la fiche méthode \emph{Remettre un devoir sur Moodle}, section \vref{MoodleRendreDevoir}).
+
+
+
+
+\subsection{Pour aller plus loin...}
+
+Écrire un programme en \emph{Scratch} qui dessine le drapeau suisse. Ce programme devra utiliser des boucles. 
+
+\uneimageici{./images/scratch02/1DrapeauSuisse}{.2\textwidth}
+
+Aide : on peut créer une variable \emph{PositionY} qui contient la position en $y$ du lutin, puis l'utiliser dans une boucle qui se répète tant que \emph{PositionY} n'a pas atteint la valeur souhaitée. Avant de terminer la boucle, il faudra bien entendu modifier la valeur de \emph{PositionY}.
+
+\uneimageici{./images/scratch02/1BlocsDrapeauSuisse}{.6\textwidth}
+
+
+
+
+
+%
+%
+%  S  É  A  N  C  E     II
+%
+%
+
+\section{Séance 2 : un quiz de calcul mental}\label{ficheScratch5e2}
+
+
+\boiteEnonceLarge{Le but de cette séance est d'écrire un programme qui demande à l'utilisateur le résultat d'une multiplication. L'utilisateur donne alors sa réponse, et le programme lui indique si sa réponse est juste ou non.
+
+Par exemple, le programme pourra poser la question \emph{<<\,Bonjour, combien font $10 \times (-5)$ ?\,>>}. L'utilisateur devra alors répondre $-50$ (cette réponse est entrée au clavier). La figure ci-dessous montre différentes étapes de l'exécution du programme.}
+
+
+\uneimageici{./images/scratch02/2BDall}{.7\textwidth}
+
+
+
+\subsection{Avant de commencer...}
+
+Donnez un nom à votre programme pour le sauvegarder : dans le menu \texttt{Fichier}, choisir \texttt{Enregistrer}. Pendant que vous travaillez, pensez à sauvegarder régulièrement votre travail (raccourci clavier \texttt{Cmd + S}).   
+
+
+
+\subsection{Algorithme du programme}  
+
+L'algorithme du programme est le suivant :
+
+\uneimageici{./images/scratch02/flowchartActivite2}{.8\textwidth}
+
+
+\subsection{Aide pour l'écriture du programme}  
+
+Pour écrire ce programme, il faudra :
+
+\begin{enumerate}
+\item Créer deux variables \includegraphics[width=.7cm]{./images/scratch02/2variableA} et \includegraphics[width=.7cm]{./images/scratch02/2variableB} (voir si nécessaire la section \vref{Scratch5eCreationVariable}) ;
+\item Supprimer le lutin par défaut et en choisir un autre en cliquant sur une des icônes \includegraphics[width=4cm]{./images/scratch02/2nouveauLutin}, comme par exemple celui de l'image ci-dessous.
+
+\uneimageici{./images/scratch02/2activite2scene}{.5\textwidth}
+
+\item Utiliser des blocs \includegraphics[width=4.5cm]{./images/scratch02/2blocDire} pour poser la question à l'utilisateur ;
+
+\item Utiliser un bloc \includegraphics[width=4cm]{./images/scratch02/2blocDemander} pour attendre la réponse de l'utilisateur. Elle est alors enregistrée dans une variable \texttt{réponse} que l'on trouve déjà prête dans les blocs sous la catégorie \texttt{capteur} : \includegraphics[width=1.5cm]{./images/scratch02/2reponse}.
+
+\item Construire le bloc \texttt{si .. alors .. sinon} comme indiqué ci-dessous.
+\uneimageici{./images/scratch02/2ConstructionIfThenElse}{.3\textwidth}
+
+\end{enumerate}
+
+\cadre{La structure conditionnelle \textbf{si .. alors .. sinon}\index{Scratch!Si..alors..sinon}\index{Si..alors..sinon (Scratch)} est une structure importante en programmation : elle permet d'exécuter un bloc d'instructions \textbf{si} une condition est vérifiée, et \textbf{sinon}, elle exécute un autre bloc d'instructions.\uneimageici{./images/scratch02/2IfThenElseTexte}{.6\textwidth}}
+
+
+\subsection{Rendre le programme}
+
+Une fois le programme terminé, dans le menu \texttt{Fichier} choisir \texttt{Enregistrer} (le fichier doit être nommé à partir de votre nom : \texttt{Nom-Prénom-date.sb2}) et le rendre sur la plateforme Moodle à l'endroit indiqué par votre enseignant (si nécessaire, se reporter à la fiche méthode \emph{Remettre un devoir sur Moodle}, section \vref{MoodleRendreDevoir}).
+
+
+
+\subsection{Pour aller plus loin...}
+
+Écrire l'algorithme correspondant au jeu décrit ci-dessous, puis écrire le programme :
+
+\vspace{6pt}
+
+\emph{Scratch choisit un nombre compris entre $-100$ et $100$ et le joueur essaie de le deviner. Il faut utiliser une variable «\,nombre\,» qui stocke le nombre choisi aléatoirement. Chaque fois que le joueur propose un nombre, on lui indique soit «\,bravo c'est gagné\,», soit «\,le nombre cherché est plus petit\,», soit enfin «\,le nombre cherché est plus grand\,».}
+
+\vspace{6pt}
+
+Pour améliorer le jeu, ajouter une variable qui compte le nombre de coups dont le joueur a eu besoin pour deviner le nombre et l'afficher à la fin du jeu.
+
+
+
+%
+%
+%  S  É  A  N  C  E     III
+%
+%
+
+
+
+
+\section{Séance 3 : créer un jeu de <<\,Pong\,>> en Scratch}\label{ficheScratch5e3}
+
+
+\boiteEnonceLarge{Le but de cette séance est d'écrire un jeu de <<\,Pong\,>> dans lequel le joueur doit faire rebondir une balle avec une raquette et éviter que la balle ne touche le bas de l'écran. La figure ci-dessous montre à quoi ressemblera le jeu une fois terminé.}
+
+\uneimageici{./images/scratch02/PongResultat}{.4\textwidth}
+
+
+\subsection{Avant de commencer...}
+
+Donnez un nom à votre programme pour le sauvegarder : dans le menu \texttt{Fichier}, choisir \texttt{Enregistrer}. Pendant que vous travaillez, pensez à sauvegarder régulièrement votre travail (raccourci clavier \texttt{Cmd + S}).   
+
+
+\subsection{Première étape : création de l'arrière plan et choix des lutins} 
+
+La première étape consiste à choisir un arrière plan :
+
+\deuximagesici{./images/scratch02/Pong1}{.5\textwidth}%
+              {./images/scratch02/Pong2}{.5\textwidth}
+
+Supprimer ensuite le lutin existant par défaut, puis choisir les deux lutins nécessaires au jeu, la raquette et la balle, que l'on redimensionne \includegraphics[width=3cm]{./images/scratch02/Pong5} si nécessaire.
+
+\deuximagesGPici{./images/scratch02/Pong4}{\textwidth}%
+              {./images/scratch02/Pong8}{.6\textwidth}
+
+\subsection{Définition du mouvement de la balle} 
+
+Avant de mettre la balle en mouvement, il faut la positionner (au centre du jeu par exemple) et l'orienter (à 45\degre par exemple si on veut que la balle parte vers le haut) avant de définir la boucle qui fait avancer la balle et la fait rebondir sur les murs.
+
+\uneimageici{./images/scratch02/flowchartActivite3a}{.85\textwidth}
+
+Pour vérifier que cette partie du jeu est bien programmée, cliquer sur le drapeau vert : la balle doit avancer sans arrêt et rebondir sur les murs.
+
+
+\cadre{La structure de boucle infinie \textbf{Répéter indéfiniment}\index{Scratch!Boucle infinie}\index{Boucle infinie (Scratch)} est une structure importante en programmation : elle permet d'exécuter un bloc d'instructions sans jamais se terminer.\uneimageici{./images/scratch02/3boucleInfinie}{.25\textwidth}}
+
+
+\subsection{Mouvements de la raquette et rebond de la balle sur la raquette}
+
+Pour pouvoir contrôler les mouvements de la raquette avec la souris, il faut utiliser l'instruction \texttt{aller à pointeur souris}. Écrire la boucle correspondante en cliquant bien, au préalable, sur le lutin raquette.
+
+\uneimageici{./images/scratch02/flowchartActivite3b}{.5\textwidth}
+
+Vérifiez que votre script est correct : quand vous cliquez sur le drapeau vert, la raquette suit la souris.
+
+Revenir au lutin balle pour programmer ce qui se passe quand il touche la raquette. Pour cela, il faut utiliser la condition \texttt{si paddle touché..alors} et l'instruction \texttt{tourner de 180 degrés} qui fait que la balle repart dans l'autre sens quand elle touche la raquette.
+
+\uneimageici{./images/scratch02/flowchartActivite3c}{.5\textwidth}
+
+Vérifiez votre script : quand vous cliquez sur le drapeau vert et que la balle touche la raquette, elle rebondit.
+
+\subsection{Fin du jeu}
+
+Pour arrêter le jeu si la balle touche le bas, le plus simple est de tracer une ligne horizontale\index{Scratch!Ajouter un objet en le dessinant}\index{Ajouter un objet en le dessinant (Scratch)} d'une couleur spécifique et d'utiliser le bloc \texttt{couleur touchée}.
+
+Cliquer sur l'arrière-plan puis cliquer sur l'onglet \texttt{Arrière-plan}.
+
+\uneimageici{./images/scratch02/Pong13}{.6\textwidth}
+
+Sélectionner l'outil ligne \circled{1} puis choisir l'épaisseur \circled{2} et la couleur \circled{3} du trait. Dessiner un trait \circled{4} en bas de la scène. 
+
+\vspace{12pt}
+
+Remarques :
+\begin{itemize}
+\item pour tracer un trait parfaitement horizontal, maintenir la touche \texttt{majuscule (shift)} enfoncée pendant que le trait est tracé ;
+\item si le trait tracé ne convient pas, il est possible de l'effacer en utilisant la touche d'annulation de la dernière action \includegraphics[width=1.5cm]{./images/scratch02/Pong12bis};
+\end{itemize}
+
+
+\vspace{12pt}
+
+Cliquer ensuite sur le lutin balle et ajouter un script avec le bloc \texttt{couleur touchée} pour arrêter la balle si elle touche la couleur de ligne. Une fois le bloc \texttt{couleur touchée} inséré, il faut cliquer sur le carré de couleur puis cliquer sur la ligne du bas de la scène pour sélectionner la bonne couleur. L'algorithme du script à construire est détaillé ci-dessous.
+
+\uneimageici{./images/scratch02/flowchartActivite3d}{.75\textwidth}
+
+
+\subsection{Rendre le programme}  
+
+Une fois le programme terminé, dans le menu \texttt{Fichier} choisir \texttt{Enregistrer} (le fichier doit être nommé à partir de votre nom : \texttt{Nom-Prénom-date.sb2}) et le rendre sur la plateforme Moodle à l'endroit indiqué par votre enseignant (si nécessaire, se reporter à la fiche méthode \emph{Remettre un devoir sur Moodle}, section \vref{MoodleRendreDevoir}).
+
+
+
+\subsection{Pour aller plus loin...}
+
+Pour améliorer le jeu, on peut :
+
+\begin{itemize}
+
+	\item changer la couleur de la balle à chaque fois qu'elle touche la raquette ;
+	\item ajouter un son quand la balle touche la ligne du bas ;
+	\item ajouter un compteur de points, par exemple en ajoutant 1 point chaque fois que la balle touche la raquette ou en ajoutant une ligne en haut de la scène et en ajoutant 1 point chaque fois que la balle touche cette ligne ;
+	\item augmenter la vitesse de la balle quand le nombre de points augmente.
+\end{itemize}
+
+\vspace{1em}
+
+Et si on essayait de passer en mode deux joueurs ? En effet, il est possible de créer une deuxième raquette et ainsi de pouvoir jouer à deux. La deuxième raquette peut par exemple être déplacée à l'aide des flèches de direction.
+
+

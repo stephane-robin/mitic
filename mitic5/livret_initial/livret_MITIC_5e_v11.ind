@@ -1,0 +1,175 @@
+\begin{theindex}
+
+  \item Ajouter un objet en le dessinant (Scratch), \hyperpage{76}
+  \item Ajouter un texte sur une image (Gimp), \hyperpage{39}
+  \item Ajouter une courbe de tendance (Calc), \hyperpage{7}
+  \item Ajouter une piste (Audacity), \hyperpage{52}
+  \item Appliquer un filtre (Gimp), \hyperpage{40}
+  \item Audacity
+    \subitem Ajouter une piste, \hyperpage{52}
+    \subitem Barre de menu principale, \hyperpage{50}
+    \subitem Copier et coller, \hyperpage{53}
+    \subitem Exporter en MP3 ou WAV, \hyperpage{58}
+    \subitem Fondu, \hyperpage{56}
+    \subitem Interface graphique, \hyperpage{50}
+    \subitem Modifier le volume, \hyperpage{57}
+    \subitem Outils de glissement temporel, \hyperpage{55}
+    \subitem Palette d'outils, \hyperpage{50}
+    \subitem R\IeC {\'e}glage des volumes, \hyperpage{50}
+    \subitem Raccorder, \hyperpage{56}
+    \subitem Rendre silencieux, \hyperpage{55}
+    \subitem St\IeC {\'e}r\IeC {\'e}o vers mono, \hyperpage{51}
+
+  \indexspace
+
+  \item Barre de menu principale (Audacity), \hyperpage{50}
+  \item Boucle infinie (Scratch), \hyperpage{74}
+
+  \indexspace
+
+  \item Calc
+    \subitem Ajouter courbe de tendance, \hyperpage{7}
+    \subitem Changer les points en virgules, \hyperpage{2}
+    \subitem Cr\IeC {\'e}er un diagramme circulaire, \hyperpage{9}
+    \subitem En-t\IeC {\^e}te et pied de page, \hyperpage{6}
+    \subitem Formater la page, \hyperpage{5}
+    \subitem Formater le contenu d'une cellule, \hyperpage{3}
+    \subitem S\IeC {\'e}parateur d\IeC {\'e}cimal, \hyperpage{2}
+  \item Calendrier des activit\IeC {\'e}s, \hyperpage{vii}
+  \item Calques, \hyperpage{42}
+  \item Calques (Gimp), \hyperpage{39}
+  \item Calques : ajouter, \hyperpage{42}
+  \item Calques : changer de calque actif, \hyperpage{43}
+  \item Calques : d\IeC {\'e}placer le calque, \hyperpage{44}
+  \item Calques : modifier l'opacit\IeC {\'e}, \hyperpage{43}
+  \item Calques : modifier la pile des calques, \hyperpage{43}
+  \item Capture d'\IeC {\'e}cran, \hyperpage{44}
+  \item Changer les points en virgules (Calc), \hyperpage{2}
+  \item Clavier, \hyperpage{ix}
+  \item Connexion \IeC {\`a} Flore, \hyperpage{79}
+  \item Connexion \IeC {\`a} Moodle, \hyperpage{80}
+  \item Connexion \IeC {\`a} Pronote, \hyperpage{80}
+  \item Convertir en niveaux de gris (Gimp), \hyperpage{41}
+  \item Copier et coller (Audacity), \hyperpage{53}
+  \item Correcteur d'orthographe (Writer), \hyperpage{26}
+  \item Cr\IeC {\'e}er un diagramme circulaire (Calc), \hyperpage{9}
+  \item Cr\IeC {\'e}er une variable (Scratch), \hyperpage{64}
+
+  \indexspace
+
+  \item Effacer l'\IeC {\'e}cran (Scratch), \hyperpage{67}
+  \item En-t\IeC {\^e}te et pied de page (Calc), \hyperpage{6}
+
+  \indexspace
+
+  \item Finder
+    \subitem Ouvrir, \hyperpage{82}
+  \item Flore
+    \subitem Se connecter, \hyperpage{79}
+  \item Fondu (Audacity), \hyperpage{56}
+  \item Formater la page (Calc), \hyperpage{5}
+  \item Formater le contenu d'une cellule (Calc), \hyperpage{3}
+
+  \indexspace
+
+  \item Gimp
+    \subitem Ajouter un calque, \hyperpage{42}
+    \subitem Ajouter un texte sur une image, \hyperpage{39}
+    \subitem Appliquer un filtre, \hyperpage{40}
+    \subitem Calques, \hyperpage{39}, \hyperpage{42}
+    \subitem Capture d'\IeC {\'e}cran, \hyperpage{44}
+    \subitem Changer de calque actif, \hyperpage{43}
+    \subitem Convertir en niveaux de gris, \hyperpage{41}
+    \subitem D\IeC {\'e}placer un calque, \hyperpage{44}
+    \subitem Modifier l'opacit\IeC {\'e} d'un calque, \hyperpage{43}
+    \subitem Modifier la pile des calques, \hyperpage{43}
+  \item Glissement temporel (Audacity), \hyperpage{55}
+
+  \indexspace
+
+  \item Image, adapter le texte (Writer), \hyperpage{27}
+  \item Ins\IeC {\'e}rer un tableau (Writer), \hyperpage{20}
+  \item Interface graphique (Audacity), \hyperpage{50}
+
+  \indexspace
+
+  \item Lien hypertexte (Writer), \hyperpage{24}
+  \item Liste \IeC {\`a} puces (Writer), \hyperpage{22}
+
+  \indexspace
+
+  \item Moodle
+    \subitem R\IeC {\'e}cup\IeC {\'e}rer un devoir, \hyperpage{81}
+    \subitem Remettre un devoir, \hyperpage{83}
+    \subitem Se connecter, \hyperpage{80}
+  \item MP3 export (Audacity), \hyperpage{58}
+
+  \indexspace
+
+  \item Note de bas de page (Writer), \hyperpage{25}
+
+  \indexspace
+
+  \item Ouvrir
+    \subitem Finder, \hyperpage{82}
+
+  \indexspace
+
+  \item Palette d'outils (Audacity), \hyperpage{50}
+  \item Pronote
+    \subitem Se connecter, \hyperpage{80}
+
+  \indexspace
+
+  \item R\IeC {\'e}cup\IeC {\'e}rer un document sur Moodle, 
+		\hyperpage{81}
+  \item R\IeC {\'e}glage des volumes (Audacity), \hyperpage{50}
+  \item Raccorder (Audacity), \hyperpage{56}
+  \item Raccourci Clavier
+    \subitem  Ctrl + Maj + Cmd + 3, copier tout l'\IeC {\'e}cran, 
+		\hyperpage{44}
+    \subitem  Ctrl + Maj + Cmd + 4, copier une partie de l'\IeC {\'e}cran, 
+		\hyperpage{44}
+  \item Remise d'un devoir sur Moodle, \hyperpage{83}
+
+  \indexspace
+
+  \item S\IeC {\'e}parateur d\IeC {\'e}cimal (Calc), \hyperpage{2}
+  \item Scratch
+    \subitem Ajouter un objet en le dessinant, \hyperpage{76}
+    \subitem Boucle infinie, \hyperpage{74}
+    \subitem Cr\IeC {\'e}er une variable, \hyperpage{64}
+    \subitem Effacer l'\IeC {\'e}cran, \hyperpage{67}
+    \subitem Si..alors..sinon, \hyperpage{72}
+    \subitem Variables, \hyperpage{66}
+  \item Si..alors..sinon (Scratch), \hyperpage{72}
+  \item Silence (Audacity), \hyperpage{55}
+  \item St\IeC {\'e}r\IeC {\'e}o vers mono (Audacity), \hyperpage{51}
+
+  \indexspace
+
+  \item Tableau, centrer le contenu d'une cellule (Writer), 
+		\hyperpage{22}
+  \item Tableau, supprimer le tableau (Writer), \hyperpage{22}
+  \item Touches sp\IeC {\'e}ciales, \hyperpage{ix}
+
+  \indexspace
+
+  \item Variables (Scratch), \hyperpage{66}
+  \item Virgule ou point ? (Calc), \hyperpage{2}
+  \item Volume, modifier (Audacity), \hyperpage{57}
+
+  \indexspace
+
+  \item WAV export (Audacity), \hyperpage{58}
+  \item Writer
+    \subitem Correcteur d'orthographe, \hyperpage{26}
+    \subitem Image, adapter le texte, \hyperpage{27}
+    \subitem Ins\IeC {\'e}rer un tableau, \hyperpage{20}
+    \subitem Lien hypertexte, \hyperpage{24}
+    \subitem Liste \IeC {\`a} puces, \hyperpage{22}
+    \subitem Note de bas de page, \hyperpage{25}
+    \subitem Tableau, centrer le contenu d'une cellule, \hyperpage{22}
+    \subitem Tableau, supprimer le tableau, \hyperpage{22}
+
+\end{theindex}

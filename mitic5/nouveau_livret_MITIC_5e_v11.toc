@@ -1,0 +1,31 @@
+\select@language {french}
+\contentsline {chapter}{\numberline {1}Tableur 2}{1}{chapter.1}
+\contentsline {section}{\numberline {1}Les outils dont vous aurez besoin}{1}{section.1.1}
+\contentsline {subsection}{\numberline {1.1}Le s\IeC {\'e}parateur d\IeC {\'e}cimal}{2}{subsection.1.1.1}
+\contentsline {subsubsection}{Quel est votre s\IeC {\'e}parateur d\IeC {\'e}cimal ?}{2}{section*.6}
+\contentsline {subsubsection}{Changer les virgules en points (ou inversement)}{2}{section*.7}
+\contentsline {subsection}{\numberline {1.2}Formater le contenu d'une cellule}{3}{subsection.1.1.2}
+\contentsline {subsection}{\numberline {1.3}Formater la page}{5}{subsection.1.1.3}
+\contentsline {subsubsection}{Orientation et marges}{5}{section*.8}
+\contentsline {subsubsection}{Nombre de pages}{6}{section*.9}
+\contentsline {subsubsection}{En-t\IeC {\^e}te et pied de page}{6}{section*.10}
+\contentsline {subsection}{\numberline {1.4}Ajouter une courbe de tendance}{8}{subsection.1.1.4}
+\contentsline {subsection}{\numberline {1.5}Cr\IeC {\'e}er un diagramme circulaire}{9}{subsection.1.1.5}
+\contentsline {section}{\numberline {2}S\IeC {\'e}ance 1 : caract\IeC {\'e}ristique d'une r\IeC {\'e}sistance}{11}{section.1.2}
+\contentsline {section}{\numberline {3}S\IeC {\'e}ance 2 : inventaire des tables du coll\IeC {\`e}ge}{13}{section.1.3}
+\contentsline {section}{\numberline {4}S\IeC {\'e}ance 3 : r\IeC {\'e}partition de la population mondiale}{15}{section.1.4}
+\contentsline {chapter}{\numberline {2}Traitement de texte}{17}{chapter.2}
+\contentsline {section}{\numberline {1}S\IeC {\'e}ance 1 : mise en forme d'un texte en fran\IeC {\c c}ais}{18}{section.2.1}
+\contentsline {subsection}{\numberline {1.1}L'activit\IeC {\'e} demand\IeC {\'e}e}{18}{subsection.2.1.1}
+\contentsline {section}{\numberline {2}S\IeC {\'e}ance 2 : mise en forme d'un texte en anglais}{20}{section.2.2}
+\contentsline {subsection}{\numberline {2.1}L'activit\IeC {\'e} demand\IeC {\'e}e}{20}{subsection.2.2.1}
+\contentsline {section}{\numberline {3}S\IeC {\'e}ance 3 : mise en forme d'une fiche historique}{23}{section.2.3}
+\contentsline {subsection}{\numberline {3.1}L'activit\IeC {\'e} demand\IeC {\'e}e}{23}{subsection.2.3.1}
+\contentsline {section}{\numberline {4}Aide pour r\IeC {\'e}aliser les activit\IeC {\'e}s}{26}{section.2.4}
+\contentsline {subsection}{\numberline {4.1}Ins\IeC {\'e}rer un tableau}{26}{subsection.2.4.1}
+\contentsline {subsection}{\numberline {4.2}Cr\IeC {\'e}er une liste \IeC {\`a} puces}{28}{subsection.2.4.2}
+\contentsline {subsection}{\numberline {4.3}Ajouter un lien hypertexte}{30}{subsection.2.4.3}
+\contentsline {subsection}{\numberline {4.4}Ins\IeC {\'e}rer une note de bas de page}{31}{subsection.2.4.4}
+\contentsline {subsection}{\numberline {4.5}Utiliser le correcteur d'orthographe}{32}{subsection.2.4.5}
+\contentsline {subsection}{\numberline {4.6}Ins\IeC {\'e}rer une image et adapter le texte autour de l'image}{33}{subsection.2.4.6}
+\contentsfinish 

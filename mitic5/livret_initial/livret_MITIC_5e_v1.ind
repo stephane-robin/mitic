@@ -1,0 +1,170 @@
+\begin{theindex}
+
+  \item Ajouter un objet en le dessinant (Scratch), \hyperpage{74}
+  \item Ajouter un texte sur une image (Gimp), \hyperpage{37}
+  \item Ajouter une courbe de tendance (Calc), \hyperpage{6}
+  \item Ajouter une piste (Audacity), \hyperpage{50}
+  \item Appliquer un filtre (Gimp), \hyperpage{38}
+  \item Audacity
+    \subitem Ajouter une piste, \hyperpage{50}
+    \subitem Barre de menu principale, \hyperpage{48}
+    \subitem Copier et coller, \hyperpage{51}
+    \subitem Exporter en MP3 ou WAV, \hyperpage{56}
+    \subitem Fondu, \hyperpage{54}
+    \subitem Interface graphique, \hyperpage{48}
+    \subitem Modifier le volume, \hyperpage{55}
+    \subitem Outils de glissement temporel, \hyperpage{53}
+    \subitem Palette d'outils, \hyperpage{48}
+    \subitem R\IeC {\'e}glage des volumes, \hyperpage{48}
+    \subitem Raccorder, \hyperpage{54}
+    \subitem Rendre silencieux, \hyperpage{53}
+    \subitem St\IeC {\'e}r\IeC {\'e}o vers mono, \hyperpage{49}
+
+  \indexspace
+
+  \item Barre de menu principale (Audacity), \hyperpage{48}
+  \item Boucle infinie (Scratch), \hyperpage{72}
+
+  \indexspace
+
+  \item Calc
+    \subitem Ajouter courbe de tendance, \hyperpage{6}
+    \subitem Cr\IeC {\'e}er un diagramme circulaire, \hyperpage{7}
+    \subitem En-t\IeC {\^e}te et pied de page, \hyperpage{5}
+    \subitem Formater la page, \hyperpage{3}
+    \subitem Formater le contenu d'une cellule, \hyperpage{2}
+  \item Calendrier des activit\IeC {\'e}s, \hyperpage{vii}
+  \item Calques, \hyperpage{40}
+  \item Calques (Gimp), \hyperpage{37}
+  \item Calques : ajouter, \hyperpage{40}
+  \item Calques : changer de calque actif, \hyperpage{41}
+  \item Calques : d\IeC {\'e}placer le calque, \hyperpage{42}
+  \item Calques : modifier l'opacit\IeC {\'e}, \hyperpage{41}
+  \item Calques : modifier la pile des calques, \hyperpage{41}
+  \item Capture d'\IeC {\'e}cran, \hyperpage{42}
+  \item Clavier, \hyperpage{ix}
+  \item Connexion \IeC {\`a} Flore, \hyperpage{77}
+  \item Connexion \IeC {\`a} Moodle, \hyperpage{78}
+  \item Connexion \IeC {\`a} Pronote, \hyperpage{78}
+  \item Convertir en niveaux de gris (Gimp), \hyperpage{39}
+  \item Copier et coller (Audacity), \hyperpage{51}
+  \item Correcteur d'orthographe (Writer), \hyperpage{24}
+  \item Cr\IeC {\'e}er un diagramme circulaire (Calc), \hyperpage{7}
+  \item Cr\IeC {\'e}er une variable (Scratch), \hyperpage{62}
+
+  \indexspace
+
+  \item Effacer l'\IeC {\'e}cran (Scratch), \hyperpage{65}
+  \item En-t\IeC {\^e}te et pied de page (Calc), \hyperpage{5}
+
+  \indexspace
+
+  \item Finder
+    \subitem Ouvrir, \hyperpage{80}
+  \item Flore
+    \subitem Se connecter, \hyperpage{77}
+  \item Fondu (Audacity), \hyperpage{54}
+  \item Formater la page (Calc), \hyperpage{3}
+  \item Formater le contenu d'une cellule (Calc), \hyperpage{2}
+
+  \indexspace
+
+  \item Gimp
+    \subitem Ajouter un calque, \hyperpage{40}
+    \subitem Ajouter un texte sur une image, \hyperpage{37}
+    \subitem Appliquer un filtre, \hyperpage{38}
+    \subitem Calques, \hyperpage{37}, \hyperpage{40}
+    \subitem Capture d'\IeC {\'e}cran, \hyperpage{42}
+    \subitem Changer de calque actif, \hyperpage{41}
+    \subitem Convertir en niveaux de gris, \hyperpage{39}
+    \subitem D\IeC {\'e}placer un calque, \hyperpage{42}
+    \subitem Modifier l'opacit\IeC {\'e} d'un calque, \hyperpage{41}
+    \subitem Modifier la pile des calques, \hyperpage{41}
+  \item Glissement temporel (Audacity), \hyperpage{53}
+
+  \indexspace
+
+  \item Image, adapter le texte (Writer), \hyperpage{25}
+  \item Ins\IeC {\'e}rer un tableau (Writer), \hyperpage{18}
+  \item Interface graphique (Audacity), \hyperpage{48}
+
+  \indexspace
+
+  \item Lien hypertexte (Writer), \hyperpage{22}
+  \item Liste \IeC {\`a} puces (Writer), \hyperpage{20}
+
+  \indexspace
+
+  \item Moodle
+    \subitem R\IeC {\'e}cup\IeC {\'e}rer un devoir, \hyperpage{79}
+    \subitem Remettre un devoir, \hyperpage{81}
+    \subitem Se connecter, \hyperpage{78}
+  \item MP3 export (Audacity), \hyperpage{56}
+
+  \indexspace
+
+  \item Note de bas de page (Writer), \hyperpage{23}
+
+  \indexspace
+
+  \item Ouvrir
+    \subitem Finder, \hyperpage{80}
+
+  \indexspace
+
+  \item Palette d'outils (Audacity), \hyperpage{48}
+  \item Pronote
+    \subitem Se connecter, \hyperpage{78}
+
+  \indexspace
+
+  \item R\IeC {\'e}cup\IeC {\'e}rer un document sur Moodle, 
+		\hyperpage{79}
+  \item R\IeC {\'e}glage des volumes (Audacity), \hyperpage{48}
+  \item Raccorder (Audacity), \hyperpage{54}
+  \item Raccourci Clavier
+    \subitem  Ctrl + Maj + Cmd + 3, copier tout l'\IeC {\'e}cran, 
+		\hyperpage{42}
+    \subitem  Ctrl + Maj + Cmd + 4, copier une partie de l'\IeC {\'e}cran, 
+		\hyperpage{42}
+  \item Remise d'un devoir sur Moodle, \hyperpage{81}
+
+  \indexspace
+
+  \item Scratch
+    \subitem Ajouter un objet en le dessinant, \hyperpage{74}
+    \subitem Boucle infinie, \hyperpage{72}
+    \subitem Cr\IeC {\'e}er une variable, \hyperpage{62}
+    \subitem Effacer l'\IeC {\'e}cran, \hyperpage{65}
+    \subitem Si..alors..sinon, \hyperpage{70}
+    \subitem Variables, \hyperpage{64}
+  \item Si..alors..sinon (Scratch), \hyperpage{70}
+  \item Silence (Audacity), \hyperpage{53}
+  \item St\IeC {\'e}r\IeC {\'e}o vers mono (Audacity), \hyperpage{49}
+
+  \indexspace
+
+  \item Tableau, centrer le contenu d'une cellule (Writer), 
+		\hyperpage{20}
+  \item Tableau, supprimer le tableau (Writer), \hyperpage{20}
+  \item Touches sp\IeC {\'e}ciales, \hyperpage{ix}
+
+  \indexspace
+
+  \item Variables (Scratch), \hyperpage{64}
+  \item Volume, modifier (Audacity), \hyperpage{55}
+
+  \indexspace
+
+  \item WAV export (Audacity), \hyperpage{56}
+  \item Writer
+    \subitem Correcteur d'orthographe, \hyperpage{24}
+    \subitem Image, adapter le texte, \hyperpage{25}
+    \subitem Ins\IeC {\'e}rer un tableau, \hyperpage{18}
+    \subitem Lien hypertexte, \hyperpage{22}
+    \subitem Liste \IeC {\`a} puces, \hyperpage{20}
+    \subitem Note de bas de page, \hyperpage{23}
+    \subitem Tableau, centrer le contenu d'une cellule, \hyperpage{20}
+    \subitem Tableau, supprimer le tableau, \hyperpage{20}
+
+\end{theindex}

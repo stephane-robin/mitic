@@ -1,0 +1,399 @@
+\chapter{Tableur 2}  
+
+{\footnotesize
+\begin{itemize}
+\item Logiciel : \emph{Microsoft Excel}
+\item Prérequis (se reporter si nécessaire aux \emph{Fiches MITIC 6\up{e}}) :
+        \begin{itemize}
+        \item insérer une formule ;
+        \item utiliser la recopie incrémentale ;
+        \item tracer un graphique ;
+        \item exporter la feuille et le graphique obtenus.
+        \end{itemize}
+\item Matières concernées : physique-chimie, mathématiques, histoire-géographie.
+\item Compétences : 
+        \begin{itemize}
+        \item définir le format d'une cellule ;
+        \item insérer une courbe de tendance ;
+        \item mettre en page une feuille de calcul ;
+        \item réaliser un diagramme circulaire ;
+        \item exporter un graphique, un tableau.
+        \end{itemize}
+\item Cette fiche est à réaliser :
+        \begin{itemize}
+        \item avant les vacances d'octobre en physique-chimie (séance 1) ;
+        \item avant les vacances de Noël en mathématiques (séance 2) ;
+        \item avant la fin du semestre de cours en géographie (séance 3). 
+        \end{itemize}
+\end{itemize}
+}% fin du footnotesize
+
+
+\section*{En 6\up{e}, vous avez appris...}
+
+Les compétences listées ci-dessous ont été vues en classe de 6\up{e}. Vous en aurez à nouveau besoin pour les activités de cette année. Si nécessaire, reportez-vous aux \emph{Fiches MITIC 6\up{e}} pour revoir comment :  
+
+\begin{itemize}
+\item insérer une formule dans une cellule ;
+\item utiliser la recopie incrémentale ;
+\item tracer un graphique (nuage de points) ;
+\item exporter la feuille et le graphique obtenus.
+\end{itemize}
+
+
+\section{Les outils dont vous aurez besoin}\label{Tableur5eOutils}
+ 
+Les nouveaux outils dont vous aurez besoin pour réaliser les trois séances sur le tableur sont décrits ci-dessous :
+
+\begin{itemize}  
+\item séparateur décimal, voir section \vref{Calc2SeparateurDecimal}  
+\item formater le contenu d'une cellule, voir section \vref{Calc2FormaterCellule} ;
+\item formater la page, voir section \vref{Calc2FormaterPage} ;
+\item ajouter une courbe de tendance sur un graphique, voir section \vref{Calc2CourbeTendance} ;
+\item créer un diagramme circulaire, voir section \vref{Calc2DiagCirculaire}.
+\end{itemize}  
+
+\subsection{Le séparateur décimal}\index{Calc!Séparateur décimal}\index{Séparateur décimal (Calc)}\index{Calc!Changer les points en virgules}\index{Changer les points en virgules (Calc)}\index{Virgule ou point ? (Calc)}\label{Calc2SeparateurDecimal}
+
+
+%%%%%%%%%%%%%%%%%%%%%
+
+\subsubsection{Quel est votre séparateur décimal ?}
+
+
+Le \emph{séparateur décimal} est le caractère utilisé pour écrire les nombres à virgule. En fonction de la langue du système d'exploitation de l'ordinateur on utilise pour les systèmes anglo-saxons, le point (ex. : $4.5$) ou pour les systèmes francophones, la virgule (ex. : $4,5$).
+
+\vspace{6pt}
+
+Dans Excel, on peut déterminer si on utilise un point ou une virgule comme séparateur décimal. Pour cela, faire le test suivant : dans différentes cellules écrire un texte, un nombre entier et un nombre à virgule en utilisant une virgule puis un point. Les textes sont alignés à gauche et les nombres à droite. Dans les exemples ci-dessous, le séparateur décimal est donc la virgule pour l'image de gauche (le logiciel installé sur l'ordinateur) et le point pour l'image de droite (le logiciel accédé via office.com). Dans le premier cas, $3,14$ est reconnu comme un nombre et se retrouve aligné à droite, alors que $3.14$ se voit transformé en date (le 14 mars).
+
+\uneimageici{./images/tableur02/SeparateurDecimal_excel}{.2\textwidth}
+
+Avant de faire une activité sur Excel, pensez à vérifier si le séparateur décimal est le point ou la virgule chez vous. Tous les exemples de cet ouvrage utilisent le séparateur décimal francophone, la virgule. Si vous désirez avec le séparateur anglophone, le point, n'oubliez pas de remplacer les virgules par des points lorsque vous les copiez.
+
+\subsubsection{Changer les virgules en points (ou inversement)}
+
+Parfois il est nécessaire de changer toutes les virgules en points (ou inversement). Pour cela, dans le menu \texttt{Édition}, choisir \texttt{Rechercher} puis \texttt{Remplacer...}
+
+\uneimageici{./images/tableur02/changerVirgule1_excel_crop}{.35\textwidth}
+
+Dans la boîte de dialogue qui s'ouvre (figure ci-dessous), indiquer le caractère à rechercher \circled{1} (ici la virgule) et le caractère de remplacement \circled{2} (ici le point). Pour terminer, cliquer sur \texttt{Remplacer tout} \circled{3} ce qui aura pour effet de remplacer en une fois tous les points du document.
+
+\emph{Remarque : en cliquant sur \texttt{Remplacer}, une confirmation est demandée avant le remplacement de chaque point.}
+
+\uneimageici{./images/tableur02/changerVirgule2_excel_crop}{.8\textwidth}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\subsection{Formater le contenu d'une cellule}\index{Calc!Formater le contenu d'une cellule}\index{Formater le contenu d'une cellule (Calc)}\label{Calc2FormaterCellule} 
+
+\emph{Formater} le contenu d'une cellule signifie choisir le \emph{format} des données qu'elle contient. Par exemple, si une cellule contient le résultat du calcul $\frac{1}{3}$, on n'a pas forcément envie que le nombre affiché soit $0,3333333333$, mais plutôt un nombre arrondi au centième, comme par exemple $0,33$. On peut alors \emph{formater} la cellule et demander que le nombre ne soit affiché qu'avec deux décimales.
+
+Pour formater des cellules, il faut tout d'abord les sélectionner (on peut sélectionner une seule cellule, plusieurs cellules ou encore toute une ligne ou une colonne).
+
+\cadre{Dans un tableur, pour sélectionner :
+\begin{itemize}
+\item une ligne entière, il faut cliquer sur le numéro de la ligne à gauche de la fenêtre ;
+\item une colonne entière, il faut cliquer sur la lettre au sommet de la colonne ;
+\item toute la feuille de calcul, il faut cliquer dans la case au-dessus du \texttt{1} et à gauche du \texttt{A} dans la feuille de calcul.  
+\end{itemize}} 
+
+\uneimageici{./images/tableur02/FormatCellule1_Excel_crop}{.3\textwidth}
+
+Pour accéder à la boîte de dialogue permettant de formater les cellules, deux solutions :
+\begin{itemize}
+\item dans le menu \texttt{Mise en forme}, choisir \texttt{Cellule...} (figure ci-dessous à gauche) ;    
+\item effectuer un clic droit sur les cellules sélectionnées et choisir \texttt{Format de cellule...} (figure ci-dessous à droite).
+\end{itemize}
+
+\deuximagesici{./images/tableur02/FormatCellule3_Excel_crop}{1.15\textwidth}%  
+              {./images/tableur02/FormatCellule2_Excel_crop}{.65\textwidth}
+
+Dans la boîte de dialogue qui s'ouvre (figure ci-dessous), choisir l'onglet \texttt{Nombres} (sur l'image ci-dessous, \circled{1}), puis la catégorie \texttt{Nombre} \circled{2}. On peut alors régler le \texttt{Nombre de décimales} \circled{3} et un \texttt{Séparateur de milliers}\footnote{Le séparateur de milliers ajoute un espace qui permet une lecture plus facile des nombres. Ainsi, 19402445 sera écrit 19 402 445.} \circled{4}. Une fenêtre permet d'observer le résultat du réglage \circled{5}. Terminer en cliquant sur le bouton \texttt{OK} \circled{6}.              
+
+\uneimageici{./images/tableur02/FormatCellule4_Excel_crop2}{.8\textwidth}  
+
+
+
+\subsection{Formater la page}\index{Calc!Formater la page}\index{Formater la page (Calc)}\label{Calc2FormaterPage} 
+
+\emph{Formater la page} permet de choisir les marges, mais aussi l'en-tête et le pied de page, qui seront utilisées autour de la page. Cela est en particulier important pour une impression papier ou un export au format PDF, mais permet également de définir le nombre de pages qui doivent être utilisées (voulez-vous toute la feuille de calcul sur une seule page, ou sur deux pages en largeur ?).
+
+\vspace{12pt}
+
+Pour formater la page, ouvrir la barre de \texttt{Mise en page}, en haut de la fenêtre. 
+
+\uneimageici{./images/tableur02/FormatPage1_Excel_crop}{.8\textwidth}
+
+
+
+\subsubsection{Orientation et marges}  
+
+Dans la boîte de dialogue qui s'ouvre, se rendre dans l'onglet \texttt{Page} pour choisir les marges \circled{1} et l'orientation de la page \circled{2}.
+
+\deuximagesPGici{./images/generales/portraitPaysage}{\textwidth}%
+                {./images/tableur02/FormatPage4_Excel_crop}{\textwidth}  
+
+
+\subsubsection{Nombre de pages}
+
+Pour choisir le nombre de pages sur lequel le document va apparaître, il faut utiliser les options \texttt{Largeur} et \texttt{Hauteur}, à droite du ruban \texttt{Mise en page}. Par défaut, ce sont les tailles automatiques qui génèrent assez de pages pour afficher toutes les cellules avec du contenu de la feuille. Choisir un nombre permet soit de forcer l'impression d'un nombre supérieur de page soit d'ignorer certaines cellules situées au-delà des premières pages. Par exemple, choisir \texttt{1 page} dans les deux options permet de n'imprimer qu'une page.
+
+\uneimageici{./images/tableur02/FormatPage5_Excel_crop}{.8\textwidth} 
+
+
+
+\subsubsection{En-tête et pied de page}
+
+Pour modifier l'en-tête du document, il faut choisir \texttt{Mise en page}, toujours dans le ruban \texttt{Mise en page}.
+\uneimageici{./images/tableur02/FormatPage5a_Excel_crop}{.8\textwidth} 
+
+D'abord, cliquer sur l'onglet \texttt{En-tête/Pied de page} \circled{1}. Là, on peut choisir un type d'en-tête \circled{2}, dont un visuel s'affiche en dessous \circled{3}. Pour personnaliser l'en-tête, il faut sélectionner \texttt{En-tête personnalisé...} \circled{4}.
+
+\uneimageici{./images/tableur02/FormatPage5b_Excel_crop}{.8\textwidth}  
+
+Quand on clique sur \texttt{En-tête personnalisé...}, on obtient la fenêtre ci-dessous. On peut directement taper le texte qui apparaîtra en haut à gauche de la page en l'écrivant dans la section \texttt{Section de gauche} \circled{1}. On peut, de même, déterminer le texte qui apparaît au centre ou à droite en écrivant dans les sections correspondantes. Une série d'icônes en haut de la fenêtre permet notamment : de mettre en forme le texte \circled{2}, d'insérer le numéro de la page \circled{3} ou d'insérer le nombre total de pages du document \circled{4}.
+
+
+\uneimageici{./images/tableur02/FormatPage6_Excel_crop}{.8\textwidth}  
+
+Dans la fenêtre \texttt{Pied de page personnalisé...}, on retrouve les mêmes options pour modifier l'aspect du pied de page.
+
+
+
+
+
+\subsection{Ajouter une courbe de tendance}\index{Calc!Ajouter courbe de tendance}\index{Ajouter une courbe de tendance (Calc)}\label{Calc2CourbeTendance} 
+
+Dans le cas d'un graphique, comme représenté sur la figure ci-dessous, la \emph{courbe de tendance linéaire} est la droite qui s'approche au mieux de tous les points. 
+
+\uneimageici{./images/tableur02/graphiqueObtenu1_Excel_crop}{.6\textwidth} 
+
+
+Pour ajouter une courbe de tendance, sélectionner les points du graphique en cliquant dessus, puis effectuer un clic droit et choisir dans le menu contextuel \texttt{Ajouter une courbe de tendance...}
+
+\uneimageici{./images/tableur02/ajoutCourbeTendance1_Excel_crop}{.5\textwidth}%
+
+Un espace de personnalisation s'ouvre sur la droite de votre fenêtre. Choisissez l'option de courbe \texttt{Linéaire} \circled{1}. Vous pouvez apercevoir votre courbe de tendance apparaître sur votre graphique \circled{2}. Si vous voulez personnaliser votre courbe de tendance, vous pouvez cliquer sur les deux onglets en haut de cet espace \circled{3}.
+
+\uneimageici{./images/tableur02/ajoutCourbeTendance2_Excel_crop}{.4\textwidth} 
+
+
+\subsection{Créer un diagramme circulaire}\index{Calc!Créer un diagramme circulaire}\index{Créer un diagramme circulaire (Calc)}\label{Calc2DiagCirculaire}
+
+Un \emph{diagramme circulaire} est une représentation graphique qui permet une visualisation rapide et très efficace des données. En effet, lire que l'air est composé de 78\,\% de diazote, de 21\,\% de dioxygène, de 0,9\,\% d'argon et enfin de 0,1\,\% d'autres gaz, est beaucoup moins marquant que regarder le diagramme circulaire ci-dessous montrant la composition de l'air.
+
+\uneimageici{./images/tableur02/InsererDiagramme4_Excel_crop}{.4\textwidth}
+
+Pour créer un diagramme circulaire, il faut tout d'abord sélectionner les données à représenter \circled{1}, puis dans le menu \texttt{Insertion} \circled{2}, cliquer sur l'icône représentant un graphique circulaire \circled{3}. S'ouvre alors une liste de différents types de diagrames circulaires. Cliquer sur le premier des \texttt{Secteurs 2D}. Votre graphique apparait alors dans la feuille de calcul.
+
+\uneimageici{./images/tableur02/InsererDiagramme1_Excel_crop}{.6\textwidth}
+
+
+%
+%
+%  S  É  A  N  C  E     I
+%
+%
+
+\newpage
+
+\phantom{.} 
+
+\newpage 
+
+\section{Séance 1 : caractéristique d'une résistance}\label{ficheTableur5e1}
+
+\boiteEnonceLarge{%
+Le but de cette séance est de tracer la \emph{caractéristique d'un conducteur ohmique} (une résistance), c'est-à-dire de tracer la droite qui donne l'évolution de la tension $U$ à ses bornes en fonction de l'intensité $I$ du courant qui la traverse. Pour parvenir à ce résultat, vous devrez utiliser les outils présentés en début de chapitre (voir section \vref{Tableur5eOutils}).\\[12pt]
+%
+Lors d'un TP de physique, le circuit électrique montré sur le schéma suivant est réalisé.
+%
+\uneimageici{./images/tableur02/schemaElecR}{.25\textwidth} 
+%
+L'expérience consiste à faire varier la valeur de la tension $U$ délivrée par le générateur de 0 à 10,0\,V. Pour chacune des valeurs de $U$, on note la valeur du courant $I$ correspondant. Les résultats obtenus sont reportés dans le tableau suivant.  
+%
+\begin{center}
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|c|}
+\hline
+U (V) & 0 & 1,18 & 2,91 & 4,6 & 5,95 & 7,0 & 7,3 & 8,16 & 9,25 & 10,0 \\ \hline
+I (mA) & 0 & 17,7 & 42,7 & 68 & 87,6 & 105 & 110 & 124 & 140 & 154 \\ \hline
+\end{tabular}
+\end{center}
+%
+\begin{enumerate}
+\item Créer la feuille de calcul correspondant au tableau de données ci-dessus.
+\item Formater les cellules de la première ligne afin que les tensions $U$ soient données avec deux décimales.
+\item Formater les cellules de la seconde ligne afin que les intensités $I$ soient données avec une décimale.
+\item Tracer le graphique qui représente la tension $U$ en fonction de l'intensité $I$ (c'est-à-dire que l'on souhaite que $U$ soit en ordonnée et que $I$ soit en abscisse).
+\item Tracer la droite approchant au mieux tous les points.
+\item Par lecture graphique, déterminer quelle est la valeur de l'intensité du courant électrique $I$ lorsque la tension $U=9,00$\,V. Écrire votre réponse dans une cellule de la feuille de calcul, sous le tableau.
+\item Par lecture graphique, déterminer la valeur de la tension $U$ lorsque l'intensité du courant électrique vaut $I=100,0$\,mA. Écrire votre réponse dans une cellule de la feuille de calcul, sous la réponse précédente.
+\setcounter{tmp}{\value{enumi}}  
+\end{enumerate}
+} % fin énoncé
+
+
+
+\newpage
+
+
+
+\boiteEnonceLarge{%
+\begin{enumerate}
+\setcounter{enumi}{\value{tmp}}
+\item Dans une cellule, ajouter votre prénom, nom et classe.
+\item Mettre en forme la feuille de calcul pour que la feuille soit au format \emph{portrait}, avec une marge de 3\,cm en haut, en bas ainsi que sur les côtés. Il faut que tout votre document tienne sur une page uniquement.
+\item Une fois la mise en forme terminée, exporter la feuille au format \texttt{PDF} (le fichier doit être nommé à partir de votre nom : \texttt{Nom-Prénom-date.pdf}) et le rendre sur Teams à l'endroit indiqué par votre enseignant.
+
+
+%(si nécessaire, se reporter à la fiche méthode \emph{Remettre un devoir sur Moodle}, section \vref{MoodleRendreDevoir}).  
+\end{enumerate}
+} % fin énoncé
+
+\vfill
+
+\cadre{Pensez à sauver régulièrement votre travail en appuyant sur \texttt{Cmd + S} ou à partir du menu \texttt{Fichier} en choisissant \texttt{Enregistrer}.
+
+\uneimageici{./images/generales/clavierCmdS}{.4\textwidth}
+}
+
+
+\vfill
+
+\phantom{rien} 
+
+
+
+%
+%
+%  S  É  A  N  C  E     II
+%
+%
+
+
+%\pagebreak
+
+\section{Séance 2 : inventaire des tables du collège}\label{ficheTableur5e2}
+
+\boiteEnonceLarge{%
+Le but de cette séance est de tracer un diagramme circulaire pour représenter un état des lieux des tables d'un collège. Pour parvenir à ce résultat, vous devrez utiliser les outils présentés en début de chapitre (voir section \vref{Tableur5eOutils}).\\[4pt]
+%
+
+Le gestionnaire d'un établissement fait l'état des lieux et vérifie l'état des tables :
+
+\begin{center}
+\begin{tabular}{lcl}
+$\bullet$ 132 sont neuves ;& & $\bullet$ 55 sont à réparer ; \\
+$\bullet$ 231 sont en bon état ;&  & $\bullet$ 33 sont à changer.\\
+$\bullet$ 99 sont dans un état passable ;& & \\
+\end{tabular}
+\end{center}
+%
+%
+\begin{enumerate}
+\item Créer la feuille de calcul suivante :
+\uneimageici{./images/tableur02/ActiviteMaths1}{.75\textwidth}
+\vspace{-8pt}\item Compléter la deuxième ligne du tableau ci-dessous avec les données de l'énoncé.
+\item Quelle formule faut-il utiliser pour calculer automatiquement la valeur attendue dans la cellule \texttt{G2} ?
+\item Quelle formule faut-il utiliser dans la cellule \texttt{B3} pour calculer la fréquence des tables neuves ?
+        \begin{enumerate}
+        \item Programmer alors toutes les cellules de la ligne en effectuant une recopie incrémentale.
+        \item Que se passe-t-il alors ?
+        \end{enumerate}
+        \emph{En cliquant sur la cellule \texttt{C3}, on remarque que le nombre de chaises est divisé par le contenu de la cellule \texttt{H2}. Pour éviter ce problème, il faut dans la cellule \texttt{B3} avant la recopie incrémentale insérer un signe \texttt{\$} devant la lettre \texttt{G} comme suit : \texttt{\$G2}. Ceci a pour effet d'empêcher l'incrémentation de l'index de cellule précédé du \texttt{\$}.} 
+\item Comment obtenir la fréquence en pourcentage à partir de la fréquence ? Programmer alors les cellules de la ligne 4 à l'aide d'une instruction.
+\item Insérer dans le fichier un diagramme circulaire permettant au gestionnaire de présenter cet état des lieux.
+\setcounter{tmp}{\value{enumi}}  
+\end{enumerate}
+} % fin énoncé
+
+
+\newpage
+
+
+
+\boiteEnonceLarge{%
+\begin{enumerate}
+\setcounter{enumi}{\value{tmp}}
+\item Le gestionnaire veut réaliser ce diagramme circulaire à la main sur du papier. Pour cela, il faut ajouter dans le fichier la ligne suivante :
+%
+\uneimageici{./images/tableur02/ActiviteMaths2}{.75\textwidth}
+%
+\vspace{-8pt} Quel nombre faut-il saisir dans la cellule \texttt{G5} ?
+%
+
+\item En utilisant uniquement les valeurs de la ligne 3 et de la cellule \texttt{G5}, programmer les cellules \texttt{B5} à \texttt{F5} pour obtenir les angles voulus. Modifier le format de cellule pour arrondir les angles à l'unité.
+\item En changeant uniquement la valeur d'une cellule, il est possible d'obtenir les angles permettant de construire un diagramme semi-circulaire. Quelle est cette cellule ? Quelle valeur faut-il mettre ?
+\item Mettre en forme la feuille de calcul pour que la feuille soit au format \emph{portrait}, avec une marge de 3\,cm en haut et en bas, et de 2\,cm sur les côtés. Il faut que tout le document tienne sur une page uniquement.
+\item Supprimer l'en-tête et le pied de page par défaut. 
+\item Une fois la mise en forme terminée, exporter la feuille au format \texttt{PDF} (le fichier doit être nommé à partir de votre nom : \texttt{Nom-Prénom-date.pdf}) et le rendre sur la plateforme Moodle à l'endroit indiqué par votre enseignant (si nécessaire, se reporter à la fiche méthode \emph{Remettre un devoir sur Moodle}, section \vref{MoodleRendreDevoir}).
+\item\label{questionDiagDemiCirc} Construire ensuite (et à la main !) le diagramme semi-circulaire correspondant ci-dessous.
+\end{enumerate}
+}% fin énoncé
+
+Construire ici le diagramme semi-circulaire de la question \ref{questionDiagDemiCirc}   :
+
+\uneimageici{./images/tableur02/hemicercle}{.4\textwidth}   
+
+\vfill
+
+\cadre{Pensez à sauver régulièrement votre travail en appuyant sur \texttt{Cmd + S} ou à partir du menu \texttt{Fichier} en choisissant \texttt{Enregistrer}.}
+
+\vfill
+
+
+\phantom{rien} 
+
+
+
+
+%
+%
+%  S  É  A  N  C  E     III
+%
+%
+
+
+
+\pagebreak
+
+\section{Séance 3 : répartition de la population mondiale}\label{ficheTableur5e3}
+
+\boiteEnonceLarge{%
+Le but de cette séance est de tracer un diagramme circulaire pour représenter la répartition de la population mondiale par continent. Pour parvenir à ce résultat, vous devrez utiliser les outils présentés en début de chapitre (voir section \vref{Tableur5eOutils}).\\[12pt]
+%
+
+La carte ci-dessous\footnote{D'après \url{http://icdc.us}, consulté le 5 juillet 2017 et remis à jour avec les données de la page Wikipédia \emph{Population mondiale}, consultée le 5 juillet 2017.} donne la répartition par zone géographique de la population mondiale en 2017 (en nombre d'habitants).
+
+\uneimageici{./images/tableur02/cartePopulation}{.9\textwidth}
+
+À partir de ce document, vous devez créer un diagramme circulaire montrant cette répartition. Pour cela, il faut suivre les étapes suivantes.
+
+\begin{enumerate}
+\item Créer une feuille de calcul contenant les données fournies par le document ci-dessus. Attention, il faut sommer les populations d'Amérique du Nord et d'Amérique du Sud car on souhaite avoir la répartition par continent.
+\item Dans une nouvelle colonne, transformer les populations en pourcentage à l'aide d'une formule. Il suffit d'écrire la formule pour la première cellule de la colonne et ensuite utiliser une recopie incrémentale (se reporter si nécessaire aux fiches Mitic 6\up{e}) pour que la formule s'applique à toutes les cellules de la colonne.
+\setcounter{tmp}{\value{enumi}}  
+\end{enumerate}
+} % fin énoncé
+
+\boiteEnonceLarge{%
+\begin{enumerate}
+\setcounter{enumi}{\value{tmp}}
+\item Ajouter un formatage de cellule : choisir \texttt{Nombre} pour la colonne contenant les données en \%\ et régler le nombre de décimale à 0.
+\item À partir des données en \%\ calculées, construire un diagramme circulaire montrant la répartition de la population mondiale par continent.
+\item Mettre en forme la feuille de calcul pour que la feuille soit au format \emph{portrait}, avec une marge de 3\,cm en haut et en bas, et de 2\,cm sur les côtés. Il faut que tout votre document tienne sur une page uniquement.
+\item Une fois la mise en forme terminée, exporter la feuille au format \texttt{PDF} (le fichier doit être nommé à partir de votre nom : \texttt{Nom-Prénom-date.pdf}) et le rendre sur la plateforme Moodle à l'endroit indiqué par votre enseignant (si nécessaire, se reporter à la fiche méthode \emph{Remettre un devoir sur Moodle}, section \vref{MoodleRendreDevoir}).
+\end{enumerate}
+}% fin énoncé
+
+
+\vfill
+
+\cadre{Pensez à sauver régulièrement votre travail en appuyant sur \texttt{Cmd + S} ou à partir du menu \texttt{Fichier} en choisissant \texttt{Enregistrer}.
+
+\uneimageici{./images/generales/clavierCmdS}{.5\textwidth}
+}
+
+
+
