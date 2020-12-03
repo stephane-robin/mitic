@@ -1,4 +1,9 @@
-\chapter{Programmation Scratch 2}  
+\chapter{Programmation Scratch}  
+
+
+Les ordinateurs sont des machines qui exécutent des programmes. On peut écrire des programmes dans différents \emph{langages de programmation}, par exemple \emph{Python}, \emph{C++}, \emph{Java}... ou encore \emph{Scratch}.
+
+\emph{Scratch} est un langage de programmation \underline{visuelle} (on place des blocs d'\textbf{instructions} pour créer des programmes composés de \textbf{scripts}) et \underline{événementielle} (le programme réagit à des \textbf{événements} comme le clic de souris ou l'appui sur une touche). Il contient des \textbf{objets} : le lutin est un objet, l'arrière plan de la scène est un autre objet. On peut modifier les propriétés des objets, leur associer des \textbf{scripts}, des \textbf{costumes} ou des \textbf{sons}.   \\
 
 {\footnotesize
 \begin{itemize}
@@ -43,10 +48,12 @@
 
 
 
+\section{Pour bien commencer avec Scratch}
 
 
 
-\section*{Passer Scratch en langue française} 
+
+\subsection{Passer Scratch en langue française} 
 
 
 Avant de commencer, il faut si nécessaire passer Scratch en langue française :
@@ -64,20 +71,129 @@ Avant de commencer, il faut si nécessaire passer Scratch en langue française :
 
 
 
-\section{Séance 1 : un programme qui dessine une spirale}\label{ficheScratch5e1}
+\section{Séance 1 : dessiner une spirale}\label{ficheScratch5e1}
 
+\subsection{Avant de commencer...}
 
-\boiteEnonceLarge{Le but de cette séance est de dessiner une spirale, comme montré sur la figure ci-dessous. Une fois cette première étape achevée, il faudra dessiner une fleur en réutilisant le script conçu pour dessiner la spirale.}
+Donnez un nom à votre programme pour le sauvegarder : dans le menu \texttt{Fichier}, choisir \texttt{Enregistrer}. Pendant que vous travaillez, pensez à sauvegarder régulièrement votre travail (raccourci clavier \texttt{Cmd + s}).   
+
+\subsection{L'activité demandée}
+
+\boiteEnonceLarge{Le but de cette séance est de dessiner une spirale, comme montré sur la figure ci-dessous. Il faudra ensuite dessiner une fleur en réutilisant le script conçu pour dessiner la spirale. Les étapes pour réaliser ce programme sont les suivantes :
+%
+\begin{itemize}
+\item création d'une variable
+\item dessin de la spirale
+\end{itemize}
+}
 
 \uneimageici{./images/scratch02/1ResultatSpirale}{.4\textwidth}
 
 
+
+
+
+
+
+
+\subsection{Pour aller plus loin...}
+
+Écrire un programme en \emph{Scratch} qui dessine le drapeau suisse. Ce programme devra utiliser des boucles. 
+
+\uneimageici{./images/scratch02/1DrapeauSuisse}{.2\textwidth}
+
+Indication : on peut créer une variable \emph{PositionY} qui contient la position en $y$ du lutin, puis l'utiliser dans une boucle qui se répète tant que \emph{PositionY} n'a pas atteint la valeur souhaitée. Avant de terminer la boucle, il faudra bien entendu modifier la valeur de \emph{PositionY}.
+
+\uneimageici{./images/scratch02/1BlocsDrapeauSuisse}{.6\textwidth}
+
+
+
+
+
+%
+%
+%  S  É  A  N  C  E     II
+%
+%
+
+\section{Séance 2 : un quiz de calcul mental}\label{ficheScratch5e2}
+
 \subsection{Avant de commencer...}
 
-Donnez un nom à votre programme pour le sauvegarder : dans le menu \texttt{Fichier}, choisir \texttt{Enregistrer}. Pendant que vous travaillez, pensez à sauvegarder régulièrement votre travail (raccourci clavier \texttt{Cmd + S}).   
+Donnez un nom à votre programme pour le sauvegarder : dans le menu \texttt{Fichier}, choisir \texttt{Enregistrer}. Pendant que vous travaillez, pensez à sauvegarder régulièrement votre travail (raccourci clavier \texttt{Cmd + s}).   
+
+\subsection{L'activité demandée}
+
+\boiteEnonceLarge{Le but de cette séance est d'écrire un programme qui demande à l'utilisateur le résultat d'une multiplication. L'utilisateur donne alors sa réponse, et le programme lui indique si sa réponse est juste ou non.
+
+Par exemple, le programme pourra poser la question \emph{<<\,Bonjour, combien font $10 \times (-5)$ ?\,>>}. L'utilisateur devra alors répondre $-50$ (cette réponse est entrée au clavier). La figure ci-dessous montre différentes étapes de l'exécution du programme.}
 
 
-\subsection{Première étape : création d'une variable}\label{Scratch5eCreationVariable}\index{Scratch!Créer une variable}\index{Créer une variable (Scratch)} 
+\uneimageici{./images/scratch02/2BDall}{.7\textwidth}
+
+
+
+
+
+
+
+
+%
+%
+%  S  É  A  N  C  E     III
+%
+%
+
+
+
+
+\section{Séance 3 : créer un jeu de <<\,Pong\,>> en Scratch}\label{ficheScratch5e3}
+
+
+\subsection{Avant de commencer...}
+
+Donnez un nom à votre programme pour le sauvegarder : dans le menu \texttt{Fichier}, choisir \texttt{Enregistrer}. Pendant que vous travaillez, pensez à sauvegarder régulièrement votre travail (raccourci clavier \texttt{Cmd + s}).   
+
+\subsection{L'activité demandée}
+
+\boiteEnonceLarge{Le but de cette séance est d'écrire un jeu de <<\,Pong\,>> dans lequel le joueur doit faire rebondir une balle avec une raquette et éviter que la balle ne touche le bas de l'écran. La figure ci-dessous montre à quoi ressemblera le jeu une fois terminé.}
+
+\uneimageici{./images/scratch02/PongResultat}{.4\textwidth}
+
+
+
+
+
+
+
+\subsection{Pour aller plus loin...}
+
+Pour améliorer le jeu, on peut :
+
+\begin{itemize}
+
+	\item changer la couleur de la balle à chaque fois qu'elle touche la raquette ;
+	\item ajouter un son quand la balle touche la ligne du bas ;
+	\item ajouter un compteur de points, par exemple en ajoutant 1 point chaque fois que la balle touche la raquette ou en ajoutant une ligne en haut de la scène et en ajoutant 1 point chaque fois que la balle touche cette ligne ;
+	\item augmenter la vitesse de la balle quand le nombre de points augmente.
+\end{itemize}
+
+\vspace{1em}
+
+Et si on essayait de passer en mode deux joueurs ? En effet, il est possible de créer une deuxième raquette et ainsi de pouvoir jouer à deux. La deuxième raquette peut par exemple être déplacée à l'aide des flèches de direction.
+
+
+
+
+% AIDE AUX ACTIVITES
+
+% SEANCE 1
+
+\section{Aide pour réaliser les activités}
+
+\subsection{Aide pour la séance 1}
+
+\subsubsection{Première étape : création d'une variable}\label{Scratch5eCreationVariable}\index{Scratch!Créer une variable}\index{Créer une variable (Scratch)} 
   
 
 Pour dessiner la spirale, il faut utiliser une \emph{variable} : c'est une case dans la mémoire de l'ordinateur qui permet d'enregistrer une valeur et de la modifier par la suite. La case mémoire porte un nom (ici \emph{longueur}), et c'est ce nom qui est utilisé pour accéder à la valeur.
@@ -114,7 +230,7 @@ Il est également possible de modifier la valeur de la variable \texttt{longueur
 
 \vspace{12pt}
 
-\subsection{Deuxième étape : le script qui dessine la spirale} 
+\subsubsection{Deuxième étape : le script qui dessine la spirale} 
 
 
 Pour dessiner une spirale, il faut répéter plusieurs fois le même bloc d'instructions \emph{<<\,Avancer de $x$ pas -- Tourner un peu -- Augmenter la valeur de $x$\,>>}. Nous avons vu l'année passée que ceci était possible grâce à une \textbf{boucle} qui permet de répéter un certain nombre de fois un bloc d'instructions.
@@ -128,7 +244,7 @@ Créer maintenant le script suivant, qui doit être associé au lutin (à gauche
 
 \emph{Attention ! Comprenez bien l'algorithme ci-dessus, car lors de la prochaine séance, seul l'algorithme sera donné.} 
 
-\subsection{Troisième étape : un script qui efface l'écran}\index{Scratch!Effacer l'écran}\index{Effacer l'écran (Scratch)}
+\subsubsection{Troisième étape : un script qui efface l'écran}\index{Scratch!Effacer l'écran}\index{Effacer l'écran (Scratch)}
 
 Créer enfin ce petit script, associé au lutin, qui permet d'effacer l'écran :
 
@@ -136,66 +252,32 @@ Créer enfin ce petit script, associé au lutin, qui permet d'effacer l'écran :
               {./images/scratch02/1CodeEffaceEcran}{.75\textwidth}
 
 
-\subsection{Quatrième étape : à vous de jouer !}
+\subsubsection{Quatrième étape : à vous de jouer !}
 
 Compléter le programme afin de dessiner une fleur qui ressemble à celle montrée ci-dessous.
 
 \uneimageici{./images/scratch02/1Fleurs}{.4\textwidth}
 
 
-\subsection{Rendre le programme}
+\subsubsection{Rendre le programme}
 
-Une fois le programme terminé, dans le menu \texttt{Fichier} choisir \texttt{Enregistrer} (le fichier doit être nommé à partir de votre nom : \texttt{Nom-Prénom-date.sb2}) et le rendre sur la plateforme Moodle à l'endroit indiqué par votre enseignant (si nécessaire, se reporter à la fiche méthode \emph{Remettre un devoir sur Moodle}, section \vref{MoodleRendreDevoir}).
-
-
+Une fois le programme terminé, dans le menu \texttt{Fichier} choisir \texttt{Enregistrer} (le fichier doit être nommé à partir de votre nom : \texttt{Nom-date.sb2}) et le rendre sur la plateforme Teams à l'endroit indiqué par votre enseignant (si nécessaire, se reporter à la fiche méthode \emph{Remettre un devoir}, section \vref{MoodleRendreDevoir}).
 
 
-\subsection{Pour aller plus loin...}
-
-Écrire un programme en \emph{Scratch} qui dessine le drapeau suisse. Ce programme devra utiliser des boucles. 
-
-\uneimageici{./images/scratch02/1DrapeauSuisse}{.2\textwidth}
-
-Aide : on peut créer une variable \emph{PositionY} qui contient la position en $y$ du lutin, puis l'utiliser dans une boucle qui se répète tant que \emph{PositionY} n'a pas atteint la valeur souhaitée. Avant de terminer la boucle, il faudra bien entendu modifier la valeur de \emph{PositionY}.
-
-\uneimageici{./images/scratch02/1BlocsDrapeauSuisse}{.6\textwidth}
+% SEANCE 2
 
 
 
+\subsection{Aide pour la séance 2}
 
-
-%
-%
-%  S  É  A  N  C  E     II
-%
-%
-
-\section{Séance 2 : un quiz de calcul mental}\label{ficheScratch5e2}
-
-
-\boiteEnonceLarge{Le but de cette séance est d'écrire un programme qui demande à l'utilisateur le résultat d'une multiplication. L'utilisateur donne alors sa réponse, et le programme lui indique si sa réponse est juste ou non.
-
-Par exemple, le programme pourra poser la question \emph{<<\,Bonjour, combien font $10 \times (-5)$ ?\,>>}. L'utilisateur devra alors répondre $-50$ (cette réponse est entrée au clavier). La figure ci-dessous montre différentes étapes de l'exécution du programme.}
-
-
-\uneimageici{./images/scratch02/2BDall}{.7\textwidth}
-
-
-
-\subsection{Avant de commencer...}
-
-Donnez un nom à votre programme pour le sauvegarder : dans le menu \texttt{Fichier}, choisir \texttt{Enregistrer}. Pendant que vous travaillez, pensez à sauvegarder régulièrement votre travail (raccourci clavier \texttt{Cmd + S}).   
-
-
-
-\subsection{Algorithme du programme}  
+\subsubsection{Algorithme du programme}  
 
 L'algorithme du programme est le suivant :
 
 \uneimageici{./images/scratch02/flowchartActivite2}{.8\textwidth}
 
 
-\subsection{Aide pour l'écriture du programme}  
+\subsubsection{Aide pour l'écriture du programme}  
 
 Pour écrire ce programme, il faudra :
 
@@ -217,13 +299,13 @@ Pour écrire ce programme, il faudra :
 \cadre{La structure conditionnelle \textbf{si .. alors .. sinon}\index{Scratch!Si..alors..sinon}\index{Si..alors..sinon (Scratch)} est une structure importante en programmation : elle permet d'exécuter un bloc d'instructions \textbf{si} une condition est vérifiée, et \textbf{sinon}, elle exécute un autre bloc d'instructions.\uneimageici{./images/scratch02/2IfThenElseTexte}{.6\textwidth}}
 
 
-\subsection{Rendre le programme}
+\subsubsection{Rendre le programme}
 
 Une fois le programme terminé, dans le menu \texttt{Fichier} choisir \texttt{Enregistrer} (le fichier doit être nommé à partir de votre nom : \texttt{Nom-Prénom-date.sb2}) et le rendre sur la plateforme Moodle à l'endroit indiqué par votre enseignant (si nécessaire, se reporter à la fiche méthode \emph{Remettre un devoir sur Moodle}, section \vref{MoodleRendreDevoir}).
 
 
 
-\subsection{Pour aller plus loin...}
+\subsubsection{Pour aller plus loin...}
 
 Écrire l'algorithme correspondant au jeu décrit ci-dessous, puis écrire le programme :
 
@@ -235,31 +317,11 @@ Une fois le programme terminé, dans le menu \texttt{Fichier} choisir \texttt{En
 
 Pour améliorer le jeu, ajouter une variable qui compte le nombre de coups dont le joueur a eu besoin pour deviner le nombre et l'afficher à la fin du jeu.
 
+% SEANCE 3
 
+\subsection{Aide pour la séance 3}
 
-%
-%
-%  S  É  A  N  C  E     III
-%
-%
-
-
-
-
-\section{Séance 3 : créer un jeu de <<\,Pong\,>> en Scratch}\label{ficheScratch5e3}
-
-
-\boiteEnonceLarge{Le but de cette séance est d'écrire un jeu de <<\,Pong\,>> dans lequel le joueur doit faire rebondir une balle avec une raquette et éviter que la balle ne touche le bas de l'écran. La figure ci-dessous montre à quoi ressemblera le jeu une fois terminé.}
-
-\uneimageici{./images/scratch02/PongResultat}{.4\textwidth}
-
-
-\subsection{Avant de commencer...}
-
-Donnez un nom à votre programme pour le sauvegarder : dans le menu \texttt{Fichier}, choisir \texttt{Enregistrer}. Pendant que vous travaillez, pensez à sauvegarder régulièrement votre travail (raccourci clavier \texttt{Cmd + S}).   
-
-
-\subsection{Première étape : création de l'arrière plan et choix des lutins} 
+\subsubsection{Première étape : création de l'arrière plan et choix des lutins} 
 
 La première étape consiste à choisir un arrière plan :
 
@@ -271,7 +333,7 @@ Supprimer ensuite le lutin existant par défaut, puis choisir les deux lutins n�
 \deuximagesGPici{./images/scratch02/Pong4}{\textwidth}%
               {./images/scratch02/Pong8}{.6\textwidth}
 
-\subsection{Définition du mouvement de la balle} 
+\subsubsection{Définition du mouvement de la balle} 
 
 Avant de mettre la balle en mouvement, il faut la positionner (au centre du jeu par exemple) et l'orienter (à 45\degre par exemple si on veut que la balle parte vers le haut) avant de définir la boucle qui fait avancer la balle et la fait rebondir sur les murs.
 
@@ -283,7 +345,7 @@ Pour vérifier que cette partie du jeu est bien programmée, cliquer sur le drap
 \cadre{La structure de boucle infinie \textbf{Répéter indéfiniment}\index{Scratch!Boucle infinie}\index{Boucle infinie (Scratch)} est une structure importante en programmation : elle permet d'exécuter un bloc d'instructions sans jamais se terminer.\uneimageici{./images/scratch02/3boucleInfinie}{.25\textwidth}}
 
 
-\subsection{Mouvements de la raquette et rebond de la balle sur la raquette}
+\subsubsection{Mouvements de la raquette et rebond de la balle sur la raquette}
 
 Pour pouvoir contrôler les mouvements de la raquette avec la souris, il faut utiliser l'instruction \texttt{aller à pointeur souris}. Écrire la boucle correspondante en cliquant bien, au préalable, sur le lutin raquette.
 
@@ -297,7 +359,7 @@ Revenir au lutin balle pour programmer ce qui se passe quand il touche la raquet
 
 Vérifiez votre script : quand vous cliquez sur le drapeau vert et que la balle touche la raquette, elle rebondit.
 
-\subsection{Fin du jeu}
+\subsubsection{Fin du jeu}
 
 Pour arrêter le jeu si la balle touche le bas, le plus simple est de tracer une ligne horizontale\index{Scratch!Ajouter un objet en le dessinant}\index{Ajouter un objet en le dessinant (Scratch)} d'une couleur spécifique et d'utiliser le bloc \texttt{couleur touchée}.
 
@@ -323,26 +385,8 @@ Cliquer ensuite sur le lutin balle et ajouter un script avec le bloc \texttt{cou
 \uneimageici{./images/scratch02/flowchartActivite3d}{.75\textwidth}
 
 
-\subsection{Rendre le programme}  
+\subsubsection{Rendre le programme}  
 
-Une fois le programme terminé, dans le menu \texttt{Fichier} choisir \texttt{Enregistrer} (le fichier doit être nommé à partir de votre nom : \texttt{Nom-Prénom-date.sb2}) et le rendre sur la plateforme Moodle à l'endroit indiqué par votre enseignant (si nécessaire, se reporter à la fiche méthode \emph{Remettre un devoir sur Moodle}, section \vref{MoodleRendreDevoir}).
-
-
-
-\subsection{Pour aller plus loin...}
-
-Pour améliorer le jeu, on peut :
-
-\begin{itemize}
-
-	\item changer la couleur de la balle à chaque fois qu'elle touche la raquette ;
-	\item ajouter un son quand la balle touche la ligne du bas ;
-	\item ajouter un compteur de points, par exemple en ajoutant 1 point chaque fois que la balle touche la raquette ou en ajoutant une ligne en haut de la scène et en ajoutant 1 point chaque fois que la balle touche cette ligne ;
-	\item augmenter la vitesse de la balle quand le nombre de points augmente.
-\end{itemize}
-
-\vspace{1em}
-
-Et si on essayait de passer en mode deux joueurs ? En effet, il est possible de créer une deuxième raquette et ainsi de pouvoir jouer à deux. La deuxième raquette peut par exemple être déplacée à l'aide des flèches de direction.
+Une fois le programme terminé, dans le menu \texttt{Fichier} choisir \texttt{Enregistrer} (le fichier doit être nommé à partir de votre nom : \texttt{Nom-date.sb2}) et le rendre sur la plateforme Teams à l'endroit indiqué par votre enseignant (si nécessaire, se reporter à la fiche méthode \emph{Remettre un devoir}, section \vref{MoodleRendreDevoir}).
 
 
