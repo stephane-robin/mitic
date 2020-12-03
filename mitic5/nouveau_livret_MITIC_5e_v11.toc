@@ -12,22 +12,25 @@
 \contentsline {subsection}{\numberline {7.1}Apparence de la page d'accueil}{10}{subsection.1.7.1}
 \contentsline {chapter}{\numberline {2}Tableur}{13}{chapter.2}
 \contentsline {section}{\numberline {1}S\IeC {\'e}ance 1 : caract\IeC {\'e}ristique d'une r\IeC {\'e}sistance}{14}{section.2.1}
-\contentsline {subsection}{\numberline {1.1}L'activit\IeC {\'e} demand\IeC {\'e}e}{14}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {1.1}Avant de commencer...}{14}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {1.2}L'activit\IeC {\'e} demand\IeC {\'e}e}{14}{subsection.2.1.2}
 \contentsline {section}{\numberline {2}S\IeC {\'e}ance 2 : inventaire des tables du coll\IeC {\`e}ge}{16}{section.2.2}
-\contentsline {subsection}{\numberline {2.1}L'activit\IeC {\'e} demand\IeC {\'e}e}{16}{subsection.2.2.1}
-\contentsline {section}{\numberline {3}S\IeC {\'e}ance 3 : r\IeC {\'e}partition de la population mondiale}{18}{section.2.3}
-\contentsline {subsection}{\numberline {3.1}L'activit\IeC {\'e} demand\IeC {\'e}e}{18}{subsection.2.3.1}
-\contentsline {section}{\numberline {4}Aide pour r\IeC {\'e}aliser les activit\IeC {\'e}s}{20}{section.2.4}
-\contentsline {subsection}{\numberline {4.1}Le s\IeC {\'e}parateur d\IeC {\'e}cimal}{20}{subsection.2.4.1}
-\contentsline {subsubsection}{Quel est votre s\IeC {\'e}parateur d\IeC {\'e}cimal ?}{20}{section*.5}
-\contentsline {subsubsection}{Changer les virgules en points (ou inversement)}{20}{section*.6}
-\contentsline {subsection}{\numberline {4.2}Formater le contenu d'une cellule}{21}{subsection.2.4.2}
-\contentsline {subsection}{\numberline {4.3}Formater la page}{23}{subsection.2.4.3}
-\contentsline {subsubsection}{Orientation et marges}{23}{section*.7}
-\contentsline {subsubsection}{Nombre de pages}{24}{section*.8}
-\contentsline {subsubsection}{En-t\IeC {\^e}te et pied de page}{24}{section*.9}
-\contentsline {subsection}{\numberline {4.4}Ajouter une courbe de tendance}{26}{subsection.2.4.4}
-\contentsline {subsection}{\numberline {4.5}Cr\IeC {\'e}er un diagramme circulaire}{27}{subsection.2.4.5}
+\contentsline {subsection}{\numberline {2.1}Avant de commencer...}{16}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2}L'activit\IeC {\'e} demand\IeC {\'e}e}{16}{subsection.2.2.2}
+\contentsline {section}{\numberline {3}S\IeC {\'e}ance 3 : r\IeC {\'e}partition de la population mondiale}{19}{section.2.3}
+\contentsline {subsection}{\numberline {3.1}Avant de commencer...}{19}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {3.2}L'activit\IeC {\'e} demand\IeC {\'e}e}{19}{subsection.2.3.2}
+\contentsline {section}{\numberline {4}Aide pour r\IeC {\'e}aliser les activit\IeC {\'e}s}{21}{section.2.4}
+\contentsline {subsection}{\numberline {4.1}Le s\IeC {\'e}parateur d\IeC {\'e}cimal}{21}{subsection.2.4.1}
+\contentsline {subsubsection}{Quel est votre s\IeC {\'e}parateur d\IeC {\'e}cimal ?}{21}{section*.5}
+\contentsline {subsubsection}{Changer les virgules en points (ou inversement)}{21}{section*.6}
+\contentsline {subsection}{\numberline {4.2}Formater le contenu d'une cellule}{22}{subsection.2.4.2}
+\contentsline {subsection}{\numberline {4.3}Formater la page}{24}{subsection.2.4.3}
+\contentsline {subsubsection}{Orientation et marges}{24}{section*.7}
+\contentsline {subsubsection}{Nombre de pages}{25}{section*.8}
+\contentsline {subsubsection}{En-t\IeC {\^e}te et pied de page}{25}{section*.9}
+\contentsline {subsection}{\numberline {4.4}Ajouter une courbe de tendance}{27}{subsection.2.4.4}
+\contentsline {subsection}{\numberline {4.5}Cr\IeC {\'e}er un diagramme circulaire}{28}{subsection.2.4.5}
 \contentsline {chapter}{\numberline {3}Traitement de texte}{29}{chapter.3}
 \contentsline {section}{\numberline {1}S\IeC {\'e}ance 1 : mise en forme d'un texte en fran\IeC {\c c}ais}{30}{section.3.1}
 \contentsline {subsection}{\numberline {1.1}L'activit\IeC {\'e} demand\IeC {\'e}e}{30}{subsection.3.1.1}
@@ -72,35 +75,32 @@
 \contentsline {subsection}{\numberline {3.9}Exporter un projet au format MP3 ou WAV}{70}{subsection.5.3.9}
 \contentsline {section}{\numberline {4}S\IeC {\'e}ance 1 : composer une phrase en anglais}{72}{section.5.4}
 \contentsline {chapter}{\numberline {6}Programmation Scratch}{75}{chapter.6}
-\contentsline {section}{\numberline {1}Pour bien commencer avec Scratch}{76}{section.6.1}
-\contentsline {subsection}{\numberline {1.1}Passer Scratch en langue fran\IeC {\c c}aise}{76}{subsection.6.1.1}
-\contentsline {section}{\numberline {2}S\IeC {\'e}ance 1 : dessiner une spirale}{76}{section.6.2}
-\contentsline {subsection}{\numberline {2.1}Avant de commencer...}{76}{subsection.6.2.1}
-\contentsline {subsection}{\numberline {2.2}L'activit\IeC {\'e} demand\IeC {\'e}e}{76}{subsection.6.2.2}
-\contentsline {subsection}{\numberline {2.3}Pour aller plus loin...}{77}{subsection.6.2.3}
-\contentsline {section}{\numberline {3}S\IeC {\'e}ance 2 : un quiz de calcul mental}{77}{section.6.3}
-\contentsline {subsection}{\numberline {3.1}Avant de commencer...}{77}{subsection.6.3.1}
-\contentsline {subsection}{\numberline {3.2}L'activit\IeC {\'e} demand\IeC {\'e}e}{78}{subsection.6.3.2}
-\contentsline {section}{\numberline {4}S\IeC {\'e}ance 3 : cr\IeC {\'e}er un jeu de <<\,Pong\,>> en Scratch}{78}{section.6.4}
-\contentsline {subsection}{\numberline {4.1}Avant de commencer...}{78}{subsection.6.4.1}
-\contentsline {subsection}{\numberline {4.2}L'activit\IeC {\'e} demand\IeC {\'e}e}{78}{subsection.6.4.2}
-\contentsline {subsection}{\numberline {4.3}Pour aller plus loin...}{79}{subsection.6.4.3}
-\contentsline {section}{\numberline {5}Aide pour r\IeC {\'e}aliser les activit\IeC {\'e}s}{79}{section.6.5}
-\contentsline {subsection}{\numberline {5.1}Aide pour la s\IeC {\'e}ance 1}{79}{subsection.6.5.1}
-\contentsline {subsubsection}{Premi\IeC {\`e}re \IeC {\'e}tape : cr\IeC {\'e}ation d'une variable}{79}{section*.14}
-\contentsline {subsubsection}{Deuxi\IeC {\`e}me \IeC {\'e}tape : le script qui dessine la spirale}{81}{section*.15}
-\contentsline {subsubsection}{Troisi\IeC {\`e}me \IeC {\'e}tape : un script qui efface l'\IeC {\'e}cran}{82}{section*.16}
-\contentsline {subsubsection}{Quatri\IeC {\`e}me \IeC {\'e}tape : \IeC {\`a} vous de jouer !}{83}{section*.17}
-\contentsline {subsubsection}{Rendre le programme}{83}{section*.18}
-\contentsline {subsection}{\numberline {5.2}Aide pour la s\IeC {\'e}ance 2}{84}{subsection.6.5.2}
-\contentsline {subsubsection}{Algorithme du programme}{84}{section*.19}
-\contentsline {subsubsection}{Aide pour l'\IeC {\'e}criture du programme}{85}{section*.20}
-\contentsline {subsubsection}{Rendre le programme}{87}{section*.21}
-\contentsline {subsubsection}{Pour aller plus loin...}{87}{section*.22}
-\contentsline {subsection}{\numberline {5.3}Aide pour la s\IeC {\'e}ance 3}{87}{subsection.6.5.3}
-\contentsline {subsubsection}{Premi\IeC {\`e}re \IeC {\'e}tape : cr\IeC {\'e}ation de l'arri\IeC {\`e}re plan et choix des lutins}{87}{section*.23}
-\contentsline {subsubsection}{D\IeC {\'e}finition du mouvement de la balle}{88}{section*.24}
-\contentsline {subsubsection}{Mouvements de la raquette et rebond de la balle sur la raquette}{89}{section*.25}
-\contentsline {subsubsection}{Fin du jeu}{90}{section*.26}
-\contentsline {subsubsection}{Rendre le programme}{91}{section*.27}
+\contentsline {section}{\numberline {1}S\IeC {\'e}ance 1 : dessiner une spirale}{76}{section.6.1}
+\contentsline {subsection}{\numberline {1.1}Avant de commencer...}{76}{subsection.6.1.1}
+\contentsline {subsubsection}{Passer Scratch en langue fran\IeC {\c c}aise}{76}{section*.14}
+\contentsline {subsubsection}{Penser \IeC {\`a} enregitrer r\IeC {\'e}guli\IeC {\`e}rement}{76}{section*.15}
+\contentsline {subsection}{\numberline {1.2}L'activit\IeC {\'e} demand\IeC {\'e}e}{77}{subsection.6.1.2}
+\contentsline {subsection}{\numberline {1.3}Pour aller plus loin...}{78}{subsection.6.1.3}
+\contentsline {section}{\numberline {2}S\IeC {\'e}ance 2 : un quiz de calcul mental}{79}{section.6.2}
+\contentsline {subsection}{\numberline {2.1}Avant de commencer...}{79}{subsection.6.2.1}
+\contentsline {subsection}{\numberline {2.2}L'activit\IeC {\'e} demand\IeC {\'e}e}{79}{subsection.6.2.2}
+\contentsline {subsection}{\numberline {2.3}Pour aller plus loin...}{79}{subsection.6.2.3}
+\contentsline {section}{\numberline {3}S\IeC {\'e}ance 3 : cr\IeC {\'e}er un jeu de <<\,Pong\,>> en Scratch}{80}{section.6.3}
+\contentsline {subsection}{\numberline {3.1}Avant de commencer...}{80}{subsection.6.3.1}
+\contentsline {subsection}{\numberline {3.2}L'activit\IeC {\'e} demand\IeC {\'e}e}{80}{subsection.6.3.2}
+\contentsline {subsection}{\numberline {3.3}Pour aller plus loin...}{81}{subsection.6.3.3}
+\contentsline {section}{\numberline {4}Aide pour r\IeC {\'e}aliser les activit\IeC {\'e}s}{81}{section.6.4}
+\contentsline {subsection}{\numberline {4.1}Aide pour la s\IeC {\'e}ance 1}{81}{subsection.6.4.1}
+\contentsline {subsubsection}{Premi\IeC {\`e}re \IeC {\'e}tape : cr\IeC {\'e}ation d'une variable}{81}{section*.16}
+\contentsline {subsubsection}{Deuxi\IeC {\`e}me \IeC {\'e}tape : le script qui dessine la spirale}{83}{section*.17}
+\contentsline {subsubsection}{Troisi\IeC {\`e}me \IeC {\'e}tape : un script qui efface l'\IeC {\'e}cran}{84}{section*.18}
+\contentsline {subsubsection}{Quatri\IeC {\`e}me \IeC {\'e}tape : \IeC {\`a} vous de jouer !}{85}{section*.19}
+\contentsline {subsection}{\numberline {4.2}Aide pour la s\IeC {\'e}ance 2}{85}{subsection.6.4.2}
+\contentsline {subsubsection}{Algorithme du programme}{85}{section*.20}
+\contentsline {subsubsection}{Aide pour l'\IeC {\'e}criture du programme}{86}{section*.21}
+\contentsline {subsection}{\numberline {4.3}Aide pour la s\IeC {\'e}ance 3}{88}{subsection.6.4.3}
+\contentsline {subsubsection}{Premi\IeC {\`e}re \IeC {\'e}tape : cr\IeC {\'e}ation de l'arri\IeC {\`e}re plan et choix des lutins}{88}{section*.22}
+\contentsline {subsubsection}{D\IeC {\'e}finition du mouvement de la balle}{89}{section*.23}
+\contentsline {subsubsection}{Mouvements de la raquette et rebond de la balle sur la raquette}{89}{section*.24}
+\contentsline {subsubsection}{Fin du jeu}{91}{section*.25}
 \contentsfinish 

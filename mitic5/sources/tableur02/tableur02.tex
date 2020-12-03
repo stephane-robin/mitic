@@ -2,6 +2,8 @@
 
 Un tableur est un logiciel qui permet de faire des calculs à partir de tableaux contenant des nombres (les \emph{données}). Un tableur permet également de représenter ces données sous forme de graphiques qui en facilitent généralement la lecture.
 
+\phantom{rien}
+
 {\footnotesize
 \begin{itemize}
 \item Logiciel : \emph{Microsoft Excel}
@@ -30,7 +32,7 @@ Un tableur est un logiciel qui permet de faire des calculs à partir de tableaux
 \end{itemize}
 }% fin du footnotesize
 
-%\phantom{rien}
+\phantom{rien}
 
 Les compétences listées ci-dessous ont été vues en classe de 6\up{e}. Vous en aurez à nouveau besoin pour les activités de cette année. Si nécessaire, reportez-vous aux \emph{Fiches MITIC 6\up{e}} pour revoir comment :  
 
@@ -49,7 +51,7 @@ Les compétences listées ci-dessous ont été vues en classe de 6\up{e}. Vous e
 %
 %
 
-%\newpage
+\newpage
 
 %\phantom{.} 
 
@@ -58,14 +60,20 @@ Les compétences listées ci-dessous ont été vues en classe de 6\up{e}. Vous e
 \section{Séance 1 : caractéristique d'une résistance}\label{ficheTableur5e1}
 
 
-\vspace{10pt}
+\subsection{Avant de commencer...}
+
+Dès que vous avez ouvert un nouveau document dans \emph{Excel}, sauvegardez-le au format Nom-date.xlsx : dans le menu \texttt{Fichier}, choisir \texttt{Enregistrer}. Pendant que vous travaillez, pensez à sauvegarder régulièrement votre travail (raccourci clavier \texttt{Cmd + s}).   
+
+\uneimageici{./images/generales/clavierCmdS}{.4\textwidth}
+
+%\vspace{10pt}
 
 \subsection{L'activité demandée}
 
+\vspace{10pt}
+
 \boiteEnonceLarge{%
-Le but de cette séance est de tracer la \emph{caractéristique d'un conducteur ohmique} (une résistance), c'est-à-dire de tracer la droite qui donne l'évolution de la tension $U$ à ses bornes en fonction de l'intensité $I$ du courant qui la traverse. Pour parvenir à ce résultat, vous devrez utiliser les outils présentés en début de chapitre (voir section \vref{Tableur5eOutils}).\\[12pt]
-%
-Lors d'un TP de physique, le circuit électrique montré sur le schéma suivant est réalisé.
+Le but de cette séance est de tracer la \emph{caractéristique d'un conducteur ohmique} (une résistance), c'est-à-dire de tracer la droite qui donne l'évolution de la tension $U$ à ses bornes en fonction de l'intensité $I$ du courant qui la traverse. Lors d'un TP de physique, le circuit électrique montré sur le schéma suivant est réalisé.
 %
 \uneimageici{./images/tableur02/schemaElecR}{.25\textwidth} 
 %
@@ -78,7 +86,17 @@ U (V) & 0 & 1,18 & 2,91 & 4,6 & 5,95 & 7,0 & 7,3 & 8,16 & 9,25 & 10,0 \\ \hline
 I (mA) & 0 & 17,7 & 42,7 & 68 & 87,6 & 105 & 110 & 124 & 140 & 154 \\ \hline
 \end{tabular}
 \end{center}
+} % fin énoncé
+
+
+
+\newpage
+
+
+
+\boiteEnonceLarge{
 %
+Pour réaliser cette activité, vous devrez procéder aux étapes suivantes : 
 \begin{enumerate}
 \item Créer la feuille de calcul correspondant au tableau de données ci-dessus.
 \item Formater les cellules de la première ligne afin que les tensions $U$ soient données avec deux décimales.
@@ -89,15 +107,7 @@ I (mA) & 0 & 17,7 & 42,7 & 68 & 87,6 & 105 & 110 & 124 & 140 & 154 \\ \hline
 \item Par lecture graphique, déterminer la valeur de la tension $U$ lorsque l'intensité du courant électrique vaut $I=100,0$\,mA. Écrire votre réponse dans une cellule de la feuille de calcul, sous la réponse précédente.
 \setcounter{tmp}{\value{enumi}}  
 \end{enumerate}
-} % fin énoncé
-
-
-
-\newpage
-
-
-
-\boiteEnonceLarge{%
+%%% ancienne coupure
 \begin{enumerate}
 \setcounter{enumi}{\value{tmp}}
 \item Dans une cellule, ajouter votre prénom, nom et classe.
@@ -109,14 +119,14 @@ I (mA) & 0 & 17,7 & 42,7 & 68 & 87,6 & 105 & 110 & 124 & 140 & 154 \\ \hline
 \end{enumerate}
 Une fois la mise en forme terminée, vous exporterez votre fichier au format PDF (le fichier doit être nommé à partir de votre nom : \texttt{Nom-date.pdf}), puis vous le rendrez sur \emph{Teams} à l'endroit indiqué par votre enseignant (si nécessaire, se reporter à la fiche méthode \emph{Rendre un travail}, section \vref{MoodleRendreDevoir}).}
 
-\textbf{Pour obtenir de l'aide, rendez-vous à la page \pageref{aide_seancesWord}}
+\textbf{Pour obtenir de l'aide, rendez-vous à la page \pageref{Tableur5eOutils}}
 
 
 
-\cadre{Pensez à sauver régulièrement votre travail en appuyant sur \texttt{Cmd + s} ou à partir du menu \texttt{Fichier} en choisissant \texttt{Enregistrer}.
+%\cadre{Pensez à sauver régulièrement votre travail en appuyant sur \texttt{Cmd + s} ou à partir du menu \texttt{Fichier} en choisissant \texttt{Enregistrer}.
 
-\uneimageici{./images/generales/clavierCmdS}{.4\textwidth}
-}
+%\uneimageici{./images/generales/clavierCmdS}{.4\textwidth}
+%}
 
 \vfill
 \phantom{rien}
@@ -135,12 +145,20 @@ Une fois la mise en forme terminée, vous exporterez votre fichier au format PDF
 
 \section{Séance 2 : inventaire des tables du collège}\label{ficheTableur5e2}
 
-\vspace{10pt}
+\subsection{Avant de commencer...}
+
+Dès que vous avez ouvert un nouveau document dans \emph{Excel}, sauvegardez-le au format Nom-date.xlsx : dans le menu \texttt{Fichier}, choisir \texttt{Enregistrer}. Pendant que vous travaillez, pensez à sauvegarder régulièrement votre travail (raccourci clavier \texttt{Cmd + s}).   
+
+\uneimageici{./images/generales/clavierCmdS}{.4\textwidth}
+
+%\vspace{10pt}
 
 \subsection{L'activité demandée}
 
+\vspace{10pt}
+
 \boiteEnonceLarge{%
-Le but de cette séance est de tracer un diagramme circulaire pour représenter un état des lieux des tables d'un collège. Pour parvenir à ce résultat, vous devrez utiliser les outils présentés en début de chapitre (voir section \vref{Tableur5eOutils}).\\[4pt]
+Le but de cette séance est de tracer un diagramme circulaire pour représenter un état des lieux des tables d'un collège.\\ %Pour parvenir à ce résultat, vous devrez utiliser les outils présentés en début de chapitre (voir section \vref{Tableur5eOutils}).\\[4pt]
 %
 
 Le gestionnaire d'un établissement fait l'état des lieux et vérifie l'état des tables :
@@ -153,11 +171,21 @@ $\bullet$ 99 sont dans un état passable ;& & \\
 \end{tabular}
 \end{center}
 %
-%
+} % fin énoncé
+
+\vfill
+\phantom{rien}
+%\newpage
+
+
+
+\boiteEnonceLarge{%
+Pour réaliser cette activité, vous devrez procéder aux étapes suivantes :
 \begin{enumerate}
 \item Créer la feuille de calcul suivante :
 \uneimageici{./images/tableur02/ActiviteMaths1}{.75\textwidth}
-\vspace{-8pt}\item Compléter la deuxième ligne du tableau ci-dessous avec les données de l'énoncé.
+\vspace{-8pt}
+\item Compléter la deuxième ligne du tableau ci-dessous avec les données de l'énoncé.
 \item Quelle formule faut-il utiliser pour calculer automatiquement la valeur attendue dans la cellule \texttt{G2} ?
 \item Quelle formule faut-il utiliser dans la cellule \texttt{B3} pour calculer la fréquence des tables neuves ?
         \begin{enumerate}
@@ -169,14 +197,7 @@ $\bullet$ 99 sont dans un état passable ;& & \\
 \item Insérer dans le fichier un diagramme circulaire permettant au gestionnaire de présenter cet état des lieux.
 \setcounter{tmp}{\value{enumi}}  
 \end{enumerate}
-} % fin énoncé
-
-
-\newpage
-
-
-
-\boiteEnonceLarge{%
+% ancienne coupure
 \begin{enumerate}
 \setcounter{enumi}{\value{tmp}}
 \item Le gestionnaire veut réaliser ce diagramme circulaire à la main sur du papier. Pour cela, il faut ajouter dans le fichier la ligne suivante :
@@ -191,18 +212,20 @@ $\bullet$ 99 sont dans un état passable ;& & \\
 \item Mettre en forme la feuille de calcul pour que la feuille soit au format \emph{portrait}, avec une marge de 3\,cm en haut et en bas, et de 2\,cm sur les côtés. Il faut que tout le document tienne sur une page uniquement.
 \item Supprimer l'en-tête et le pied de page par défaut. 
 \item\label{questionDiagDemiCirc} Construire ensuite (et à la main !) le diagramme semi-circulaire correspondant ci-dessous.
-\end{enumerate}
+\end{enumerate}}
+
+\boiteEnonceLarge{
 Une fois la mise en forme terminée, vous exporterez votre fichier au format PDF (le fichier doit être nommé à partir de votre nom : \texttt{Nom-date.pdf}), puis vous le rendrez sur \emph{Teams} à l'endroit indiqué par votre enseignant (si nécessaire, se reporter à la fiche méthode \emph{Rendre un travail}, section \vref{MoodleRendreDevoir}).}
 
 Construire ici le diagramme semi-circulaire de la question \ref{questionDiagDemiCirc}   :
 
 \uneimageici{./images/tableur02/hemicercle}{.4\textwidth}   
 
-\textbf{Pour obtenir de l'aide, rendez-vous à la page \pageref{aide_seancesWord}}
+\textbf{Pour obtenir de l'aide, rendez-vous à la page \pageref{Tableur5eOutils}}
 
 %\vfill
 
-\cadre{Pensez à sauver régulièrement votre travail en appuyant sur \texttt{Cmd + s} ou à partir du menu \texttt{Fichier} en choisissant \texttt{Enregistrer}.}
+%\cadre{Pensez à sauver régulièrement votre travail en appuyant sur \texttt{Cmd + s} ou à partir du menu \texttt{Fichier} en choisissant \texttt{Enregistrer}.}
 
 \vfill
 
@@ -218,47 +241,54 @@ Construire ici le diagramme semi-circulaire de la question \ref{questionDiagDemi
 %
 %
 
-
+\newpage
 
 %\pagebreak
 
 \section{Séance 3 : répartition de la population mondiale}\label{ficheTableur5e3}
 
+\subsection{Avant de commencer...}
+
+Dès que vous avez ouvert un nouveau document dans \emph{Excel}, sauvegardez-le au format Nom-date.xlsx : dans le menu \texttt{Fichier}, choisir \texttt{Enregistrer}. Pendant que vous travaillez, pensez à sauvegarder régulièrement votre travail (raccourci clavier \texttt{Cmd + s}).   
+
+\uneimageici{./images/generales/clavierCmdS}{.4\textwidth}
+
+
 \subsection{L'activité demandée}
 
+
+\vspace{10pt}
 \boiteEnonceLarge{%
-Le but de cette séance est de tracer un diagramme circulaire pour représenter la répartition de la population mondiale par continent. Pour parvenir à ce résultat, vous devrez utiliser les outils présentés en début de chapitre (voir section \vref{Tableur5eOutils}).\\[12pt]
+Le but de cette séance est de tracer un diagramme circulaire pour représenter la répartition de la population mondiale par continent. %Pour parvenir à ce résultat, vous devrez utiliser les outils présentés en début de chapitre (voir section \vref{Tableur5eOutils}).\\[12pt]
 %
 
 La carte ci-dessous\footnote{D'après \url{http://icdc.us}, consulté le 5 juillet 2017 et remis à jour avec les données de la page Wikipédia \emph{Population mondiale}, consultée le 5 juillet 2017.} donne la répartition par zone géographique de la population mondiale en 2017 (en nombre d'habitants).
 
 \uneimageici{./images/tableur02/cartePopulation}{.9\textwidth}
+}
 
+\boiteEnonceLarge{
 À partir de ce document, vous devez créer un diagramme circulaire montrant cette répartition. Pour cela, il faut suivre les étapes suivantes.
 
 \begin{enumerate}
 \item Créer une feuille de calcul contenant les données fournies par le document ci-dessus. Attention, il faut sommer les populations d'Amérique du Nord et d'Amérique du Sud car on souhaite avoir la répartition par continent.
 \item Dans une nouvelle colonne, transformer les populations en pourcentage à l'aide d'une formule. Il suffit d'écrire la formule pour la première cellule de la colonne et ensuite utiliser une recopie incrémentale (se reporter si nécessaire aux fiches Mitic 6\up{e}) pour que la formule s'applique à toutes les cellules de la colonne.
-\setcounter{tmp}{\value{enumi}}  
-\end{enumerate}
-} % fin énoncé
+%\setcounter{tmp}{\value{enumi}}  
 
-\boiteEnonceLarge{%
-\begin{enumerate}
-\setcounter{enumi}{\value{tmp}}
+%\setcounter{enumi}{\value{tmp}}
 \item Ajouter un formatage de cellule : choisir \texttt{Nombre} pour la colonne contenant les données en \%\ et régler le nombre de décimale à 0.
 \item À partir des données en \%\ calculées, construire un diagramme circulaire montrant la répartition de la population mondiale par continent.
 \item Mettre en forme la feuille de calcul pour que la feuille soit au format \emph{portrait}, avec une marge de 3\,cm en haut et en bas, et de 2\,cm sur les côtés. Il faut que tout votre document tienne sur une page uniquement.
 \end{enumerate}
 Une fois la mise en forme terminée, vous exporterez votre fichier au format PDF (le fichier doit être nommé à partir de votre nom : \texttt{Nom-date.pdf}), puis vous le rendrez sur \emph{Teams} à l'endroit indiqué par votre enseignant (si nécessaire, se reporter à la fiche méthode \emph{Rendre un travail}, section \vref{MoodleRendreDevoir}).}
 
-\textbf{Pour obtenir de l'aide, rendez-vous à la page \pageref{aide_seancesWord}}
+\textbf{Pour obtenir de l'aide, rendez-vous à la page \pageref{Tableur5eOutils}}
 %\vfill
 
-\cadre{Pensez à sauver régulièrement votre travail en appuyant sur \texttt{Cmd + S} ou à partir du menu \texttt{Fichier} en choisissant \texttt{Enregistrer}.
+%\cadre{Pensez à sauver régulièrement votre travail en appuyant sur \texttt{Cmd + S} ou à partir du menu \texttt{Fichier} en choisissant \texttt{Enregistrer}.
 
-\uneimageici{./images/generales/clavierCmdS}{.5\textwidth}
-}
+%\uneimageici{./images/generales/clavierCmdS}{.5\textwidth}
+%}
 
 \vfill
 \phantom{rien}
