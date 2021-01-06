@@ -171,21 +171,30 @@ $\bullet$ 99 sont dans un état passable ;& & \\
 \end{tabular}
 \end{center}
 %
-} % fin énoncé
+% fin énoncé initial
 
-\vfill
-\phantom{rien}
+%\vfill
+%\phantom{rien}
 %\newpage
 
 
 
-\boiteEnonceLarge{%
+
 Pour réaliser cette activité, vous devrez procéder aux étapes suivantes :
 \begin{enumerate}
 \item Créer la feuille de calcul suivante :
 \uneimageici{./images/tableur02/ActiviteMaths1}{.75\textwidth}
 \vspace{-8pt}
 \item Compléter la deuxième ligne du tableau ci-dessous avec les données de l'énoncé.
+\setcounter{tmp}{\value{enumi}}  
+\end{enumerate}
+}
+\vfill
+\phantom{rien}
+% coupure
+\boiteEnonceLarge{
+\begin{enumerate}
+\setcounter{enumi}{\value{tmp}}
 \item Quelle formule faut-il utiliser pour calculer automatiquement la valeur attendue dans la cellule \texttt{G2} ?
 \item Quelle formule faut-il utiliser dans la cellule \texttt{B3} pour calculer la fréquence des tables neuves ?
         \begin{enumerate}
@@ -195,11 +204,9 @@ Pour réaliser cette activité, vous devrez procéder aux étapes suivantes :
         \emph{En cliquant sur la cellule \texttt{C3}, on remarque que le nombre de chaises est divisé par le contenu de la cellule \texttt{H2}. Pour éviter ce problème, il faut dans la cellule \texttt{B3} avant la recopie incrémentale insérer un signe \texttt{\$} devant la lettre \texttt{G} comme suit : \texttt{\$G2}. Ceci a pour effet d'empêcher l'incrémentation de l'index de cellule précédé du \texttt{\$}.} 
 \item Comment obtenir la fréquence en pourcentage à partir de la fréquence ? Programmer alors les cellules de la ligne 4 à l'aide d'une instruction.
 \item Insérer dans le fichier un diagramme circulaire permettant au gestionnaire de présenter cet état des lieux.
-\setcounter{tmp}{\value{enumi}}  
-\end{enumerate}
+
 % ancienne coupure
-\begin{enumerate}
-\setcounter{enumi}{\value{tmp}}
+
 \item Le gestionnaire veut réaliser ce diagramme circulaire à la main sur du papier. Pour cela, il faut ajouter dans le fichier la ligne suivante :
 %
 \uneimageici{./images/tableur02/ActiviteMaths2}{.75\textwidth}
