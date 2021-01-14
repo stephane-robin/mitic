@@ -1,0 +1,47 @@
+
+
+Salut!
+
+
+Alors je viens de faire deux séances mitic avec les 4e, quelques petits retour :
+
+
+- mon seul vrai problème : télécharger le fichier depuis moodle. Je leur ai indiqué mon bricolage (Clic droit « ouvrir dans un nouvel onglet ». Dans le nouvel onglet : Clic droit « télécharger le fichier lié ».). Mais ça me parait bizarre que ce soit comme cela qu'il faille faire.
+
+
+- la longueur : on a fait que le 4.1 (c'est peut-être aussi lié aux problèmes suivants qui font que, même en annonçant des manip à l'ensemble du groupe, il faille repasser individuellement sur un tiers d'élèves, ce qui ralentit le truc). 
+
+C'est un point de vue perso, mais je pense qu'il y a matière à ne garder que cette partie 4.1 en rentrant dans des explications plus détaillées sur ce qu'ils font et le fonctionnement du logiciel dès qu'ils rencontrent un problème. Par exemple :
+
+
+-  le fichier contient des virgules que Calc interprète comme du texte et renvoit donc #Valeur au moindre calcul. (bon, perso j'ai trouvé intéressant de les laisser arriver à ce problème pour leur expliquer ce que signifie ce résultat, la logique derrière (notamment les alignements, les formats de cellule), et comment rechercher et remplacer les virgules par des points.
+
+
+- Ils ne savent pas reproduire les formules par cliquer-glisser. Là aussi, la manip est simple, mais derrière y a eu 2 ou 3 cas intéressants qui permettaient d'expliquer la logique : 
+
+    un élève qui colle la formule ailleurs (genre colonne J) et n'obtient que des 0.
+    A la fin du 4.1, le calcul des pourcentages ne fonctionne pas en glissant car la formule utilise une valeur flottante et une valeur fixe (le total). Bon j'ai que 2 groupes qui sont arrivés là : un qui a fait les 9 calculs à la main, et un à qui j'ai appris à se servir des $ pour fixer des cellules dans les formules.
+
+
+- Le tri pareil, il y a plein de trucs à expliquer : les étiquettes de colonne à cocher pour ne pas trier le titre, les extensions de plage de tri pour ceux qui avaient sélectionné la colonne G.
+
+
+J'ai aussi l'impression qu'ils oublient des choses qu'ils ont surement déjà du voir (la diff entre du texte et une formule en commençant par "=", la formule somme, ...).
+
+
+
+Bref : je me demande si il ne serait pas envisageable de garder les consignes, mais d'ajouter une colonne avec les problèmes possibles  et les explications. Mais c'est peut-être pas le but ou trop complexe (ne serait-ce que pour les profs).
+
+
+
+Par contre, je pense que c'est moi qui m'y prend comme un manche, mais je termine avec des groupes qui finissent le 4.1, et des groupes qui ont à peine fait le calcul eau/hab sans arriver au tri.
+
+
+Et petite question : est ce qu'ils doivent finir tout? Parce que comme ils ont des exposés à préparer, et que je ne les vois plus après, je n'ai pas donné de consignes...
+
+
+
+Excellente journée,
+
+Régis
+

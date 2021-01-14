@@ -1,0 +1,124 @@
+\documentclass{moncours}
+\usepackage{float}
+\makeindex
+
+
+
+
+\begin{document}
+
+\newcounter{tmp} % pour couper les boîtes énoncés au milieu d'un enumerate
+
+\renewcommand{\labelitemi}{\textbullet}
+\renewcommand{\labelitemii}{$\circ$} 
+
+\frontmatter
+
+\titlePage[./images/couvertureFlo3e_v1]{Informatique 3\up{e}}{Fiches MITIC}{Institut Florimont}{\textcopyright\ Tout droit réservé. Crédit photographie couverture : Institut Florimont. Illustration des premières pages de chapitre issue de \emph{Codex Leicester} de Leonardo da Vinci (domaine public).  \\ Version : janvier 2021 \\ 1\up{ère} édition, v0 \\ Petit-Lancy (Suisse)} 
+
+% TOC
+\pagestyle{empty} % No headers
+
+\tableofcontents % Print the table of contents itself
+\cleardoublepage % Forces the first chapter to start on an odd page so it's on the right
+\pagestyle{fancy} % Print headers again
+
+%\cleardoublepage % on force une page impaire
+%\input{./sources/planning.tex}
+\cleardoublepage % on force une page impaire pour le clavier
+\input{./sources/clavier.tex}
+%\cleardoublepage % on force une page impaire pour la philosophie du document
+%\input{./sources/philosophie.tex}
+
+% Début des chapitres
+%\setcounter{page}{1} % si on veut forcer la page 1 au début du premier chapitre
+\mainmatter
+%
+  
+\chapterImage{./images/chapitreVinci5e}
+%\input{./sources/teams/teams_accueil.tex}
+%\input{./sources/tableur02/tableur02.tex}
+%\input{./sources/texte02/texte02.tex}
+%\input{./sources/image02/image02.tex}
+%\input{./sources/son01/son01.tex}
+%\input{./sources/scratch02/scratch02.tex}
+%\input{./sources/methode/Moodle.tex}
+
+Introduction à la programmation par le langage Python, qui va progressivement remplacer Scratch dans l'esprit des élèves. 
+
+\section{Séance découverte Python et module turtle}
+
+dessin - passage d'une structure Scratch à une structure Python\\
+
+matière informatique
+
+\section{Séance découverte Python sur les variables et conditions}
+
+passage de Scratch à Python\\
+
+matière informatique
+
+\section{Séance Python - dessin d'une courbe}
+
+dessin de courbes 2D, 3D, lignes de niveau, surfaces. Comparaison des possibilités de Python avec celles de la calculatrice TI. Les codes source sont fournis.\\
+
+matière mathématiques
+
+\section{Séance expérience physique et courbes en Python}
+
+matière sciences physiques
+
+
+\section{Séance Geogebra - dessin 2D construction de la droite d'Euler}
+
+matière mathématiques
+
+
+
+
+\section{Séance utilisation des moteurs de recherches - social dilemma}
+
+expérience de groupe pour comprendre la réponse fournie par les moteurs de recherche en fonction des recherches antérieures effectuées. Connaissance du mode de rémunération des Gafam. Sensibilisation à l'origine de l'information sur Internet.\\
+
+matière Histoire
+
+
+
+\section{Séance calcul littéral - factorisation, développement}
+
+comparaison des résultats fournis par Geogebra et Python.\\
+
+matière mathématiques
+
+\section{Séance statistique descriptive}
+
+comparaison des résultats fournis par Excel, Python et la calculatrice TI suite à une expérience de physique. Compréhension des différents modes de calcul choisis.\\
+
+matière sciences physiques
+
+
+
+\section{Séance création site Web avec Wix ou WordPress}
+
+site relatif à un événement historique en relation avec le programme d'histoire ou d'économie\\
+
+matière histoire ou économie
+
+\section{Séance de traitement de l'image avec Python}
+
+utilisation des filtres pour tranformer une photo en Python\\
+
+ matière dessin ou mathématiques
+
+\section{Séance Word - création d'un CV}
+
+matière Français
+
+
+
+
+\printindex % il faut utiliser en console "makeindex monfichier.idx" pour faire afficher l'index
+
+\end{document}
+
+

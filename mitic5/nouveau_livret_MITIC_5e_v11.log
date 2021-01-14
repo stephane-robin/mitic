@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2018.8.21)  6 JAN 2021 18:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2018.8.21)  11 JAN 2021 16:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1689,7 +1689,7 @@ Overfull \hbox (6.79999pt too wide) in paragraph at lines 362--362
 
 [22 <./images/tableur02/changerVirgule1_excel_crop.png (PNG copy)> <./images/ta
 bleur02/changerVirgule2_excel_crop.png (PNG copy)>]
-<./images/tableur02/FormatCellule1_Excel_crop.png, id=928, 160.6pt x 184.69pt>
+<./images/tableur02/FormatCellule1_Excel_crop.png, id=927, 160.6pt x 184.69pt>
 File: ./images/tableur02/FormatCellule1_Excel_crop.png Graphic file (type png)
 
 <use ./images/tableur02/FormatCellule1_Excel_crop.png>
@@ -1703,7 +1703,7 @@ choi-sir \T1/lmtt/m/n/12 Format de cellule...
  []
 
 
-<./images/tableur02/FormatCellule3_Excel_crop.png, id=929, 627.34375pt x 322.20
+<./images/tableur02/FormatCellule3_Excel_crop.png, id=928, 627.34375pt x 322.20
 375pt>
 File: ./images/tableur02/FormatCellule3_Excel_crop.png Graphic file (type png)
  <use ./images/tableur02/FormatCellule3_Excel_crop.png>
@@ -1716,15 +1716,17 @@ Overfull \hbox (32.09537pt too wide) in paragraph at lines 373--373
  []
 
 
-<./images/tableur02/FormatCellule2_Excel_crop.png, id=930, 269.005pt x 327.2225
+<./images/tableur02/FormatCellule2_Excel_crop.png, id=929, 269.005pt x 327.2225
 pt>
 File: ./images/tableur02/FormatCellule2_Excel_crop.png Graphic file (type png)
  <use ./images/tableur02/FormatCellule2_Excel_crop.png>
 Package pdftex.def Info: ./images/tableur02/FormatCellule2_Excel_crop.png used 
 on input line 373.
 (pdftex.def)             Requested size: 269.00433pt x 327.2217pt.
-
-<./images/tableur02/FormatCellule4_Excel_crop2.png, id=932, 631.35875pt x 611.2
+ [23 <./images/tableur02/FormatCellule1_Excel_crop.png> <./images/tableur02/For
+matCellule3_Excel_crop.png (PNG copy)> <./images/tableur02/FormatCellule2_Excel
+_crop.png (PNG copy)>]
+<./images/tableur02/FormatCellule4_Excel_crop2.png, id=937, 631.35875pt x 611.2
 8375pt>
 File: ./images/tableur02/FormatCellule4_Excel_crop2.png Graphic file (type png)
 
@@ -1733,11 +1735,6 @@ Package pdftex.def Info: ./images/tableur02/FormatCellule4_Excel_crop2.png used
  on input line 377.
 (pdftex.def)             Requested size: 631.35721pt x 611.28226pt.
 
-Underfull \vbox (badness 1275) has occurred while \output is active []
-
- [23 <./images/tableur02/FormatCellule1_Excel_crop.png> <./images/tableur02/For
-matCellule3_Excel_crop.png (PNG copy)> <./images/tableur02/FormatCellule2_Excel
-_crop.png (PNG copy)>]
 <./images/tableur02/FormatPage1_Excel_crop.png, id=938, 979.66pt x 138.5175pt>
 File: ./images/tableur02/FormatPage1_Excel_crop.png Graphic file (type png)
 
@@ -3552,7 +3549,7 @@ fb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/l
 ocal/texlive/2016/texmf-dist/fonts/type1/public/lm/lmtt10.pfb></usr/local/texli
 ve/2016/texmf-dist/fonts/type1/public/lm/lmtt12.pfb></usr/local/texlive/2016/te
 xmf-dist/fonts/type1/public/lm/lmtti10.pfb>
-Output written on nouveau_livret_MITIC_5e_v11.pdf (105 pages, 16013039 bytes).
+Output written on nouveau_livret_MITIC_5e_v11.pdf (105 pages, 16020156 bytes).
 PDF statistics:
  2090 PDF objects out of 2487 (max. 8388607)
  1426 compressed objects within 15 object streams
