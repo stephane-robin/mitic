@@ -76,7 +76,7 @@
 \contentsline {section}{\numberline {2}S\IeC {\'e}ance 2 : dessiner avec Scratch}{56}{section.5.2}
 \contentsline {subsection}{\numberline {2.1}Pour bien d\IeC {\'e}marrer...}{56}{subsection.5.2.1}
 \contentsline {subsection}{\numberline {2.2}L'activit\IeC {\'e} demand\IeC {\'e}e}{56}{subsection.5.2.2}
-\contentsline {subsection}{\numberline {2.3}Pour aller plus loin...}{56}{subsection.5.2.3}
+\contentsline {subsection}{\numberline {2.3}Pour aller plus loin...}{57}{subsection.5.2.3}
 \contentsline {section}{\numberline {3}S\IeC {\'e}ance 3 : cr\IeC {\'e}er un petit jeu en Scratch}{58}{section.5.3}
 \contentsline {subsection}{\numberline {3.1}Pour bien d\IeC {\'e}marrer...}{58}{subsection.5.3.1}
 \contentsline {subsection}{\numberline {3.2}L'activit\IeC {\'e} demand\IeC {\'e}e}{58}{subsection.5.3.2}

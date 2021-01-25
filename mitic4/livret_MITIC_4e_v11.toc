@@ -1,0 +1,27 @@
+\select@language {french}
+\contentsline {chapter}{\numberline {1}Microsoft Teams}{1}{chapter.1}
+\contentsline {section}{\numberline {1}Connexion \IeC {\`a} Office 365 et Teams}{1}{section.1.1}
+\contentsline {section}{\numberline {2}Utilisation de la Publication}{3}{section.1.2}
+\contentsline {section}{\numberline {3}Consulter et t\IeC {\'e}l\IeC {\'e}charger un document}{4}{section.1.3}
+\contentsline {section}{\numberline {4}Les devoirs}{5}{section.1.4}
+\contentsline {subsection}{\numberline {4.1}Consulter le sujet d'un devoir en pi\IeC {\`e}ce jointe}{5}{subsection.1.4.1}
+\contentsline {subsection}{\numberline {4.2}Remettre son devoir}{6}{subsection.1.4.2}
+\contentsline {section}{\numberline {5}Acc\IeC {\'e}der \IeC {\`a} mon bloc-note}{8}{section.1.5}
+\contentsline {section}{\numberline {6}Rejoindre une t\IeC {\'e}l\IeC {\'e}conf\IeC {\'e}rence}{9}{section.1.6}
+\contentsline {section}{\numberline {7}Pour aller plus loin}{10}{section.1.7}
+\contentsline {subsection}{\numberline {7.1}Apparence de la page d'accueil}{10}{subsection.1.7.1}
+\contentsline {chapter}{\numberline {2}Traitement d'images 3}{13}{chapter.2}
+\contentsline {section}{\numberline {1}Les outils dont vous aurez besoin}{14}{section.2.1}
+\contentsline {subsection}{\numberline {1.1}Cr\IeC {\'e}er et modifier un chemin}{14}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {1.2}Travailler avec les chemins et les calques}{15}{subsection.2.1.2}
+\contentsline {subsubsection}{S\IeC {\'e}lectionner le chemin sur lequel on travaille}{15}{section*.5}
+\contentsline {subsubsection}{Se placer sur le bon calque}{16}{section*.6}
+\contentsline {subsection}{\numberline {1.3}Tracer un trait le long d'un chemin}{16}{subsection.2.1.3}
+\contentsline {subsection}{\numberline {1.4}\IeC {\'E}crire un texte le long d'un chemin}{17}{subsection.2.1.4}
+\contentsline {subsection}{\numberline {1.5}Utiliser les guides}{19}{subsection.2.1.5}
+\contentsline {subsection}{\numberline {1.6}Extraire un objet de son arri\IeC {\`e}re plan (d\IeC {\'e}tourage)}{20}{subsection.2.1.6}
+\contentsline {section}{\numberline {2}S\IeC {\'e}ance 1 : l\IeC {\'e}gender une image (SVT)}{23}{section.2.2}
+\contentsline {section}{\numberline {3}S\IeC {\'e}ance 2 : un calligramme (fran\IeC {\c c}ais)}{24}{section.2.3}
+\contentsline {section}{\numberline {4}S\IeC {\'e}ance 3 : composition d'une image (arts visuels)}{25}{section.2.4}
+\contentsline {subsubsection}{Pour aller plus loin...}{26}{section*.7}
+\contentsfinish 

@@ -2,7 +2,7 @@
 
 {\footnotesize
 \begin{itemize}
-\item Logiciel\footnote{Le logiciel \emph{LibreOffice} est librement téléchargeable : \url{http://www.libreoffice.org/}} : \emph{LibreOffice Calc}
+\item Logiciel : \emph{Microsoft Excel}
 \item Matières concernées : mathématiques, sciences physiques et géographie.
 \item Compétences : 
         \begin{itemize}
@@ -63,33 +63,28 @@ Les nouveaux outils dont vous aurez besoin pour réaliser les trois séances sur
 
 \subsubsection{Quel est votre séparateur décimal ?}
 
-Le \emph{séparateur décimal} est le caractère utilisé pour écrire les nombres à virgule. En fonction de la langue du système d'exploitation de l'ordinateur, on utilise pour les systèmes anglo-saxons, le point (ex. : $4.5$) ou pour les systèmes francophones, la virgule (ex. : $4,5$).
+
+Le \emph{séparateur décimal} est le caractère utilisé pour écrire les nombres à virgule. En fonction de la langue du système d'exploitation de l'ordinateur on utilise pour les systèmes anglo-saxons, le point (ex. : $4.5$) ou pour les systèmes francophones, la virgule (ex. : $4,5$).
 
 \vspace{6pt}
 
-Dans le tableur, pour déterminer si le séparateur décimal est le point ou la virgule, on fait le test suivant : dans différentes cellules écrire un texte, un nombre entier et un nombre à virgule en utilisant un point puis une virgule. Les textes sont alignés à gauche et les nombres à droite. Dans l'exemple ci-dessous, le séparateur décimal est donc le point. En effet, $3,14$ est reconnu comme un texte et se retrouve aligné à gauche.
+Dans Excel, on peut déterminer si on utilise un point ou une virgule comme séparateur décimal. Pour cela, faire le test suivant : dans différentes cellules écrire un texte, un nombre entier et un nombre à virgule en utilisant une virgule puis un point. Les textes sont alignés à gauche et les nombres à droite. Dans les exemples ci-dessous, le séparateur décimal est donc la virgule pour l'image de gauche (le logiciel installé sur l'ordinateur) et le point pour l'image de droite (le logiciel accédé via office.com). Dans le premier cas, $3,14$ est reconnu comme un nombre et se retrouve aligné à droite, alors que $3.14$ se voit transformé en date (le 14 mars).
 
-\uneimageici{./images/tableur03/SeparateurDecimal}{.2\textwidth}
+\uneimageici{./images/tableur03/SeparateurDecimal_excel}{.2\textwidth}
 
-Si les nombres sont reconnus comme des textes, alors il est impossible de les utiliser pour faire des calculs (par exemple ajouter le contenu de deux cellules). Dans ce cas, pour que les nombres soient bien reconnus comme étant des nombres, il faut \emph{modifier le séparateur décimal}, c'est-à-dire changer les points en virgule ou inversement (voir ci-dessous).
+Avant de faire une activité sur Excel, pensez à vérifier si le séparateur décimal est le point ou la virgule chez vous. Tous les exemples de cet ouvrage utilisent le séparateur décimal francophone, la virgule. Si vous désirez avec le séparateur anglophone, le point, n'oubliez pas de remplacer les virgules par des points lorsque vous les copiez.
 
-\subsubsection{Changer les points en virgule (ou inversement)}
+\subsubsection{Changer les virgules en points (ou inversement)}
 
-Pour changer les points en virgules (ou inversement), dans le menu \texttt{Édition}, choisir \texttt{Rechercher \& remplacer...}
+Parfois il est nécessaire de changer toutes les virgules en points (ou inversement). Pour cela, dans le menu \texttt{Édition}, choisir \texttt{Rechercher} puis \texttt{Remplacer...}
 
-\uneimageici{./images/tableur03/changerVirgule1}{.5\textwidth}
+\uneimageici{./images/tableur03/changerVirgule1_excel_crop}{.35\textwidth}
 
-Dans la boîte de dialogue qui s'ouvre (figure ci-dessous), indiquer le caractère à rechercher \circled{1} (ici le point) et le caractère de remplacement \circled{2} (ici la virgule). Pour terminer, cliquer sur \texttt{Tout remplacer} \circled{3} ce qui aura pour effet de remplacer en une fois tous les points du document.
+Dans la boîte de dialogue qui s'ouvre (figure ci-dessous), indiquer le caractère à rechercher \circled{1} (ici la virgule) et le caractère de remplacement \circled{2} (ici le point). Pour terminer, cliquer sur \texttt{Remplacer tout} \circled{3} ce qui aura pour effet de remplacer en une fois tous les points du document.
 
-\vspace{6pt}
+\emph{Remarque : en cliquant sur \texttt{Remplacer}, une confirmation est demandée avant le remplacement de chaque point.}
 
-\emph{Remarque : en cliquant sur \texttt{Remplacer} au lien de \texttt{Tout remplacer}, une confirmation est demandée avant chaque remplacement de point.}
-
-\uneimageici{./images/tableur03/changerVirgule2}{.7\textwidth}
-
-La boîte qui s'ouvre alors indique tous les changements effectués. Pour terminer, cliquer sur \texttt{Fermer}.
-
-\uneimageici{./images/tableur03/changerVirgule3}{.35\textwidth}
+\uneimageici{./images/tableur03/changerVirgule2_excel_crop}{.8\textwidth}
 
 
 \subsection{Importer un fichier au format \texttt{CSV}}\index{Calc!Importer un fichier CSV}\index{Importer un fichier CSV (Calc)}\index{CSV : importer un fichier (Calc)}\label{Calc3fichierCSV}
@@ -98,12 +93,15 @@ Le format de fichier \texttt{CSV} (pour \emph{Comma-Separated Values}) est un fo
 
 \vspace{1em}
 
-Pour ouvrir sous \emph{LibreOffice Calc} un fichier au format \texttt{CSV}, dans le menu \texttt{Fichier} choisir \texttt{Ouvrir} et sélectionner le fichier \texttt{CSV} à ouvrir. Une boîte de dialogue s'ouvre alors (figure ci-dessous). Normalement les options par défaut conviennent. Vérifier visuellement dans la partie basse de la fenêtre (zone \circled{1} sur la figure à gauche ci-dessous) que les données sont bien positionnées dans les colonnes. Si nécessaire, modifier le type de séparateur (zone \circled{2}). Une fois terminé, cliquer sur le bouton \texttt{OK}. 
-Les données contenues dans le fichier \texttt{CSV} sont alors importées dans la feuille de calcul en cours (figure à droite ci-dessous).
+Pour ouvrir sous \emph{Excel} un fichier au format \texttt{CSV}, dans le menu \texttt{Fichier} \circled{1} choisir \texttt{Importer}. \circled{2} Dans la fenêtre qui s'ouvre, choisir \texttt{Fichier CSV} \circled{3}, puis \texttt{Importer}. \circled{4}
 
-\deuximagesGPici{./images/tableur03/ImportCSV1}{\textwidth}%
-		{./images/tableur03/ImportCSV2}{.8\textwidth}
+\deuximagesGPici{./images/tableur03/ImportCSV1_Excel_crop}{\textwidth}%
+{./images/tableur03/ImportCSV2_Excel_crop}{.8\textwidth}
 
+Dans la fenêtre suivante, choisir le fichier à importer et cliquer sur \texttt{Obtenir les données}. Une boîte de dialogue s'ouvre alors (figure ci-dessous). Normalement les options par défaut conviennent. La fenêtre suivante vous demande de sélectionner quels éléments séparent les valeurs. \circled{1} Dans cet exemple, il s'agit des virgules, il faut donc cocher la case correspondante. La case \texttt{Tabulation} détecte les espaces longs établis avec la touche tabulation ("TAB"). On peut la laisser sélectionnée pour la plupart des documents \texttt{CSV}. L'espace en bas donne un aperçu des données en tenant compte des séparateurs sélectionnés. \circled{2} Vérifiez bien que les colonnes sont celles que vous avez prévues d'exploiter, puis sélectionnez \texttt{Suivant >}. La dernière fenêtre vous permet de choisir le format des cellules que vous importez. Laissez \texttt{Général} coché et terminez l'importation en cliquant sur \texttt{Fin}, en bas à droite.
+
+\deuximagesGPici{./images/tableur03/ImportCSV3_Excel_crop}{\textwidth}%
+		{./images/tableur03/ImportCSV4_Excel_crop}{.8\textwidth}
 
 \textbf{Attention !} En fonction du paramétrage de votre système, il faut parfois transformer les points en virgules (ou inversement) pour que les valeurs importées soient reconnues comme des nombres (se reporter au paragraphe \vref{Calc3sepDec}).
 
@@ -113,49 +111,49 @@ Les données contenues dans le fichier \texttt{CSV} sont alors importées dans l
 
 Lors d'une recopie incrémentale, c'est-à-dire lorsqu'on «\,tire\,» une formule comme montré en \circled{1} sur la figure ci-dessous à l'aide du coin de la cellule \circled{2}, la formule est adaptée ligne après ligne. On dit que la référence de la cellule est \emph{variable}. Pour comprendre il faut bien observer ce qu'il se passe sur les deux figures suivantes.
 
-\uneimageici{./images/tableur03/RefFixeVariable1}{.8\textwidth}
+\uneimageici{./images/tableur03/RefFixeVariable1_Excel_crop}{.8\textwidth}
 
-La formule à copier est \texttt{(B4*B3+C4*C3+D4*D3)/(SOMME(B3:D3))} : elle permet de calculer la moyenne de l'élève en tenant compte des coefficients contenus dans les cellules \texttt{B3} à \texttt{D3}.
+La formule à copier est \texttt{=(B3*B2+C3*C2+D3*D2)/SOMME(B2:D2)} : elle permet de calculer la moyenne de l'élève en tenant compte des coefficients contenus dans les cellules \texttt{B2} à \texttt{D2}.
 
-Lorsqu'on va copier la formule il faut donc que \texttt{B3}, \texttt{C3} et \texttt{D3} restent les références des cellules contenant les coefficients. Cependant, lors d'une recopie incrémentale si on ne prend pas des précautions on obtient la formule \texttt{(B5*\underline{B4}+C5*\underline{C4}+D5*\underline{D4})/(SOMME(\underline{B4}:\underline{D4}))}, ce qui est faux ! Les cellules contenant les coefficients ne sont plus les bonnes (figure ci-dessous).
+Lorsqu'on va copier la formule il faut donc que \texttt{B2}, \texttt{C2} et \texttt{D2} restent les références des cellules contenant les coefficients. Cependant, lors d'une recopie incrémentale si on ne prend pas des précautions on obtient la formule \texttt{(B4*\underline{B3}+C4*\underline{C3}+D4*\underline{D3})/(SOMME(\underline{B3}:\underline{D3}))}, ce qui est faux ! Les cellules contenant les coefficients ne sont plus les bonnes (figure ci-dessous).
 
-\uneimageici{./images/tableur03/RefFixeVariable2}{.8\textwidth}
+\uneimageici{./images/tableur03/RefFixeVariable2_Excel_crop}{.8\textwidth}
 
-Comment éviter ce problème lors de la recopie incrémentale ? Il faut simplement ajouter un signe \texttt{\$} devant le numéro des cellules des coefficients afin de préciser au tableur que lors de la recopie, ces numéros de cellules ne doivent pas être modifiés. La formule que l'on doit entrer en \texttt{E4} est donc la suivante :
+Comment éviter ce problème lors de la recopie incrémentale ? Il faut simplement ajouter un signe \texttt{\$} devant le numéro des cellules des coefficients afin de préciser au tableur que lors de la recopie, ces numéros de cellules ne doivent pas être modifiés. La formule que l'on doit entrer en \texttt{E3} est donc la suivante :
 
-\begin{center}\texttt{(B4*\underline{B\$3}+C4*\underline{C\$3}+D4*\underline{D\$3})/(SOMME(\underline{B\$3}:\underline{D\$3}))}\end{center}
+\begin{center}\texttt{(B3*\underline{B\$2}+C3*\underline{C\$2}+D3*\underline{D\$2})/(SOMME(\underline{B\$2}:\underline{D\$2}))}\end{center}
 
 On dit que la référence des cellules est \emph{fixe}. Elle ne sera plus modifiée par recopie (voir figure ci-dessous).
 
-\uneimageici{./images/tableur03/RefFixeVariable3}{.95\textwidth}
+\uneimageici{./images/tableur03/RefFixeVariable3_Excel_crop}{.95\textwidth}
 
 Maintenant lors de la recopie incrémentale les cellules contenant les coefficients ne sont pas modifiées (voir figure ci-dessous). Les moyennes sont maintenant justes !
 
-\uneimageici{./images/tableur03/RefFixeVariable4}{.8\textwidth}
-
+\uneimageici{./images/tableur03/RefFixeVariable4_Excel_crop}{.8\textwidth}
 
 Remarque : selon le même principe, il est possible de fixer la lettre de référence de la cellule. Ainsi, on peut écrire :
 
 \begin{itemize}
-\item \texttt{\$B3} qui donnera par recopie incrémentale vers la droite \texttt{\$B4} puis \texttt{\$B5}, etc.
-\item \texttt{\$B\$3} qui donnera par recopie incrémentale \texttt{B3} dans toutes les directions.
+\item \texttt{\$B3} qui donnera par recopie incrémentale vers la droite \texttt{\$B3}, mais deviendra par recopie incrémentale vers le bas \texttt{\$B4} puis \texttt{\$B5}, etc.
+\item \texttt{\$B\$3} qui donnera par recopie incrémentale \texttt{\$B\$3} dans toutes les directions.
 \end{itemize}
 
 \subsection{Trier des données}\index{Calc!Trier des données}\index{Trier des données (Calc)}\label{Calc3tri} 
 
-Dans un tableur, il est possible de trier les données contenues dans une feuille de calcul. Considérons par exemple une liste d'élèves, leur classe, leur moyenne annuelle et leur état de promotion. La première étape est de sélectionner les données que l'on souhaite trier, comme montré sur la figure ci-dessous (ici on sélectionne tout, donc le trie s'effectue sur toute la feuille, mais il est également possible de ne trier qu'une partie de la feuille). Dans le menu \texttt{Données} choisir alors \texttt{Trier...}
+Dans un tableur, il est possible de trier les données contenues dans une feuille de calcul. Considérons par exemple une liste d'élèves, leur classe, leur moyenne annuelle et leur état de promotion. La première étape est de sélectionner les données que l'on souhaite trier, comme montré sur la figure ci-dessous \circled{1} (ici on sélectionne tout, donc le tri s'effectue sur toute la feuille, mais il est également possible de ne trier qu'une partie de la feuille). Dans le menu \texttt{Données} \circled{2} choisir alors \texttt{Trier...} \circled{3}.
 
-\uneimageici{./images/tableur03/TrierFiltrer1}{.6\textwidth}
+\uneimageici{./images/tableur03/TrierFiltrer1_Excel_crop}{.6\textwidth}
 
-Dans la boîte de dialogue qui s'ouvre, il faut choisir les critères de tri que l'on nomme \texttt{clé de tri}. Par exemple, comme montré au \circled{1} sur la figure à gauche ci-dessous, on peut demander de trier la colonne \texttt{Nom} (colonne qui contient les noms de famille des élèves). On peut également préciser \circled{2} si le tri doit être croissant (de A à Z) ou décroissant (de Z à A). En cliquant sur le bouton \texttt{OK}, la feuille de calcul est modifiée : les élèves sont maintenant triés par nom (figure à droite ci-dessous).
+Dans la boîte de dialogue qui s'ouvre, il faut choisir en fonction de quelle colonne on effectue le tri. Par exemple, comme montré au \circled{1} sur la figure à gauche ci-dessous, on peut demander de trier la colonne \texttt{Nom} (colonne qui contient les noms de famille des élèves). On peut également préciser \circled{2} si le tri doit être croissant (de A à Z) ou décroissant (de Z à A). En cliquant sur le bouton \texttt{OK}, la feuille de calcul est modifiée : les élèves sont maintenant triés par nom (figure à droite ci-dessous).
 
-\deuximagesici{./images/tableur03/TrierFiltrer2a}{\textwidth}%
-	      {./images/tableur03/TrierFiltrer2b}{\textwidth}
+\deuximagesici{./images/tableur03/TrierFiltrer2a_Excel_crop}{\textwidth}%
+	      {./images/tableur03/TrierFiltrer2b_Excel_crop}{\textwidth}
 
-Il est également possible de trier suivant plusieurs critères : d'abord par classe (\circled{1} sur la figure à gauche ci-dessous), puis par nom \circled{2}. On obtient alors une liste d'élèves triés par classe puis, pour chaque classe, par nom (figure à droite ci-dessous). 
+Il est également possible de trier suivant plusieurs critères. Pour cela, dans la fenêtre dans laquelle on choisit le paramètre de tri, cliquer sur le  \texttt{+} en bas à gauche. Une nouvelle ligne apparaît alors, qui permet de définir un nouveau critère de tri. Dans l'image ci-dessous à droite, on remarque que les élèves sont effectivement classés par classe, puis triès en fonction du nom de famille.
 
-\deuximagesici{./images/tableur03/TrierFiltrer3a}{\textwidth}%
-	      {./images/tableur03/TrierFiltrer3b}{\textwidth}
+\deuximagesici{./images/tableur03/TrierFiltrer3a_Excel_crop}{\textwidth}%
+{./images/tableur03/TrierFiltrer3b_Excel_crop}{\textwidth}
+
 
 % Finalement on laisse tomber les autofitres
 
@@ -176,59 +174,56 @@ Il est également possible de trier suivant plusieurs critères : d'abord par cl
 
 \subsection{Utiliser une condition pour définir le contenu d'une cellule}\index{Calc!Condition dans une cellule}\index{Condition dans une cellule (Calc)}\label{Calc3Condition}
 
-On peut faire afficher dans une cellule un contenu qui dépend de la valeur d'une autre cellule. Dans l'exemple ci-dessous, on va afficher dans la colonne \texttt{promotion} le texte \emph{«\,promu(e)\,»} si la moyenne de l'élève est supérieure ou égale à 10, et \emph{«\,non promu(e)\,»} dans le cas contraire.
+On peut faire afficher dans une cellule un contenu qui dépend de la valeur d'une autre cellule. Par exemple, on va afficher pour chaque élève dans la colonne \texttt{promotion} le texte \emph{«\,promu(e)\,»} si sa moyenne est supérieure ou égale à 10, et \emph{«\,non promu(e)\,»} dans le cas contraire.
 
-\uneimageici{./images/tableur03/condition1}{.5\textwidth}
+Il faut donc entrer une formule dans la première cellule de la colonne \texttt{promotion} : commencer par le signe \texttt{=} puis entrer \texttt{SI(}.
 
-Il faut donc entrer une formule dans la première cellule de la colonne \texttt{promotion} : commencer par le signe \texttt{=} puis entrer \texttt{SI(} comme indiqué sur la figure ci-dessous.
 
-\uneimageici{./images/tableur03/condition2}{.7\textwidth}
-
-La formule que l'on doit entrer est la suivante : \textsl{si le contenu de la cellule} \texttt{D5} \textsl{est} $\geqslant 10$ \textsl{alors afficher «\,promu(e)\,» sinon afficher «\,non promu(e)\,»}. Dans \emph{LibreOffice Calc}, on utilise pour cela la fonction \texttt{SI} qui doit être complétée tout d'abord avec le test à effectuer (ici \texttt{D5} $\geqslant 10$), puis avec la valeur que doit prendre la cellule si le test est vrai (ici «\,promu(e)\,») et enfin la valeur que doit prendre la cellule si le test est faux (ici «\,non promu(e)\,»).
+La formule que l'on doit entrer est la suivante : \textsl{si le contenu de la cellule} \texttt{D2} \textsl{est} $\geqslant 10$ \textsl{alors afficher «\,promu(e)\,» sinon afficher «\,non promu(e)\,»}. Dans \emph{Excel}, on utilise pour cela la fonction \texttt{SI} (en anglais : IF) qui doit être complétée tout d'abord avec le test à effectuer (ici \texttt{D5} $\geqslant 10$), puis avec la valeur que doit prendre la cellule si le test est vrai (ici «\,promu(e)\,») et enfin la valeur que doit prendre la cellule si le test est faux (ici «\,non promu(e)\,»).
 
 \vspace{1em}
 
-Dans le formalisme de \emph{LibreOffice Calc}, cela s'écrit (ne pas oublier les virgules !) :
+Dans le formalisme d'\emph{Excel}, cela s'écrit (ne pas oublier les points-virgules et les guillemets autour des textes !) :
 
 \begin{center}
 \begin{tabular}{ccccccc}
-\texttt{=SI(} & \texttt{D5>=10} & , & \texttt{"promu(e)"} & , & \texttt{"non promu(e)"} & \texttt{)} \\  
+\texttt{=SI(} & \texttt{D2>=10} & ; & \texttt{"promu(e)"} & ; & \texttt{"non promu(e)"} & \texttt{)} \\ 
 Nom de & Test à  & & Valeur de la cellule & & Valeur de la cellule & \\
 la fonction & effectuer & &  si le test est vrai & & si le test est faux & \\  
 \end{tabular}
 \end{center}
 
-\uneimageici{./images/tableur03/condition3}{\textwidth}
+\uneimageici{./images/tableur03/condition3_Excel_crop}{\textwidth}
 
-En appuyant sur la touche \texttt{Entrée}, le résultat de la formule s'affiche. Sur la figure ci-dessous, on voit que Laurence, qui obtient 12,7 de moyenne annuelle, est promue. Il faut alors «\,tirer\,» la formule pour effectuer une recopie incrémentale. Pour cela, tirer la poignée comme montré sur la figure ci-dessous.
+Quand on appuye sur la touche \texttt{Entrée}, le résultat de la formule s'affiche. Sur la figure ci-dessous, on voit que Bruce, qui obtient 18,5 de moyenne annuelle, est promu. Il faut alors «\,tirer\,» la formule pour effectuer une recopie incrémentale. Pour cela, tirer la poignée comme montré sur la figure ci-dessous.
 
-\uneimageici{./images/tableur03/condition4}{.5\textwidth}
+\uneimageici{./images/tableur03/condition4_Excel_crop}{.5\textwidth}
 
-Le résultat est montré sur la figure ci-dessous.
+La figure ci-dessous présente le résultat.
 
-\uneimageici{./images/tableur03/condition5}{.5\textwidth}
+\uneimageici{./images/tableur03/condition5_Excel_crop}{.5\textwidth}
 
 \subsection{Compter le nombre de cellules vérifiant une condition}\index{Calc!Compter le nombre de cellules vérifiant une condition}\index{Compter le nombre de cellules vérifiant une condition (Calc)}\label{Calc3NBSI}
 
-Pour calculer le nombre de cellules qui vérifient une condition donnée, par exemple pour calculer le nombre d'élèves promus, on se place dans la cellule dans laquelle on veut faire afficher le résultat (\texttt{G2} dans l'exemple ci-dessous). On utilise alors la fonction \texttt{NB.SI} qui utilise les paramètres suivants (ne pas oublier les virgules !) :
+Pour calculer le nombre de cellules qui vérifient une condition donnée, par exemple pour calculer le nombre d'élèves promus, on se place dans la cellule dans laquelle on veut faire afficher le résultat (\texttt{G2} dans l'exemple ci-dessous). On utilise alors la fonction \texttt{NB.SI} qui utilise les paramètres suivants (ne pas oublier les points-virgules !) :
 
 
 \begin{center}
 \begin{tabular}{cccccc}
-\texttt{=NB.SI(} & \texttt{D2:D25} & , & \texttt{">=10"} &  &  \texttt{)} \\  
+\texttt{=NB.SI(} & \texttt{D2:D6} & ; & \texttt{">=10"} &  &  \texttt{)} \\  
 Nom de & Plage de cellules  & & condition du test &  & \\
 la fonction & à tester (les moyennes) & &  entre guillemets : " " & & \\  
 \end{tabular}
 \end{center}
 
-\uneimageici{./images/tableur03/NBSI1}{.75\textwidth}
+\uneimageici{./images/tableur03/NBSI1_Excel_crop}{.75\textwidth}
 
 
-\emph{Remarque :} Après avoir écrit \texttt{=NB.SI(} et ouvert la parenthèse, on peut entrer à la main la plage de cellule concernées. On peut également, pour aller plus vite, sélectionner les cellules avec la souris ou en utilisant le clavier, puis continuer la formule en entrant la virgule et enfin la condition.
+\emph{Remarque :} Après avoir écrit \texttt{=NB.SI(} et ouvert la parenthèse, on peut entrer à la main la plage de cellule concernées. On peut également, pour aller plus vite, sélectionner les cellules avec la souris ou en utilisant le clavier, puis continuer la formule en entrant le point-virgule et enfin la condition.
 
 
 
-\subsection{Ajouter la valeur du contenu de plusieurs cellules}\index{Calc!Somme de plusieurs cellules}\index{Somme de plusieurs cellules (Calc)}\label{Calc3Somme}
+\subsection{Additionner le contenu de plusieurs cellules}\index{Calc!Somme de plusieurs cellules}\index{Somme de plusieurs cellules (Calc)}\label{Calc3Somme}
 
 Pour faire la somme des valeurs de plusieurs cellules, on se place dans la cellule dans laquelle on veut afficher le résultat (\texttt{A5} dans l'exemple ci-dessous) et on écrit au clavier \texttt{=SOMME(} puis les cellules à ajouter (séparées par un point-virgule si on les entre une par une ou par \texttt{:} si on donne une plage de plusieurs cellules) avant de refermer la parenthèse, de la manière suivante :
 
@@ -240,25 +235,24 @@ la fonction & à ajouter & \\
 \end{tabular}
 \end{center}
 
-\uneimageici{./images/tableur03/FonctionSomme}{.6\textwidth}
+\uneimageici{./images/tableur03/FonctionSomme_Excel_crop}{.6\textwidth}
 
-\subsection{Fixer une ligne ou une colonne à l'affichage}\index{Calc!Fixer une ligne ou une colonne}\index{Fixer une ligne ou une colonne (Calc)}\label{Calc3fixer} 
+\subsection{Figer une ligne ou une colonne à l'affichage}\index{Calc!Fixer une ligne ou une colonne}\index{Fixer une ligne ou une colonne (Calc)}\label{Calc3fixer} 
 
-Dans les grandes feuilles de calcul, il peut être utile de \emph{fixer} une ligne ou une colonne, c'est-à-dire de faire en sorte qu'une ligne reste en permanence affichée même si on descend dans la feuille de calcul (c'est souvent la ligne contenant le titre des colonnes).
+Dans les grandes feuilles de calcul, il peut être utile de \emph{figer} une ligne ou une colonne, c'est-à-dire de faire en sorte qu'elle reste en permanence affichée même si on descend dans la feuille de calcul (c'est souvent la ligne contenant le titre des colonnes).
 
-\vspace{1em}
+%\vspace{1em}
 
-Pour fixer une ligne, sélectionner la ligne située immédiatement \textbf{au-dessous} de la ligne à fixer, comme montré en \circled{1} sur la figure ci-dessous. Dans le menu \texttt{Affichage}, choisir ensuite \texttt{Fixer lignes et colonnes} (\circled{2}).
+Pour fixer une ligne, aller dans l'onglet \texttt{Affichage} \circled{1} puis cliquer sur \texttt{Figer la ligne supérieure} \circled{2}. Attention : il faut pour cela que la ligne en haut de l'affichage soit la ligne 1. Sinon, Excel va figer une autre ligne!
 
-\uneimageici{./images/tableur03/fixerFenetre1}{.6\textwidth}
+\uneimageici{./images/tableur03/figerFenetre1_Excel_crop}{.8\textwidth}
 
 Le résultat est montré ci-dessous : la ligne 1 de la feuille de calcul est toujours affichée et elle est suivie de... la ligne 440 !
 
-\uneimageici{./images/tableur03/fixerFenetre2}{.4\textwidth}
+\uneimageici{./images/tableur03/figerFenetre2_Excel_crop}{.4\textwidth}
 
 
-\emph{Remarque :} pour faire cesser la fixation d'une ligne, il suffit de repasser par le menu \texttt{Affichage} et déselectionner \texttt{Fixer lignes et colonnes}.
-
+\emph{Remarque :} pour faire cesser la fixation d'une ligne, il suffit de cliquer sur \texttt{Libérer les volats}, situé à côté de là où on a cliqué pour figer la ligne.
 
 
 \subsection{Naviguer dans une grande feuille de calcul}\index{Calc!Naviguer dans une grande feuille}\index{Naviguer dans une grande feuille (Calc)}\index{Déplacements dans une grande feuille de calcul (Calc)}\label{Calc3navigue} 
@@ -275,12 +269,14 @@ La première étape est à chaque fois de se placer sur une cellule de la colonn
 \end{tabular}
 \end{center}
 
+Si on utilise ces touches alors que le curseur se trouve sur une cellule vide, il se déplacera à la place vers la première cellule avec du contenu dans la direction indiquée.
 
 Si de plus on souhaite sélectionner les cellules alors on utilise la touche \texttt{Shift}. Par exemple, pour sélectionner entièrement les nombres contenus dans une grande ligne, on se place sur la première valeur de la ligne puis on appuie sur la combinaison de touches :
 
 \begin{center}
 \includegraphics[scale=1.5]{./images/tableur03/clavierCmd}  + \includegraphics[scale=1.5]{./images/tableur03/clavierShift} + \includegraphics[scale=1.5]{./images/tableur03/clavierRight}
 \end{center}
+
 
 
 %
@@ -298,24 +294,24 @@ Le but de cette séance est de faire le calcul de la moyenne des élèves de 4\u
 
 \vspace{6pt}
 
-À partir du fichier \texttt{ListeEleves\&Notes.csv} fourni par votre enseignant sur la page \emph{Moodle} de votre cours, il faut :
+À partir du fichier \texttt{ListeEleves\&Notes.csv} fourni par votre enseignant sur \emph{Teams}, il faut :
 \begin{itemize}
-\item fixer les cellules pour que la première ligne soit toujours apparente;
-\item trier les données pour donner le meilleur élève de l'établissement, toutes classes confondues. Copier et coller son nom et sa moyenne dans les cellules \texttt{N3} et \texttt{O3};
-\item calculer dans la cellule \texttt{I3}, la moyenne de la première élève de la liste en tenant compte des coefficients qui se trouvent dans les cellules \texttt{E2} à \texttt{H2}.
+\item figer les cellules pour que la première ligne soit toujours apparente;
+\item trier les données pour trouver le meilleur élève de l'établissement, toutes classes confondues. Copier et coller son nom et sa moyenne dans les cellules \texttt{N3} et \texttt{O3};
+\item calculer dans la cellule \texttt{I3} la moyenne de la première élève de la liste en tenant compte des coefficients qui se trouvent dans les cellules \texttt{E2} à \texttt{H2}.
 \item tirer (recopie incrémentale) la formule trouvée pour obtenir la moyenne de tous les élèves (attention aux références variables);
 \item dans la cellule \texttt{J3}, entrer la formule qui indique si l'élève est promu(e) ou redouble (condition sur la moyenne annuelle qui vient d'être calculée dans la colonne \texttt{I} puis tirer cette formule pour tous les élèves) ;
-\item dans la cellule \texttt{K3}, écrire le texte «\,Nombre d'élèves promu(e)s :\,» et dans la cellule \texttt{L3}, entrer la formule qui calcule ce nombre automatiquement;
+\item dans la cellule \texttt{K3}, écrire le texte «\,Nombre d'élèves promus :\,» et dans la cellule \texttt{L3}, entrer la formule qui calcule ce nombre automatiquement;
 \item entrer le texte «\,nb. de redoublants :\,» dans la cellule \texttt{K4} puis tirer la formule entrée en \texttt{L3} dans la cellule \texttt{L4} (attention aux références variables) puis la modifier pour obtenir le nombre de redoublants;
-\item trier les données par classe puis par moyenne pour donner le meilleure élève de chacune des classes (copier et coller le nom de l'élève et sa moyenne générale dans les cellules \texttt{N5} à \texttt{O12};
+\item trier les données par classe puis par moyenne pour donner le meilleur élève de chacune des classes (copier et coller le nom de l'élève et sa moyenne générale dans les cellules \texttt{N5} à \texttt{O12};
 \item trier les élèves par classe puis calculer la moyenne de chacune des classes en utilisant la fonction \texttt{SOMME} pour calculer la somme des notes et \texttt{NB.SI} pour calculer le nombre d'élèves de la classe.
 \end{itemize}
-Une fois la mise en forme terminée, enregistrer le document au format \texttt{ODS} en le nommant à partir de votre nom : \texttt{Nom-Prénom-date.ods} puis rendre ce fichier sur la plateforme \emph{Moodle} à l'endroit indiqué par votre enseignant (si nécessaire, se reporter à la fiche méthode \emph{Remettre un devoir sur Moodle}, section \vref{MoodleRendreDevoir}).
+Une fois la mise en forme terminée, enregistrer le document au format \texttt{.xlsx} en le nommant à partir de votre nom : \texttt{Nom-Prénom-date.ods} puis rendre ce fichier sur \emph{Teams} à l'endroit indiqué par votre enseignant (si nécessaire, se reporter à la fiche méthode \emph{Remettre un devoir sur Teams}).
 } % fin énoncé
 
 \subsection*{Pour aller plus loin...}
-Vous avez appris à utiliser trois fonctions du tableur : \texttt{SI}, \texttt{NB.SI} et \texttt{SOMME}. Mais il en existe beaucoup d'autres qui permettent d'automatiser de très nombreux calculs. Pour les découvrir et découvrir comment les utiliser, vous pouvez utiliser l'\texttt{Assistant Fonction} :
-\uneimageici{./images/tableur03/IconeFonction}{.3\textwidth}
+Vous avez appris à utiliser trois fonctions du tableur : \texttt{SI}, \texttt{NB.SI} et \texttt{SOMME}. Mais il en existe beaucoup d'autres qui permettent d'automatiser de très nombreux calculs. Pour les découvrir et découvrir comment les utiliser, vous pouvez utiliser le \texttt{Concepteur de formules} :
+\uneimageici{./images/tableur03/IconeFonction_Excel_crop}{.3\textwidth}
 
 \begin{itemize}
 \item pour une meilleure lisibilité, utiliser la fonction \texttt{ARRONDI.AU.MULTIPLE} et afficher les moyennes arrondies au centième;
