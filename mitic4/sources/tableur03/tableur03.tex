@@ -1,4 +1,8 @@
-\chapter{Tableur 3}  
+\chapter{Tableur}  
+
+Un tableur est un logiciel qui permet de faire des calculs à partir de tableaux contenant des nombres (les \emph{données}). Un tableur permet également de représenter ces données sous forme de graphiques qui en facilitent généralement la lecture.
+
+\phantom{rien}
 
 {\footnotesize
 \begin{itemize}
@@ -23,6 +27,9 @@
 }% fin du footnotesize
 
 
+
+
+
 \section*{Les années précédentes, vous avez appris...}
 
 Les compétences listées ci-dessous ont été vues en classes de 6\up{e} et de 5\up{e}. Vous en aurez à nouveau besoin pour les activités de cette année. Si nécessaire, reportez-vous aux \emph{Fiches MITIC} des années précédentes pour revoir comment :  
@@ -40,22 +47,259 @@ Les compétences listées ci-dessous ont été vues en classes de 6\up{e} et de 
 \end{itemize}
 
 
-\section{Les outils dont vous aurez besoin}\label{Tableur4eOutils}
- 
-Les nouveaux outils dont vous aurez besoin pour réaliser les trois séances sur le tableur sont décrits ci-dessous :
+
+
+
+%
+%
+%  S  É  A  N  C  E     I
+%
+%
+
+\newpage
+
+\section{Séance 1 : Moyennes avec coefficients (maths)}\label{ficheTableur4e1}
+
+\subsection{Pour bien démarrer...}
+
+Dès que vous avez ouvert un nouveau document dans \emph{Excel}, sauvegardez-le au format Nom-date.xlsx : dans le menu \texttt{Fichier}, choisir \texttt{Enregistrer}. Pendant que vous travaillez, pensez à sauvegarder régulièrement votre travail (raccourci clavier \texttt{Cmd + s}).   
+
+\uneimageici{./images/generales/clavierCmdS}{.4\textwidth}
+
+%\vspace{10pt}
+
+\subsection{L'activité demandée}
+
+\vspace{10pt}
+
+
+\boiteEnonceLarge{%
+Le but de cette séance est de faire le calcul de la moyenne des élèves de 4\up{e} d'un établissement et de donner des informations par classe sur les résultats.
+
+\vspace{6pt}
+
+À partir du fichier \texttt{ListeEleves\&Notes.csv} fourni par votre enseignant sur \emph{Teams}, il faut :
+\begin{itemize}
+\item figer les cellules pour que la première ligne soit toujours apparente;
+\item trier les données pour trouver le meilleur élève de l'établissement, toutes classes confondues. Copier et coller son nom et sa moyenne dans les cellules \texttt{N3} et \texttt{O3};
+\item calculer dans la cellule \texttt{I3} la moyenne de la première élève de la liste en tenant compte des coefficients qui se trouvent dans les cellules \texttt{E2} à \texttt{H2}.
+\item tirer (recopie incrémentale) la formule trouvée pour obtenir la moyenne de tous les élèves (attention aux références variables);
+\item dans la cellule \texttt{J3}, entrer la formule qui indique si l'élève est promu(e) ou redouble (condition sur la moyenne annuelle qui vient d'être calculée dans la colonne \texttt{I} puis tirer cette formule pour tous les élèves) ;
+\item dans la cellule \texttt{K3}, écrire le texte «\,Nombre d'élèves promus :\,» et dans la cellule \texttt{L3}, entrer la formule qui calcule ce nombre automatiquement;
+\end{itemize}
+}
+
+\boiteEnonceLarge{
+\begin{itemize}
+\item entrer le texte «\,nb. de redoublants :\,» dans la cellule \texttt{K4} puis tirer la formule entrée en \texttt{L3} dans la cellule \texttt{L4} (attention aux références variables) puis la modifier pour obtenir le nombre de redoublants;
+\item trier les données par classe puis par moyenne pour donner le meilleur élève de chacune des classes (copier et coller le nom de l'élève et sa moyenne générale dans les cellules \texttt{N5} à \texttt{O12};
+\item trier les élèves par classe puis calculer la moyenne de chacune des classes en utilisant la fonction \texttt{SOMME} pour calculer la somme des notes et \texttt{NB.SI} pour calculer le nombre d'élèves de la classe.
+\end{itemize}
+\vspace{10pt}
+Une fois la mise en forme terminée, enregistrer le document au format \texttt{.xlsx} en le nommant à partir de votre nom : \texttt{Nom-date.ods} puis rendre ce fichier sur \emph{Teams} à l'endroit indiqué par votre enseignant (si nécessaire, se reporter à la fiche méthode \emph{Remettre un devoir sur Teams}).
+} % fin énoncé
+
+\textbf{Pour obtenir de l'aide, rendez-vous à la page \pageref{AideTableur03}}
+
+\section{Pour aller plus loin...}
+Vous avez appris à utiliser trois fonctions du tableur : \texttt{SI}, \texttt{NB.SI} et \texttt{SOMME}. Mais il en existe beaucoup d'autres qui permettent d'automatiser de très nombreux calculs. Pour les découvrir et découvrir comment les utiliser, vous pouvez utiliser le \texttt{Concepteur de formules} :
+\uneimageici{./images/tableur03/IconeFonction_Excel_crop}{\textwidth}
 
 \begin{itemize}
-\item rechercher et remplacer un ou plusieurs caractères, voir section \vref{Calc3sepDec} ;
-\item modifier le séparateur décimal, voir section \vref{Calc3sepDec} ;  
-\item importer un fichier au format \texttt{CSV}, voir section \vref{Calc3fichierCSV} ;
-\item référence variable et référence fixe, voir section \vref{Calc3reference};
-\item trier des données, voir section \vref{Calc3tri} ;
-\item fixer une ligne ou une colonne à l'affichage, voir section \vref{Calc3fixer} ;
-\item utiliser une condition pour définir le contenu d'une cellule, voir section \vref{Calc3Condition} ;
-\item calculer le nombres de cellules vérifiant une condition donnée, voir section \vref{Calc3NBSI} ;
-\item faire la somme du contenu de plusieurs cellules, voir section \vref{Calc3Somme} ;
-\item naviguer dans une grande feuille de calcul, voir section \vref{Calc3navigue}.
-\end{itemize}  
+\item pour une meilleure lisibilité, utiliser la fonction \texttt{ARRONDI.AU.MULTIPLE} et afficher les moyennes arrondies au centième;
+\item calculer la moyenne d'une classe en triant les données par \texttt{classe} puis en utilisant la fonction \texttt{MOYENNE} (déjà vue en 6\up{e}) ; tirer la formule trouvée dans les 7 cellules adjacentes pour obtenir les moyennes des 7 autres classes (attention aux références variables);
+\item calculer la moyenne par classe sans avoir besoin de trier les données en utilisant les fonctions \texttt{NB.SI} et \texttt{SOMME.SI}.
+\end{itemize}
+
+\vfill
+
+%\cadre{Pensez à sauver régulièrement votre travail en appuyant sur \texttt{Cmd + S} ou à partir du menu \texttt{Fichier} en choisissant \texttt{Enregistrer}.
+
+%\uneimageici{./images/generales/clavierCmdS}{.5\textwidth}
+%}
+
+
+
+
+
+
+%
+%
+%  S  É  A  N  C  E     II
+%
+%
+
+
+\pagebreak
+
+\section{Séance 2 : Traitement de données (Sc. physiques)}\label{ficheTableur4e2}
+
+\subsection{Pour bien démarrer...}
+
+Dès que vous avez ouvert un nouveau document dans \emph{Excel}, sauvegardez-le au format Nom-date.xlsx : dans le menu \texttt{Fichier}, choisir \texttt{Enregistrer}. Pendant que vous travaillez, pensez à sauvegarder régulièrement votre travail (raccourci clavier \texttt{Cmd + s}).   
+
+\uneimageici{./images/generales/clavierCmdS}{.4\textwidth}
+
+%\vspace{10pt}
+
+\subsection{L'activité demandée}
+
+\vspace{10pt}
+
+
+\boiteEnonceLarge{%
+Le but de cette séance est de réaliser le traitement de données brutes fournies par la centrale d'acquisition ExAO de l'école. Les données collectées par ExAO sont exportées au format \texttt{CSV} (dans le logiciel \emph{Latis}, menu \texttt{Fichier}, choisir \texttt{Exportation} puis choisir le format de fichier \texttt{CSV}). 
+
+\vspace{6pt}
+
+Le fichier \texttt{CSV} est alors importé dans \emph{Excel} où les données sont traitées selon les consignes données par votre enseignant.
+
+\vspace{6pt}
+
+Une fois votre travail terminé, exporter votre graphique au format PNG en le nommant à partir de votre nom : \texttt{Nom-date.png} puis rendre ce fichier sur \emph{Teams} à l'endroit indiqué par votre enseignant (si nécessaire, se reporter à la fiche méthode \emph{Remettre un devoir sur Teams}).
+}% fin énoncé
+
+
+
+%\cadre{Pensez à sauver régulièrement votre travail en appuyant sur \texttt{Cmd + S} ou à partir du menu \texttt{Fichier} en choisissant \texttt{Enregistrer}.
+
+%\uneimageici{./images/generales/clavierCmdS}{.5\textwidth}
+%}
+
+\textbf{Pour obtenir de l'aide, rendez-vous à la page \pageref{AideTableur03}}
+\vfill
+
+%
+%
+%  S  É  A  N  C  E     III
+%
+%
+
+
+
+%\pagebreak
+
+%\section{Séance 3 : Ressources en eau (géographie)}\label{ficheTableur4e3}
+
+%\boiteEnonceLarge{%
+%Le but de cette séance est de retrouver et calculer des données dans un fichier au format \texttt{CSV} pour étudier les ressources en eau douce sur la planète. Pour cela :
+%\begin{itemize}
+%\item importer un fichier au format \texttt{CSV} dans \emph{LibreOffice Calc} ;
+%\item utiliser le tri de données pour faire apparaître le classement des pays en fonction de différents critères ;
+%\item déterminer à quel groupe les pays appartiennent en fonction de leurs ressources en eau en utilisant la fonction \texttt{SI};
+%\item calculer le nombre de pays appartenant à différents groupes en fonction de leurs ressources en eau, en utilisant la fonction \texttt{NB.SI};
+%\item insérer un diagramme circulaire représentant les ressources en eau des différents groupes.
+%\end{itemize}
+%Une fois la mise en forme terminée, exporter le document au format ODS en le nommant à partir de votre nom : \texttt{Nom-Prénom-date.ods} puis rendre ce fichier sur la plateforme \emph{Moodle} à l'endroit indiqué par votre enseignant (si nécessaire, se reporter à la fiche méthode \emph{Remettre un devoir sur Moodle}, section \vref{MoodleRendreDevoir}).
+%}% fin énoncé
+
+
+%Récupérer sur \emph{Moodle} le fichier nommé \texttt{Geographie\_Eau\_Tableau.csv}, l'ouvrir avec \emph{LibreOffice Calc} et l'enregistrer au format ODS (\texttt{Nom-Prénom-date.ods}). Dans ce fichier, au départ, les pays sont classés par ordre alphabétique.
+
+%\subsection{Ressources en eau des différents pays}
+
+%\subsubsection{Ressources en eau par habitants}
+
+%Pour calculer les ressources en eau (nombre de m\up{3} par habitant\footnote{Un mètre-cube (m\up{3}) correspond à 1000\,litres}), entrer la formule permettant de faire le calcul pour le premier pays dans la cellule \texttt{G2} puis faire une recopie incrémentale de cette formule pour tous les pays.
+
+%\emph{Remarque :} la colonne des ressources en eau donne des valeurs en milliards de m\up{3}. Pour calculer les ressources en eau par habitant en \texttt{m\up{3} par habitant}, il faut multiplier le résultat par $10\up{9}$. Pour cela, on entre dans la cellule la formule suivante : \texttt{=(E2/F2)*10}\texttt{\^}\texttt{9}.
+
+%Trier ensuite les pays en fonction de la ressource en eau par habitant. Indiquer les 5 pays les plus «\,riches\,» en eau et les 5 pays les moins bien dotés par rapport à leur population en faisant un copier/coller de ces pays dans les cellules \texttt{K2} à \texttt{K6} et \texttt{K8} à \texttt{K12}.
+
+%\subsubsection{Ressources en eau par km\up{2}}
+
+%Entrer la formule permettant de faire le calcul des ressources en eau (en m\up{3}) par km\up{2} dans la colonne \texttt{H}.
+
+%Indiquer les 5 pays les plus «\,riches\,» et les 5 pays les moins bien dotés par rapport à leur superficie en faisant un copier/coller de ces pays dans les cellules \texttt{M2} à \texttt{M6} et \texttt{M8} à \texttt{M12}.
+
+
+%\subsubsection{Ressources en eau totales}
+
+%Trier les données du fichier pour identifier les 9 pays qui ont le plus de réserve en eau. Dans une cellule de votre choix, calculer la ressource en eau totale pour tous les pays et dans une autre cellule, la ressource en eau de ces 9 pays. Dans une troisième cellule, calculer le pourcentage d'eau possédée par ces pays (que vous pourrez comparer avec la valeur annoncée dans le document utilisé dans la partie \emph{Pour aller plus loin...}). Attention, pour les calculs des pourcentages, il faudra utiliser une référence fixe (se reporter au \S\ \vref{Calc3reference}).
+
+%\subsection{Ressources en eau, classement des pays en trois groupes}
+
+%Réaliser, dans la colonne \texttt{I}, les classement des pays en fonction du critère suivant : les pays qui disposent de moins de $\numprint{1000}$ m\up{3} d'eau par habitant et par an sont classés dans le groupe des pays \texttt{pauvres en eau}. Les pays ayant entre $\numprint{1000}$ et $\numprint{8000}$ m\up{3} sont classés dans les pays \texttt{Moyennement dotés}. Enfin, les pays ayant plus de $\numprint{8000}$ m\up{3} d'eau par habitant et par an sont classés dans le groupe des pays $\texttt{Riches en eau}$.
+%\begin{enumerate}
+%\item Dans la cellule \texttt{I2}, entrer la condition. Comme il y a trois cas possibles, les trois paramètres de la fonction \texttt{SI} sont les suivants : 
+%  \begin{itemize}
+%    \item le premier paramètre est la première condition : \texttt{G2 < $\numprint{1000}$} ;
+%    \item le deuxième paramètre est la valeur si la première condition est vraie : \texttt{"Pauvre en eau"};
+%    \item le dernier paramètre est la valeur si la première condition est fausse. Ce paramètre va à nouveau être une condition \texttt{SI} qui contient trois paramètres :
+%	\begin{itemize}
+%	  \item le premier paramètre est la deuxième condition : \texttt{G2 < $\numprint{8000}$} ;
+%	  \item le deuxième paramètre est la valeur si la deuxième condition est vraie : \texttt{"Moyennement doté"};
+%	  \item le troisième paramètre est la valeur si la deuxième condition est fausse : \texttt{"Riche en eau"}.
+%	\end{itemize}  
+%  \end{itemize}
+%\item Une fois la formule de la cellule entrée correctement, la tirer vers le bas pour avoir cette formule pour tous les pays.
+%\item Dans la cellule \texttt{I174}, calculer le nombre de pays \emph{«\,Pauvre en eau\,»} en utilisant la fonction \texttt{NB.SI}. Le premier paramètre à entrer est la liste des cellules sur lesquelles on fait le test (\texttt{I2} à \texttt{I172}). Le deuxième est la condition pour compter la cellule : \texttt{"Pauvre en eau"}.
+%\item Modifier la formule entrée dans la cellule \texttt{I174} pour que la liste des cellules sur lesquelles est fait le test ne soit pas modifiée lors d'une recopie incrémentale vers le bas, puis faire une recopie incrémentale de la formule dans les cellules \texttt{I175} et \texttt{I176}. Dans ces deux dernières cellules, modifier la condition pour compter le nombre de pays \texttt{"Moyennement dotés"} et de pays \texttt{"Riche en eau"}.
+%\item Insérer un diagramme circulaire représentant la part des ressources en eau des trois catégories de pays créées.
+%\end{enumerate}
+
+
+
+
+%\subsection{Pour aller plus loin...}
+
+%Pour répondre à la problématique de l'eau, récupérer sur la page \emph{Moodle} de votre cours les fichiers nommés :
+%\begin{itemize}
+%\item \texttt{Tableur3\_Seance3\_Geographie\_Texte\_Eau.txt} et 
+%\item \texttt{Tableur3\_Seance3\_Geographie\_Eau\_Image.jpg}
+%\end{itemize}
+
+%\vspace{6pt}
+
+%Mettre en forme le fichier texte pour obtenir le résultat ci-dessous qui comprend :
+%\begin{itemize}
+%\item le titre dans l'en-tête de la première page;
+%\item une note de bas de page sur le titre pour indiquer la source du document;
+%\item un sommaire automatique (donc l'utilisation de style de paragraphe pour les titres);
+%\item des puces en plusieurs endroits ;
+%\item une image avec adaptation du texte ; 
+%\item la numérotation des pages dans le pied de page avec un champ.
+%\end{itemize}
+
+%\begin{center}
+%\includegraphics[width=0.65\textwidth]{./images/tableur03/Geographie_Texte_Eau_Page1}
+%\end{center}
+
+%\vspace{-4em}
+
+
+
+%\cadre{Pensez à sauver régulièrement votre travail en appuyant sur \texttt{Cmd + S} ou à partir du menu \texttt{Fichier} en choisissant \texttt{Enregistrer}.
+
+%\uneimageici{./images/generales/clavierCmdS}{.25\textwidth}
+%}
+
+
+
+
+%
+%
+%  AIDES
+%
+%
+
+\pagebreak
+
+\section{Aide pour réaliser les activités}\label{AideTableur03}
+
+Les nouveaux outils dont vous aurez besoin pour réaliser les séances sur le tableur sont décrits ci-dessous:
+\begin{itemize}
+	\item séparateur décimal, voir section \ref{Calc3sepDec} ;
+	\item importer un fichier au format \texttt{CSV}, voir section \ref{Calc3fichierCSV}, page \pageref{Calc3fichierCSV} ;
+	\item référence variable et référence fixe, voir section \ref{Calc3reference}, page \pageref{Calc3reference} ;
+	\item trier des données, voir section \ref{Calc3tri}, page \pageref{Calc3tri} ;
+	\item utiliser une condition pour définir le contenu d'une cellule, voir section \ref{Calc3Condition}, page \pageref{Calc3Condition} ;
+	\item compter le nombre de cellules vérifiant une condition, voir section \ref{Calc3NBSI}, page \pageref{Calc3NBSI} ;
+	\item additionner le contenu de plusieurs cellules, voir section \ref{Calc3Somme}, page \pageref{Calc3Somme} ;
+	\item figer une ligne ou une colonne à l'affichage, voir section \ref{Calc3fixer}, page \pageref{Calc3fixer} ;
+	\item naviguer dans une grande feuille de calcul, voir section \ref{Calc3navigue}, page \pageref{Calc3navigue}.
+\end{itemize}
+
 
 
 
@@ -78,7 +322,7 @@ Avant de faire une activité sur Excel, pensez à vérifier si le séparateur d�
 
 Parfois il est nécessaire de changer toutes les virgules en points (ou inversement). Pour cela, dans le menu \texttt{Édition}, choisir \texttt{Rechercher} puis \texttt{Remplacer...}
 
-\uneimageici{./images/tableur03/changerVirgule1_excel_crop}{.35\textwidth}
+\uneimageici{./images/tableur03/changerVirgule1_excel_crop}{.8\textwidth}
 
 Dans la boîte de dialogue qui s'ouvre (figure ci-dessous), indiquer le caractère à rechercher \circled{1} (ici la virgule) et le caractère de remplacement \circled{2} (ici le point). Pour terminer, cliquer sur \texttt{Remplacer tout} \circled{3} ce qui aura pour effet de remplacer en une fois tous les points du document.
 
@@ -95,13 +339,13 @@ Le format de fichier \texttt{CSV} (pour \emph{Comma-Separated Values}) est un fo
 
 Pour ouvrir sous \emph{Excel} un fichier au format \texttt{CSV}, dans le menu \texttt{Fichier} \circled{1} choisir \texttt{Importer}. \circled{2} Dans la fenêtre qui s'ouvre, choisir \texttt{Fichier CSV} \circled{3}, puis \texttt{Importer}. \circled{4}
 
-\deuximagesGPici{./images/tableur03/ImportCSV1_Excel_crop}{\textwidth}%
-{./images/tableur03/ImportCSV2_Excel_crop}{.8\textwidth}
+\deuximagesGPici{./images/tableur03/ImportCSV1_Excel_crop}{.8\textwidth}%
+{./images/tableur03/ImportCSV2_Excel_crop}{\textwidth}
 
 Dans la fenêtre suivante, choisir le fichier à importer et cliquer sur \texttt{Obtenir les données}. Une boîte de dialogue s'ouvre alors (figure ci-dessous). Normalement les options par défaut conviennent. La fenêtre suivante vous demande de sélectionner quels éléments séparent les valeurs. \circled{1} Dans cet exemple, il s'agit des virgules, il faut donc cocher la case correspondante. La case \texttt{Tabulation} détecte les espaces longs établis avec la touche tabulation ("TAB"). On peut la laisser sélectionnée pour la plupart des documents \texttt{CSV}. L'espace en bas donne un aperçu des données en tenant compte des séparateurs sélectionnés. \circled{2} Vérifiez bien que les colonnes sont celles que vous avez prévues d'exploiter, puis sélectionnez \texttt{Suivant >}. La dernière fenêtre vous permet de choisir le format des cellules que vous importez. Laissez \texttt{Général} coché et terminez l'importation en cliquant sur \texttt{Fin}, en bas à droite.
 
-\deuximagesGPici{./images/tableur03/ImportCSV3_Excel_crop}{\textwidth}%
-		{./images/tableur03/ImportCSV4_Excel_crop}{.8\textwidth}
+\deuximagesGPici{./images/tableur03/ImportCSV3_Excel_crop}{.666667\textwidth}%
+{./images/tableur03/ImportCSV4_Excel_crop}{\textwidth}
 
 \textbf{Attention !} En fonction du paramétrage de votre système, il faut parfois transformer les points en virgules (ou inversement) pour que les valeurs importées soient reconnues comme des nombres (se reporter au paragraphe \vref{Calc3sepDec}).
 
@@ -125,7 +369,7 @@ Comment éviter ce problème lors de la recopie incrémentale ? Il faut simpleme
 
 On dit que la référence des cellules est \emph{fixe}. Elle ne sera plus modifiée par recopie (voir figure ci-dessous).
 
-\uneimageici{./images/tableur03/RefFixeVariable3_Excel_crop}{.95\textwidth}
+\uneimageici{./images/tableur03/RefFixeVariable3_Excel_crop}{.8\textwidth}
 
 Maintenant lors de la recopie incrémentale les cellules contenant les coefficients ne sont pas modifiées (voir figure ci-dessous). Les moyennes sont maintenant justes !
 
@@ -134,20 +378,20 @@ Maintenant lors de la recopie incrémentale les cellules contenant les coefficie
 Remarque : selon le même principe, il est possible de fixer la lettre de référence de la cellule. Ainsi, on peut écrire :
 
 \begin{itemize}
-\item \texttt{\$B3} qui donnera par recopie incrémentale vers la droite \texttt{\$B3}, mais deviendra par recopie incrémentale vers le bas \texttt{\$B4} puis \texttt{\$B5}, etc.
-\item \texttt{\$B\$3} qui donnera par recopie incrémentale \texttt{\$B\$3} dans toutes les directions.
+	\item \texttt{\$B3} qui donnera par recopie incrémentale vers la droite \texttt{\$B3}, mais deviendra par recopie incrémentale vers le bas \texttt{\$B4} puis \texttt{\$B5}, etc.
+	\item \texttt{\$B\$3} qui donnera par recopie incrémentale \texttt{\$B\$3} dans toutes les directions.
 \end{itemize}
 
 \subsection{Trier des données}\index{Calc!Trier des données}\index{Trier des données (Calc)}\label{Calc3tri} 
 
 Dans un tableur, il est possible de trier les données contenues dans une feuille de calcul. Considérons par exemple une liste d'élèves, leur classe, leur moyenne annuelle et leur état de promotion. La première étape est de sélectionner les données que l'on souhaite trier, comme montré sur la figure ci-dessous \circled{1} (ici on sélectionne tout, donc le tri s'effectue sur toute la feuille, mais il est également possible de ne trier qu'une partie de la feuille). Dans le menu \texttt{Données} \circled{2} choisir alors \texttt{Trier...} \circled{3}.
 
-\uneimageici{./images/tableur03/TrierFiltrer1_Excel_crop}{.6\textwidth}
+\uneimageici{./images/tableur03/TrierFiltrer1_Excel_crop}{.7\textwidth}
 
 Dans la boîte de dialogue qui s'ouvre, il faut choisir en fonction de quelle colonne on effectue le tri. Par exemple, comme montré au \circled{1} sur la figure à gauche ci-dessous, on peut demander de trier la colonne \texttt{Nom} (colonne qui contient les noms de famille des élèves). On peut également préciser \circled{2} si le tri doit être croissant (de A à Z) ou décroissant (de Z à A). En cliquant sur le bouton \texttt{OK}, la feuille de calcul est modifiée : les élèves sont maintenant triés par nom (figure à droite ci-dessous).
 
 \deuximagesici{./images/tableur03/TrierFiltrer2a_Excel_crop}{\textwidth}%
-	      {./images/tableur03/TrierFiltrer2b_Excel_crop}{\textwidth}
+{./images/tableur03/TrierFiltrer2b_Excel_crop}{\textwidth}
 
 Il est également possible de trier suivant plusieurs critères. Pour cela, dans la fenêtre dans laquelle on choisit le paramètre de tri, cliquer sur le  \texttt{+} en bas à gauche. Une nouvelle ligne apparaît alors, qui permet de définir un nouveau critère de tri. Dans l'image ci-dessous à droite, on remarque que les élèves sont effectivement classés par classe, puis triès en fonction du nom de famille.
 
@@ -169,7 +413,7 @@ Il est également possible de trier suivant plusieurs critères. Pour cela, dans
 
 
 
- 
+
 
 
 \subsection{Utiliser une condition pour définir le contenu d'une cellule}\index{Calc!Condition dans une cellule}\index{Condition dans une cellule (Calc)}\label{Calc3Condition}
@@ -186,14 +430,14 @@ La formule que l'on doit entrer est la suivante : \textsl{si le contenu de la ce
 Dans le formalisme d'\emph{Excel}, cela s'écrit (ne pas oublier les points-virgules et les guillemets autour des textes !) :
 
 \begin{center}
-\begin{tabular}{ccccccc}
-\texttt{=SI(} & \texttt{D2>=10} & ; & \texttt{"promu(e)"} & ; & \texttt{"non promu(e)"} & \texttt{)} \\ 
-Nom de & Test à  & & Valeur de la cellule & & Valeur de la cellule & \\
-la fonction & effectuer & &  si le test est vrai & & si le test est faux & \\  
-\end{tabular}
+	\begin{tabular}{ccccccc}
+		\texttt{=SI(} & \texttt{D2>=10} & ; & \texttt{"promu(e)"} & ; & \texttt{"non promu(e)"} & \texttt{)} \\ 
+		Nom de & Test à  & & Valeur de la cellule & & Valeur de la cellule & \\
+		la fonction & effectuer & &  si le test est vrai & & si le test est faux & \\  
+	\end{tabular}
 \end{center}
 
-\uneimageici{./images/tableur03/condition3_Excel_crop}{\textwidth}
+\uneimageici{./images/tableur03/condition3_Excel_crop}{.5\textwidth}
 
 Quand on appuye sur la touche \texttt{Entrée}, le résultat de la formule s'affiche. Sur la figure ci-dessous, on voit que Bruce, qui obtient 18,5 de moyenne annuelle, est promu. Il faut alors «\,tirer\,» la formule pour effectuer une recopie incrémentale. Pour cela, tirer la poignée comme montré sur la figure ci-dessous.
 
@@ -209,11 +453,11 @@ Pour calculer le nombre de cellules qui vérifient une condition donnée, par ex
 
 
 \begin{center}
-\begin{tabular}{cccccc}
-\texttt{=NB.SI(} & \texttt{D2:D6} & ; & \texttt{">=10"} &  &  \texttt{)} \\  
-Nom de & Plage de cellules  & & condition du test &  & \\
-la fonction & à tester (les moyennes) & &  entre guillemets : " " & & \\  
-\end{tabular}
+	\begin{tabular}{cccccc}
+		\texttt{=NB.SI(} & \texttt{D2:D6} & ; & \texttt{">=10"} &  &  \texttt{)} \\  
+		Nom de & Plage de cellules  & & condition du test &  & \\
+		la fonction & à tester (les moyennes) & &  entre guillemets : " " & & \\  
+	\end{tabular}
 \end{center}
 
 \uneimageici{./images/tableur03/NBSI1_Excel_crop}{.75\textwidth}
@@ -228,14 +472,14 @@ la fonction & à tester (les moyennes) & &  entre guillemets : " " & & \\
 Pour faire la somme des valeurs de plusieurs cellules, on se place dans la cellule dans laquelle on veut afficher le résultat (\texttt{A5} dans l'exemple ci-dessous) et on écrit au clavier \texttt{=SOMME(} puis les cellules à ajouter (séparées par un point-virgule si on les entre une par une ou par \texttt{:} si on donne une plage de plusieurs cellules) avant de refermer la parenthèse, de la manière suivante :
 
 \begin{center}
-\begin{tabular}{ccc}
-\texttt{=SOMME(} & \texttt{A1:A4} &   \texttt{)} \\  
-Nom de & Plage de cellules  & \\
-la fonction & à ajouter & \\  
-\end{tabular}
+	\begin{tabular}{ccc}
+		\texttt{=SOMME(} & \texttt{A1:A4} &   \texttt{)} \\  
+		Nom de & Plage de cellules  & \\
+		la fonction & à ajouter & \\  
+	\end{tabular}
 \end{center}
 
-\uneimageici{./images/tableur03/FonctionSomme_Excel_crop}{.6\textwidth}
+\uneimageici{./images/tableur03/FonctionSomme_Excel_crop}{.4\textwidth}
 
 \subsection{Figer une ligne ou une colonne à l'affichage}\index{Calc!Fixer une ligne ou une colonne}\index{Fixer une ligne ou une colonne (Calc)}\label{Calc3fixer} 
 
@@ -261,12 +505,12 @@ Pour se déplacer rapidement dans les grandes feuilles de calculs, le plus simpl
 La première étape est à chaque fois de se placer sur une cellule de la colonne ou de la ligne dans laquelle on veut se déplacer. On peut alors se déplacer très rapidement en appuyant sur les combinaisons de touches suivantes :
 
 \begin{center}
-\begin{tabular}{ll}
-\textsl{Aller tout en bas d'une colonne} & \includegraphics[width=4cm]{./images/tableur03/clavierCmDdown} \\     
-\textsl{Aller tout en haut d'une colonne} & \includegraphics[width=4cm]{./images/tableur03/clavierCmDup} \\  
-\textsl{Aller à la fin d'une ligne} & \includegraphics[width=4cm]{./images/tableur03/clavierCmDright} \\  
-\textsl{Aller au début d'une ligne} & \includegraphics[width=4cm]{./images/tableur03/clavierCmDleft} \\  
-\end{tabular}
+	\begin{tabular}{ll}
+		\textsl{Aller tout en bas d'une colonne} & \includegraphics[width=4cm]{./images/tableur03/clavierCmDdown} \\     
+		\textsl{Aller tout en haut d'une colonne} & \includegraphics[width=4cm]{./images/tableur03/clavierCmDup} \\  
+		\textsl{Aller à la fin d'une ligne} & \includegraphics[width=4cm]{./images/tableur03/clavierCmDright} \\  
+		\textsl{Aller au début d'une ligne} & \includegraphics[width=4cm]{./images/tableur03/clavierCmDleft} \\  
+	\end{tabular}
 \end{center}
 
 Si on utilise ces touches alors que le curseur se trouve sur une cellule vide, il se déplacera à la place vers la première cellule avec du contenu dans la direction indiquée.
@@ -274,196 +518,5 @@ Si on utilise ces touches alors que le curseur se trouve sur une cellule vide, i
 Si de plus on souhaite sélectionner les cellules alors on utilise la touche \texttt{Shift}. Par exemple, pour sélectionner entièrement les nombres contenus dans une grande ligne, on se place sur la première valeur de la ligne puis on appuie sur la combinaison de touches :
 
 \begin{center}
-\includegraphics[scale=1.5]{./images/tableur03/clavierCmd}  + \includegraphics[scale=1.5]{./images/tableur03/clavierShift} + \includegraphics[scale=1.5]{./images/tableur03/clavierRight}
+	\includegraphics[scale=1.5]{./images/tableur03/clavierCmd}  + \includegraphics[scale=1.5]{./images/tableur03/clavierShift} + \includegraphics[scale=1.5]{./images/tableur03/clavierRight}
 \end{center}
-
-
-
-%
-%
-%  S  É  A  N  C  E     I
-%
-%
-
-\newpage
-
-\section{Séance 1 : Moyennes avec coefficients (maths)}\label{ficheTableur4e1}
-
-\boiteEnonceLarge{%
-Le but de cette séance est de faire le calcul de la moyenne des élèves de 4\up{e} d'un établissement et de donner des informations par classe sur les résultats.
-
-\vspace{6pt}
-
-À partir du fichier \texttt{ListeEleves\&Notes.csv} fourni par votre enseignant sur \emph{Teams}, il faut :
-\begin{itemize}
-\item figer les cellules pour que la première ligne soit toujours apparente;
-\item trier les données pour trouver le meilleur élève de l'établissement, toutes classes confondues. Copier et coller son nom et sa moyenne dans les cellules \texttt{N3} et \texttt{O3};
-\item calculer dans la cellule \texttt{I3} la moyenne de la première élève de la liste en tenant compte des coefficients qui se trouvent dans les cellules \texttt{E2} à \texttt{H2}.
-\item tirer (recopie incrémentale) la formule trouvée pour obtenir la moyenne de tous les élèves (attention aux références variables);
-\item dans la cellule \texttt{J3}, entrer la formule qui indique si l'élève est promu(e) ou redouble (condition sur la moyenne annuelle qui vient d'être calculée dans la colonne \texttt{I} puis tirer cette formule pour tous les élèves) ;
-\item dans la cellule \texttt{K3}, écrire le texte «\,Nombre d'élèves promus :\,» et dans la cellule \texttt{L3}, entrer la formule qui calcule ce nombre automatiquement;
-\item entrer le texte «\,nb. de redoublants :\,» dans la cellule \texttt{K4} puis tirer la formule entrée en \texttt{L3} dans la cellule \texttt{L4} (attention aux références variables) puis la modifier pour obtenir le nombre de redoublants;
-\item trier les données par classe puis par moyenne pour donner le meilleur élève de chacune des classes (copier et coller le nom de l'élève et sa moyenne générale dans les cellules \texttt{N5} à \texttt{O12};
-\item trier les élèves par classe puis calculer la moyenne de chacune des classes en utilisant la fonction \texttt{SOMME} pour calculer la somme des notes et \texttt{NB.SI} pour calculer le nombre d'élèves de la classe.
-\end{itemize}
-Une fois la mise en forme terminée, enregistrer le document au format \texttt{.xlsx} en le nommant à partir de votre nom : \texttt{Nom-Prénom-date.ods} puis rendre ce fichier sur \emph{Teams} à l'endroit indiqué par votre enseignant (si nécessaire, se reporter à la fiche méthode \emph{Remettre un devoir sur Teams}).
-} % fin énoncé
-
-\subsection*{Pour aller plus loin...}
-Vous avez appris à utiliser trois fonctions du tableur : \texttt{SI}, \texttt{NB.SI} et \texttt{SOMME}. Mais il en existe beaucoup d'autres qui permettent d'automatiser de très nombreux calculs. Pour les découvrir et découvrir comment les utiliser, vous pouvez utiliser le \texttt{Concepteur de formules} :
-\uneimageici{./images/tableur03/IconeFonction_Excel_crop}{.3\textwidth}
-
-\begin{itemize}
-\item pour une meilleure lisibilité, utiliser la fonction \texttt{ARRONDI.AU.MULTIPLE} et afficher les moyennes arrondies au centième;
-\item calculer la moyenne d'une classe en triant les données par \texttt{classe} puis en utilisant la fonction \texttt{MOYENNE} (déjà vue en 6\up{e}) ; tirer la formule trouvée dans les 7 cellules adjacentes pour obtenir les moyennes des 7 autres classes (attention aux références variables);
-\item calculer la moyenne par classe sans avoir besoin de trier les données en utilisant les fonctions \texttt{NB.SI} et \texttt{SOMME.SI}.
-\end{itemize}
-
-\vfill
-
-\cadre{Pensez à sauver régulièrement votre travail en appuyant sur \texttt{Cmd + S} ou à partir du menu \texttt{Fichier} en choisissant \texttt{Enregistrer}.
-
-\uneimageici{./images/generales/clavierCmdS}{.5\textwidth}
-}
-
-
-
-
-%
-%
-%  S  É  A  N  C  E     II
-%
-%
-
-
-\pagebreak
-
-\section{Séance 2 : Traitement de données (Sc. physiques)}\label{ficheTableur4e2}
-
-\boiteEnonceLarge{%
-Le but de cette séance est de réaliser le traitement de données brutes fournies par la centrale d'acquisition ExAO de l'école. Les données collectées par ExAO sont exportées au format \texttt{CSV} (dans le logiciel \emph{Latis}, menu \texttt{Fichier}, choisir \texttt{Exportation} puis choisir le format de fichier \texttt{CSV}). 
-
-\vspace{6pt}
-
-Le fichier \texttt{CSV} est alors importé dans \emph{LibreOffice Calc} où les données sont traitées selon les consignes données par votre enseignant.
-
-\vspace{6pt}
-
-Une fois votre travail terminé, exporter votre graphique au format PNG en le nommant à partir de votre nom : \texttt{Nom-Prénom-date.png} puis rendre ce fichier sur la plateforme \emph{Moodle} à l'endroit indiqué par votre enseignant (si nécessaire, se reporter à la fiche méthode \emph{Remettre un devoir sur Moodle}, section \vref{MoodleRendreDevoir}).
-}% fin énoncé
-
-\vfill
-
-\cadre{Pensez à sauver régulièrement votre travail en appuyant sur \texttt{Cmd + S} ou à partir du menu \texttt{Fichier} en choisissant \texttt{Enregistrer}.
-
-\uneimageici{./images/generales/clavierCmdS}{.5\textwidth}
-}
-
-
-%
-%
-%  S  É  A  N  C  E     III
-%
-%
-
-
-
-\pagebreak
-
-\section{Séance 3 : Ressources en eau (géographie)}\label{ficheTableur4e3}
-
-\boiteEnonceLarge{%
-Le but de cette séance est de retrouver et calculer des données dans un fichier au format \texttt{CSV} pour étudier les ressources en eau douce sur la planète. Pour cela :
-\begin{itemize}
-\item importer un fichier au format \texttt{CSV} dans \emph{LibreOffice Calc} ;
-\item utiliser le tri de données pour faire apparaître le classement des pays en fonction de différents critères ;
-\item déterminer à quel groupe les pays appartiennent en fonction de leurs ressources en eau en utilisant la fonction \texttt{SI};
-\item calculer le nombre de pays appartenant à différents groupes en fonction de leurs ressources en eau, en utilisant la fonction \texttt{NB.SI};
-\item insérer un diagramme circulaire représentant les ressources en eau des différents groupes.
-\end{itemize}
-Une fois la mise en forme terminée, exporter le document au format ODS en le nommant à partir de votre nom : \texttt{Nom-Prénom-date.ods} puis rendre ce fichier sur la plateforme \emph{Moodle} à l'endroit indiqué par votre enseignant (si nécessaire, se reporter à la fiche méthode \emph{Remettre un devoir sur Moodle}, section \vref{MoodleRendreDevoir}).
-}% fin énoncé
-
-
-Récupérer sur \emph{Moodle} le fichier nommé \texttt{Geographie\_Eau\_Tableau.csv}, l'ouvrir avec \emph{LibreOffice Calc} et l'enregistrer au format ODS (\texttt{Nom-Prénom-date.ods}). Dans ce fichier, au départ, les pays sont classés par ordre alphabétique.
-
-\subsection{Ressources en eau des différents pays}
-
-\subsubsection{Ressources en eau par habitants}
-
-Pour calculer les ressources en eau (nombre de m\up{3} par habitant\footnote{Un mètre-cube (m\up{3}) correspond à 1000\,litres}), entrer la formule permettant de faire le calcul pour le premier pays dans la cellule \texttt{G2} puis faire une recopie incrémentale de cette formule pour tous les pays.
-
-\emph{Remarque :} la colonne des ressources en eau donne des valeurs en milliards de m\up{3}. Pour calculer les ressources en eau par habitant en \texttt{m\up{3} par habitant}, il faut multiplier le résultat par $10\up{9}$. Pour cela, on entre dans la cellule la formule suivante : \texttt{=(E2/F2)*10}\texttt{\^}\texttt{9}.
-
-Trier ensuite les pays en fonction de la ressource en eau par habitant. Indiquer les 5 pays les plus «\,riches\,» en eau et les 5 pays les moins bien dotés par rapport à leur population en faisant un copier/coller de ces pays dans les cellules \texttt{K2} à \texttt{K6} et \texttt{K8} à \texttt{K12}.
-
-\subsubsection{Ressources en eau par km\up{2}}
-
-Entrer la formule permettant de faire le calcul des ressources en eau (en m\up{3}) par km\up{2} dans la colonne \texttt{H}.
-
-Indiquer les 5 pays les plus «\,riches\,» et les 5 pays les moins bien dotés par rapport à leur superficie en faisant un copier/coller de ces pays dans les cellules \texttt{M2} à \texttt{M6} et \texttt{M8} à \texttt{M12}.
-
-
-\subsubsection{Ressources en eau totales}
-
-Trier les données du fichier pour identifier les 9 pays qui ont le plus de réserve en eau. Dans une cellule de votre choix, calculer la ressource en eau totale pour tous les pays et dans une autre cellule, la ressource en eau de ces 9 pays. Dans une troisième cellule, calculer le pourcentage d'eau possédée par ces pays (que vous pourrez comparer avec la valeur annoncée dans le document utilisé dans la partie \emph{Pour aller plus loin...}). Attention, pour les calculs des pourcentages, il faudra utiliser une référence fixe (se reporter au \S\ \vref{Calc3reference}).
-
-\subsection{Ressources en eau, classement des pays en trois groupes}
-
-Réaliser, dans la colonne \texttt{I}, les classement des pays en fonction du critère suivant : les pays qui disposent de moins de $\numprint{1000}$ m\up{3} d'eau par habitant et par an sont classés dans le groupe des pays \texttt{pauvres en eau}. Les pays ayant entre $\numprint{1000}$ et $\numprint{8000}$ m\up{3} sont classés dans les pays \texttt{Moyennement dotés}. Enfin, les pays ayant plus de $\numprint{8000}$ m\up{3} d'eau par habitant et par an sont classés dans le groupe des pays $\texttt{Riches en eau}$.
-\begin{enumerate}
-\item Dans la cellule \texttt{I2}, entrer la condition. Comme il y a trois cas possibles, les trois paramètres de la fonction \texttt{SI} sont les suivants : 
-  \begin{itemize}
-    \item le premier paramètre est la première condition : \texttt{G2 < $\numprint{1000}$} ;
-    \item le deuxième paramètre est la valeur si la première condition est vraie : \texttt{"Pauvre en eau"};
-    \item le dernier paramètre est la valeur si la première condition est fausse. Ce paramètre va à nouveau être une condition \texttt{SI} qui contient trois paramètres :
-	\begin{itemize}
-	  \item le premier paramètre est la deuxième condition : \texttt{G2 < $\numprint{8000}$} ;
-	  \item le deuxième paramètre est la valeur si la deuxième condition est vraie : \texttt{"Moyennement doté"};
-	  \item le troisième paramètre est la valeur si la deuxième condition est fausse : \texttt{"Riche en eau"}.
-	\end{itemize}  
-  \end{itemize}
-\item Une fois la formule de la cellule entrée correctement, la tirer vers le bas pour avoir cette formule pour tous les pays.
-\item Dans la cellule \texttt{I174}, calculer le nombre de pays \emph{«\,Pauvre en eau\,»} en utilisant la fonction \texttt{NB.SI}. Le premier paramètre à entrer est la liste des cellules sur lesquelles on fait le test (\texttt{I2} à \texttt{I172}). Le deuxième est la condition pour compter la cellule : \texttt{"Pauvre en eau"}.
-\item Modifier la formule entrée dans la cellule \texttt{I174} pour que la liste des cellules sur lesquelles est fait le test ne soit pas modifiée lors d'une recopie incrémentale vers le bas, puis faire une recopie incrémentale de la formule dans les cellules \texttt{I175} et \texttt{I176}. Dans ces deux dernières cellules, modifier la condition pour compter le nombre de pays \texttt{"Moyennement dotés"} et de pays \texttt{"Riche en eau"}.
-\item Insérer un diagramme circulaire représentant la part des ressources en eau des trois catégories de pays créées.
-\end{enumerate}
-
-
-
-
-\subsection{Pour aller plus loin...}
-
-Pour répondre à la problématique de l'eau, récupérer sur la page \emph{Moodle} de votre cours les fichiers nommés :
-\begin{itemize}
-\item \texttt{Tableur3\_Seance3\_Geographie\_Texte\_Eau.txt} et 
-\item \texttt{Tableur3\_Seance3\_Geographie\_Eau\_Image.jpg}
-\end{itemize}
-
-\vspace{6pt}
-
-Mettre en forme le fichier texte pour obtenir le résultat ci-dessous qui comprend :
-\begin{itemize}
-\item le titre dans l'en-tête de la première page;
-\item une note de bas de page sur le titre pour indiquer la source du document;
-\item un sommaire automatique (donc l'utilisation de style de paragraphe pour les titres);
-\item des puces en plusieurs endroits ;
-\item une image avec adaptation du texte ; 
-\item la numérotation des pages dans le pied de page avec un champ.
-\end{itemize}
-
-\begin{center}
-\includegraphics[width=0.65\textwidth]{./images/tableur03/Geographie_Texte_Eau_Page1}
-\end{center}
-
-\vspace{-4em}
-
-
-
-\cadre{Pensez à sauver régulièrement votre travail en appuyant sur \texttt{Cmd + S} ou à partir du menu \texttt{Fichier} en choisissant \texttt{Enregistrer}.
-
-\uneimageici{./images/generales/clavierCmdS}{.25\textwidth}
-}
-
-
-

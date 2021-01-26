@@ -1,4 +1,6 @@
-\chapter{Programmation Scratch 3}  
+\chapter{Programmation Scratch}  
+
+Les ordinateurs sont des machines qui exécutent des programmes. On peut écrire des programmes dans différents \emph{langages de programmation}, par exemple \emph{Python}, \emph{C++}, \emph{Java}... ou encore \emph{Scratch}.
 
 {\footnotesize
 \begin{itemize}
@@ -49,12 +51,7 @@ Les compétences listées ci-dessous ont été vues en classes de 6\up{e} et de 
 
 
 
-\section*{Passer Scratch en langue française} 
 
-
-Avant de commencer, il faut si nécessaire passer \emph{Scratch} en langue française :
-
-\uneimageici{./images/scratch03/scratchFrancais}{.4\textwidth}
 
 
 
@@ -73,7 +70,26 @@ Avant de commencer, il faut si nécessaire passer \emph{Scratch} en langue fran�
 
 \vspace{6pt}
 
-\boiteEnonceLarge{Le but de cette séance est de découvrir une notion importante en programmation : la notion de \emph{fonction}. Une fonction est une portion de code isolée que l'on peut appeler pour l'exécuter à chaque fois qu'on en a besoin. En \emph{Scratch}, une fonction est créée quand on crée un nouveau bloc. C'est ce que nous allons découvrir lors de cette séance.}
+\subsection{Pour bien démarrer...}
+
+\subsubsection{Passer Scratch en langue française} 
+
+Avant de commencer, il faut si nécessaire passer \emph{Scratch} en langue française :
+
+\uneimageici{./images/scratch03/scratchFrancais}{.4\textwidth}
+
+\subsubsection{Penser à enregitrer régulièrement}
+
+Dès que vous avez ouvert un nouveau programme dans Scratch, sauvegardez-le au format Nom-date.sb3 : dans le menu \texttt{Fichier}, choisir \texttt{Enregistrer}. Pendant que vous travaillez, pensez à sauvegarder régulièrement votre travail (raccourci clavier \texttt{Cmd + s}).   
+
+\uneimageici{./images/generales/clavierCmdS}{.4\textwidth}
+\vfill
+
+\subsection{L'activité demandée}
+
+\vspace{10pt}
+
+\boiteEnonceLarge{Le but de cette séance est de découvrir une notion importante en programmation : la notion de \emph{fonction}. Une fonction est une portion de code isolée que l'on peut appeler pour l'exécuter à chaque fois qu'on en a besoin. En \emph{Scratch}, une fonction est créée quand on crée un nouveau bloc. C'est ce que nous allons découvrir lors de cette séance. Nous allons suivre l'activité pas à pas afin de bien comprendre l'intérêt d'utiliser des fonctions.}
 
 
 \subsection{Créer une ou plusieurs étoiles à 5 branches}
@@ -245,25 +261,33 @@ Définir la fonction \texttt{triangle} contenu dans le script ci-dessous qui per
 
 \section{Séance 2 : Un clone de \emph{Flappy Bird}}\label{ficheScratch4e2}
 
+\subsection{Pour bien démarrer...}
+
+Dès que vous avez ouvert un nouveau programme dans Scratch, sauvegardez-le au format Nom-date.sb3 : dans le menu \texttt{Fichier}, choisir \texttt{Enregistrer}. Pendant que vous travaillez, pensez à sauvegarder régulièrement votre travail (raccourci clavier \texttt{Cmd + s}).   
+
+\uneimageici{./images/generales/clavierCmdS}{.4\textwidth}
+
+\subsection{L'activité demandée}
+
+\vspace{10pt}
 
 \boiteEnonceLarge{Le but de cette séance est de créer un jeu de type \emph{Flappy Bird}. C'est un jeu vidéo d'obstacles développé par Nguyen Hà Dong et sorti en mai 2013 (figure ci-dessous). Selon Wikipedia : \emph{«\,Le gameplay repose sur l'agilité du joueur, qui doit faire avancer un oiseau dans un environnement à défilement horizontal en tapotant sur l'écran tactile, tout en évitant des tuyaux présents en haut et en bas de l'écran. Les règles de jeu sont très simples : lorsque l'oiseau touche un tuyau ou heurte le sol, la partie est terminée.\,»}
 
 \uneimageici{./images/scratch03/flappy/screenshotFlappy}{.6\textwidth}
 
-Le jeu créé ici sera très simple : à vous de l'améliorer pour qu'il ressemble davantage à l'original ou à vos désirs !}
-
-
-\subsection{Création des éléments graphiques}
-
+Le jeu créé ici sera très simple : à vous de l'améliorer pour qu'il ressemble davantage à l'original ou à vos désirs !\\
 
 Que devons-nous faire pour créer un tel jeu ? Première étape : se renseigner pour voir à quoi ressemble le jeu \emph{Flappy Bird}. Il est possible de trouver des vidéos sur \emph{Youtube}.
+Voilà par exemple à quoi pourra ressembler notre clone de \emph{Flappy Bird} : sur la figure ci-dessous à gauche, le jeu en cours d'exécution et à droite lorsque le joueur a perdu.}
 
-Voilà par exemple à quoi pourra ressembler notre clone de \emph{Flappy Bird} : sur la figure ci-dessous à gauche, le jeu en cours d'exécution et à droite lorsque le joueur a perdu.
 
+%\subsection{Création des éléments graphiques}
+
+\boiteEnonceLarge{
 \deuximagesici{./images/scratch03/flappy/screenshotFlappyClone01}{.8\textwidth}%
 	      {./images/scratch03/flappy/screenshotFlappyClone02}{.8\textwidth}
 
-On va utiliser une nouvelle fonctionnalité dans \emph{Scratch} : la création de différents \emph{costumes} pour un \emph{lutin} et la création de différents \emph{arrière-plans} pour une \emph{scène}.
+On va utiliser une nouvelle fonctionnalité dans \emph{Scratch} : la création de différents \emph{costumes} pour un \emph{lutin} et la création de différents \emph{arrière-plans} pour une \emph{scène}.\\
 
 Pour ce jeu il nous faut donc :
 \begin{itemize}
@@ -271,7 +295,7 @@ Pour ce jeu il nous faut donc :
 \item un oiseau (\emph{lutin} \texttt{Oiseau} possédant deux \emph{costumes}) ;
 \item un décor (\emph{scène} possédant deux \emph{arrière-plans} différents). 
 \end{itemize}
-
+\vspace{8pt}
 Voilà les différents éléments (voir plus bas des indications pour leur création) :
 
 \begin{itemize}
@@ -293,8 +317,96 @@ Voilà les différents éléments (voir plus bas des indications pour leur créa
 
 
 \end{itemize}
+}
+
+\textbf{Pour obtenir de l'aide, rendez-vous à la page \pageref{aide_seanceScratch2}}
 
 
+
+\subsection{Pour aller plus loin...}
+
+Pour améliorer ce jeu, il est possible de :
+
+\begin{itemize}
+\item faire en sorte que si l'oiseau touche le sol la partie soit perdue ;
+\item modifier la vitesse de chute de l'oiseau et sa vitesse de remontée ; 
+\item ajouter des vies à l'aide d'une variable (le joueur commence avec trois vies puis en perd une à chaque fois qu'un tuyau ou que le sol est touché) ;
+\item ajouter des sons (début du jeu, arrivée d'un tuyau, mort de l'oiseau, etc.) ;
+\item augmenter le rythme d'apparition des tuyaux ; 
+\item améliorer la qualité des graphiques ;
+\item augmenter le nombre de costumes différents disponibles pour les tuyaux. 
+\end{itemize}
+
+
+
+
+
+
+
+%
+%
+%  S  É  A  N  C  E     III
+%
+%
+
+\newpage
+
+\section{Séance 3 : Tracer une fonction affine}\label{ficheScratch4e3}
+
+\subsection{Pour bien démarrer...}
+
+Dès que vous avez ouvert un nouveau programme dans Scratch, sauvegardez-le au format Nom-date.sb3 : dans le menu \texttt{Fichier}, choisir \texttt{Enregistrer}. Pendant que vous travaillez, pensez à sauvegarder régulièrement votre travail (raccourci clavier \texttt{Cmd + s}).   
+
+\uneimageici{./images/generales/clavierCmdS}{.4\textwidth}
+
+\subsection{L'activité demandée}
+
+\vspace{10pt}
+
+\boiteEnonceLarge{Le but de cette séance est d'utiliser \emph{Scratch} pour réaliser le tracé d'une fonction affine (fonctions mathématiques de la forme $y = a \times x + b$. Cette séance sera moins guidée que les deux précédentes : à vous de mettre en œuvre vos connaissances pour atteindre le but !
+
+Les deux captures d'écran ci-dessous montre l'aspect du projet au moment où une donnée est entrée (figure de gauche) et après le tracer de la fonction (figure de droite).
+
+\deuximagesici{./images/scratch03/traceFx/screenshot1}{\textwidth}%
+	      {./images/scratch03/traceFx/screenshot2}{\textwidth}
+}
+
+ 
+
+%\subsection{Premiers réglages}
+
+\boiteEnonceLarge{
+Pour réaliser cette activité, la première étape consiste à sélectionner la scène et à choisir dans la bibliothèque des arrière-plans celui qui porte le nom \texttt{xy-grid} : il permet d'avoir à l'écran le repère dans lequel la fonction sera tracée.
+
+\vspace{6pt}
+
+Le programme utilise quatre variables qu'il faut créer : $a$ (contient la valeur du coefficient directeur de la droite), $b$ (contient l'ordonnée à l'origine), $x$ (valeur de l'abscisse) et $y$ (valeur de l'image de $x$).
+}
+
+\textbf{Pour obtenir de l'aide, rendez-vous à la page \pageref{aide_seanceScratch3}}
+
+\subsection{Pour aller plus loin...}
+
+Vous avez réussi ? Félicitations !
+
+\vspace{6pt}
+
+Pour améliorer votre programme, vous pouvez :
+
+\begin{itemize}
+\item cacher les variables $x$ et $y$ dont l'affichage à l'écran n'est pas utile ;
+\item modifier la couleur et l'épaisseur du tracé ; 
+\item modifier le programme pour qu'il trace une parabole (fonction de la forme $y=a \; x^2 + b \; x + c$) ;
+\item modifier le programme pour qu'il trace une droite et une parabole. 
+\end{itemize}
+
+
+% AIDE
+\newpage
+
+\section{Aide pour réaliser les activités}
+
+\subsection{Aide pour la séance 2}\label{aide_seanceScratch2}
 
 \subsubsection{Construction des arrière-plans de la scène}
 
@@ -380,7 +492,7 @@ Pour cela, créer un nouveau lutin à dessiner puis dessiner trois costumes diff
 
 
 
-\subsection{Script associé à la scène}
+\subsubsection{Script associé à la scène}
 
 Le script associé à la scène est très simple. C'est lui qui permet de compter les points gagné par le joueur. Le joueur gagne 1 point toutes les 2 secondes de jeu : pour gagner beaucoup de points, il faut donc rester en vie le plus longtemps possible !
 
@@ -399,7 +511,7 @@ On remarquera que la fin n'est jamais atteinte puisqu'une boucle \emph{Répéter
 
 
 
-\subsection{Scripts associés au lutin \texttt{Oiseau}}
+\subsubsection{Scripts associés au lutin \texttt{Oiseau}}
 
 Deux scripts sont associés au lutin \texttt{Oiseau}. Le premier est très simple : il permet de faire «\,remonter\,» l'oiseau lorsque la touche \texttt{Espace} est pressée. Son diagramme \emph{flowchart} est donné ci-dessous.
 
@@ -414,7 +526,7 @@ Le second script (voir page suivante) correspond au cœur du jeu : il permet de 
 \uneimageici{./images/scratch03/flappy/ScriptOiseau2}{.55\textwidth}
 
 
-\subsection{Scripts associés au lutin \texttt{Tuyau}}
+\subsubsection{Scripts associés au lutin \texttt{Tuyau}}
 
 Le premier script à construire permet de créer un clone de tuyau, choisi au hasard parmi les trois costumes du lutin \texttt{Tuyau}. Comme il faut beaucoup de tuyaux en même temps à l'écran, on va créer des \emph{clones} du lutin qui existeront le temps de traverser l'écran de jeu. Les clones sont créés tant que la variable \texttt{JEU} a pour valeur \texttt{OUI}. Le diagramme \emph{flowchart} correspondant est donné ci-dessous :
 
@@ -436,59 +548,11 @@ Il est possible de modifier la vitesse avec laquelle les tuyaux traversent l'éc
 \end{itemize}
 
 
+% SEANCE 3
 
+\subsection{Aide pour la séance 3}\label{aide_seanceScratch3}
 
-
-\subsection{Pour aller plus loin...}
-
-Pour améliorer ce jeu, il est possible de :
-
-\begin{itemize}
-\item faire en sorte que si l'oiseau touche le sol la partie soit perdue ;
-\item modifier la vitesse de chute de l'oiseau et sa vitesse de remontée ; 
-\item ajouter des vies à l'aide d'une variable (le joueur commence avec trois vies puis en perd une à chaque fois qu'un tuyau ou que le sol est touché) ;
-\item ajouter des sons (début du jeu, arrivée d'un tuyau, mort de l'oiseau, etc.) ;
-\item augmenter le rythme d'apparition des tuyaux ; 
-\item améliorer la qualité des graphiques ;
-\item augmenter le nombre de costumes différents disponibles pour les tuyaux. 
-\end{itemize}
-
-
-
-
-
-
-
-%
-%
-%  S  É  A  N  C  E     III
-%
-%
-
-\newpage
-
-\section{Séance 3 : Tracer une fonction affine}\label{ficheScratch4e3}
-
-
-\boiteEnonceLarge{Le but de cette séance est d'utiliser \emph{Scratch} pour réaliser le tracé d'une fonction affine (fonctions mathématiques de la forme $y = a \times x + b$. Cette séance sera moins guidée que les deux précédentes : à vous de mettre en œuvre vos connaissances pour atteindre le but !
-
-Les deux captures d'écran ci-dessous montre l'aspect du projet au moment où une donnée est entrée (figure de gauche) et après le tracer de la fonction (figure de droite).
-
-\deuximagesici{./images/scratch03/traceFx/screenshot1}{\textwidth}%
-	      {./images/scratch03/traceFx/screenshot2}{\textwidth}
-}
-
- 
-
-\subsection{Premiers réglages}
-
-La première étape consiste à sélectionner la scène et à choisir dans la bibliothèque des arrière-plans celui qui porte le nom \texttt{xy-grid} : il permet d'avoir à l'écran le repère dans lequel la fonction sera tracée.
-
-\vspace{6pt}
-
-Le programme utilise quatre variables qu'il faut créer : $a$ (contient la valeur du coefficient directeur de la droite), $b$ (contient l'ordonnée à l'origine), $x$ (valeur de l'abscisse) et $y$ (valeur de l'image de $x$).
-
-\vspace{6pt}
+%\vspace{6pt}
 
 Tous les scripts qui seront écrits concernent le lutin : il faut donc sélectionner celui-ci avant de commencer à programmer.
 
@@ -537,25 +601,6 @@ Ce nouveau bloc est très simple : il range la valeur $a \times x + b$ dans la v
 \uneimageici{./images/scratch03/traceFx/blocTrace}{.2\textwidth} 
 
 Ce nouveau bloc permet de tracer tous les points de la fonction, c'est-à-dire tous les points de coordonnée $(x\,;y)$ où $y=a\times x + b$. Il faut commencer le tracé avec la valeur $x=-240$ (bord gauche de l'écran), puis augmenter la valeur de $x$ de 10 en 10 (inutile de tracer tous les points).
-
-
-\subsection{Pour aller plus loin...}
-
-Vous avez réussi ? Félicitations !
-
-\vspace{6pt}
-
-Pour améliorer votre programme, vous pouvez :
-
-\begin{itemize}
-\item cacher les variables $x$ et $y$ dont l'affichage à l'écran n'est pas utile ;
-\item modifier la couleur et l'épaisseur du tracé ; 
-\item modifier le programme pour qu'il trace une parabole (fonction de la forme $y=a \; x^2 + b \; x + c$) ;
-\item modifier le programme pour qu'il trace une droite et une parabole. 
-\end{itemize}
-
-
-
 
 
 

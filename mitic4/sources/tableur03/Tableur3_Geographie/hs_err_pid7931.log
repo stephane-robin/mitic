@@ -1,0 +1,106 @@
+#
+# A fatal error has been detected by the Java Runtime Environment:
+#
+#  SIGSEGV (0xb) at pc=0x00007f2016b139da, pid=7931, tid=139774449690368
+#
+# JRE version: OpenJDK Runtime Environment (7.0_111-b01) (build 1.7.0_111-b01)
+# Java VM: OpenJDK 64-Bit Server VM (24.111-b01 mixed mode linux-amd64 compressed oops)
+# Derivative: IcedTea 2.6.7
+# Distribution: Debian GNU/Linux 8.5 (jessie), package 7u111-2.6.7-1~deb8u1
+# Problematic frame:
+# C  [libvcllo.so+0x3d19da]  Application::GetSolarMutex()+0xa
+#
+# Failed to write core dump. Core dumps have been disabled. To enable core dumping, try "ulimit -c unlimited" before starting Java again
+#
+# If you would like to submit a bug report, please include
+# instructions on how to reproduce the bug and visit:
+#   http://icedtea.classpath.org/bugzilla
+# The crash happened outside the Java Virtual Machine in native code.
+# See problematic frame for where to report the bug.
+#
+
+---------------  T H R E A D  ---------------
+
+Current thread (0x00007f1fd8013800):  JavaThread "Thread-23" daemon [_thread_in_native, id=9952, stack(0x00007f1fc65c2000,0x00007f1fc66c3000)]
+
+siginfo:si_signo=SIGSEGV: si_errno=0, si_code=1 (SEGV_MAPERR), si_addr=0x0000000000000008
+
+Registers:
+RAX=0x0000000000000000, RBX=0x00000000034ff4e0, RCX=0x00000000064f1240, RDX=0x00007f201b344648
+RSP=0x00007f1fc66c14d8, RBP=0x0000000000000000, RSI=0x00000000ffffffff, RDI=0x0000000000000000
+R8 =0x0000000000000000, R9 =0x00000000048ab1d0, R10=0x0000000000000016, R11=0x0000000000000020
+R12=0x00007f2017299210, R13=0x0000000005e1cd30, R14=0x0000000000000000, R15=0x0000000007365c40
+RIP=0x00007f2016b139da, EFLAGS=0x0000000000010202, CSGSFS=0x0000000000000033, ERR=0x0000000000000004
+  TRAPNO=0x000000000000000e
+
+Top of Stack: (sp=0x00007f1fc66c14d8)
+0x00007f1fc66c14d8:   00007f1fef043f57 0000000000000000
+0x00007f1fc66c14e8:   7dff1969f034ef00 00000000034ff4e0
+0x00007f1fc66c14f8:   0000000005e1c298 00007f2017299210
+0x00007f1fc66c1508:   00007f1fef0440b9 000000000274d7c0
+0x00007f1fc66c1518:   00007f2019b913ef 0000000000000000
+0x00007f1fc66c1528:   0000000005e1dfe0 00007f1fd800bb88
+0x00007f1fc66c1538:   7dff1969f034ef00 00007f1fc66c15e0
+0x00007f1fc66c1548:   0000000005e1c200 0000000005e1c2b0
+0x00007f1fc66c1558:   0000000005e1c720 0000000005e1cd30
+0x00007f1fc66c1568:   0000000000000000 0000000007365c40
+0x00007f1fc66c1578:   00007f20172bb21a 0000000005e1c720
+0x00007f1fc66c1588:   00007f1fc66c15d0 0000000005e1e110
+0x00007f1fc66c1598:   0000000000000000 0000000000000000
+0x00007f1fc66c15a8:   00007f20172bb329 0000000005e155a0
+0x00007f1fc66c15b8:   00007f2005786e18 0000000005e1a080
+0x00007f1fc66c15c8:   0000000002fe0c30 0000000005e1e2b0
+0x00007f1fc66c15d8:   00007f2019ba4dea 0000000000000000
+0x00007f1fc66c15e8:   0000000000000250 00007f1fc66c1620
+0x00007f1fc66c15f8:   0000000000000000 0000000000000000
+0x00007f1fc66c1608:   00007f2019ba4a60 00007f1fc66c1670
+0x00007f1fc66c1618:   0000000006507f30 00007f1fd8013800
+0x00007f1fc66c1628:   00007f2019ba28f6 0000000000000000
+0x00007f1fc66c1638:   7dff1969f034ef00 0000000002fe0c30
+0x00007f1fc66c1648:   0000000003497600 000000000264f6b0
+0x00007f1fc66c1658:   0000000005e155a0 00007f1fc66c1810
+0x00007f1fc66c1668:   00007f2019ba2d24 0000003000000020
+0x00007f1fc66c1678:   00007f1fc66c1750 00007f1fc66c1690
+0x00007f1fc66c1688:   7dff1969f034ef00 0000000200000000
+0x00007f1fc66c1698:   0000000000000000 0000000002fe0c30
+0x00007f1fc66c16a8:   0000000005e155a0 0000000000000000
+0x00007f1fc66c16b8:   00000000cc882e48 0000000000000bad
+0x00007f1fc66c16c8:   0000000000000bad 00007f1fd8013800 
+
+Instructions: (pc=0x00007f2016b139da)
+0x00007f2016b139ba:   00 00 74 f2 c6 83 0f 01 00 00 00 5b c3 90 0f 1f
+0x00007f2016b139ca:   84 00 00 00 00 00 48 8b 05 c9 f1 3e 00 48 8b 00
+0x00007f2016b139da:   48 8b 78 08 48 8b 07 48 8b 80 a8 00 00 00 ff e0
+0x00007f2016b139ea:   66 0f 1f 44 00 00 41 56 41 55 41 54 55 53 48 89 
+
+Register to memory mapping:
+
+RAX=0x0000000000000000 is an unknown value
+RBX=0x00000000034ff4e0 is an unknown value
+RCX=0x00000000064f1240 is an unknown value
+RDX=0x00007f201b344648: <offset 0x3a5648> in /lib/x86_64-linux-gnu/libc.so.6 at 0x00007f201af9f000
+RSP=0x00007f1fc66c14d8 is pointing into the stack for thread: 0x00007f1fd8013800
+RBP=0x0000000000000000 is an unknown value
+RSI=0x00000000ffffffff is an unallocated location in the heap
+RDI=0x0000000000000000 is an unknown value
+R8 =0x0000000000000000 is an unknown value
+R9 =0x00000000048ab1d0 is an unknown value
+R10=0x0000000000000016 is an unknown value
+R11=0x0000000000000020 is an unknown value
+R12=0x00007f2017299210: <offset 0x30210> in /usr/lib/libreoffice/program/libucbhelper.so at 0x00007f2017269000
+R13=0x0000000005e1cd30 is an unknown value
+R14=0x0000000000000000 is an unknown value
+R15=0x0000000007365c40 is an unknown value
+
+
+Stack: [0x00007f1fc65c2000,0x00007f1fc66c3000],  sp=0x00007f1fc66c14d8,  free space=1021k
+Native frames: (J=compiled Java code, j=interpreted, Vv=VM code, C=native code)
+C  [libvcllo.so+0x3d19da]  Application::GetSolarMutex()+0xa
+
+[error occurred during error reporting (printing native stack), id 0xb]
+
+Java frames: (J=compiled Java code, j=interpreted, Vv=VM code)
+j  com.sun.star.bridges.jni_uno.JNI_proxy.finalize(J)V+0
+j  com.sun.star.bridges.jni_uno.JNI_proxy.access$000(Lcom/sun/star/bridges/jni_uno/JNI_proxy;J)V+2
+j  com.sun.star.bridges.jni_uno.JNI_proxy$1.run()V+11
+j  com.sun.star.lib.util.AsynchronousFinalizer$1.run()V+52
