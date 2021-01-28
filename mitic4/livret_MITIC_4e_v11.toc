@@ -10,24 +10,24 @@
 \contentsline {section}{\numberline {6}Rejoindre une t\IeC {\'e}l\IeC {\'e}conf\IeC {\'e}rence}{9}{section.1.6}
 \contentsline {section}{\numberline {7}Pour aller plus loin}{10}{section.1.7}
 \contentsline {subsection}{\numberline {7.1}Apparence de la page d'accueil}{10}{subsection.1.7.1}
-\contentsline {chapter}{\numberline {2}Tableur}{13}{chapter.2}
-\contentsline {section}{\numberline {1}S\IeC {\'e}ance 1 : Moyennes avec coefficients (maths)}{14}{section.2.1}
-\contentsline {subsection}{\numberline {1.1}Pour bien d\IeC {\'e}marrer...}{14}{subsection.2.1.1}
-\contentsline {subsection}{\numberline {1.2}L'activit\IeC {\'e} demand\IeC {\'e}e}{14}{subsection.2.1.2}
-\contentsline {section}{\numberline {2}Pour aller plus loin...}{15}{section.2.2}
-\contentsline {section}{\numberline {3}S\IeC {\'e}ance 2 : Traitement de donn\IeC {\'e}es (Sc. physiques)}{16}{section.2.3}
-\contentsline {subsection}{\numberline {3.1}Pour bien d\IeC {\'e}marrer...}{16}{subsection.2.3.1}
-\contentsline {subsection}{\numberline {3.2}L'activit\IeC {\'e} demand\IeC {\'e}e}{16}{subsection.2.3.2}
-\contentsline {section}{\numberline {4}Aide pour r\IeC {\'e}aliser les activit\IeC {\'e}s}{17}{section.2.4}
-\contentsline {subsection}{\numberline {4.1}Le s\IeC {\'e}parateur d\IeC {\'e}cimal}{17}{subsection.2.4.1}
-\contentsline {subsubsection}{Quel est votre s\IeC {\'e}parateur d\IeC {\'e}cimal ?}{17}{section*.6}
-\contentsline {subsubsection}{Changer les virgules en points (ou inversement)}{18}{section*.7}
-\contentsline {subsection}{\numberline {4.2}Importer un fichier au format \texttt {CSV}}{19}{subsection.2.4.2}
-\contentsline {subsection}{\numberline {4.3}R\IeC {\'e}f\IeC {\'e}rence variable et r\IeC {\'e}f\IeC {\'e}rence fixe}{20}{subsection.2.4.3}
-\contentsline {subsection}{\numberline {4.4}Trier des donn\IeC {\'e}es}{21}{subsection.2.4.4}
-\contentsline {subsection}{\numberline {4.5}Utiliser une condition pour d\IeC {\'e}finir le contenu d'une cellule}{22}{subsection.2.4.5}
-\contentsline {subsection}{\numberline {4.6}Compter le nombre de cellules v\IeC {\'e}rifiant une condition}{24}{subsection.2.4.6}
-\contentsline {subsection}{\numberline {4.7}Additionner le contenu de plusieurs cellules}{24}{subsection.2.4.7}
-\contentsline {subsection}{\numberline {4.8}Figer une ligne ou une colonne \IeC {\`a} l'affichage}{25}{subsection.2.4.8}
-\contentsline {subsection}{\numberline {4.9}Naviguer dans une grande feuille de calcul}{25}{subsection.2.4.9}
+\contentsline {chapter}{\numberline {2}Traitement de texte}{13}{chapter.2}
+\contentsline {section}{\numberline {1}S\IeC {\'e}ance 1 : un expos\IeC {\'e} sur un pays}{15}{section.2.1}
+\contentsline {subsection}{\numberline {1.1}Pour bien d\IeC {\'e}marrer...}{15}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {1.2}L'activit\IeC {\'e} demand\IeC {\'e}e}{15}{subsection.2.1.2}
+\contentsline {section}{\numberline {2}S\IeC {\'e}ance 2 : une fiche de lecture (fran\IeC {\c c}ais)}{17}{section.2.2}
+\contentsline {subsection}{\numberline {2.1}Pour bien d\IeC {\'e}marrer...}{17}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2}L'activit\IeC {\'e} demand\IeC {\'e}e}{17}{subsection.2.2.2}
+\contentsline {section}{\numberline {3}S\IeC {\'e}ance 3 : correction d'exercices sur les fonctions}{18}{section.2.3}
+\contentsline {subsection}{\numberline {3.1}Pour bien d\IeC {\'e}marrer...}{18}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {3.2}L'activit\IeC {\'e} demand\IeC {\'e}e}{18}{subsection.2.3.2}
+\contentsline {section}{\numberline {4}Aide pour r\IeC {\'e}aliser les activit\IeC {\'e}s}{19}{section.2.4}
+\contentsline {subsection}{\numberline {4.1}La gestion des styles}{19}{subsection.2.4.1}
+\contentsline {subsubsection}{Style de paragraphe \IeC {\guillemotleft }\,Titre 1\,\IeC {\guillemotright }}{19}{section*.5}
+\contentsline {subsection}{\numberline {4.2}Travailler avec les styles}{21}{subsection.2.4.2}
+\contentsline {subsection}{\numberline {4.3}Ins\IeC {\'e}rer une table des mati\IeC {\`e}res}{22}{subsection.2.4.3}
+\contentsline {subsection}{\numberline {4.4}En-t\IeC {\^e}te et pied de page}{23}{subsection.2.4.4}
+\contentsline {subsection}{\numberline {4.5}Ins\IeC {\'e}rer un champ automatique (num\IeC {\'e}ro de page)}{24}{subsection.2.4.5}
+\contentsline {subsection}{\numberline {4.6}Mettre du texte en exposant et en indice}{24}{subsection.2.4.6}
+\contentsline {subsection}{\numberline {4.7}Ins\IeC {\'e}rer des caract\IeC {\`e}res sp\IeC {\'e}ciaux}{25}{subsection.2.4.7}
+\contentsline {subsection}{\numberline {4.8}\IeC {\'E}crire des formules math\IeC {\'e}matiques}{26}{subsection.2.4.8}
 \contentsfinish 
