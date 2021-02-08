@@ -1,0 +1,143 @@
+\newpage
+
+\section{Factorisation et développement}\index{factorisationDeveloppement}
+
+Vous avez appris à factoriser et développer des expressions mathématiques. C'est parfois difficile mais cela vous permet de résoudre certains problèmes dont vous ne pourriez trouver la solution autrement. Le langage Python permet d'obtenir un résultat similaire à moindre effort si on sait l'utiliser correctement. Savoir utiliser cet outil pour trouver vos résultats ou vérifier votre travail est une donc compétence bien utile que vous allez apprendre aujourd'hui.\\
+
+\subsection{Pour bien commencer...}
+
+Vous devrez utiliser \emph{Pyzo} pour exécuter votre code Python. \emph{Pyzo} est un éditeur de programme léger permettant d'exécuter du code Python. 
+
+Ouvrir l'éditeur \emph{Pyzo} en cliquant d'abord sur l'icône \includegraphics[width=1cm]{./images/activite7/icone_recherche} puis en complétant la barre de recherche : 
+
+\uneimageici{./images/activite7/recherche_pyzo.png}{.5\textwidth}
+
+\emph{Pyzo} s'ouvre et vous propose deux zones distinctes de travail :
+\begin{itemize}
+\item à gauche l'éditeur dans lequel vous allez taper votre code,
+\item à droite la console dans laquelle vont apparaître les erreurs de code et les résultats fournis après avoir exécuté le code Python.
+\end{itemize}
+
+\uneimageici{./images/activite7/ecran_pyzo.png}{.8\textwidth}
+
+Commencez par créer un nouveau fichier. Pour cela, sélectionner \texttt{Nouveau} dans le menu \texttt{Fichier}
+
+\uneimageici{./images/activite7/nouveau_fichier.png}{.4\textwidth}
+
+Puis enregistrez votre fichier au format \texttt{Nom-date.py}
+
+
+\subsection{L'activité demandée}
+
+\vspace{12pt}
+
+\subsubsection{Etape 1 - calcul manuel}
+
+\vspace{12pt}
+
+\boiteEnonceLarge{% début énoncé étape 1
+Dans un premier temps, soyez courageux et effectuez les calculs suivants à la main, afin de comparer plus tard vos résultats et ceux de l'ordinateur.\\
+
+\emph{Exercice 1}\\
+
+Factoriser l'epression suivante : $A=(x-1)(2x+7)+3(1-x)(5-x)$\\
+
+\emph{Exercice 2}\\
+
+Développer l'expression suivante : $B=5(2x-7)(3-x+x^2)$\\
+
+\emph{Exercice 3}\\
+
+Simplifier l'expression suivante : $C=\frac{144x^2+84}{8}$\\
+
+\emph{Exercice 4}\\
+
+Résoudre l'équation suivante : $D=(9-x^2)(3x-1)=4(x-3)(2x+5)$
+}% fin énoncé étape 1
+
+\subsubsection{Etape 2 - Python}
+
+\vspace{12pt}
+
+Pour exécuter les codes ci-dessous, vous pouvez sélectionner \texttt{Démarrer le script} dans le menu  \texttt{Exécuter}
+
+\uneimageici{./images/activite7/executer_fichier.png}{.4\textwidth}
+
+\vfill
+\phantom{rien}
+
+\boiteEnonceLarge{% début énoncé
+Nous allons maintenant retrouver les résultats précédents en utilisant des codes simples du langage Python.\\
+
+En Python, le calcul littéral nécessite l'importation d'un module appelé \emph{sympy}, puis l'affectation de symboles formels \emph{x, y, z, ...} aux différentes variables \texttt{x, y, z, ...} Pour cela, commencez votre code par\\
+
+\texttt{from sympy import *}\\
+\texttt{x, y, z = symbols('x y z')}\\
+
+\emph{Exercice 1}\\
+
+Pour factoriser une expression \texttt{E}, \emph{sympy} utilise \texttt{factor(E)}.\\
+
+Par exemple, on sait que $(x-1)(x+2)+(x-1)(x+3)=(x-1)(2x+5)$. Essayez donc dans votre fenêtre \emph{Pyzo} l'instruction Python \\
+
+\texttt{print(factor((x-1)*(x+2)+(x-1)*(x+3)))} \\
+
+pour retrouver ce résultat. \\
+
+Vous remarquerez qu'en Python, les produits s'expriment avec \texttt{*} \\
+
+Essayez maintenant d'obtenir à l'aide de Python le résultat que vous aviez trouvé manuellement pour l'exercice 1.\\
+
+\emph{Exercice 2}\\
+
+Pour développer une expression \texttt{E}, \emph{sympy} utilise \texttt{expand(E)}.\\
+
+Par exemple, on sait que $(x-1)(x-2)=x^2-3x+2$. Essayez donc dans votre fenêtre \emph{Pyzo} l'instruction Python \\
+
+\texttt{print(expand((x-1)*(x-2)))}  \\
+
+pour retrouver ce résultat.\\
+
+Essayez maintenant d'obtenir à l'aide de Python le résultat que vous aviez trouvé manuellement pour l'exercice 2.
+}%fin énoncé
+
+\boiteEnonceLarge{% debut enonce
+\emph{Exercice 3}\\
+
+Pour simplifier une expression \texttt{E}, \emph{sympy} utilise \texttt{simplify(E)}.\\
+
+Par exemple, on sait que pour $x\ne0$, on peut écrire $\frac{2x^2+6x}{2x}=x+3$. Essayez donc dans votre fenêtre \emph{Pyzo} l'instruction Python \\
+
+\texttt{print(simplify(2*x**2+6*x)/(2*x))}  \\
+
+pour retrouver ce résultat. \\
+
+Vous remarquez qu'en Python, les puissances peuvent s'exprimer avec \texttt{**} \\ 
+
+Essayez maintenant d'obtenir à l'aide de Python le résultat que vous aviez trouvé manuellement pour l'exercice 3.\\
+
+\emph{Exercice 4}\\
+
+Pour résoudre une équation  \texttt{E}, \emph{sympy} utilise \texttt{solve(E, x)}.\\
+
+Par exemple, on sait que la solution de l'équation $3x+2=0$ est $-\frac{2}{3}$. Essayez donc dans votre fenêtre \emph{Pyzo} l'instruction Python \\
+
+\texttt{print(solve(3*x+2, x))}  \\
+
+pour retrouver ce résultat.\\
+
+Essayez maintenant d'obtenir à l'aide de Python le résultat que vous saviez trouvé manuellement pour l'exercice 4.\\
+
+Une fois les vérifications terminées, vous enregistrerez votre fichier au format PY (le fichier doit être nommé à partir de votre nom : \texttt{Nom-date.py}), puis vous le rendrez sur \emph{Teams} à l'endroit indiqué par votre enseignant (si nécessaire, se reporter à la fiche méthode \emph{Remettre son devoir}, page \pageref{TeamsRemettreDevoir}).
+} % fin énoncé
+
+\subsection{Pour aller plus loin...}
+
+On peut également factoriser et développer des expressions mathématiques, dans le module \emph{Calcul littéral} du logiciel \emph{Geogebra}. Cette méthode ne nécessite pas l'utilisation de code car \emph{Geogebra} s'exécute en utilisant une interface graphique, et bien qu'elle s'avère plus intuitive, elle est aussi plus limitée dans son utilisation.
+
+
+
+
+
+
+

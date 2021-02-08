@@ -1,0 +1,75 @@
+\newpage
+
+\section{Découverte Python et module Turtle}\index{decouvertePython}
+
+Python est un langage de programmation très implanté dans les milieux éducatif et scientifique de par la clarté de sa grammaire et l'efficacité de son code. Nous allons apprendre dans cette activité à faire le lien entre la programmation Scratch telle que vous l'avez vue en classes de 6\up{ème}, 5\up{ème}, 4\up{ème} et la programmation Python. Cette initiation en douceur à Python va donc vous permettre de découvrir les bases de ce langage. 
+
+\subsection{Pour bien commencer}
+
+Vous devrez utiliser \emph{Pyzo} pour exécuter votre code Python. \emph{Pyzo} est un éditeur de programme léger permettant d'exécuter du code Python. 
+
+Ouvrir l'éditeur \emph{Pyzo} en cliquant d'abord sur l'icône \includegraphics[width=1cm]{./images/activite7/icone_recherche} puis en complétant la barre de recherche : 
+
+\uneimageici{./images/activite7/recherche_pyzo.png}{.5\textwidth} % reprise image existante
+
+\emph{Pyzo} s'ouvre et vous propose deux zones distinctes de travail :
+\begin{itemize}
+\item à gauche l'éditeur dans lequel vous allez taper votre code,
+\item à droite la console dans laquelle vont apparaître les erreurs de code et les résultats fournis après avoir exécuté le code Python.
+\end{itemize}
+
+\uneimageici{./images/activite7/ecran_pyzo.png}{.8\textwidth}% reprise image existante
+
+Commencez par créer un nouveau fichier. Pour cela, sélectionner \texttt{Nouveau} dans le menu \texttt{Fichier}
+
+\uneimageici{./images/activite7/nouveau_fichier.png}{.4\textwidth} % reprise image existante
+
+Puis enregistrez votre fichier au format \texttt{Nom-date.py}
+
+\subsection{L'activité demandée}
+
+
+
+\subsubsection{Partie Scratch}
+
+En utilisant le logiciel \emph{Scratch}, écrire un script qui dessine un carré.
+
+\uneimageici{./images/activite2/scratch_uncarre.png}{.1\textwidth}
+
+Ecrire ensuite un autre script permettant d'obtenir une suite de trois carrés. 
+
+\uneimageici{./images/activite2/scratch_troiscarres.png}{.3\textwidth}
+
+Par exemple, le code suivant vous permet d'obtenir le résultat escompté
+
+\uneimageici{./images/activite2/codescratch_troiscarres.png}{.2\textwidth}
+
+\subsubsection{Partie Python}
+
+Nous allons maintenant traduire bloc par bloc en Python le code obtenu dans la première partie.
+
+\begin{verbatim}
+from turtle import *
+def carre():
+color("red")
+begin_fill()
+for i in range(4}:
+down()
+forward(50)
+left(90)
+end_fill()
+
+def ligne():
+for i in range(3):
+carre()
+up()
+forward(60)
+
+x = 0
+y = 0
+for i in range(3):
+goto(x, y)
+ligne()
+x = 0
+y = y - 60
+\end{verbatim}

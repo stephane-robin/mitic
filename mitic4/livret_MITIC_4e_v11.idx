@@ -1,25 +1,69 @@
-\indexentry{Calendrier des activit\IeC {\'e}s|hyperpage}{vii}
-\indexentry{Clavier|hyperpage}{ix}
-\indexentry{Touches sp\IeC {\'e}ciales|hyperpage}{ix}
-\indexentry{Writer!Les styles|hyperpage}{19}
-\indexentry{Styles (Writer)|hyperpage}{19}
-\indexentry{Writer!Travailler avec les styles|hyperpage}{21}
-\indexentry{Travailler avec les styles (Writer)|hyperpage}{21}
-\indexentry{Writer!Table des mati\IeC {\`e}res|hyperpage}{22}
-\indexentry{Tables des mati\IeC {\`e}res (Writer)|hyperpage}{22}
-\indexentry{Writer!En-t\IeC {\^e}te|hyperpage}{23}
-\indexentry{En-t\IeC {\^e}te (Writer)|hyperpage}{23}
-\indexentry{Writer!Pied de page|hyperpage}{23}
-\indexentry{Pied de page (Writer)|hyperpage}{23}
-\indexentry{Writer!Champ automatique|hyperpage}{24}
-\indexentry{Champ automatique (Writer)|hyperpage}{24}
-\indexentry{Writer!Num\IeC {\'e}ro de page|hyperpage}{24}
-\indexentry{Num\IeC {\'e}ro de page (Writer)|hyperpage}{24}
-\indexentry{Writer!Exposant|hyperpage}{24}
-\indexentry{Exposant (Writer)|hyperpage}{24}
-\indexentry{Writer!Indice|hyperpage}{24}
-\indexentry{Indice (Writer)|hyperpage}{24}
-\indexentry{Writer!Caract\IeC {\`e}res sp\IeC {\'e}ciaux|hyperpage}{25}
-\indexentry{Caract\IeC {\`e}res sp\IeC {\'e}ciaux (Writer)|hyperpage}{25}
-\indexentry{Writer!Formules math\IeC {\'e}matiques|hyperpage}{26}
-\indexentry{Formules math\IeC {\'e}matiques (Writer)|hyperpage}{26}
+\indexentry{Calendrier des activit\IeC {\'e}s|hyperpage}{ix}
+\indexentry{Clavier|hyperpage}{xi}
+\indexentry{Touches sp\IeC {\'e}ciales|hyperpage}{xi}
+\indexentry{Calc!S\IeC {\'e}parateur d\IeC {\'e}cimal|hyperpage}{17}
+\indexentry{S\IeC {\'e}parateur d\IeC {\'e}cimal (Calc)|hyperpage}{17}
+\indexentry{Point ou virgule ? (Calc)|hyperpage}{17}
+\indexentry{Virgule ou point ? (Calc)|hyperpage}{17}
+\indexentry{Calc!Rechercher et remplacer|hyperpage}{17}
+\indexentry{Rechercher et remplacer (Calc)|hyperpage}{17}
+\indexentry{Calc!Importer un fichier CSV|hyperpage}{19}
+\indexentry{Importer un fichier CSV (Calc)|hyperpage}{19}
+\indexentry{CSV : importer un fichier (Calc)|hyperpage}{19}
+\indexentry{Calc!R\IeC {\'e}f\IeC {\'e}rence variable et r\IeC {\'e}f\IeC {\'e}rence fixe|hyperpage}{20}
+\indexentry{Calc!Tirer une formule en gardant une cellule fixe|hyperpage}{20}
+\indexentry{R\IeC {\'e}f\IeC {\'e}rence variable et r\IeC {\'e}f\IeC {\'e}rence fixe (Calc)|hyperpage}{20}
+\indexentry{Tirer une formule en gardant une cellule fixe (Calc)|hyperpage}{20}
+\indexentry{Calc!Trier des donn\IeC {\'e}es|hyperpage}{21}
+\indexentry{Trier des donn\IeC {\'e}es (Calc)|hyperpage}{21}
+\indexentry{Calc!Condition dans une cellule|hyperpage}{22}
+\indexentry{Condition dans une cellule (Calc)|hyperpage}{22}
+\indexentry{Calc!Compter le nombre de cellules v\IeC {\'e}rifiant une condition|hyperpage}{24}
+\indexentry{Compter le nombre de cellules v\IeC {\'e}rifiant une condition (Calc)|hyperpage}{24}
+\indexentry{Calc!Somme de plusieurs cellules|hyperpage}{24}
+\indexentry{Somme de plusieurs cellules (Calc)|hyperpage}{24}
+\indexentry{Calc!Fixer une ligne ou une colonne|hyperpage}{25}
+\indexentry{Fixer une ligne ou une colonne (Calc)|hyperpage}{25}
+\indexentry{Calc!Naviguer dans une grande feuille|hyperpage}{25}
+\indexentry{Naviguer dans une grande feuille (Calc)|hyperpage}{25}
+\indexentry{D\IeC {\'e}placements dans une grande feuille de calcul (Calc)|hyperpage}{25}
+\indexentry{Writer!Les styles|hyperpage}{33}
+\indexentry{Styles (Writer)|hyperpage}{33}
+\indexentry{Writer!Travailler avec les styles|hyperpage}{35}
+\indexentry{Travailler avec les styles (Writer)|hyperpage}{35}
+\indexentry{Writer!Table des mati\IeC {\`e}res|hyperpage}{36}
+\indexentry{Tables des mati\IeC {\`e}res (Writer)|hyperpage}{36}
+\indexentry{Writer!En-t\IeC {\^e}te|hyperpage}{37}
+\indexentry{En-t\IeC {\^e}te (Writer)|hyperpage}{37}
+\indexentry{Writer!Pied de page|hyperpage}{37}
+\indexentry{Pied de page (Writer)|hyperpage}{37}
+\indexentry{Writer!Champ automatique|hyperpage}{38}
+\indexentry{Champ automatique (Writer)|hyperpage}{38}
+\indexentry{Writer!Num\IeC {\'e}ro de page|hyperpage}{38}
+\indexentry{Num\IeC {\'e}ro de page (Writer)|hyperpage}{38}
+\indexentry{Writer!Exposant|hyperpage}{39}
+\indexentry{Exposant (Writer)|hyperpage}{39}
+\indexentry{Writer!Indice|hyperpage}{39}
+\indexentry{Indice (Writer)|hyperpage}{39}
+\indexentry{Writer!Caract\IeC {\`e}res sp\IeC {\'e}ciaux|hyperpage}{40}
+\indexentry{Caract\IeC {\`e}res sp\IeC {\'e}ciaux (Writer)|hyperpage}{40}
+\indexentry{Writer!Formules math\IeC {\'e}matiques|hyperpage}{40}
+\indexentry{Formules math\IeC {\'e}matiques (Writer)|hyperpage}{40}
+\indexentry{Gimp!Cr\IeC {\'e}er un chemin|hyperpage}{50}
+\indexentry{Chemin : cr\IeC {\'e}er un chemin (Gimp)|hyperpage}{50}
+\indexentry{Gimp!Travailler avec les chemins et les calques|hyperpage}{51}
+\indexentry{Chemin : travailler avec les chemins et les calques (Gimp)|hyperpage}{51}
+\indexentry{Gimp!S\IeC {\'e}lectionner le bon chemin|hyperpage}{51}
+\indexentry{Chemin : s\IeC {\'e}lectionner le chemin sur lequel on travaille (Gimp)|hyperpage}{51}
+\indexentry{Gimp!S\IeC {\'e}lectionner le bon calque|hyperpage}{52}
+\indexentry{Calque : s\IeC {\'e}lectionner le calque sur lequel on travaille (Gimp)|hyperpage}{52}
+\indexentry{Gimp!Tracer un trait le long d'un chemin|hyperpage}{52}
+\indexentry{Chemin : tracer un trait le long d'un chemin (Gimp)|hyperpage}{52}
+\indexentry{Gimp!\IeC {\'E}crire un texte le long d'un chemin|hyperpage}{53}
+\indexentry{Texte le long d'un chemin (Gimp)|hyperpage}{53}
+\indexentry{Gimp!Utiliser les guides|hyperpage}{55}
+\indexentry{Guides (Gimp)|hyperpage}{55}
+\indexentry{Gimp!D\IeC {\'e}tourer une image|hyperpage}{56}
+\indexentry{D\IeC {\'e}tourer une image (Gimp)|hyperpage}{56}
+\indexentry{Gimp!Extraire une image de son arri\IeC {\`e}re plan|hyperpage}{56}
+\indexentry{Extraire une image de son arri\IeC {\`e}re plan (Gimp)|hyperpage}{56}
