@@ -1,5 +1,10 @@
 \documentclass{moncours}
+\usepackage{minted}
 \usepackage{float}
+%\usepackage{pygmentize}
+
+
+
 
 \makeindex
 
@@ -15,7 +20,7 @@
 
 \frontmatter
 
-\titlePage[./images/couvertureFlo3e_v1]{Informatique 3\up{e}}{Fiches MITIC}{Institut Florimont}{\textcopyright\ Tout droit réservé. Crédit photographie couverture : Institut Florimont. Illustration des premières pages de chapitre issue de \emph{Codex Leicester} de Leonardo da Vinci (domaine public).  \\ Version : janvier 2021 \\ 1\up{ère} édition, v0 \\ Petit-Lancy (Suisse)} 
+\titlePage[./images/couvertureFlo3e_v1]{Informatique 3\up{e}}{Fiches MITIC}{Institut Florimont}{Petit-Lancy (Suisse)\\ \textcopyright\ Tout droit réservé. Crédit photographie couverture : Institut Florimont. Illustration des premières pages de chapitre issue de \emph{Codex Leicester} de Leonardo da Vinci (domaine public). \\1\up{ère} édition, v1.0 \\ juin 2021} 
 
 % TOC
 \pagestyle{empty} % No headers
@@ -32,11 +37,15 @@
 %\input{./sources/philosophie.tex}
 
 % Début des chapitres
-%\setcounter{page}{1} % si on veut forcer la page 1 au début du premier chapitre
+\setcounter{page}{1} % si on veut forcer la page 1 au début du premier chapitre
 \mainmatter
 %
   
-\chapterImage{./images/chapitreVinci5e}
+\begin{minted}{python}
+import sympy as sy
+\end{minted}
+
+\chapterImage{./images/chapitreVinci4e.png}
 %\input{./sources/activite1/activite1.tex}
 \input{./sources/activite2/activite2.tex}
 %\input{./sources/activite2/activite2.tex}
@@ -44,12 +53,12 @@
 %\input{./sources/activite4/activite4.tex}
 %\input{./sources/activite5/activite5.tex}
 %\input{./sources/activite6/activite6.tex}
-\input{./sources/activite7/activite7.tex}
+%\input{./sources/activite7/activite7.tex}
 %\input{./sources/activite8/activite8.tex}
 %\input{./sources/activite9/activite9.tex}
 %\input{./sources/activite10/activite10.tex}
 %\input{./sources/activite11/activite11.tex}
-\input{./sources/teams/teams_accueil.tex}
+%\input{./sources/teams/teams_accueil.tex}
 
 
 

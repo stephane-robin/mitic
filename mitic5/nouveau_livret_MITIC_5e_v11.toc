@@ -7,7 +7,7 @@
 \contentsline {subsection}{\numberline {4.1}Consulter le sujet d'un devoir en pi\IeC {\`e}ce jointe}{5}{subsection.1.4.1}
 \contentsline {subsection}{\numberline {4.2}Remettre son devoir}{6}{subsection.1.4.2}
 \contentsline {section}{\numberline {5}Acc\IeC {\'e}der \IeC {\`a} mon bloc-note}{8}{section.1.5}
-\contentsline {section}{\numberline {6}Rejoindre une t\IeC {\'e}l\IeC {\'e}conf\IeC {\'e}rence}{9}{section.1.6}
+\contentsline {section}{\numberline {6}Rejoindre une visio-conf\IeC {\'e}rence}{9}{section.1.6}
 \contentsline {section}{\numberline {7}Pour aller plus loin}{10}{section.1.7}
 \contentsline {subsection}{\numberline {7.1}Apparence de la page d'accueil}{10}{subsection.1.7.1}
 \contentsline {chapter}{\numberline {2}Tableur}{13}{chapter.2}

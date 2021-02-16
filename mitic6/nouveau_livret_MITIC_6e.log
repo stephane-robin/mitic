@@ -1,6 +1,6 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2018.8.21)  26 JAN 2021 11:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2018.8.21)  16 FEB 2021 14:19
 entering extended mode
- restricted \write18 enabled.
+ \write18 enabled.
  %&-line parsing enabled.
 **nouveau_livret_MITIC_6e.tex
 (./nouveau_livret_MITIC_6e.tex
@@ -1097,30 +1097,37 @@ Underfull \hbox (badness 10000) in paragraph at lines 13--13
  []
 
 [2{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./ima
-ges/logo_flo.pdf>] [3] [4
-
-] (./nouveau_livret_MITIC_6e.toc [5])
-\tf@toc=\write6
-\openout6 = `nouveau_livret_MITIC_6e.toc'.
-
- [6]
-(./sources/planning.tex
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 10.
-
-(/usr/local/texlive/2016/texmf-dist/tex/latex/lm/ot1lmr.fd
+ges/logo_flo.pdf>]
+LaTeX Font Info:    Calculating math sizes for size <35.83> on input line 13.
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 13.
+ (/usr/local/texlive/2016/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 10.
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 13.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 10.
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 13.
 
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <35.83> on input line 13.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <25.08089> on input line 13.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <17.915> on input line 13.
+ [3] [4
+
+]
+(./nouveau_livret_MITIC_6e.toc [5])
+\tf@toc=\write6
+\openout6 = `nouveau_livret_MITIC_6e.toc'.
+
+ [6] (./sources/planning.tex
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <12> on input line 10.
 LaTeX Font Info:    External font `lmex10' loaded for size
@@ -1713,8 +1720,10 @@ file (type png)
 Package pdftex.def Info: ./images/tableur/CalcFenetreGraphiqueSelectionnee_Exce
 l_crop.png used on input line 173.
 (pdftex.def)             Requested size: 406.51775pt x 248.92938pt.
-
-<./images/tableur/Calc_supprimer_courbe_Excel_crop.png, id=709, 391.4625pt x 24
+ [20 <./images/tableur/CalcCellulesSelectionnees_Excel_crop.png> <./images/tabl
+eur/CalcBoiteDiagramme1_Excel_crop.png> <./images/tableur/CalcFenetreGraphiqueS
+electionnee_Excel_crop.png>]
+<./images/tableur/Calc_supprimer_courbe_Excel_crop.png, id=713, 391.4625pt x 24
 9.93375pt>
 File: ./images/tableur/Calc_supprimer_courbe_Excel_crop.png Graphic file (type 
 png)
@@ -1722,9 +1731,7 @@ png)
 Package pdftex.def Info: ./images/tableur/Calc_supprimer_courbe_Excel_crop.png 
 used on input line 179.
 (pdftex.def)             Requested size: 391.46153pt x 249.93314pt.
- [20 <./images/tableur/CalcCellulesSelectionnees_Excel_crop.png> <./images/tabl
-eur/CalcBoiteDiagramme1_Excel_crop.png> <./images/tableur/CalcFenetreGraphiqueS
-electionnee_Excel_crop.png>]
+
 <./images/tableur/Calc_corriger_donnees_Excel_crop.png, id=714, 618.31pt x 305.
 14pt>
 File: ./images/tableur/Calc_corriger_donnees_Excel_crop.png Graphic file (type 
@@ -1744,7 +1751,7 @@ Package pdftex.def Info: ./images/tableur/Calc_selectionner_donnees_Excel_crop.
 png used on input line 187.
 (pdftex.def)             Requested size: 563.10237pt x 549.04991pt.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 5077) has occurred while \output is active []
 
  [21 <./images/tableur/Calc_supprimer_courbe_Excel_crop.png> <./images/tableur/
 Calc_corriger_donnees_Excel_crop.png>]
@@ -1859,9 +1866,6 @@ File: ./images/texte/ouvrirDoc1.png Graphic file (type png)
 <use ./images/texte/ouvrirDoc1.png>
 Package pdftex.def Info: ./images/texte/ouvrirDoc1.png used on input line 91.
 (pdftex.def)             Requested size: 579.16234pt x 398.48778pt.
-
-Underfull \vbox (badness 1077) has occurred while \output is active []
-
  [27 <./images/texte/WordPresentation.png> <./images/texte/WriterPresentation.p
 ng>]
 <./images/texte/ouvrirDoc2.png, id=766, 1071.00125pt x 437.635pt>
@@ -1886,12 +1890,17 @@ Package pdftex.def Info: ./images/generales/clavierCmdS.png used on input line
 116.
 (pdftex.def)             Requested size: 196.57391pt x 72.63116pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 126--126
+Underfull \hbox (badness 10000) in paragraph at lines 127--127
 
  []
 
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 126--127
+Underfull \hbox (badness 10000) in paragraph at lines 127--127
+
+ []
+
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 127--128
 [][][][][][][]
  []
 
@@ -1901,7 +1910,7 @@ t>
 File: ./sources/texte01/LaBelleEtLaBeteFormatee.pdf Graphic file (type pdf)
  <use ./sources/texte01/LaBelleEtLaBeteFormatee.pdf>
 Package pdftex.def Info: ./sources/texte01/LaBelleEtLaBeteFormatee.pdf used on 
-input line 131.
+input line 132.
 (pdftex.def)             Requested size: 364.19667pt x 515.39058pt.
  [29]
 <./images/generales/clavierCmdF.png, id=779, 134.4222pt x 74.79945pt>
@@ -1909,7 +1918,7 @@ File: ./images/generales/clavierCmdF.png Graphic file (type png)
 
 <use ./images/generales/clavierCmdF.png>
 Package pdftex.def Info: ./images/generales/clavierCmdF.png used on input line 
-144.
+145.
 (pdftex.def)             Requested size: 134.42186pt x 74.79926pt.
  [30 <./sources/texte01/LaBelleEtLaBeteFormatee.pdf>]
 <./images/texte/WordBarreRecherche.png, id=804, 452.69125pt x 53.19875pt>
@@ -1917,7 +1926,7 @@ File: ./images/texte/WordBarreRecherche.png Graphic file (type png)
 
 <use ./images/texte/WordBarreRecherche.png>
 Package pdftex.def Info: ./images/texte/WordBarreRecherche.png used on input li
-ne 148.
+ne 149.
 (pdftex.def)             Requested size: 452.69014pt x 53.19861pt.
 ) (./sources/texte01/texte01.tex
 [31 <./images/generales/clavierCmdF.png> <./images/texte/WordBarreRecherche.png
@@ -2338,6 +2347,11 @@ File: ./images/chapitreVinci.png Graphic file (type png)
 <use ./images/chapitreVinci.png>
 Package pdftex.def Info: ./images/chapitreVinci.png used on input line 1.
 (pdftex.def)             Requested size: 597.50787pt x 284.21223pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
+
+ []
+
 
 Underfull \hbox (badness 10000) in paragraph at lines 5--6
 
@@ -3056,22 +3070,22 @@ Package pdftex.def Info: ./images/activites/ScratchAllerPlusLoinImage2.png used
 No file nouveau_livret_MITIC_6e.ind.
 [75 <./images/activites/ScratchAllerPlusLoinImage1.png> <./images/activites/Scr
 atchAllerPlusLoinImage2.png (PNG copy)>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 48.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 48.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 47.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 47.
  (./nouveau_livret_MITIC_6e.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 48.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 48.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 47.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 47.
 Package rerunfilecheck Info: File `nouveau_livret_MITIC_6e.out' has not changed
 .
-(rerunfilecheck)             Checksum: FF05BCA93078A317DA022F6D597BE6A6;5221.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 48.
+(rerunfilecheck)             Checksum: 5D8219EA7B9525A293B9E7E95C83C381;5217.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 47.
  ) 
 Here is how much of TeX's memory you used:
- 19194 strings out of 493014
- 367017 string characters out of 6133351
- 406702 words of memory out of 5000000
- 21876 multiletter control sequences out of 15000+600000
- 104956 words of font info for 63 fonts, out of 8000000 for 9000
+ 19209 strings out of 493014
+ 367280 string characters out of 6133351
+ 406864 words of memory out of 5000000
+ 21890 multiletter control sequences out of 15000+600000
+ 118857 words of font info for 73 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  62i,12n,56p,1103b,1075s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/lo
@@ -3094,7 +3108,7 @@ t/fonts/type1/public/lm/lmtk10.pfb></usr/local/texlive/2016/texmf-dist/fonts/ty
 pe1/public/lm/lmtt10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public
 /lm/lmtt12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmtto1
 0.pfb>
-Output written on nouveau_livret_MITIC_6e.pdf (88 pages, 13165635 bytes).
+Output written on nouveau_livret_MITIC_6e.pdf (88 pages, 13191920 bytes).
 PDF statistics:
  1397 PDF objects out of 1440 (max. 8388607)
  938 compressed objects within 10 object streams

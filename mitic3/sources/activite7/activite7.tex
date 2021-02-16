@@ -1,10 +1,8 @@
-\newpage
-
-\section{Factorisation et développement}\index{factorisationDeveloppement}
+\chapter{Factorisation et développement}\index{factorisationDeveloppement}
 
 Vous avez appris à factoriser et développer des expressions mathématiques. C'est parfois difficile mais cela vous permet de résoudre certains problèmes dont vous ne pourriez trouver la solution autrement. Le langage Python permet d'obtenir un résultat similaire à moindre effort si on sait l'utiliser correctement. Savoir utiliser cet outil pour trouver vos résultats ou vérifier votre travail est une donc compétence bien utile que vous allez apprendre aujourd'hui.\\
 
-\subsection{Pour bien commencer...}
+\section{Pour bien commencer...}
 
 Vous devrez utiliser \emph{Pyzo} pour exécuter votre code Python. \emph{Pyzo} est un éditeur de programme léger permettant d'exécuter du code Python. 
 
@@ -20,6 +18,8 @@ Ouvrir l'éditeur \emph{Pyzo} en cliquant d'abord sur l'icône \includegraphics[
 
 \uneimageici{./images/activite7/ecran_pyzo.png}{.8\textwidth}
 
+
+
 Commencez par créer un nouveau fichier. Pour cela, sélectionner \texttt{Nouveau} dans le menu \texttt{Fichier}
 
 \uneimageici{./images/activite7/nouveau_fichier.png}{.4\textwidth}
@@ -27,11 +27,11 @@ Commencez par créer un nouveau fichier. Pour cela, sélectionner \texttt{Nouvea
 Puis enregistrez votre fichier au format \texttt{Nom-date.py}
 
 
-\subsection{L'activité demandée}
+\section{L'activité demandée}
 
-\vspace{12pt}
+%\vspace{12pt}
 
-\subsubsection{Etape 1 - calcul manuel}
+\subsection{Etape 1 - calcul manuel}
 
 \vspace{12pt}
 
@@ -55,16 +55,13 @@ Simplifier l'expression suivante : $C=\frac{144x^2+84}{8}$\\
 Résoudre l'équation suivante : $D=(9-x^2)(3x-1)=4(x-3)(2x+5)$
 }% fin énoncé étape 1
 
-\subsubsection{Etape 2 - Python}
+\subsection{Etape 2 - Python}
 
 \vspace{12pt}
 
 Pour exécuter les codes ci-dessous, vous pouvez sélectionner \texttt{Démarrer le script} dans le menu  \texttt{Exécuter}
 
 \uneimageici{./images/activite7/executer_fichier.png}{.4\textwidth}
-
-\vfill
-\phantom{rien}
 
 \boiteEnonceLarge{% début énoncé
 Nous allons maintenant retrouver les résultats précédents en utilisant des codes simples du langage Python.\\
@@ -86,8 +83,10 @@ pour retrouver ce résultat. \\
 
 Vous remarquerez qu'en Python, les produits s'expriment avec \texttt{*} \\
 
-Essayez maintenant d'obtenir à l'aide de Python le résultat que vous aviez trouvé manuellement pour l'exercice 1.\\
+Essayez maintenant d'obtenir à l'aide de Python le résultat que vous aviez trouvé manuellement pour l'exercice 1.
+}%fin énoncé
 
+\boiteEnonceLarge{% debut enonce
 \emph{Exercice 2}\\
 
 Pour développer une expression \texttt{E}, \emph{sympy} utilise \texttt{expand(E)}.\\
@@ -98,10 +97,10 @@ Par exemple, on sait que $(x-1)(x-2)=x^2-3x+2$. Essayez donc dans votre fenêtre
 
 pour retrouver ce résultat.\\
 
-Essayez maintenant d'obtenir à l'aide de Python le résultat que vous aviez trouvé manuellement pour l'exercice 2.
-}%fin énoncé
+Essayez maintenant d'obtenir à l'aide de Python le résultat que vous aviez trouvé manuellement pour l'exercice 2.\\
 
-\boiteEnonceLarge{% debut enonce
+
+
 \emph{Exercice 3}\\
 
 Pour simplifier une expression \texttt{E}, \emph{sympy} utilise \texttt{simplify(E)}.\\
@@ -126,12 +125,15 @@ Par exemple, on sait que la solution de l'équation $3x+2=0$ est $-\frac{2}{3}$.
 
 pour retrouver ce résultat.\\
 
-Essayez maintenant d'obtenir à l'aide de Python le résultat que vous saviez trouvé manuellement pour l'exercice 4.\\
-
-Une fois les vérifications terminées, vous enregistrerez votre fichier au format PY (le fichier doit être nommé à partir de votre nom : \texttt{Nom-date.py}), puis vous le rendrez sur \emph{Teams} à l'endroit indiqué par votre enseignant (si nécessaire, se reporter à la fiche méthode \emph{Remettre son devoir}, page \pageref{TeamsRemettreDevoir}).
+Essayez maintenant d'obtenir à l'aide de Python le résultat que vous saviez trouvé manuellement pour l'exercice 4.
 } % fin énoncé
 
-\subsection{Pour aller plus loin...}
+\boiteEnonceLarge{% debut enonce
+Une fois les vérifications terminées, vous enregistrerez votre fichier au format PY (le fichier doit être nommé à partir de votre nom : \texttt{Nom-date.py}), puis vous le rendrez sur \emph{Teams} à l'endroit indiqué par votre enseignant (si nécessaire, se reporter à la fiche méthode \emph{Remettre son devoir}, page \pageref{TeamsRemettreDevoir}).
+} % fin ennonce
+
+
+\section{Pour aller plus loin...}
 
 On peut également factoriser et développer des expressions mathématiques, dans le module \emph{Calcul littéral} du logiciel \emph{Geogebra}. Cette méthode ne nécessite pas l'utilisation de code car \emph{Geogebra} s'exécute en utilisant une interface graphique, et bien qu'elle s'avère plus intuitive, elle est aussi plus limitée dans son utilisation.
 

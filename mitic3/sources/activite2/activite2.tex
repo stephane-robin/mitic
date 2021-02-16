@@ -1,10 +1,8 @@
-\newpage
-
-\section{Découverte Python et module Turtle}\index{decouvertePython}
+\chapter{Découverte Python et module Turtle}\index{decouvertePython}
 
 Python est un langage de programmation très implanté dans les milieux éducatif et scientifique de par la clarté de sa grammaire et l'efficacité de son code. Nous allons apprendre dans cette activité à faire le lien entre la programmation Scratch telle que vous l'avez vue en classes de 6\up{ème}, 5\up{ème}, 4\up{ème} et la programmation Python. Cette initiation en douceur à Python va donc vous permettre de découvrir les bases de ce langage. 
 
-\subsection{Pour bien commencer}
+\section{Pour bien commencer}
 
 Vous devrez utiliser \emph{Pyzo} pour exécuter votre code Python. \emph{Pyzo} est un éditeur de programme léger permettant d'exécuter du code Python. 
 
@@ -26,11 +24,11 @@ Commencez par créer un nouveau fichier. Pour cela, sélectionner \texttt{Nouvea
 
 Puis enregistrez votre fichier au format \texttt{Nom-date.py}
 
-\subsection{L'activité demandée}
+\section{L'activité demandée}
 
 
 
-\subsubsection{Partie Scratch}
+\subsection{Partie Scratch}
 
 En utilisant le logiciel \emph{Scratch}, écrire un script qui dessine un carré.
 
@@ -44,11 +42,19 @@ Par exemple, le code suivant vous permet d'obtenir le résultat escompté
 
 \uneimageici{./images/activite2/codescratch_troiscarres.png}{.2\textwidth}
 
-\subsubsection{Partie Python}
+\subsection{Partie Python}
 
-Nous allons maintenant traduire bloc par bloc en Python le code obtenu dans la première partie.
+Nous allons maintenant traduire bloc par bloc en Python le code obtenu dans la première partie.\\
 
-\begin{verbatim}
+Le bloc suivant
+
+\uneimageici{./images/activite2/scratch_demarrerScript.png}{.15\textwidth}
+
+correspond à l'exécution du code Python sur \emph{Pyzo}
+
+\uneimageici{./images/activite7/executer_fichier.png}{.4\textwidth} % image deja existante
+
+\begin{minted}{python}
 from turtle import *
 def carre():
 color("red")
@@ -72,4 +78,4 @@ goto(x, y)
 ligne()
 x = 0
 y = y - 60
-\end{verbatim}
+\end{minted}

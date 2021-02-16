@@ -134,6 +134,18 @@
     {\huge #3}\par		% le sous-titre
     \vspace*{1cm}
     {\LARGE #4}\par		% l'auteur
+    \vspace{4cm}
+    \begin{center} %cadre
+    \framebox{\begin{minipage}[c]{.95\textwidth} %cadre
+    \vspace{4pt} %cadre
+    \begin{center}\begin{minipage}[c]{.95\textwidth} %cadre
+    \vspace{24pt}
+    Ce livret appartient à \dotfill
+    \end{minipage}\end{center} %cadre
+    \vspace{16pt} %cadre
+    \end{minipage}} %cadre
+    \end{center} %cadre
+
     \newpage
     \thispagestyle{empty}
     \endgroup			% fin de la page de titre
@@ -272,7 +284,7 @@
     \textbf{\textcolor{black}\thepage}
 }
 % bas de page
-\cfoot[\scriptsize{\textsl{Fiches MITIC Teams}}]{\scriptsize{\textsl{Institut Florimont}}}
+\cfoot[\scriptsize{\textsl{Fiches MITIC 6\up{e}}}]{\scriptsize{\textsl{Institut Florimont}}}
 %
 % espacement entre l'en-tête et le corps du document (13pt par défaut)
 %\setlength{\headsep}{16pt}

@@ -174,7 +174,7 @@
 \newcommand{\chapterImage}[1]{\renewcommand{\theChapterImage}{#1}}
 % image par défaut : (c'est cette commande qu'il faut utiliser pour
 % changer l'image pour un chapitre donné.
-\chapterImage{./images/chapitreVinci5e}
+\chapterImage{./images/chapitreVinci4e.png}
 %
 % Explications :
 %
