@@ -5,22 +5,38 @@
 %
 %
 
-\chapter{Séance 4 : Rayon atomique (chimie)}\label{ficheTableur4e1}
+\chapter{Séance 4 : Rayon atomique}\label{ficheTableur4e1}
 
-\boiteEnonceLarge{%
 Le but de cette séance est d'utiliser python pour afficher un graphique montrant le rayon atomique en fonction du numéro de l'atome correspondant.
 
-\vspace{6pt}
+\section{Pour bien démarrer...}
 
-Pour commencer, ouvrez \emph{Excel} et créez un fichier que vous allez nommer \texttt{Elements.csv} (Sauvegardez-le tout de suite pour être sûrs de ne pas le perdre par la suite.) Ce fichier contiendra les données que nous allons ensuite afficher sur le graphique. Pour le compléter, il faut:
+Pour commencer, ouvrez \emph{Excel} et créez un fichier que vous allez nommer \texttt{Elements.csv} (Sauvegardez-le tout de suite pour être sûrs de ne pas le perdre par la suite.) Ce fichier contiendra les données que nous allons ensuite afficher sur le graphique. Pendant que vous travaillez, pensez à sauvegarder régulièrement votre travail (raccourci clavier \texttt{Cmd + s}).   
+
+\uneimageici{./images/generales/clavierCmdS}{.4\textwidth}
+
+
+\section{L'activité demandée}
+
+\boiteEnonceLarge{%
+
+%\vspace{6pt}
+
+Pour compléter le fichier \texttt{Elements.csv}, il faut:
 
 \begin{itemize}
 \item Créer les en-têtes du document, nommées \texttt{numéro atomique} et \texttt{rayon atomique (pm)};
 \item Remplir la colonne du numéro atomique par les nombres entiers de 1 à 20;
 \item Remplir la colonne du rayon atomique par la valeur du rayon atomique associée aux vingt premiers éléments. Pour trouver ces valeurs, une recherche sur internet peut être requise. Assurez-vous que les valeurs soient bien exprimées en picomètres (pm) ou convertissez-les si ce n'est pas le cas.
 \end{itemize}
+%\vspace{10pt}
+} % fin 
 
-Une fois cela fait, enregistrez le fichier à nouveau. Il va maintenant falloir l'ouvrir grâce à un code python. Vous disposez d'un tel code (mis à votre disposition par votre enseignant) nommé $graphique_rayon_atomique.py$. Vérifiez qu'il se trouve bien dans le même dossier que votre fichier \texttt{Elements.csv}.
+\vfill
+\phantom{rien}
+
+\boiteEnonceLarge{%
+Une fois cela fait, enregistrez le fichier à nouveau. Il va maintenant falloir l'ouvrir grâce à un code python. Vous disposez d'un tel code (mis à votre disposition par votre enseignant) nommé \texttt{$graphique\_rayon\_atomique.py$}. Vérifiez qu'il se trouve bien dans le même dossier que votre fichier \texttt{Elements.csv}.
 Lancez le code, il devrait ouvrir une fenêtre avec un graphique tel que présenté ci-dessous.
 
 \uneimageici{./images/activite4/graphique_pre_modif.png}{.6\textwidth}
@@ -30,10 +46,12 @@ Certains éléments de ce graphique sont à revoir, vous allez les modifier.
 \begin{itemize}
 \item Pour commencer, ajoutez l'unité (pm) à l'axe des ordonnées;
 \item Ajoutez un titre approprié au graphique en ajoutant une ligne \texttt{plt.title('Titre du graphique')} et en y remplaçant "Titre du graphique" par ce que vous voulez;
-\item Modifier la courbe en remplaçant la couleur par du bleu.
+\item Modifiez la courbe en remplaçant la couleur par du bleu.
 \end{itemize}
+\vspace{10pt}
+Une fois ces modifications terminées, enregistrez votre code et exécutez-le à nouveau : vous devriez apercevoir une versions à jour du graphique. Si vous essayez de modifier les valeurs du document .csv, vous obtiendrez alors une courbe différente.\\
 
-Une fois ces modifications terminées, enregistrez votre code et exécutez-le à nouveau : vous devriez apercevoir une versions à jour du graphique. Si vous essayez de modifier les valeurs du document .csv, vous obtiendrez alors une courbe différente.
+Maintenant que votre travail est terminé, enregistrez le graphique au format PNG (le fichier doit être nommé à partir de votre nom : \texttt{Nom-seance4.png}), puis vous le rendrez sur \emph{Teams} à l'endroit indiqué par votre enseignant (si nécessaire, se reporter à la fiche méthode \emph{Remettre son devoir}, page \pageref{TeamsRemettreDevoir}).
 } % fin 
 
 \section{Pour aller plus loin...}
@@ -48,8 +66,8 @@ Vous avez modifié un code Python pour personnaliser un graphique, mais on peut 
 
 \vfill
 
-\cadre{Pensez à sauver régulièrement votre travail en appuyant sur \texttt{Cmd + S} ou à partir du menu \texttt{Fichier} en choisissant \texttt{Enregistrer}.
+%\cadre{Pensez à sauver régulièrement votre travail en appuyant sur \texttt{Cmd + S} ou à partir du menu \texttt{Fichier} en choisissant \texttt{Enregistrer}.
 
-\uneimageici{./images/generales/clavierCmdS}{.5\textwidth}
-}
+%\uneimageici{./images/generales/clavierCmdS}{.5\textwidth}
+%}
 

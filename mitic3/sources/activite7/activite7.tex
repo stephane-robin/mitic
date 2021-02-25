@@ -24,7 +24,7 @@ Commencez par créer un nouveau fichier. Pour cela, sélectionner \texttt{Nouvea
 
 \uneimageici{./images/activite7/nouveau_fichier.png}{.4\textwidth}
 
-Puis enregistrez votre fichier au format \texttt{Nom-date.py}
+Puis enregistrez votre fichier au format \texttt{Nom-activite7.py}
 
 
 \section{L'activité demandée}
@@ -52,34 +52,35 @@ Simplifier l'expression suivante : $C=\frac{144x^2+84}{8}$\\
 
 \emph{Exercice 4}\\
 
-Résoudre l'équation suivante : $D=(9-x^2)(3x-1)=4(x-3)(2x+5)$
+Résoudre l'équation suivante : $(9-x^2)(3x-1)=4(x-3)(2x+5)$
 }% fin énoncé étape 1
 
 \subsection{Etape 2 - Python}
 
 \vspace{12pt}
 
+
+
+\boiteEnonceLarge{% début énoncé
 Pour exécuter les codes ci-dessous, vous pouvez sélectionner \texttt{Démarrer le script} dans le menu  \texttt{Exécuter}
 
 \uneimageici{./images/activite7/executer_fichier.png}{.4\textwidth}
 
-\boiteEnonceLarge{% début énoncé
 Nous allons maintenant retrouver les résultats précédents en utilisant des codes simples du langage Python.\\
 
-En Python, le calcul littéral nécessite l'importation d'un module appelé \emph{sympy}, puis l'affectation de symboles formels \emph{x, y, z, ...} aux différentes variables \texttt{x, y, z, ...} Pour cela, commencez votre code par\\
+En Python, le calcul littéral nécessite l'importation d'un module appelé \texttt{sympy}, puis l'affectation de symboles formels \emph{x, y, z, ...} aux différentes variables \texttt{x, y, z, ...}.\\
 
-\texttt{from sympy import *}\\
-\texttt{x, y, z = symbols('x y z')}\\
+ Pour cela, commencez votre code par
+
+\uneimageici{./images/activite7/codePython1.png}{.4\textwidth}
 
 \emph{Exercice 1}\\
 
-Pour factoriser une expression \texttt{E}, \emph{sympy} utilise \texttt{factor(E)}.\\
+Pour factoriser une expression \texttt{E}, \texttt{sympy} utilise \texttt{factor(E)}.\\
 
-Par exemple, on sait que $(x-1)(x+2)+(x-1)(x+3)=(x-1)(2x+5)$. Essayez donc dans votre fenêtre \emph{Pyzo} l'instruction Python \\
+Par exemple, on sait que $(x-1)(x+2)+(x-1)(x+3)=(x-1)(2x+5)$. Essayez donc dans votre fenêtre \emph{Pyzo} l'instruction Python suivante pour retrouver ce résultat.
 
-\texttt{print(factor((x-1)*(x+2)+(x-1)*(x+3)))} \\
-
-pour retrouver ce résultat. \\
+\uneimageici{./images/activite7/codePython2.png}{.6\textwidth}
 
 Vous remarquerez qu'en Python, les produits s'expriment avec \texttt{*} \\
 
@@ -89,7 +90,7 @@ Essayez maintenant d'obtenir à l'aide de Python le résultat que vous aviez tro
 \boiteEnonceLarge{% debut enonce
 \emph{Exercice 2}\\
 
-Pour développer une expression \texttt{E}, \emph{sympy} utilise \texttt{expand(E)}.\\
+Pour développer une expression \texttt{E}, \texttt{sympy} utilise \texttt{expand(E)}.\\
 
 Par exemple, on sait que $(x-1)(x-2)=x^2-3x+2$. Essayez donc dans votre fenêtre \emph{Pyzo} l'instruction Python \\
 
