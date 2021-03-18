@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2018.8.21)  25 FEB 2021 18:28
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2018.8.21)  16 MAR 2021 13:24
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1161,7 +1161,7 @@ ABD: EveryShipout initializing macros
 (./_minted-livret_MITIC_3e_v0/default-pyg-prefix.pygstyle)
 \c@tmp=\count154
 
-<./images/couvertureFlo3e_v1.png, id=163, 595.9866pt x 845.0772pt>
+<./images/couvertureFlo3e_v1.png, id=167, 595.9866pt x 845.0772pt>
 File: ./images/couvertureFlo3e_v1.png Graphic file (type png)
 
 <use ./images/couvertureFlo3e_v1.png>
@@ -1190,7 +1190,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 23--23
 
  []
 
-<./images/logo_flo.pdf, id=171, 232.4685pt x 41.6757pt>
+<./images/logo_flo.pdf, id=175, 232.4685pt x 41.6757pt>
 File: ./images/logo_flo.pdf Graphic file (type pdf)
 
 <use ./images/logo_flo.pdf>
@@ -1233,7 +1233,7 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 \openout9 = `livret_MITIC_3e_v0.toc'.
 
  [6] (./sources/clavier.tex
-<./images/generales/clavierTouches.png, id=325, 847.4862pt x 351.714pt>
+<./images/generales/clavierTouches.png, id=332, 847.4862pt x 351.714pt>
 File: ./images/generales/clavierTouches.png Graphic file (type png)
 
 <use ./images/generales/clavierTouches.png>
@@ -1263,7 +1263,36 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[8 <./images/generales/clavierTouches.png>])
+[8 <./images/generales/clavierTouches.png>]) (./sources/philosophie.tex
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <12> on input line 10.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 10.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 10.
+)pdfTeX warning (ext4): destination with the same identifier (name{page.i}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.41 \mainmatter
+                 [1
+
+
+]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.ii}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.41 \mainmatter
+                 [2
+
+]
 \openout4 = `livret_MITIC_3e_v0.pyg'.
 
 
@@ -1278,9 +1307,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[1
-
-]
+[1]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
@@ -1291,14 +1318,14 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 ]
 Chapitre 1.
-<./images/chapitreVinci4e.png, id=347, 597.432pt x 284.7438pt>
+<./images/chapitreVinci4e.png, id=364, 597.432pt x 284.7438pt>
 File: ./images/chapitreVinci4e.png Graphic file (type png)
 
 <use ./images/chapitreVinci4e.png>
 Package pdftex.def Info: ./images/chapitreVinci4e.png used on input line 1.
 (pdftex.def)             Requested size: 597.50787pt x 284.80392pt.
 
-<./images/activite7/icone_recherche.png, id=348, 29.10875pt x 22.0825pt>
+<./images/activite7/icone_recherche.png, id=365, 29.10875pt x 22.0825pt>
 File: ./images/activite7/icone_recherche.png Graphic file (type png)
 
 <use ./images/activite7/icone_recherche.png>
@@ -1306,7 +1333,7 @@ Package pdftex.def Info: ./images/activite7/icone_recherche.png used on input l
 ine 9.
 (pdftex.def)             Requested size: 28.45274pt x 21.58542pt.
 
-<./images/activite7/recherche_pyzo.png, id=349, 524.96124pt x 114.4275pt>
+<./images/activite7/recherche_pyzo.png, id=366, 524.96124pt x 114.4275pt>
 File: ./images/activite7/recherche_pyzo.png Graphic file (type png)
 
 <use ./images/activite7/recherche_pyzo.png>
@@ -1314,7 +1341,7 @@ Package pdftex.def Info: ./images/activite7/recherche_pyzo.png used on input li
 ne 11.
 (pdftex.def)             Requested size: 524.95996pt x 114.42722pt.
 
-<./images/activite7/ecran_pyzo.png, id=350, 768.8725pt x 344.28625pt>
+<./images/activite7/ecran_pyzo.png, id=367, 768.8725pt x 344.28625pt>
 File: ./images/activite7/ecran_pyzo.png Graphic file (type png)
 
 <use ./images/activite7/ecran_pyzo.png>
@@ -1326,7 +1353,7 @@ Underfull \vbox (badness 7081) has occurred while \output is active []
 
  [3 <./images/chapitreVinci4e.png> <./images/activite7/icone_recherche.png> <./
 images/activite7/recherche_pyzo.png>]
-<./images/activite7/nouveau_fichier.png, id=359, 326.21875pt x 61.22874pt>
+<./images/activite7/nouveau_fichier.png, id=376, 326.21875pt x 61.22874pt>
 File: ./images/activite7/nouveau_fichier.png Graphic file (type png)
 
 <use ./images/activite7/nouveau_fichier.png>
@@ -1334,7 +1361,7 @@ Package pdftex.def Info: ./images/activite7/nouveau_fichier.png used on input l
 ine 23.
 (pdftex.def)             Requested size: 326.21794pt x 61.22858pt.
 
-<./images/activite2/scratch_uncarre.png, id=360, 94.3525pt x 95.35625pt>
+<./images/activite2/scratch_uncarre.png, id=377, 94.3525pt x 95.35625pt>
 File: ./images/activite2/scratch_uncarre.png Graphic file (type png)
 
 <use ./images/activite2/scratch_uncarre.png>
@@ -1342,7 +1369,7 @@ Package pdftex.def Info: ./images/activite2/scratch_uncarre.png used on input l
 ine 35.
 (pdftex.def)             Requested size: 94.35225pt x 95.356pt.
 
-<./images/activite2/scratch_troiscarres.png, id=361, 296.10625pt x 93.34875pt>
+<./images/activite2/scratch_troiscarres.png, id=378, 296.10625pt x 93.34875pt>
 File: ./images/activite2/scratch_troiscarres.png Graphic file (type png)
 
 <use ./images/activite2/scratch_troiscarres.png>
@@ -1350,7 +1377,7 @@ Package pdftex.def Info: ./images/activite2/scratch_troiscarres.png used on inp
 ut line 39.
 (pdftex.def)             Requested size: 296.10551pt x 93.34851pt.
 
-<./images/activite2/codescratch_troiscarres.png, id=362, 176.66pt x 454.69875pt
+<./images/activite2/codescratch_troiscarres.png, id=379, 176.66pt x 454.69875pt
 >
 File: ./images/activite2/codescratch_troiscarres.png Graphic file (type png)
  <use ./images/activite2/codescratch_troiscarres.png>
@@ -1372,7 +1399,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 47--48
  []
 
 
-<./images/activite2/scratch_demarrerScript.png, id=373, 111.41624pt x 95.35625p
+<./images/activite2/scratch_demarrerScript.png, id=390, 111.41624pt x 95.35625p
 t>
 File: ./images/activite2/scratch_demarrerScript.png Graphic file (type png)
  <use ./images/activite2/scratch_demarrerScript.png>
@@ -1380,7 +1407,7 @@ Package pdftex.def Info: ./images/activite2/scratch_demarrerScript.png used on
 input line 51.
 (pdftex.def)             Requested size: 111.41597pt x 95.356pt.
 
-<./images/activite7/executer_fichier.png, id=374, 269.005pt x 53.19875pt>
+<./images/activite7/executer_fichier.png, id=391, 269.005pt x 53.19875pt>
 File: ./images/activite7/executer_fichier.png Graphic file (type png)
 
 <use ./images/activite7/executer_fichier.png>
@@ -1414,7 +1441,7 @@ File: ./images/chapitreVinci4e.png Graphic file (type png)
 Package pdftex.def Info: ./images/chapitreVinci4e.png used on input line 8.
 (pdftex.def)             Requested size: 597.50787pt x 284.80392pt.
 
-<./images/generales/clavierCmdS.png, id=386, 196.5744pt x 72.63135pt>
+<./images/generales/clavierCmdS.png, id=402, 196.5744pt x 72.63135pt>
 File: ./images/generales/clavierCmdS.png Graphic file (type png)
 
 <use ./images/generales/clavierCmdS.png>
@@ -1427,18 +1454,15 @@ Underfull \hbox (badness 1412) in paragraph at lines 33--33
 éro atomique \T1/lmr/m/n/12 et \T1/lmtt/m/n/12 rayon
  []
 
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 33.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 33.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 33.
 
 Overfull \hbox (6.0pt too wide) in paragraph at lines 33--34
 [][][][][][][]
  []
 
-<./images/activite4/graphique_pre_modif.png, id=387, 462.528pt x 346.896pt>
+[7
+
+ <./images/generales/clavierCmdS.png>]
+<./images/activite4/graphique_pre_modif.png, id=408, 462.528pt x 346.896pt>
 File: ./images/activite4/graphique_pre_modif.png Graphic file (type png)
 
 <use ./images/activite4/graphique_pre_modif.png>
@@ -1467,9 +1491,6 @@ Overfull \hbox (6.0pt too wide) in paragraph at lines 55--56
 [][][][][][][]
  []
 
-[7
-
- <./images/generales/clavierCmdS.png>]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
@@ -1584,49 +1605,54 @@ Overfull \hbox (6.0pt too wide) in paragraph at lines 56--57
 File: ./images/activite7/executer_fichier.png Graphic file (type png)
 <use ./images/activite7/executer_fichier.png>
 Package pdftex.def Info: ./images/activite7/executer_fichier.png used on input 
-line 88.
+line 96.
 (pdftex.def)             Requested size: 269.00433pt x 53.19861pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 88--88
+Underfull \hbox (badness 10000) in paragraph at lines 96--96
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 88--88
+Underfull \hbox (badness 10000) in paragraph at lines 96--96
 
  []
 
-<./images/activite7/codePython1.png, id=413, 289.08pt x 53.19875pt>
+<./images/activite7/codePython1.png, id=429, 289.08pt x 53.19875pt>
 File: ./images/activite7/codePython1.png Graphic file (type png)
 
 <use ./images/activite7/codePython1.png>
 Package pdftex.def Info: ./images/activite7/codePython1.png used on input line 
-88.
+96.
 (pdftex.def)             Requested size: 289.07928pt x 53.19861pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 88--88
+Underfull \hbox (badness 10000) in paragraph at lines 96--96
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 88--88
+Underfull \hbox (badness 10000) in paragraph at lines 96--96
 
  []
 
-<./images/activite7/codePython2.png, id=414, 426.59375pt x 26.0975pt>
+<./images/activite7/codePython2.png, id=430, 426.59375pt x 26.0975pt>
 File: ./images/activite7/codePython2.png Graphic file (type png)
 
 <use ./images/activite7/codePython2.png>
 Package pdftex.def Info: ./images/activite7/codePython2.png used on input line 
-88.
+96.
 (pdftex.def)             Requested size: 426.5927pt x 26.09743pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 88--88
+Underfull \hbox (badness 10000) in paragraph at lines 96--96
 
  []
 
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 88--89
+Underfull \hbox (badness 10000) in paragraph at lines 96--96
+
+ []
+
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 96--97
 [][][][][][][]
  []
 
@@ -1636,104 +1662,81 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[12]
-Underfull \hbox (badness 10000) in paragraph at lines 130--130
+[12] <./images/activite7/exercice2.png, id=439, 289.08pt x 26.0975pt>
+File: ./images/activite7/exercice2.png Graphic file (type png)
+
+<use ./images/activite7/exercice2.png>
+Package pdftex.def Info: ./images/activite7/exercice2.png used on input line 13
+7.
+(pdftex.def)             Requested size: 289.07928pt x 26.09743pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 137--137
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 130--130
+Underfull \hbox (badness 10000) in paragraph at lines 137--137
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 130--130
+Underfull \hbox (badness 10000) in paragraph at lines 137--137
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 130--130
+Underfull \hbox (badness 10000) in paragraph at lines 137--137
+
+ []
+
+<./images/activite7/exercice3.png, id=440, 365.365pt x 27.10126pt>
+File: ./images/activite7/exercice3.png Graphic file (type png)
+
+<use ./images/activite7/exercice3.png>
+Package pdftex.def Info: ./images/activite7/exercice3.png used on input line 13
+7.
+(pdftex.def)             Requested size: 365.3641pt x 27.10118pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 137--137
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 130--130
+Underfull \hbox (badness 10000) in paragraph at lines 137--137
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 130--130
+Underfull \hbox (badness 10000) in paragraph at lines 137--137
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 130--130
+Underfull \hbox (badness 10000) in paragraph at lines 137--137
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 130--130
+Underfull \hbox (badness 10000) in paragraph at lines 137--137
+
+ []
+
+<./images/activite7/exercice4.png, id=441, 245.91875pt x 27.10126pt>
+File: ./images/activite7/exercice4.png Graphic file (type png)
+
+<use ./images/activite7/exercice4.png>
+Package pdftex.def Info: ./images/activite7/exercice4.png used on input line 13
+7.
+(pdftex.def)             Requested size: 245.91814pt x 27.10118pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 137--137
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 130--130
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 130--130
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 130--130
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 130--130
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 130--130
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 130--130
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 130--130
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 130--130
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 130--130
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 130--130
-
- []
-
-
-Overfull \hbox (6.0pt too wide) in paragraph at lines 130--131
+Overfull \hbox (6.0pt too wide) in paragraph at lines 137--138
 [][][][][][][]
  []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1742,7 +1745,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [13 <./images/activite7/codePython1.png> <./images/activite7/codePython2.png>]
-Overfull \hbox (6.0pt too wide) in paragraph at lines 134--135
+Overfull \hbox (6.0pt too wide) in paragraph at lines 141--142
 [][][][][][][]
  []
 
@@ -1756,7 +1759,8 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[14]) (./sources/teams/teams_accueil.tex
+[14 <./images/activite7/exercice2.png> <./images/activite7/exercice3.png> <./im
+ages/activite7/exercice4.png>]) (./sources/teams/teams_accueil.tex
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
@@ -1783,7 +1787,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--5
 
  []
 
-<./images/teams/ecran_office_com_crop.png, id=443, 440.64626pt x 308.15125pt>
+<./images/teams/ecran_office_com_crop.png, id=466, 440.64626pt x 308.15125pt>
 File: ./images/teams/ecran_office_com_crop.png Graphic file (type png)
 
 <use ./images/teams/ecran_office_com_crop.png>
@@ -1791,7 +1795,7 @@ Package pdftex.def Info: ./images/teams/ecran_office_com_crop.png used on input
  line 27.
 (pdftex.def)             Requested size: 142.26378pt x 99.48497pt.
 
-<./images/teams/ecran_connexion_office_com_crop.png, id=444, 461.725pt x 392.46
+<./images/teams/ecran_connexion_office_com_crop.png, id=467, 461.725pt x 392.46
 625pt>
 File: ./images/teams/ecran_connexion_office_com_crop.png Graphic file (type png
 )
@@ -1800,7 +1804,7 @@ Package pdftex.def Info: ./images/teams/ecran_connexion_office_com_crop.png use
 d on input line 34.
 (pdftex.def)             Requested size: 142.26378pt x 120.92068pt.
  [17 <./images/teams/ecran_office_com_crop.png (PNG copy)>]
-<./images/teams/ecran_connexion_florimont_crop.png, id=451, 524.96124pt x 403.5
+<./images/teams/ecran_connexion_florimont_crop.png, id=473, 524.96124pt x 403.5
 075pt>
 File: ./images/teams/ecran_connexion_florimont_crop.png Graphic file (type png)
 
@@ -1824,7 +1828,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 49--50
  []
 
 
-<./images/teams/ecran_installer_teams_crop.png, id=452, 459.7175pt x 191.71625p
+<./images/teams/ecran_installer_teams_crop.png, id=474, 459.7175pt x 191.71625p
 t>
 File: ./images/teams/ecran_installer_teams_crop.png Graphic file (type png)
  <use ./images/teams/ecran_installer_teams_crop.png>
@@ -1837,7 +1841,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 58--59
  []
 
 
-<./images/teams/ecran_accueil_office_crop.png, id=453, 518.93875pt x 664.4825pt
+<./images/teams/ecran_accueil_office_crop.png, id=475, 518.93875pt x 664.4825pt
 >
 File: ./images/teams/ecran_accueil_office_crop.png Graphic file (type png)
  <use ./images/teams/ecran_accueil_office_crop.png>
@@ -1858,7 +1862,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 75--76
 
  []
 
-<./images/teams/publications.png, id=458, 512.91624pt x 118.4425pt>
+<./images/teams/publications.png, id=480, 512.91624pt x 118.4425pt>
 File: ./images/teams/publications.png Graphic file (type png)
 
 <use ./images/teams/publications.png>
@@ -1866,7 +1870,7 @@ Package pdftex.def Info: ./images/teams/publications.png used on input line 80.
 
 (pdftex.def)             Requested size: 256.0748pt x 59.13254pt.
 
-<./images/teams/publications2.png, id=459, 682.55pt x 82.3075pt>
+<./images/teams/publications2.png, id=481, 682.55pt x 82.3075pt>
 File: ./images/teams/publications2.png Graphic file (type png)
 
 <use ./images/teams/publications2.png>
@@ -1874,7 +1878,7 @@ Package pdftex.def Info: ./images/teams/publications2.png used on input line 87
 .
 (pdftex.def)             Requested size: 256.0748pt x 30.8803pt.
 
-<./images/teams/envoi_message.png, id=460, 29.10875pt x 26.0975pt>
+<./images/teams/envoi_message.png, id=482, 29.10875pt x 26.0975pt>
 File: ./images/teams/envoi_message.png Graphic file (type png)
 
 <use ./images/teams/envoi_message.png>
@@ -1882,7 +1886,7 @@ Package pdftex.def Info: ./images/teams/envoi_message.png used on input line 91
 .
 (pdftex.def)             Requested size: 19.91684pt x 17.85715pt.
 
-<./images/teams/publications3.png, id=461, 658.46pt x 124.465pt>
+<./images/teams/publications3.png, id=483, 658.46pt x 124.465pt>
 File: ./images/teams/publications3.png Graphic file (type png)
 
 <use ./images/teams/publications3.png>
@@ -1890,7 +1894,7 @@ Package pdftex.def Info: ./images/teams/publications3.png used on input line 94
 .
 (pdftex.def)             Requested size: 256.0748pt x 48.4044pt.
 
-<./images/teams/accueil_classe_crop.png, id=462, 750.805pt x 428.60126pt>
+<./images/teams/accueil_classe_crop.png, id=484, 750.805pt x 428.60126pt>
 File: ./images/teams/accueil_classe_crop.png Graphic file (type png)
 
 <use ./images/teams/accueil_classe_crop.png>
@@ -1907,7 +1911,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 [19 <./images/teams/ecran_accueil_office_crop.png (PNG copy)> <./images/teams/p
 ublications.png> <./images/teams/publications2.png> <./images/teams/envoi_messa
 ge.png> <./images/teams/publications3.png>]
-<./images/teams/ouvrir_dossier_crop.png, id=467, 714.67pt x 280.04625pt>
+<./images/teams/ouvrir_dossier_crop.png, id=489, 714.67pt x 280.04625pt>
 File: ./images/teams/ouvrir_dossier_crop.png Graphic file (type png)
 
 <use ./images/teams/ouvrir_dossier_crop.png>
@@ -1915,7 +1919,7 @@ Package pdftex.def Info: ./images/teams/ouvrir_dossier_crop.png used on input l
 ine 115.
 (pdftex.def)             Requested size: 256.0748pt x 100.34224pt.
 
-<./images/teams/ouvrir_fichier_crop.png, id=468, 698.61pt x 229.85875pt>
+<./images/teams/ouvrir_fichier_crop.png, id=490, 698.61pt x 229.85875pt>
 File: ./images/teams/ouvrir_fichier_crop.png Graphic file (type png)
 
 <use ./images/teams/ouvrir_fichier_crop.png>
@@ -1936,7 +1940,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 [20 <./images/teams/accueil_classe_crop.png (PNG copy)> <./images/teams/ouvrir_
 dossier_crop.png (PNG copy)> <./images/teams/ouvrir_fichier_crop.png (PNG copy)
 >]
-<./images/teams/telecharger_document_crop.png, id=473, 1445.4pt x 336.25626pt>
+<./images/teams/telecharger_document_crop.png, id=495, 1445.4pt x 336.25626pt>
 File: ./images/teams/telecharger_document_crop.png Graphic file (type png)
 
 <use ./images/teams/telecharger_document_crop.png>
@@ -1944,7 +1948,7 @@ Package pdftex.def Info: ./images/teams/telecharger_document_crop.png used on i
 nput line 131.
 (pdftex.def)             Requested size: 256.0748pt x 59.56917pt.
 
-<./images/teams/telecharger1_crop.png, id=474, 688.5725pt x 333.245pt>
+<./images/teams/telecharger1_crop.png, id=496, 688.5725pt x 333.245pt>
 File: ./images/teams/telecharger1_crop.png Graphic file (type png)
 
 <use ./images/teams/telecharger1_crop.png>
@@ -1952,7 +1956,7 @@ Package pdftex.def Info: ./images/teams/telecharger1_crop.png used on input lin
 e 138.
 (pdftex.def)             Requested size: 256.0748pt x 123.92923pt.
 
-<./images/teams/telecharger2_crop.png, id=475, 692.5875pt x 226.8475pt>
+<./images/teams/telecharger2_crop.png, id=497, 692.5875pt x 226.8475pt>
 File: ./images/teams/telecharger2_crop.png Graphic file (type png)
 
 <use ./images/teams/telecharger2_crop.png>
@@ -1960,14 +1964,14 @@ Package pdftex.def Info: ./images/teams/telecharger2_crop.png used on input lin
 e 145.
 (pdftex.def)             Requested size: 256.0748pt x 83.87341pt.
 
-<./images/teams/devoir1.png, id=476, 590.205pt x 159.59625pt>
+<./images/teams/devoir1.png, id=498, 590.205pt x 159.59625pt>
 File: ./images/teams/devoir1.png Graphic file (type png)
 
 <use ./images/teams/devoir1.png>
 Package pdftex.def Info: ./images/teams/devoir1.png used on input line 158.
 (pdftex.def)             Requested size: 256.0748pt x 69.24602pt.
 
-<./images/teams/devoir2.png, id=477, 591.20876pt x 314.17375pt>
+<./images/teams/devoir2.png, id=499, 591.20876pt x 314.17375pt>
 File: ./images/teams/devoir2.png Graphic file (type png)
 
 <use ./images/teams/devoir2.png>
@@ -1983,21 +1987,21 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 [21 <./images/teams/telecharger_document_crop.png (PNG copy)> <./images/teams/t
 elecharger1_crop.png (PNG copy)> <./images/teams/telecharger2_crop.png (PNG cop
 y)> <./images/teams/devoir1.png>]
-<./images/teams/devoir3.png, id=482, 776.9025pt x 511.9125pt>
+<./images/teams/devoir3.png, id=505, 776.9025pt x 511.9125pt>
 File: ./images/teams/devoir3.png Graphic file (type png)
 
 <use ./images/teams/devoir3.png>
 Package pdftex.def Info: ./images/teams/devoir3.png used on input line 172.
 (pdftex.def)             Requested size: 256.0748pt x 168.73636pt.
 
-<./images/teams/pointilles.png, id=483, 46.1725pt x 40.15pt>
+<./images/teams/pointilles.png, id=506, 46.1725pt x 40.15pt>
 File: ./images/teams/pointilles.png Graphic file (type png)
 
 <use ./images/teams/pointilles.png>
 Package pdftex.def Info: ./images/teams/pointilles.png used on input line 176.
 (pdftex.def)             Requested size: 19.91684pt x 17.31868pt.
 
-<./images/teams/choix_pointilles.png, id=484, 744.7825pt x 193.72375pt>
+<./images/teams/choix_pointilles.png, id=507, 744.7825pt x 193.72375pt>
 File: ./images/teams/choix_pointilles.png Graphic file (type png)
 
 <use ./images/teams/choix_pointilles.png>
@@ -2005,14 +2009,14 @@ Package pdftex.def Info: ./images/teams/choix_pointilles.png used on input line
  179.
 (pdftex.def)             Requested size: 256.0748pt x 66.60715pt.
 
-<./images/teams/ajout.png, id=485, 743.77875pt x 126.4725pt>
+<./images/teams/ajout.png, id=508, 743.77875pt x 126.4725pt>
 File: ./images/teams/ajout.png Graphic file (type png)
 
 <use ./images/teams/ajout.png>
 Package pdftex.def Info: ./images/teams/ajout.png used on input line 189.
 (pdftex.def)             Requested size: 256.0748pt x 43.54428pt.
 
-<./images/teams/selection_devoir.png, id=486, 864.22874pt x 580.1675pt>
+<./images/teams/selection_devoir.png, id=509, 864.22874pt x 580.1675pt>
 File: ./images/teams/selection_devoir.png Graphic file (type png)
 
 <use ./images/teams/selection_devoir.png>
@@ -2028,21 +2032,21 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 [22 <./images/teams/devoir2.png> <./images/teams/devoir3.png> <./images/teams/p
 ointilles.png> <./images/teams/choix_pointilles.png> <./images/teams/ajout.png>
-] <./images/teams/ajout2.png, id=491, 848.16875pt x 543.02875pt>
+] <./images/teams/ajout2.png, id=514, 848.16875pt x 543.02875pt>
 File: ./images/teams/ajout2.png Graphic file (type png)
 
 <use ./images/teams/ajout2.png>
 Package pdftex.def Info: ./images/teams/ajout2.png used on input line 203.
 (pdftex.def)             Requested size: 256.0748pt x 163.94562pt.
 
-<./images/teams/ajout3.png, id=492, 743.77875pt x 263.98625pt>
+<./images/teams/ajout3.png, id=515, 743.77875pt x 263.98625pt>
 File: ./images/teams/ajout3.png Graphic file (type png)
 
 <use ./images/teams/ajout3.png>
 Package pdftex.def Info: ./images/teams/ajout3.png used on input line 210.
 (pdftex.def)             Requested size: 256.0748pt x 90.89005pt.
 
-<./images/teams/ajout4.png, id=493, 773.89125pt x 135.50626pt>
+<./images/teams/ajout4.png, id=516, 773.89125pt x 135.50626pt>
 File: ./images/teams/ajout4.png Graphic file (type png)
 
 <use ./images/teams/ajout4.png>
@@ -2061,7 +2065,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 225--226
 
  []
 
-<./images/teams/acces_bloc_notes_crop.png, id=499, 593.21625pt x 93.34875pt>
+<./images/teams/acces_bloc_notes_crop.png, id=521, 593.21625pt x 93.34875pt>
 File: ./images/teams/acces_bloc_notes_crop.png Graphic file (type png)
 
 <use ./images/teams/acces_bloc_notes_crop.png>
@@ -2069,7 +2073,7 @@ Package pdftex.def Info: ./images/teams/acces_bloc_notes_crop.png used on input
  line 230.
 (pdftex.def)             Requested size: 256.0748pt x 40.29727pt.
 
-<./images/teams/ouvrir_menu_bloc_notes_crop.png, id=500, 1445.4pt x 416.55624pt
+<./images/teams/ouvrir_menu_bloc_notes_crop.png, id=522, 1445.4pt x 416.55624pt
 >
 File: ./images/teams/ouvrir_menu_bloc_notes_crop.png Graphic file (type png)
  <use ./images/teams/ouvrir_menu_bloc_notes_crop.png>
@@ -2077,7 +2081,7 @@ Package pdftex.def Info: ./images/teams/ouvrir_menu_bloc_notes_crop.png used on
  input line 237.
 (pdftex.def)             Requested size: 312.9803pt x 90.19981pt.
 
-<./images/teams/ouvrir_liste_dossiers_docs_crop.png, id=501, 379.4175pt x 240.9
+<./images/teams/ouvrir_liste_dossiers_docs_crop.png, id=523, 379.4175pt x 240.9
 pt>
 File: ./images/teams/ouvrir_liste_dossiers_docs_crop.png Graphic file (type png
 )
@@ -2104,7 +2108,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 [24 <./images/teams/ajout4.png> <./images/teams/acces_bloc_notes_crop.png (PNG 
 copy)> <./images/teams/ouvrir_menu_bloc_notes_crop.png> <./images/teams/ouvrir_
 liste_dossiers_docs_crop.png (PNG copy)>]
-<./images/teams/sous_section_documents_crop.png, id=506, 1060.96375pt x 676.527
+<./images/teams/sous_section_documents_crop.png, id=529, 1060.96375pt x 676.527
 5pt>
 File: ./images/teams/sous_section_documents_crop.png Graphic file (type png)
  <use ./images/teams/sous_section_documents_crop.png>
@@ -2112,14 +2116,14 @@ Package pdftex.def Info: ./images/teams/sous_section_documents_crop.png used on
  input line 255.
 (pdftex.def)             Requested size: 284.52756pt x 181.4261pt.
 
-<./images/teams/video1.png, id=507, 735.74875pt x 204.765pt>
+<./images/teams/video1.png, id=530, 735.74875pt x 204.765pt>
 File: ./images/teams/video1.png Graphic file (type png)
 
 <use ./images/teams/video1.png>
 Package pdftex.def Info: ./images/teams/video1.png used on input line 267.
 (pdftex.def)             Requested size: 256.0748pt x 71.26888pt.
 
-<./images/teams/video2.png, id=508, 513.92pt x 378.41376pt>
+<./images/teams/video2.png, id=531, 513.92pt x 378.41376pt>
 File: ./images/teams/video2.png Graphic file (type png)
 
 <use ./images/teams/video2.png>
@@ -2137,7 +2141,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 [25 <./images/teams/sous_section_documents_crop.png (PNG copy)> <./images/teams
 /video1.png>]
-<./images/teams/accueil_liste.png, id=513, 356.33125pt x 725.71124pt>
+<./images/teams/accueil_liste.png, id=536, 356.33125pt x 725.71124pt>
 File: ./images/teams/accueil_liste.png Graphic file (type png)
 
 <use ./images/teams/accueil_liste.png>
@@ -2152,7 +2156,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [26 <./images/teams/video2.png> <./images/teams/accueil_liste.png>]
-<./images/teams/accueil_grille.png, id=518, 889.3225pt x 619.31375pt>
+<./images/teams/accueil_grille.png, id=541, 889.3225pt x 619.31375pt>
 File: ./images/teams/accueil_grille.png Graphic file (type png)
 
 <use ./images/teams/accueil_grille.png>
@@ -2160,7 +2164,7 @@ Package pdftex.def Info: ./images/teams/accueil_grille.png used on input line 2
 97.
 (pdftex.def)             Requested size: 199.16928pt x 138.69698pt.
 
-<./images/teams/bouton_parametres.png, id=519, 48.18pt x 39.14626pt>
+<./images/teams/bouton_parametres.png, id=542, 48.18pt x 39.14626pt>
 File: ./images/teams/bouton_parametres.png Graphic file (type png)
 
 <use ./images/teams/bouton_parametres.png>
@@ -2173,7 +2177,7 @@ Overfull \hbox (20.46701pt too wide) in paragraph at lines 301--302
 ne [], choi-sir \T1/lmtt/m/n/12 Changer d'affichage
  []
 
-<./images/teams/changement_liste.png, id=520, 543.02875pt x 132.495pt>
+<./images/teams/changement_liste.png, id=543, 543.02875pt x 132.495pt>
 File: ./images/teams/changement_liste.png Graphic file (type png)
 
 <use ./images/teams/changement_liste.png>
@@ -2181,7 +2185,7 @@ Package pdftex.def Info: ./images/teams/changement_liste.png used on input line
  304.
 (pdftex.def)             Requested size: 256.0748pt x 62.4829pt.
 
-<./images/teams/choix_parametre.png, id=521, 765.86125pt x 578.16pt>
+<./images/teams/choix_parametre.png, id=544, 765.86125pt x 578.16pt>
 File: ./images/teams/choix_parametre.png Graphic file (type png)
 
 <use ./images/teams/choix_parametre.png>
@@ -2189,7 +2193,7 @@ Package pdftex.def Info: ./images/teams/choix_parametre.png used on input line
 311.
 (pdftex.def)             Requested size: 256.0748pt x 193.31648pt.
 
-<./images/teams/entree_classe.png, id=522, 892.33376pt x 279.0425pt>
+<./images/teams/entree_classe.png, id=545, 892.33376pt x 279.0425pt>
 File: ./images/teams/entree_classe.png Graphic file (type png)
 
 <use ./images/teams/entree_classe.png>
@@ -2292,15 +2296,15 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 150.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 150.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 150.
 Package rerunfilecheck Info: File `livret_MITIC_3e_v0.out' has not changed.
-(rerunfilecheck)             Checksum: EE603F5591A6AE7539C0A808CE004089;3211.
+(rerunfilecheck)             Checksum: 56105033E7165397CB6052A937848CF5;3274.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 150.
  ) 
 Here is how much of TeX's memory you used:
- 20632 strings out of 493014
- 385122 string characters out of 6133351
- 484941 words of memory out of 5000000
- 23594 multiletter control sequences out of 15000+600000
- 82624 words of font info for 55 fonts, out of 8000000 for 9000
+ 20655 strings out of 493014
+ 385721 string characters out of 6133351
+ 484929 words of memory out of 5000000
+ 23608 multiletter control sequences out of 15000+600000
+ 85614 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  62i,12n,56p,942b,1082s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/
@@ -2319,10 +2323,10 @@ pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmro8.pfb></usr/l
 ocal/texlive/2016/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/local/texli
 ve/2016/texmf-dist/fonts/type1/public/lm/lmtk10.pfb></usr/local/texlive/2016/te
 xmf-dist/fonts/type1/public/lm/lmtt12.pfb>
-Output written on livret_MITIC_3e_v0.pdf (38 pages, 4578659 bytes).
+Output written on livret_MITIC_3e_v0.pdf (40 pages, 4577541 bytes).
 PDF statistics:
- 615 PDF objects out of 1000 (max. 8388607)
- 446 compressed objects within 5 object streams
- 80 named destinations out of 1000 (max. 500000)
- 595 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 637 PDF objects out of 1000 (max. 8388607)
+ 459 compressed objects within 5 object streams
+ 83 named destinations out of 1000 (max. 500000)
+ 618 words of extra memory for PDF output out of 10000 (max. 10000000)
 

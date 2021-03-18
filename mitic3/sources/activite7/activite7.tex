@@ -2,7 +2,7 @@
 
 Vous avez appris à factoriser et développer des expressions mathématiques. C'est parfois difficile mais cela vous permet de résoudre certains problèmes dont vous ne pourriez trouver la solution autrement. Le langage Python permet d'obtenir un résultat similaire à moindre effort si on sait l'utiliser correctement. Savoir utiliser cet outil pour trouver vos résultats ou vérifier votre travail est une donc compétence bien utile que vous allez apprendre aujourd'hui.\\
 
-\section{Pour bien commencer...}
+\section{Pour bien démarrer...}
 
 Vous devrez utiliser \emph{Pyzo} pour exécuter votre code Python. \emph{Pyzo} est un éditeur de programme léger permettant d'exécuter du code Python. 
 
@@ -27,7 +27,7 @@ Commencez par créer un nouveau fichier. Pour cela, sélectionner \texttt{Nouvea
 Puis enregistrez votre fichier au format \texttt{Nom-activite7.py}
 
 
-\section{L'activité demandée}
+\section{Sujet de l'activité...}
 
 %\vspace{12pt}
 
@@ -85,16 +85,23 @@ Par exemple, on sait que $(x-1)(x+2)+(x-1)(x+3)=(x-1)(2x+5)$. Essayez donc dans 
 Vous remarquerez qu'en Python, les produits s'expriment avec \texttt{*} \\
 
 Essayez maintenant d'obtenir à l'aide de Python le résultat que vous aviez trouvé manuellement pour l'exercice 1.
-}%fin énoncé
 
-\boiteEnonceLarge{% debut enonce
+
+
+
+
 \emph{Exercice 2}\\
 
-Pour développer une expression \texttt{E}, \texttt{sympy} utilise \texttt{expand(E)}.\\
+Pour développer une expression \texttt{E}, \texttt{sympy} utilise \texttt{expand(E)}.
+}%fin énoncé
 
-Par exemple, on sait que $(x-1)(x-2)=x^2-3x+2$. Essayez donc dans votre fenêtre \emph{Pyzo} l'instruction Python \\
+\vfill
+\phantom{rien}
 
-\texttt{print(expand((x-1)*(x-2)))}  \\
+\boiteEnonceLarge{% debut enonce
+Par exemple, on sait que $(x-1)(x-2)=x^2-3x+2$. Essayez donc dans votre fenêtre \emph{Pyzo} l'instruction Python
+
+\uneimageici{./images/activite7/exercice2.png}{.4\textwidth}
 
 pour retrouver ce résultat.\\
 
@@ -104,11 +111,11 @@ Essayez maintenant d'obtenir à l'aide de Python le résultat que vous aviez tro
 
 \emph{Exercice 3}\\
 
-Pour simplifier une expression \texttt{E}, \emph{sympy} utilise \texttt{simplify(E)}.\\
+Pour simplifier une expression \texttt{E}, \texttt{sympy} utilise \texttt{simplify(E)}.\\
 
-Par exemple, on sait que pour $x\ne0$, on peut écrire $\frac{2x^2+6x}{2x}=x+3$. Essayez donc dans votre fenêtre \emph{Pyzo} l'instruction Python \\
+Par exemple, on sait que pour $x\ne0$, on peut écrire $\frac{2x^2+6x}{2x}=x+3$. Essayez donc dans votre fenêtre \emph{Pyzo} l'instruction Python
 
-\texttt{print(simplify(2*x**2+6*x)/(2*x))}  \\
+\uneimageici{./images/activite7/exercice3.png}{.5\textwidth}
 
 pour retrouver ce résultat. \\
 
@@ -118,11 +125,11 @@ Essayez maintenant d'obtenir à l'aide de Python le résultat que vous aviez tro
 
 \emph{Exercice 4}\\
 
-Pour résoudre une équation  \texttt{E}, \emph{sympy} utilise \texttt{solve(E, x)}.\\
+Pour résoudre une équation  \texttt{E}, \texttt{sympy} utilise \texttt{solve(E, x)}.\\
 
-Par exemple, on sait que la solution de l'équation $3x+2=0$ est $-\frac{2}{3}$. Essayez donc dans votre fenêtre \emph{Pyzo} l'instruction Python \\
+Par exemple, on sait que la solution de l'équation $3x+2=0$ est $-\frac{2}{3}$. Essayez donc dans votre fenêtre \emph{Pyzo} l'instruction Python
 
-\texttt{print(solve(3*x+2, x))}  \\
+\uneimageici{./images/activite7/exercice4.png}{.32\textwidth}
 
 pour retrouver ce résultat.\\
 
@@ -130,7 +137,7 @@ Essayez maintenant d'obtenir à l'aide de Python le résultat que vous saviez tr
 } % fin énoncé
 
 \boiteEnonceLarge{% debut enonce
-Une fois les vérifications terminées, vous enregistrerez votre fichier au format PY (le fichier doit être nommé à partir de votre nom : \texttt{Nom-date.py}), puis vous le rendrez sur \emph{Teams} à l'endroit indiqué par votre enseignant (si nécessaire, se reporter à la fiche méthode \emph{Remettre son devoir}, page \pageref{TeamsRemettreDevoir}).
+Une fois les vérifications terminées, vous enregistrerez votre fichier au format PY (le fichier doit être nommé à partir de votre nom : \texttt{Nom-seance7.py}), puis vous le rendrez sur \emph{Teams} à l'endroit indiqué par votre enseignant (si nécessaire, se reporter à la fiche méthode \emph{Remettre son devoir}, page \pageref{TeamsRemettreDevoir}).
 } % fin ennonce
 
 
