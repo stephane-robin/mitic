@@ -10,7 +10,7 @@
 \contentsline {section}{\numberline {6}Rejoindre une visio-conf\IeC {\'e}rence}{9}{section.1.6}
 \contentsline {section}{\numberline {7}Pour aller plus loin}{10}{section.1.7}
 \contentsline {subsection}{\numberline {7.1}Apparence de la page d'accueil}{10}{subsection.1.7.1}
-\contentsline {subsection}{\numberline {7.2}Activit\IeC {\'e} d'exploration de Teams}{11}{subsection.1.7.2}
+\contentsline {subsection}{\numberline {7.2}Activit\IeC {\'e} d'exploration de Teams}{12}{subsection.1.7.2}
 \contentsline {chapter}{\numberline {2}Tableur}{13}{chapter.2}
 \contentsline {section}{\numberline {1}S\IeC {\'e}ance 1 : \IeC {\'e}volution des notes d'un \IeC {\'e}l\IeC {\`e}ve}{14}{section.2.1}
 \contentsline {subsection}{\numberline {1.1}Premiers pas avec Excel...}{14}{subsection.2.1.1}

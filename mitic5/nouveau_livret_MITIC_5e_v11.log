@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2018.8.21)  2 MAR 2021 14:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2018.8.21)  23 MAR 2021 13:22
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1551,12 +1551,10 @@ File: ./images/teams/entree_classe.png Graphic file (type png)
 Package pdftex.def Info: ./images/teams/entree_classe.png used on input line 31
 8.
 (pdftex.def)             Requested size: 213.39566pt x 66.72887pt.
-) (./sources/tableur02/tableur02.tex
-[11 <./images/teams/accueil_grille.png> <./images/teams/bouton_parametres.png> 
-<./images/teams/changement_liste.png> <./images/teams/choix_parametre.png> <./i
-mages/teams/entree_classe.png>] [12
-
-]
+ [11 <./images/teams/accueil_grille.png> <./images/teams/bouton_parametres.png>
+ <./images/teams/changement_liste.png> <./images/teams/choix_parametre.png> <./
+images/teams/entree_classe.png>])
+(./sources/tableur02/tableur02.tex [12]
 Chapitre 2.
 File: ./images/chapitreVinci5e.png Graphic file (type png)
 <use ./images/chapitreVinci5e.png>
@@ -1570,7 +1568,9 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <7> on input line 11.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 11.
- [13]
+ [13
+
+]
 <./images/generales/clavierCmdS.png, id=900, 196.5744pt x 72.63135pt>
 File: ./images/generales/clavierCmdS.png Graphic file (type png)
 
@@ -3569,7 +3569,7 @@ fb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/l
 ocal/texlive/2016/texmf-dist/fonts/type1/public/lm/lmtt10.pfb></usr/local/texli
 ve/2016/texmf-dist/fonts/type1/public/lm/lmtt12.pfb></usr/local/texlive/2016/te
 xmf-dist/fonts/type1/public/lm/lmtti10.pfb>
-Output written on nouveau_livret_MITIC_5e_v11.pdf (109 pages, 16034949 bytes).
+Output written on nouveau_livret_MITIC_5e_v11.pdf (109 pages, 16030537 bytes).
 PDF statistics:
  2194 PDF objects out of 2487 (max. 8388607)
  1515 compressed objects within 16 object streams

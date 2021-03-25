@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2018.8.21)  18 MAR 2021 13:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2018.8.21)  23 MAR 2021 13:20
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1548,12 +1548,10 @@ File: ./images/teams/entree_classe.png Graphic file (type png)
 Package pdftex.def Info: ./images/teams/entree_classe.png used on input line 31
 8.
 (pdftex.def)             Requested size: 213.39566pt x 66.72887pt.
-) (./sources/tableur01/tableur01.tex
-[11 <./images/teams/accueil_grille.png> <./images/teams/bouton_parametres.png> 
-<./images/teams/changement_liste.png> <./images/teams/choix_parametre.png> <./i
-mages/teams/entree_classe.png>] [12
-
-]
+ [11 <./images/teams/accueil_grille.png> <./images/teams/bouton_parametres.png>
+ <./images/teams/changement_liste.png> <./images/teams/choix_parametre.png> <./
+images/teams/entree_classe.png>])
+(./sources/tableur01/tableur01.tex [12]
 Chapitre 2.
 File: ./images/chapitreVinci.png Graphic file (type png)
 <use ./images/chapitreVinci.png>
@@ -1572,7 +1570,9 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <7> on input line 14.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 14.
-[13] <./images/generales/loupe.png, id=715, 409.53pt x 42.1575pt>
+[13
+
+] <./images/generales/loupe.png, id=715, 409.53pt x 42.1575pt>
 File: ./images/generales/loupe.png Graphic file (type png)
 
 <use ./images/generales/loupe.png>
@@ -3138,10 +3138,6 @@ Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 47.
 Package rerunfilecheck Info: File `nouveau_livret_MITIC_6e.out' has not changed
 .
 (rerunfilecheck)             Checksum: E3C8BDF2EA4F4D60F8C3C749CB0C7463;5902.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 47.
  ) 
 Here is how much of TeX's memory you used:
@@ -3173,7 +3169,7 @@ texmf-dist/fonts/type1/public/lm/lmro12.pfb></usr/local/texlive/2016/texmf-dist
 m/lmtk10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmtt10.p
 fb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmtt12.pfb></usr/l
 ocal/texlive/2016/texmf-dist/fonts/type1/public/lm/lmtto10.pfb>
-Output written on nouveau_livret_MITIC_6e.pdf (92 pages, 13508442 bytes).
+Output written on nouveau_livret_MITIC_6e.pdf (92 pages, 13507390 bytes).
 PDF statistics:
  1488 PDF objects out of 1728 (max. 8388607)
  1009 compressed objects within 11 object streams
