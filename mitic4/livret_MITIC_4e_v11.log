@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2018.8.21)  23 MAR 2021 13:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2018.8.21)  26 MAR 2021 09:03
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -2814,7 +2814,7 @@ Package pdftex.def Info: ./images/scratch03/fonction/Scratch_Fonctions_03.png u
 sed on input line 116.
 (pdftex.def)             Requested size: 845.15544pt x 703.62703pt.
 
-Underfull \vbox (badness 4036) has occurred while \output is active []
+Underfull \vbox (badness 2538) has occurred while \output is active []
 
  [69 <./images/scratch03/fonction/Scratch_Fonctions_01.png> <./images/scratch03
 /fonction/Scratch_Fonctions_02.png>]
@@ -3124,7 +3124,7 @@ File: ./images/scratch03/flappy/scene01b.png Graphic file (type png)
 
 <use ./images/scratch03/flappy/scene01b.png>
 Package pdftex.def Info: ./images/scratch03/flappy/scene01b.png used on input l
-ine 453.
+ine 457.
 (pdftex.def)             Requested size: 1145.27596pt x 761.84439pt.
 
 <./images/scratch03/flappy/scene02.png, id=1576, 842.14626pt x 786.94pt>
@@ -3132,10 +3132,10 @@ File: ./images/scratch03/flappy/scene02.png Graphic file (type png)
 
 <use ./images/scratch03/flappy/scene02.png>
 Package pdftex.def Info: ./images/scratch03/flappy/scene02.png used on input li
-ne 459.
+ne 463.
 (pdftex.def)             Requested size: 842.14421pt x 786.93808pt.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 2418) has occurred while \output is active []
 
  [83 <./images/scratch03/flappy/scene01b.png>]
 <./images/scratch03/flappy/basculeArrierePlan.png, id=1584, 327.2225pt x 119.44
@@ -3143,24 +3143,24 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 File: ./images/scratch03/flappy/basculeArrierePlan.png Graphic file (type png)
  <use ./images/scratch03/flappy/basculeArrierePlan.png>
 Package pdftex.def Info: ./images/scratch03/flappy/basculeArrierePlan.png used 
-on input line 465.
+on input line 469.
 (pdftex.def)             Requested size: 327.2217pt x 119.44594pt.
 LaTeX Font Info:    Font shape `T1/lmtt/bx/n' in size <12> not available
-(Font)              Font shape `T1/lmtt/b/n' tried instead on input line 473.
+(Font)              Font shape `T1/lmtt/b/n' tried instead on input line 477.
 
 <./images/scratch03/flappy/lutinSupprime.png, id=1586, 490.83376pt x 268.00125p
 t>
 File: ./images/scratch03/flappy/lutinSupprime.png Graphic file (type png)
  <use ./images/scratch03/flappy/lutinSupprime.png>
 Package pdftex.def Info: ./images/scratch03/flappy/lutinSupprime.png used on in
-put line 486.
+put line 490.
 (pdftex.def)             Requested size: 490.83255pt x 268.00058pt.
 
 <./images/scratch03/flappy/lutinNouveau.png, id=1587, 245.91875pt x 59.22125pt>
 File: ./images/scratch03/flappy/lutinNouveau.png Graphic file (type png)
 <use ./images/scratch03/flappy/lutinNouveau.png>
 Package pdftex.def Info: ./images/scratch03/flappy/lutinNouveau.png used on inp
-ut line 486.
+ut line 490.
 (pdftex.def)             Requested size: 245.91814pt x 59.22108pt.
  [84 <./images/scratch03/flappy/scene02.png> <./images/scratch03/flappy/bascule
 ArrierePlan.png>]
@@ -3169,7 +3169,7 @@ ArrierePlan.png>]
 File: ./images/scratch03/flappy/LutinOiseau01.png Graphic file (type png)
  <use ./images/scratch03/flappy/LutinOiseau01.png>
 Package pdftex.def Info: ./images/scratch03/flappy/LutinOiseau01.png used on in
-put line 490.
+put line 494.
 (pdftex.def)             Requested size: 840.1367pt x 788.94556pt.
 
 <./images/scratch03/flappy/LutinOiseau02.png, id=1597, 843.15pt x 792.9625pt>
@@ -3177,7 +3177,7 @@ File: ./images/scratch03/flappy/LutinOiseau02.png Graphic file (type png)
 
 <use ./images/scratch03/flappy/LutinOiseau02.png>
 Package pdftex.def Info: ./images/scratch03/flappy/LutinOiseau02.png used on in
-put line 497.
+put line 501.
 (pdftex.def)             Requested size: 843.14793pt x 792.96056pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -3190,7 +3190,7 @@ File: ./images/scratch03/flappy/blocBasculerCostume.png Graphic file (type png)
 
  <use ./images/scratch03/flappy/blocBasculerCostume.png>
 Package pdftex.def Info: ./images/scratch03/flappy/blocBasculerCostume.png used
- on input line 502.
+ on input line 506.
 (pdftex.def)             Requested size: 258.96684pt x 74.27731pt.
 
 <./images/scratch03/flappy/lutinChangerNom.png, id=1606, 89.33376pt x 88.33pt>
@@ -3198,7 +3198,7 @@ File: ./images/scratch03/flappy/lutinChangerNom.png Graphic file (type png)
 
 <use ./images/scratch03/flappy/lutinChangerNom.png>
 Package pdftex.def Info: ./images/scratch03/flappy/lutinChangerNom.png used on 
-input line 508.
+input line 512.
 (pdftex.def)             Requested size: 89.33353pt x 88.32977pt.
 
 <./images/scratch03/flappy/lutinChangerNom2.png, id=1607, 401.5pt x 151.56625pt
@@ -3206,14 +3206,14 @@ input line 508.
 File: ./images/scratch03/flappy/lutinChangerNom2.png Graphic file (type png)
  <use ./images/scratch03/flappy/lutinChangerNom2.png>
 Package pdftex.def Info: ./images/scratch03/flappy/lutinChangerNom2.png used on
- input line 508.
+ input line 512.
 (pdftex.def)             Requested size: 401.49901pt x 151.56587pt.
 
 <./images/scratch03/flappy/lutinPipe01.png, id=1608, 504.88625pt x 406.51875pt>
 File: ./images/scratch03/flappy/lutinPipe01.png Graphic file (type png)
 <use ./images/scratch03/flappy/lutinPipe01.png>
 Package pdftex.def Info: ./images/scratch03/flappy/lutinPipe01.png used on inpu
-t line 519.
+t line 523.
 (pdftex.def)             Requested size: 504.885pt x 406.51775pt.
  [86 <./images/scratch03/flappy/LutinOiseau02.png> <./images/scratch03/flappy/b
 locBasculerCostume.png> <./images/scratch03/flappy/lutinChangerNom.png> <./imag
@@ -3223,21 +3223,21 @@ File: ./images/scratch03/flappy/lutinPipe02.png Graphic file (type png)
 
 <use ./images/scratch03/flappy/lutinPipe02.png>
 Package pdftex.def Info: ./images/scratch03/flappy/lutinPipe02.png used on inpu
-t line 525.
+t line 529.
 (pdftex.def)             Requested size: 518.93748pt x 722.69823pt.
 
 <./images/scratch03/flappy/lutinPipe03.png, id=1618, 518.93875pt x 721.69624pt>
 File: ./images/scratch03/flappy/lutinPipe03.png Graphic file (type png)
 <use ./images/scratch03/flappy/lutinPipe03.png>
 Package pdftex.def Info: ./images/scratch03/flappy/lutinPipe03.png used on inpu
-t line 525.
+t line 529.
 (pdftex.def)             Requested size: 518.93748pt x 721.69449pt.
 
 <./images/scratch03/flappy/ScriptScene.pdf, id=1619, 226.31001pt x 232.66924pt>
 File: ./images/scratch03/flappy/ScriptScene.pdf Graphic file (type pdf)
 <use ./images/scratch03/flappy/ScriptScene.pdf>
 Package pdftex.def Info: ./images/scratch03/flappy/ScriptScene.pdf used on inpu
-t line 543.
+t line 547.
 (pdftex.def)             Requested size: 226.30946pt x 232.66867pt.
  [87 <./images/scratch03/flappy/lutinPipe01.png> <./images/scratch03/flappy/lut
 inPipe02.png> <./images/scratch03/flappy/lutinPipe03.png>]
@@ -3245,7 +3245,7 @@ inPipe02.png> <./images/scratch03/flappy/lutinPipe03.png>]
 File: ./images/scratch03/flappy/ScriptOiseau1.pdf Graphic file (type pdf)
 <use ./images/scratch03/flappy/ScriptOiseau1.pdf>
 Package pdftex.def Info: ./images/scratch03/flappy/ScriptOiseau1.pdf used on in
-put line 556.
+put line 560.
 (pdftex.def)             Requested size: 174.08997pt x 121.2527pt.
  [88 <./images/scratch03/flappy/ScriptScene.pdf> <./images/scratch03/flappy/Scr
 iptOiseau1.pdf
@@ -3259,7 +3259,7 @@ t>
 File: ./images/scratch03/flappy/ScriptOiseau2.pdf Graphic file (type pdf)
  <use ./images/scratch03/flappy/ScriptOiseau2.pdf>
 Package pdftex.def Info: ./images/scratch03/flappy/ScriptOiseau2.pdf used on in
-put line 564.
+put line 568.
 (pdftex.def)             Requested size: 255.18477pt x 673.84677pt.
  [90 <./images/scratch03/flappy/ScriptOiseau2.pdf>]
 <./images/scratch03/flappy/ScriptTuyau1.pdf, id=1699, 242.07529pt x 300.42236pt
@@ -3267,7 +3267,7 @@ put line 564.
 File: ./images/scratch03/flappy/ScriptTuyau1.pdf Graphic file (type pdf)
  <use ./images/scratch03/flappy/ScriptTuyau1.pdf>
 Package pdftex.def Info: ./images/scratch03/flappy/ScriptTuyau1.pdf used on inp
-ut line 571.
+ut line 575.
 (pdftex.def)             Requested size: 242.07469pt x 300.42162pt.
 
 <./images/scratch03/flappy/ScriptTuyau2b.pdf, id=1700, 326.97824pt x 408.03357p
@@ -3275,7 +3275,7 @@ t>
 File: ./images/scratch03/flappy/ScriptTuyau2b.pdf Graphic file (type pdf)
  <use ./images/scratch03/flappy/ScriptTuyau2b.pdf>
 Package pdftex.def Info: ./images/scratch03/flappy/ScriptTuyau2b.pdf used on in
-put line 578.
+put line 582.
 (pdftex.def)             Requested size: 326.97743pt x 408.03256pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -3287,7 +3287,7 @@ File: ./images/scratch03/traceFx/fonctionPrincipale.png Graphic file (type png)
 
  <use ./images/scratch03/traceFx/fonctionPrincipale.png>
 Package pdftex.def Info: ./images/scratch03/traceFx/fonctionPrincipale.png used
- on input line 601.
+ on input line 605.
 (pdftex.def)             Requested size: 195.73076pt x 259.97061pt.
  [92 <./images/scratch03/flappy/ScriptTuyau2b.pdf>]
 <./images/scratch03/traceFx/nouveauxBlocs.png, id=1746, 807.015pt x 48.18pt>
@@ -3295,7 +3295,7 @@ File: ./images/scratch03/traceFx/nouveauxBlocs.png Graphic file (type png)
 
 <use ./images/scratch03/traceFx/nouveauxBlocs.png>
 Package pdftex.def Info: ./images/scratch03/traceFx/nouveauxBlocs.png used on i
-nput line 609.
+nput line 613.
 (pdftex.def)             Requested size: 807.01303pt x 48.17986pt.
 
 <./images/scratch03/traceFx/blocEntreeDonnee.png, id=1747, 270.00874pt x 96.36p
@@ -3303,7 +3303,7 @@ t>
 File: ./images/scratch03/traceFx/blocEntreeDonnee.png Graphic file (type png)
  <use ./images/scratch03/traceFx/blocEntreeDonnee.png>
 Package pdftex.def Info: ./images/scratch03/traceFx/blocEntreeDonnee.png used o
-n input line 615.
+n input line 619.
 (pdftex.def)             Requested size: 270.00807pt x 96.35974pt.
 
 <./images/scratch03/traceFx/questionReponse.png, id=1748, 352.31625pt x 32.12pt
@@ -3311,14 +3311,14 @@ n input line 615.
 File: ./images/scratch03/traceFx/questionReponse.png Graphic file (type png)
  <use ./images/scratch03/traceFx/questionReponse.png>
 Package pdftex.def Info: ./images/scratch03/traceFx/questionReponse.png used on
- input line 623.
+ input line 627.
 (pdftex.def)             Requested size: 352.31538pt x 32.1199pt.
 
 <./images/scratch03/traceFx/blocCalcule.png, id=1749, 199.74625pt x 89.33376pt>
 File: ./images/scratch03/traceFx/blocCalcule.png Graphic file (type png)
 <use ./images/scratch03/traceFx/blocCalcule.png>
 Package pdftex.def Info: ./images/scratch03/traceFx/blocCalcule.png used on inp
-ut line 630.
+ut line 634.
 (pdftex.def)             Requested size: 199.74576pt x 89.33353pt.
 
 <./images/scratch03/traceFx/blocTrace.png, id=1750, 182.6825pt x 88.33pt>
@@ -3326,7 +3326,7 @@ File: ./images/scratch03/traceFx/blocTrace.png Graphic file (type png)
 
 <use ./images/scratch03/traceFx/blocTrace.png>
 Package pdftex.def Info: ./images/scratch03/traceFx/blocTrace.png used on input
- line 639.
+ line 643.
 (pdftex.def)             Requested size: 182.68204pt x 88.32977pt.
  [93 <./images/scratch03/traceFx/fonctionPrincipale.png> <./images/scratch03/tr
 aceFx/nouveauxBlocs.png> <./images/scratch03/traceFx/blocEntreeDonnee.png> <./i
@@ -3339,13 +3339,23 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 65.
  (./livret_MITIC_4e_v11.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 65.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 65.
-Package rerunfilecheck Info: File `livret_MITIC_4e_v11.out' has not changed.
-(rerunfilecheck)             Checksum: 85863AE46FDF6B023E29ACCF61E67FF2;8519.
+
+
+Package rerunfilecheck Warning: File `livret_MITIC_4e_v11.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `livret_MITIC_4e_v11.out':
+(rerunfilecheck)             Before: 85863AE46FDF6B023E29ACCF61E67FF2;8519
+(rerunfilecheck)             After:  DF7B222BC94B82B385B58527B433A818;8598.
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 65.
  ) 
 Here is how much of TeX's memory you used:
- 19726 strings out of 493014
- 375814 string characters out of 6133351
+ 19727 strings out of 493014
+ 375830 string characters out of 6133351
  414631 words of memory out of 5000000
  22310 multiletter control sequences out of 15000+600000
  120206 words of font info for 92 fonts, out of 8000000 for 9000
@@ -3377,10 +3387,10 @@ cal/texlive/2016/texmf-dist/fonts/type1/public/lm/lmtt12.pfb></usr/local/texliv
 e/2016/texmf-dist/fonts/type1/public/lm/lmtt8.pfb></usr/local/texlive/2016/texm
 f-dist/fonts/type1/public/lm/lmtti10.pfb></usr/local/texlive/2016/texmf-dist/fo
 nts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on livret_MITIC_4e_v11.pdf (108 pages, 16337098 bytes).
+Output written on livret_MITIC_4e_v11.pdf (108 pages, 16370085 bytes).
 PDF statistics:
- 1913 PDF objects out of 2073 (max. 8388607)
- 1348 compressed objects within 14 object streams
- 299 named destinations out of 1000 (max. 500000)
+ 1914 PDF objects out of 2073 (max. 8388607)
+ 1349 compressed objects within 14 object streams
+ 300 named destinations out of 1000 (max. 500000)
  1795 words of extra memory for PDF output out of 10000 (max. 10000000)
 

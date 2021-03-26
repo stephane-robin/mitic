@@ -117,15 +117,16 @@
 \contentsline {subsection}{\numberline {3.3}Sujet de l'activit\IeC {\'e}...}{81}{subsection.5.3.3}
 \contentsline {subsection}{\numberline {3.4}Pour aller plus loin...}{81}{subsection.5.3.4}
 \contentsline {section}{\numberline {4}Aide pour r\IeC {\'e}aliser les activit\IeC {\'e}s}{83}{section.5.4}
-\contentsline {subsection}{\numberline {4.1}Aide pour la s\IeC {\'e}ance 2}{83}{subsection.5.4.1}
+\contentsline {subsection}{\numberline {4.1}Aide pour la s\IeC {\'e}ance 1}{83}{subsection.5.4.1}
+\contentsline {subsection}{\numberline {4.2}Aide pour la s\IeC {\'e}ance 2}{83}{subsection.5.4.2}
 \contentsline {subsubsection}{Construction des arri\IeC {\`e}re-plans de la sc\IeC {\`e}ne}{83}{section*.32}
 \contentsline {subsubsection}{Construction des costumes du lutin \texttt {Oiseau}}{84}{section*.33}
 \contentsline {subsubsection}{Construction des costumes du lutin \texttt {Tuyau}}{86}{section*.34}
 \contentsline {subsubsection}{Script associ\IeC {\'e} \IeC {\`a} la sc\IeC {\`e}ne}{87}{section*.35}
 \contentsline {subsubsection}{Scripts associ\IeC {\'e}s au lutin \texttt {Oiseau}}{88}{section*.36}
 \contentsline {subsubsection}{Scripts associ\IeC {\'e}s au lutin \texttt {Tuyau}}{91}{section*.37}
-\contentsline {subsection}{\numberline {4.2}Aide pour la s\IeC {\'e}ance 3}{92}{subsection.5.4.2}
-\contentsline {subsection}{\numberline {4.3}Cr\IeC {\'e}ation du bloc \texttt {entr\IeC {\'e}e des donn\IeC {\'e}es}}{93}{subsection.5.4.3}
-\contentsline {subsection}{\numberline {4.4}Cr\IeC {\'e}ation du bloc \texttt {calcule f(x)}}{93}{subsection.5.4.4}
-\contentsline {subsection}{\numberline {4.5}Cr\IeC {\'e}ation du bloc \texttt {trace f(x)}}{94}{subsection.5.4.5}
+\contentsline {subsection}{\numberline {4.3}Aide pour la s\IeC {\'e}ance 3}{92}{subsection.5.4.3}
+\contentsline {subsection}{\numberline {4.4}Cr\IeC {\'e}ation du bloc \texttt {entr\IeC {\'e}e des donn\IeC {\'e}es}}{93}{subsection.5.4.4}
+\contentsline {subsection}{\numberline {4.5}Cr\IeC {\'e}ation du bloc \texttt {calcule f(x)}}{93}{subsection.5.4.5}
+\contentsline {subsection}{\numberline {4.6}Cr\IeC {\'e}ation du bloc \texttt {trace f(x)}}{94}{subsection.5.4.6}
 \contentsfinish 
