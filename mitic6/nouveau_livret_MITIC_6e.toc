@@ -10,22 +10,22 @@
 \contentsline {subsection}{\numberline {2.3}Pour aller plus loin...}{5}{subsection.1.2.3}
 \contentsline {section}{\numberline {3}S\IeC {\'e}ance 3 : cr\IeC {\'e}er un petit jeu en Scratch}{6}{section.1.3}
 \contentsline {subsection}{\numberline {3.1}Pour bien d\IeC {\'e}marrer...}{6}{subsection.1.3.1}
-\contentsline {subsection}{\numberline {3.2}L'activit\IeC {\'e} demand\IeC {\'e}e}{6}{subsection.1.3.2}
+\contentsline {subsection}{\numberline {3.2}Sujet de l'activit\IeC {\'e}}{6}{subsection.1.3.2}
 \contentsline {subsection}{\numberline {3.3}Pour aller plus loin...}{7}{subsection.1.3.3}
 \contentsline {section}{\numberline {4}Aide pour r\IeC {\'e}aliser les activit\IeC {\'e}s}{8}{section.1.4}
 \contentsline {subsection}{\numberline {4.1}Aide pour la s\IeC {\'e}ance 1}{8}{subsection.1.4.1}
 \contentsline {subsubsection}{Modifier la sc\IeC {\`e}ne o\IeC {\`u} se passe l'action}{8}{section*.5}
 \contentsline {subsubsection}{Enregistrer le programme}{9}{section*.6}
-\contentsline {subsubsection}{Ajouter un script associ\IeC {\'e} au lutin}{10}{section*.7}
-\contentsline {subsubsection}{Ajouter un script associ\IeC {\'e} \IeC {\`a} la sc\IeC {\`e}ne}{12}{section*.8}
-\contentsline {subsection}{\numberline {4.2}Aide pour la s\IeC {\'e}ance 2}{12}{subsection.1.4.2}
-\contentsline {subsubsection}{Ajouter l'effacement de l'\IeC {\'e}cran}{13}{section*.9}
-\contentsline {subsubsection}{Un carr\IeC {\'e} o\IeC {\`u} on veut !}{13}{section*.10}
-\contentsline {subsubsection}{Dessiner une enveloppe}{13}{section*.11}
-\contentsline {subsubsection}{Modifier la taille et la couleur du stylo}{14}{section*.12}
-\contentsline {subsection}{\numberline {4.3}Aide pour la s\IeC {\'e}ance 3}{14}{subsection.1.4.3}
-\contentsline {subsubsection}{Ajouter un nouvel objet : l'avion}{14}{section*.13}
-\contentsline {subsubsection}{G\IeC {\'e}rer les mouvements de l'avion dans la sc\IeC {\`e}ne}{16}{section*.14}
-\contentsline {subsubsection}{Un nouvel objet : l'obstacle}{16}{section*.15}
-\contentsline {subsubsection}{G\IeC {\'e}rer la collision entre l'avion et l'obstacle}{17}{section*.16}
+\contentsline {subsubsection}{Ajouter un script associ\IeC {\'e} au sprite}{9}{section*.7}
+\contentsline {subsubsection}{Ajouter un script associ\IeC {\'e} \IeC {\`a} la sc\IeC {\`e}ne}{10}{section*.8}
+\contentsline {subsection}{\numberline {4.2}Aide pour la s\IeC {\'e}ance 2}{11}{subsection.1.4.2}
+\contentsline {subsubsection}{Ajouter l'effacement de l'\IeC {\'e}cran}{11}{section*.9}
+\contentsline {subsubsection}{Un carr\IeC {\'e} o\IeC {\`u} on veut !}{11}{section*.10}
+\contentsline {subsubsection}{Dessiner une enveloppe}{12}{section*.11}
+\contentsline {subsubsection}{Modifier la taille et la couleur du stylo}{12}{section*.12}
+\contentsline {subsection}{\numberline {4.3}Aide pour la s\IeC {\'e}ance 3}{12}{subsection.1.4.3}
+\contentsline {subsubsection}{Ajouter un nouvel objet : l'avion}{12}{section*.13}
+\contentsline {subsubsection}{G\IeC {\'e}rer les mouvements de l'avion dans la sc\IeC {\`e}ne}{14}{section*.14}
+\contentsline {subsubsection}{Un nouvel objet : l'obstacle}{15}{section*.15}
+\contentsline {subsubsection}{G\IeC {\'e}rer la collision entre l'avion et l'obstacle}{16}{section*.16}
 \contentsfinish 

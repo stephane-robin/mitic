@@ -24,25 +24,25 @@ Nous allons écrire le programme étape par étape.
 
 \subsubsection{Modifier la scène où se passe l'action}\index{Scratch!Modifier la scène}\index{Modifier la scène (Scratch)}
 
-La scène correspond à l'arrière-plan (blanc au départ) où se passe l'action. La scène est un objet qui peut être modifié. Pour cela, la première étape est de cliquer sur l'icône scène \includegraphics[width=1cm]{./images/scratch/Scene} en bas à droite.
+La scène correspond à l'arrière-plan (blanc au départ) où se passe l'action. La scène est un objet qui peut être modifié. Pour cela, la première étape est de cliquer sur l'icône scène \includegraphics[width=1cm]{./images/scratch/changerScene} en bas à droite.
 
-\uneimageici{./images/scratch/ScratchSelectionScene}{.65\textwidth}
+\uneimageici{./images/scratch/changerScene0.png}{.65\textwidth}
 
 Une fois la scène sélectionnée (elle est alors entourée en couleur), suivre les 4 étapes suivantes :
 
 \begin{enumerate}
-\item Cliquer sur l'onglet \texttt{Arrière-plans}.
-\item Cliquer sur le bouton \texttt{Importer}.
-\item Choisir l'arrière-plan \texttt{xy-grid}.
-\item Cliquer alors sur le bouton \texttt{OK}. 
+\item Cliquer sur l'onglet \texttt{Choisir un arrière-plan}.
+\item Chercher l'arrière-plan \texttt{Xy-grid}.
+\item Cliquer sur l'arripre-plan \texttt{Xy-grid} pour remplacer le fond blanc qui était installé par défaut. 
 \end{enumerate}
 
+A noter qu'il est également possible d'\texttt{importer un arrière-plan} à partir d'images présentes sur votre ordinateur.
 
-\uneimageici{./images/scratch/ScratchChangerScene1}{.8\textwidth}
+%\uneimageici{./images/scratch/ScratchChangerScene1}{.8\textwidth}
 
-Notre programme comporte maintenant deux scènes différentes : \texttt{arrière-plan1} et \texttt{xy-grid}. C'est cette dernière qui est sélectionnée (elle est entourée en couleur).
+Notre programme comporte maintenant deux scènes différentes : \texttt{arrière-plan1} et \texttt{Xy-grid}. C'est cette dernière qui est sélectionnée (elle est entourée en couleur).
 
-\uneimageici{./images/scratch/ScratchChangerScene2}{.4\textwidth}
+\uneimageici{./images/scratch/choixBackdrop.png}{.4\textwidth}
 
 
 
@@ -51,57 +51,60 @@ Notre programme comporte maintenant deux scènes différentes : \texttt{arrière
 
 \subsubsection{Enregistrer le programme}\index{Enregistrer!Scratch}\index{Scratch!Enregistrer}
 
-Pour sauvegarder votre programme : cliquer sur l'icône \includegraphics[width=.4cm]{./images/scratch/Sauver} :
+Pour enregistrer votre programme, cliquer sur \texttt{Sauvegarder sur votre ordinateur} :
+%\includegraphics[width=.4cm]{./images/scratch/Sauver} :
 
 \uneimageici{./images/scratch/enregistrer_scratch.png}{.5\textwidth}
 
-Il faut ensuite choisir l'emplacement \emph{Bureau} de l'ordinateur, puis donner un nom au fichier dans lequel votre programme sera sauvegardé :
+Le fichier s'enregistre alors par défaut au format .SB3 dans le dossier \texttt{Téléchargements} de votre ordinateur.\\
 
-\uneimageici{./images/scratch/ScratchEnregistrerProgramme2}{.7\textwidth}
+%Il faut ensuite choisir l'emplacement \emph{Bureau} de l'ordinateur, puis donner un nom au fichier dans lequel votre programme sera sauvegardé :
 
-
-Comme toujours en informatique, il ne faut pas oublier d'enregistrer régulièrement le travail. Pour cela, cliquer régulièrement sur l'icône \includegraphics[width=.4cm]{./images/scratch/Sauver} ou utiliser la combinaison de touche \texttt{Cmd + S} :
-
-\uneimageici{./images/generales/clavierCmdS}{.4\textwidth}
+%\uneimageici{./images/scratch/ScratchEnregistrerProgramme2}{.7\textwidth}
 
 
+Comme toujours en informatique, il ne faut pas oublier d'enregistrer régulièrement le travail. Pour cela, cliquer régulièrement sur \texttt{Sauvegarder sur votre ordinateur}.:
 
-
+%\uneimageici{./images/generales/clavierCmdS}{.4\textwidth}
 
 
 
 
 
-\subsubsection{Ajouter un script associé au lutin}\label{ScriptLutin}\index{Scratch!Script associé à un objet}\index{Script associé à un objet (Scratch)}
 
-Le lutin est un autre objet. C'est lui qui réalise l'action principale du programme. On va lui associer un programme (nommé \textbf{script}) qui contient une succession d'ordres (les \textbf{instructions}) qu'il devra réaliser.  
 
-Pour construire ce premier script, suivre les différentes étapes indiquées sous l'image ci-dessous.
 
-\uneimageici{./images/scratch/ScratchPremierProgramme1}{.8\textwidth}
+
+\subsubsection{Ajouter un script associé au sprite}\label{ScriptLutin}\index{Scratch!Script associé à un objet}\index{Script associé à un objet (Scratch)}
+
+Le sprite est un autre objet. C'est lui qui réalise l'action principale du programme. On va lui associer un programme (nommé \textbf{script}) qui contient une succession d'ordres (les \textbf{instructions}) qu'il devra réaliser.  \\
+
+Pour construire ce premier script, nous allons suivre les différentes étapes indiquées ci-dessous :
+
+%\uneimageici{./images/scratch/ScratchPremierProgramme1}{.8\textwidth}
 
 \begin{enumerate}
-\item Sélectionner le lutin \includegraphics[width=.7cm]{./images/scratch/Lutin} dans la zone des objets (colonne 3) : nous allons créer un script associé au lutin.
-\item Choisir les blocs de contrôle en cliquant sur \includegraphics[width=2cm]{./images/scratch/BlocsControle} (colonne 1).
-\item Tirer le bloc \includegraphics[width=2.5cm]{./images/scratch/BlocDrapeauVert} vers la zone de programmation (colonne 2).
-\item Choisir les blocs de mouvement en cliquant sur \includegraphics[width=2cm]{./images/scratch/BlocsMouvement} (colonne 1).
+\item Sélectionner le sprite \includegraphics[width=.7cm]{./images/scratch/Lutin} dans la zone des objets (en bas à droite) \includegraphics[width=1cm]{./images/scratch/sprite.png} : nous allons créer un script associé à ce sprite.
+\item Choisir les blocs de contrôle en cliquant sur \includegraphics[width=1.5cm]{./images/scratch/control.png} (colonne de gauche).
+\item Tirer le bloc \includegraphics[width=2.5cm]{./images/scratch/BlocDrapeauVert} vers la zone de programmation (colonne du milieu).
+\item Choisir les blocs de mouvement en cliquant sur \includegraphics[width=1.5cm]{./images/scratch/mouvement.png} (colonne de gauche).
 \item Tirer le bloc \includegraphics[width=2.5cm]{./images/scratch/BlocAllerA} vers la zone de programmation et l'accrocher sous le bloc \includegraphics[width=2.5cm]{./images/scratch/BlocDrapeauVert}.
 \item Tirer ensuite le bloc \includegraphics[width=4.5cm]{./images/scratch/BlocGlisser} vers la zone de programmation et l'accrocher sous le bloc \includegraphics[width=2.5cm]{./images/scratch/BlocAllerA}.
 \item Régler les options du bloc en cliquant dans les zones de saisie et en écrivant la valeur de durée et les coordonnées $x$ et $y$ indiquées dans le programme ci-dessus.
 \item Ajouter les trois autres blocs \includegraphics[width=4.5cm]{./images/scratch/BlocGlisser} et régler leurs options comme indiqué plus haut.
-\item Choisir les blocs de sons en cliquant sur \includegraphics[width=2cm]{./images/scratch/BlocsSons} (colonne 1).
-\item Tirer le bloc \includegraphics[width=4.5cm]{./images/scratch/BlocJouerTambour} vers la zone de programmation, l'accrocher aux blocs précédents et régler ses options comme indiqué plus haut.
+\item Choisir les blocs de sons en cliquant sur \includegraphics[width=1.5cm]{./images/scratch/son.png} (colonne de gauche).
+\item Tirer le bloc \includegraphics[width=2.5cm]{./images/scratch/meow.png} vers la zone de programmation, l'accrocher aux blocs précédents et régler ses options comme indiqué plus haut.
 \end{enumerate}
 
 \vspace{12pt}
 
 Après avoir terminé et vérifié le script, lancer le programme en appuyant sur le drapeau vert \includegraphics[width=.7cm]{./images/scratch/DrapeauVert} en haut à droite. Aviez-vous deviné correctement ce qu'il allait se passer ?
 
-Pour arrêter l'exécution du programme avant sa fin, appuyer sur le panneau stop \includegraphics[width=.7cm]{./images/scratch/Stop} en haut à droite.
+Pour arrêter l'exécution du programme avant sa fin, appuyer sur le panneau stop \includegraphics[width=.7cm]{./images/scratch/Stop} en haut.
 
-Pour que le programme s'exécute en plein écran, cliquer sur \includegraphics[width=3cm]{./images/scratch/ScratchPleinEcran}\index{Scratch! Passer en mode plein écran}\index{Passer en mode plein écran (Scratch)}
+Pour que le programme s'exécute en plein écran, cliquer sur \includegraphics[width=1cm]{./images/scratch/pleinEcran.png}\index{Scratch! Passer en mode plein écran}\index{Passer en mode plein écran (Scratch)}
 
-Pour quitter le mode plein écran, cliquer sur \includegraphics[width=1.5cm]{./images/scratch/ScratchQuitterPleinEcran}\index{Scratch! Quitter le mode plein écran}\index{Quitter le mode plein écran (Scratch)}
+Pour quitter le mode plein écran, cliquer sur \includegraphics[width=1cm]{./images/scratch/quitterPleinEcran.png}\index{Scratch! Quitter le mode plein écran}\index{Quitter le mode plein écran (Scratch)}
 
 
 
@@ -114,15 +117,15 @@ Pour quitter le mode plein écran, cliquer sur \includegraphics[width=1.5cm]{./i
 
 Nous allons maintenant ajouter un deuxième script à notre programme : ce script va permettre de modifier la scène lorsque le drapeau vert est pressé. 
 
-Pour cela, la première étape est de cliquer sur l'icône scène \includegraphics[width=1cm]{./images/scratch/Scene} en bas à droite.
+Pour cela, la première étape est de cliquer sur l'icône scène \includegraphics[width=1.5cm]{./images/scratch/scene0.png} en bas à droite.
 
-\uneimageici{./images/scratch/ScratchPremierProgramme2}{.7\textwidth}
+\uneimageici{./images/scratch/premierProgramme2.png}{.7\textwidth}
 
 Une fois la scène sélectionnée (elle est alors entourée en couleur), créer le script suivant :
 
 \uneimageici{./images/scratch/ScratchProgramme1Script2}{.4\textwidth}
 
-Une fois le script écrit et vérifié, lancer le programme en appuyant sur le drapeau vert \includegraphics[width=.7cm]{./images/scratch/DrapeauVert} en haut à droite. 
+Une fois le script écrit et vérifié, lancer le programme en appuyant sur le drapeau vert \includegraphics[width=.7cm]{./images/scratch/DrapeauVert} en haut. 
 
 
 
