@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2018.8.21)  27 APR 2021 13:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2018.8.21)  27 APR 2021 16:16
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1210,14 +1210,14 @@ File: ./images/scratch02/changerLangue.png Graphic file (type png)
 
 <use ./images/scratch02/changerLangue.png>
 Package pdftex.def Info: ./images/scratch02/changerLangue.png used on input lin
-e 74.
+e 76.
 (pdftex.def)             Requested size: 28.45274pt x 22.39902pt.
 
 <./images/scratch02/french.png, id=207, 287.0725pt x 52.195pt>
 File: ./images/scratch02/french.png Graphic file (type png)
 
 <use ./images/scratch02/french.png>
-Package pdftex.def Info: ./images/scratch02/french.png used on input line 76.
+Package pdftex.def Info: ./images/scratch02/french.png used on input line 78.
 (pdftex.def)             Requested size: 287.0718pt x 52.19487pt.
 
 <./images/scratch02/1ResultatSpirale.png, id=208, 364.36125pt x 347.2975pt>
@@ -1225,36 +1225,33 @@ File: ./images/scratch02/1ResultatSpirale.png Graphic file (type png)
 
 <use ./images/scratch02/1ResultatSpirale.png>
 Package pdftex.def Info: ./images/scratch02/1ResultatSpirale.png used on input 
-line 110.
+line 115.
 (pdftex.def)             Requested size: 364.36035pt x 347.29665pt.
 
 <./images/scratch02/1Fleurs.png, id=209, 331.2375pt x 323.2075pt>
 File: ./images/scratch02/1Fleurs.png Graphic file (type png)
 
 <use ./images/scratch02/1Fleurs.png>
-Package pdftex.def Info: ./images/scratch02/1Fleurs.png used on input line 110.
+Package pdftex.def Info: ./images/scratch02/1Fleurs.png used on input line 115.
 
 (pdftex.def)             Requested size: 331.23668pt x 323.20671pt.
 
 
 LaTeX Warning: Reference `TeamsRemettreDevoir' on page 2 undefined on input lin
-e 110.
+e 115.
 
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 110--111
+Overfull \hbox (6.0pt too wide) in paragraph at lines 115--116
 [][][][][][][]
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [2 <./images/scratch02/changerLangue.png> <./images/scratch02/french.png>]
+[2 <./images/scratch02/changerLangue.png> <./images/scratch02/french.png>]
 <./images/scratch02/flowchartActivite1.pdf, id=220, 256.06223pt x 297.57864pt>
 File: ./images/scratch02/flowchartActivite1.pdf Graphic file (type pdf)
 
 <use ./images/scratch02/flowchartActivite1.pdf>
 Package pdftex.def Info: ./images/scratch02/flowchartActivite1.pdf used on inpu
-t line 118.
+t line 123.
 (pdftex.def)             Requested size: 256.06158pt x 297.57791pt.
  [3 <./images/scratch02/1ResultatSpirale.png> <./images/scratch02/1Fleurs.png>]
 
@@ -1263,7 +1260,7 @@ File: ./images/scratch02/1DrapeauSuisse.png Graphic file (type png)
 
 <use ./images/scratch02/1DrapeauSuisse.png>
 Package pdftex.def Info: ./images/scratch02/1DrapeauSuisse.png used on input li
-ne 130.
+ne 135.
 (pdftex.def)             Requested size: 340.27042pt x 225.84319pt.
 
 <./images/scratch02/1BlocsDrapeauSuisse.png, id=230, 731.73375pt x 99.37125pt>
@@ -1271,7 +1268,7 @@ File: ./images/scratch02/1BlocsDrapeauSuisse.png Graphic file (type png)
 
 <use ./images/scratch02/1BlocsDrapeauSuisse.png>
 Package pdftex.def Info: ./images/scratch02/1BlocsDrapeauSuisse.png used on inp
-ut line 137.
+ut line 142.
 (pdftex.def)             Requested size: 731.73196pt x 99.371pt.
  [4 <./images/scratch02/flowchartActivite1.pdf> <./images/scratch02/1DrapeauSui
 sse.png> <./images/scratch02/1BlocsDrapeauSuisse.png>]
@@ -1279,15 +1276,15 @@ sse.png> <./images/scratch02/1BlocsDrapeauSuisse.png>]
 File: ./images/scratch02/2BDall.png Graphic file (type png)
 
 <use ./images/scratch02/2BDall.png>
-Package pdftex.def Info: ./images/scratch02/2BDall.png used on input line 167.
+Package pdftex.def Info: ./images/scratch02/2BDall.png used on input line 172.
 (pdftex.def)             Requested size: 979.65762pt x 314.17297pt.
 
 
 LaTeX Warning: Reference `TeamsRemettreDevoir' on page 5 undefined on input lin
-e 167.
+e 172.
 
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 167--168
+Overfull \hbox (6.0pt too wide) in paragraph at lines 172--173
 [][][][][][][]
  []
 
@@ -1295,27 +1292,27 @@ Overfull \hbox (6.0pt too wide) in paragraph at lines 167--168
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                \kern 1.95836pt
-(hyperref)                removed on input line 200.
+(hyperref)                removed on input line 205.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                \kern 1.95836pt
-(hyperref)                removed on input line 200.
+(hyperref)                removed on input line 205.
 
 <./images/scratch02/PongResultat.png, id=266, 513.92pt x 386.44376pt>
 File: ./images/scratch02/PongResultat.png Graphic file (type png)
 
 <use ./images/scratch02/PongResultat.png>
 Package pdftex.def Info: ./images/scratch02/PongResultat.png used on input line
- 217.
+ 222.
 (pdftex.def)             Requested size: 513.91873pt x 386.44281pt.
 
 
 LaTeX Warning: Reference `TeamsRemettreDevoir' on page 6 undefined on input lin
-e 217.
+e 222.
 
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 217--218
+Overfull \hbox (6.0pt too wide) in paragraph at lines 222--223
 [][][][][][][]
  []
 
@@ -1325,340 +1322,341 @@ File: ./images/scratch02/variable1.png Graphic file (type png)
 
 <use ./images/scratch02/variable1.png>
 Package pdftex.def Info: ./images/scratch02/variable1.png used on input line 26
-0.
+5.
 (pdftex.def)             Requested size: 300.12051pt x 452.69014pt.
 
-<./images/scratch02/scratchVariable2.png, id=274, 321.2pt x 154.5775pt>
-File: ./images/scratch02/scratchVariable2.png Graphic file (type png)
+<./images/scratch02/variable2.png, id=274, 374.39874pt x 319.1925pt>
+File: ./images/scratch02/variable2.png Graphic file (type png)
 
-<use ./images/scratch02/scratchVariable2.png>
-Package pdftex.def Info: ./images/scratch02/scratchVariable2.png used on input 
-line 265.
-(pdftex.def)             Requested size: 321.19922pt x 154.5771pt.
+<use ./images/scratch02/variable2.png>
+Package pdftex.def Info: ./images/scratch02/variable2.png used on input line 27
+0.
+(pdftex.def)             Requested size: 374.39783pt x 319.19171pt.
 
-<./images/scratch02/scratchVariable3.png, id=275, 206.7725pt x 242.9075pt>
-File: ./images/scratch02/scratchVariable3.png Graphic file (type png)
+<./images/scratch02/variable3.png, id=275, 253.94875pt x 328.22626pt>
+File: ./images/scratch02/variable3.png Graphic file (type png)
 
-<use ./images/scratch02/scratchVariable3.png>
-Package pdftex.def Info: ./images/scratch02/scratchVariable3.png used on input 
-line 265.
-(pdftex.def)             Requested size: 206.77199pt x 242.90689pt.
- [7 <./images/scratch02/variable1.png> <./images/scratch02/scratchVariable2.png
-> <./images/scratch02/scratchVariable3.png>]
-<./images/scratch02/scratchVariable4.png, id=283, 391.4625pt x 66.2475pt>
+<use ./images/scratch02/variable3.png>
+Package pdftex.def Info: ./images/scratch02/variable3.png used on input line 27
+0.
+(pdftex.def)             Requested size: 253.94812pt x 328.22545pt.
+ [7 <./images/scratch02/variable1.png> <./images/scratch02/variable2.png> <./im
+ages/scratch02/variable3.png>]
+<./images/scratch02/scratchVariable4.png, id=282, 391.4625pt x 66.2475pt>
 File: ./images/scratch02/scratchVariable4.png Graphic file (type png)
 
 <use ./images/scratch02/scratchVariable4.png>
 Package pdftex.def Info: ./images/scratch02/scratchVariable4.png used on input 
-line 269.
+line 274.
 (pdftex.def)             Requested size: 391.46153pt x 66.24733pt.
 
-<./images/scratch02/scratchVariableAjouter.png, id=284, 157.58875pt x 35.13126p
+<./images/scratch02/scratchVariableAjouter.png, id=283, 157.58875pt x 35.13126p
 t>
 File: ./images/scratch02/scratchVariableAjouter.png Graphic file (type png)
  <use ./images/scratch02/scratchVariableAjouter.png>
 Package pdftex.def Info: ./images/scratch02/scratchVariableAjouter.png used on 
-input line 273.
+input line 278.
 (pdftex.def)             Requested size: 157.58835pt x 35.13115pt.
-File: ./images/scratch02/scratchVariable2.png Graphic file (type png)
 
-<use ./images/scratch02/scratchVariable2.png>
-Package pdftex.def Info: ./images/scratch02/scratchVariable2.png used on input 
-line 287.
-(pdftex.def)             Requested size: 321.19922pt x 154.5771pt.
-
-<./images/scratch02/scratchVariableAssigner.png, id=285, 147.55125pt x 37.13875
+<./images/scratch02/scratchVariableAssigner.png, id=284, 147.55125pt x 37.13875
 pt>
 File: ./images/scratch02/scratchVariableAssigner.png Graphic file (type png)
  <use ./images/scratch02/scratchVariableAssigner.png>
 Package pdftex.def Info: ./images/scratch02/scratchVariableAssigner.png used on
- input line 287.
+ input line 293.
 (pdftex.def)             Requested size: 147.55087pt x 37.13866pt.
 File: ./images/scratch02/scratchVariableAjouter.png Graphic file (type png)
 
 <use ./images/scratch02/scratchVariableAjouter.png>
 Package pdftex.def Info: ./images/scratch02/scratchVariableAjouter.png used on 
-input line 287.
+input line 293.
 (pdftex.def)             Requested size: 157.58835pt x 35.13115pt.
 
-<./images/scratch02/scratchVariableUtiliser.png, id=286, 146.5475pt x 39.14626p
+<./images/scratch02/scratchVariableUtiliser.png, id=285, 146.5475pt x 39.14626p
 t>
 File: ./images/scratch02/scratchVariableUtiliser.png Graphic file (type png)
  <use ./images/scratch02/scratchVariableUtiliser.png>
 Package pdftex.def Info: ./images/scratch02/scratchVariableUtiliser.png used on
- input line 287.
+ input line 293.
 (pdftex.def)             Requested size: 146.54712pt x 39.14615pt.
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 287--287
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 293--293
 [] 
  []
 
-[8 <./images/scratch02/scratchVariable4.png> <./images/scratch02/scratchVariabl
-eAjouter.png>]
-Overfull \hbox (4.2766pt too wide) in paragraph at lines 294--295
+
+Overfull \hbox (4.2766pt too wide) in paragraph at lines 300--301
 []\T1/lmr/m/n/12 Pour des-si-ner une spi-rale, il faut ré-pé-ter plu-sieurs foi
 s le même bloc d'ins-truc-tions \T1/lmr/m/it/12 <<Avancer
  []
 
-<./images/scratch02/1Boucle300texte.png, id=293, 331.9602pt x 81.4242pt>
+[8 <./images/scratch02/scratchVariable4.png> <./images/scratch02/scratchVariabl
+eAjouter.png> <./images/scratch02/scratchVariableAssigner.png> <./images/scratc
+h02/scratchVariableUtiliser.png>]
+<./images/scratch02/1Boucle300texte.png, id=295, 331.9602pt x 81.4242pt>
 File: ./images/scratch02/1Boucle300texte.png Graphic file (type png)
 
 <use ./images/scratch02/1Boucle300texte.png>
 Package pdftex.def Info: ./images/scratch02/1Boucle300texte.png used on input l
-ine 296.
+ine 302.
 (pdftex.def)             Requested size: 331.95938pt x 81.424pt.
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 296--296
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 302--302
 [] 
  []
 
-
-Underfull \vbox (badness 5431) has occurred while \output is active []
-
- [9 <./images/scratch02/scratchVariableAssigner.png> <./images/scratch02/scratc
-hVariableUtiliser.png>]
 File: ./images/scratch02/flowchartActivite1.pdf Graphic file (type pdf)
- <use ./images/scratch02/flowchartActivite1.pdf>
+<use ./images/scratch02/flowchartActivite1.pdf>
 Package pdftex.def Info: ./images/scratch02/flowchartActivite1.pdf used on inpu
-t line 301.
+t line 307.
 (pdftex.def)             Requested size: 256.06158pt x 297.57791pt.
 
-<./images/scratch02/1CodeSpirale.png, id=303, 175.65625pt x 192.72pt>
+<./images/scratch02/1CodeSpirale.png, id=296, 175.65625pt x 192.72pt>
 File: ./images/scratch02/1CodeSpirale.png Graphic file (type png)
 
 <use ./images/scratch02/1CodeSpirale.png>
 Package pdftex.def Info: ./images/scratch02/1CodeSpirale.png used on input line
- 301.
+ 307.
 (pdftex.def)             Requested size: 175.6558pt x 192.71951pt.
-
-<./images/scratch02/flowchartActivite1b.pdf, id=304, 174.10043pt x 241.703pt>
+ [9 <./images/scratch02/1Boucle300texte.png> <./images/scratch02/1CodeSpirale.p
+ng>]
+<./images/scratch02/flowchartActivite1b.pdf, id=305, 174.10043pt x 241.703pt>
 File: ./images/scratch02/flowchartActivite1b.pdf Graphic file (type pdf)
 
 <use ./images/scratch02/flowchartActivite1b.pdf>
 Package pdftex.def Info: ./images/scratch02/flowchartActivite1b.pdf used on inp
-ut line 310.
+ut line 316.
 (pdftex.def)             Requested size: 174.09999pt x 241.7024pt.
 
-<./images/scratch02/1CodeEffaceEcran.png, id=305, 137.51375pt x 114.4275pt>
+<./images/scratch02/1CodeEffaceEcran.png, id=306, 137.51375pt x 114.4275pt>
 File: ./images/scratch02/1CodeEffaceEcran.png Graphic file (type png)
 
 <use ./images/scratch02/1CodeEffaceEcran.png>
 Package pdftex.def Info: ./images/scratch02/1CodeEffaceEcran.png used on input 
-line 310.
+line 316.
 (pdftex.def)             Requested size: 137.51341pt x 114.42722pt.
- [10 <./images/scratch02/1Boucle300texte.png> <./images/scratch02/1CodeSpirale.
-png>]
 File: ./images/scratch02/1Fleurs.png Graphic file (type png)
 
 <use ./images/scratch02/1Fleurs.png>
-Package pdftex.def Info: ./images/scratch02/1Fleurs.png used on input line 317.
+Package pdftex.def Info: ./images/scratch02/1Fleurs.png used on input line 323.
 
 (pdftex.def)             Requested size: 331.23668pt x 323.20671pt.
-
-<./images/scratch02/flowchartActivite2.pdf, id=313, 325.53764pt x 538.81299pt>
+ [10 <./images/scratch02/flowchartActivite1b.pdf> <./images/scratch02/1CodeEffa
+ceEcran.png>]
+<./images/scratch02/flowchartActivite2.pdf, id=337, 325.53764pt x 538.81299pt>
 File: ./images/scratch02/flowchartActivite2.pdf Graphic file (type pdf)
 
 <use ./images/scratch02/flowchartActivite2.pdf>
 Package pdftex.def Info: ./images/scratch02/flowchartActivite2.pdf used on inpu
-t line 336.
+t line 342.
 (pdftex.def)             Requested size: 325.53685pt x 538.81166pt.
- [11 <./images/scratch02/flowchartActivite1b.pdf> <./images/scratch02/1CodeEffa
-ceEcran.png>]
-<./images/scratch02/2variableA.png, id=344, 44.165pt x 42.1575pt>
+
+<./images/scratch02/2variableA.png, id=338, 44.165pt x 42.1575pt>
 File: ./images/scratch02/2variableA.png Graphic file (type png)
 
 <use ./images/scratch02/2variableA.png>
 Package pdftex.def Info: ./images/scratch02/2variableA.png used on input line 3
-44.
+50.
 (pdftex.def)             Requested size: 19.91684pt x 19.01186pt.
 
-<./images/scratch02/2variableB.png, id=345, 44.165pt x 40.15pt>
+<./images/scratch02/2variableB.png, id=339, 44.165pt x 40.15pt>
 File: ./images/scratch02/2variableB.png Graphic file (type png)
 
 <use ./images/scratch02/2variableB.png>
 Package pdftex.def Info: ./images/scratch02/2variableB.png used on input line 3
-44.
+50.
 (pdftex.def)             Requested size: 19.91684pt x 18.10652pt.
-
-<./images/scratch02/2nouveauLutin.png, id=347, 200.75pt x 27.10126pt>
+ [11 <./images/scratch02/flowchartActivite2.pdf>]
+<./images/scratch02/2nouveauLutin.png, id=378, 200.75pt x 27.10126pt>
 File: ./images/scratch02/2nouveauLutin.png Graphic file (type png)
 
 <use ./images/scratch02/2nouveauLutin.png>
 Package pdftex.def Info: ./images/scratch02/2nouveauLutin.png used on input lin
-e 345.
+e 351.
 (pdftex.def)             Requested size: 113.81102pt x 15.36475pt.
 
-<./images/scratch02/2activite2scene.png, id=348, 491.8375pt x 407.5225pt>
+<./images/scratch02/2activite2scene.png, id=379, 491.8375pt x 407.5225pt>
 File: ./images/scratch02/2activite2scene.png Graphic file (type png)
 
 <use ./images/scratch02/2activite2scene.png>
 Package pdftex.def Info: ./images/scratch02/2activite2scene.png used on input l
-ine 347.
+ine 353.
 (pdftex.def)             Requested size: 491.83629pt x 407.5215pt.
- [12 <./images/scratch02/flowchartActivite2.pdf> <./images/scratch02/2variableA
-.png> <./images/scratch02/2variableB.png> <./images/scratch02/2nouveauLutin.png
->]
-<./images/scratch02/2blocDire.png, id=390, 348.30125pt x 51.19125pt>
+
+<./images/scratch02/2blocDire.png, id=380, 348.30125pt x 51.19125pt>
 File: ./images/scratch02/2blocDire.png Graphic file (type png)
 
 <use ./images/scratch02/2blocDire.png>
-Package pdftex.def Info: ./images/scratch02/2blocDire.png used on input line 34
-9.
+Package pdftex.def Info: ./images/scratch02/2blocDire.png used on input line 35
+5.
 (pdftex.def)             Requested size: 128.0374pt x 18.81783pt.
 
-<./images/scratch02/2blocDemander.png, id=391, 305.14pt x 51.19125pt>
+<./images/scratch02/2blocDemander.png, id=381, 305.14pt x 51.19125pt>
 File: ./images/scratch02/2blocDemander.png Graphic file (type png)
 
 <use ./images/scratch02/2blocDemander.png>
 Package pdftex.def Info: ./images/scratch02/2blocDemander.png used on input lin
-e 351.
+e 357.
 (pdftex.def)             Requested size: 113.81102pt x 19.09355pt.
 
-<./images/scratch02/2reponse.png, id=392, 125.46875pt x 43.16125pt>
+<./images/scratch02/2reponse.png, id=382, 125.46875pt x 43.16125pt>
 File: ./images/scratch02/2reponse.png Graphic file (type png)
 
 <use ./images/scratch02/2reponse.png>
-Package pdftex.def Info: ./images/scratch02/2reponse.png used on input line 351
+Package pdftex.def Info: ./images/scratch02/2reponse.png used on input line 357
 .
 (pdftex.def)             Requested size: 42.67912pt x 14.68187pt.
 
-<./images/scratch02/2ConstructionIfThenElse.pdf, id=393, 248.127pt x 290.686pt>
+<./images/scratch02/2ConstructionIfThenElse.pdf, id=383, 248.127pt x 290.686pt>
 File: ./images/scratch02/2ConstructionIfThenElse.pdf Graphic file (type pdf)
 <use ./images/scratch02/2ConstructionIfThenElse.pdf>
 Package pdftex.def Info: ./images/scratch02/2ConstructionIfThenElse.pdf used on
- input line 354.
+ input line 360.
 (pdftex.def)             Requested size: 248.12637pt x 290.68527pt.
 
-<./images/scratch02/2IfThenElseTexte.pdf, id=394, 351.7996pt x 128.83995pt>
+<./images/scratch02/2IfThenElseTexte.pdf, id=384, 351.7996pt x 128.83995pt>
 File: ./images/scratch02/2IfThenElseTexte.pdf Graphic file (type pdf)
 
 <use ./images/scratch02/2IfThenElseTexte.pdf>
 Package pdftex.def Info: ./images/scratch02/2IfThenElseTexte.pdf used on input 
-line 358.
+line 364.
 (pdftex.def)             Requested size: 351.79875pt x 128.83963pt.
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 358--358
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 364--364
 [] 
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [13 <./images/scratch02/2activite2scene.png> <./images/scratch02/2blocDire.png
-> <./images/scratch02/2blocDemander.png> <./images/scratch02/2reponse.png> <./i
-mages/scratch02/2ConstructionIfThenElse.pdf>]
-<./images/scratch02/Pong1.png, id=411, 179.67125pt x 188.705pt>
-File: ./images/scratch02/Pong1.png Graphic file (type png)
+ [12 <./images/scratch02/2variableA.png> <./images/scratch02/2variableB.png> <.
+/images/scratch02/2nouveauLutin.png> <./images/scratch02/2activite2scene.png> <
+./images/scratch02/2blocDire.png> <./images/scratch02/2blocDemander.png> <./ima
+ges/scratch02/2reponse.png> <./images/scratch02/2ConstructionIfThenElse.pdf>]
+<./images/scratch02/choixArrierePlan.png, id=406, 489.83pt x 260.975pt>
+File: ./images/scratch02/choixArrierePlan.png Graphic file (type png)
 
-<use ./images/scratch02/Pong1.png>
-Package pdftex.def Info: ./images/scratch02/Pong1.png used on input line 377.
-(pdftex.def)             Requested size: 179.67079pt x 188.70453pt.
+<use ./images/scratch02/choixArrierePlan.png>
+Package pdftex.def Info: ./images/scratch02/choixArrierePlan.png used on input 
+line 383.
+(pdftex.def)             Requested size: 489.8288pt x 260.97437pt.
 
-<./images/scratch02/Pong2.png, id=412, 156.585pt x 156.585pt>
+<./images/scratch02/Pong2.png, id=407, 156.585pt x 156.585pt>
 File: ./images/scratch02/Pong2.png Graphic file (type png)
 
 <use ./images/scratch02/Pong2.png>
-Package pdftex.def Info: ./images/scratch02/Pong2.png used on input line 377.
+Package pdftex.def Info: ./images/scratch02/Pong2.png used on input line 383.
 (pdftex.def)             Requested size: 156.58461pt x 156.58461pt.
 
-<./images/scratch02/Pong5.png, id=413, 192.72pt x 61.22874pt>
-File: ./images/scratch02/Pong5.png Graphic file (type png)
+<./images/scratch02/redimension.png, id=408, 114.4275pt x 43.16125pt>
+File: ./images/scratch02/redimension.png Graphic file (type png)
 
-<use ./images/scratch02/Pong5.png>
-Package pdftex.def Info: ./images/scratch02/Pong5.png used on input line 379.
-(pdftex.def)             Requested size: 85.35826pt x 27.11823pt.
+<use ./images/scratch02/redimension.png>
+Package pdftex.def Info: ./images/scratch02/redimension.png used on input line 
+385.
+(pdftex.def)             Requested size: 85.35826pt x 32.19763pt.
 
-<./images/scratch02/Pong4.png, id=414, 713.66624pt x 235.88126pt>
-File: ./images/scratch02/Pong4.png Graphic file (type png)
+<./images/scratch02/choixBalle.png, id=409, 520.94624pt x 169.63374pt>
+File: ./images/scratch02/choixBalle.png Graphic file (type png)
 
-<use ./images/scratch02/Pong4.png>
-Package pdftex.def Info: ./images/scratch02/Pong4.png used on input line 382.
-(pdftex.def)             Requested size: 713.66449pt x 235.88068pt.
+<use ./images/scratch02/choixBalle.png>
+Package pdftex.def Info: ./images/scratch02/choixBalle.png used on input line 3
+88.
+(pdftex.def)             Requested size: 520.94498pt x 169.63332pt.
 
-<./images/scratch02/Pong8.png, id=415, 157.58875pt x 156.585pt>
+<./images/scratch02/Pong8.png, id=410, 157.58875pt x 156.585pt>
 File: ./images/scratch02/Pong8.png Graphic file (type png)
 
 <use ./images/scratch02/Pong8.png>
-Package pdftex.def Info: ./images/scratch02/Pong8.png used on input line 382.
+Package pdftex.def Info: ./images/scratch02/Pong8.png used on input line 388.
 (pdftex.def)             Requested size: 157.58835pt x 156.58461pt.
- [14 <./images/scratch02/2IfThenElseTexte.pdf> <./images/scratch02/Pong1.png> <
-./images/scratch02/Pong2.png> <./images/scratch02/Pong5.png> <./images/scratch0
-2/Pong4.png> <./images/scratch02/Pong8.png>]
-<./images/scratch02/flowchartActivite3a.pdf, id=447, 340.74828pt x 241.703pt>
+ [13 <./images/scratch02/2IfThenElseTexte.pdf> <./images/scratch02/choixArriere
+Plan.png> <./images/scratch02/Pong2.png> <./images/scratch02/redimension.png> <
+./images/scratch02/choixBalle.png> <./images/scratch02/Pong8.png>]
+<./images/scratch02/flowchartActivite3a.pdf, id=439, 340.74828pt x 241.703pt>
 File: ./images/scratch02/flowchartActivite3a.pdf Graphic file (type pdf)
 
 <use ./images/scratch02/flowchartActivite3a.pdf>
 Package pdftex.def Info: ./images/scratch02/flowchartActivite3a.pdf used on inp
-ut line 388.
+ut line 394.
 (pdftex.def)             Requested size: 340.74744pt x 241.7024pt.
 
-<./images/scratch02/3boucleInfinie.png, id=448, 250.9375pt x 101.37875pt>
+<./images/scratch02/3boucleInfinie.png, id=440, 250.9375pt x 101.37875pt>
 File: ./images/scratch02/3boucleInfinie.png Graphic file (type png)
 
 <use ./images/scratch02/3boucleInfinie.png>
 Package pdftex.def Info: ./images/scratch02/3boucleInfinie.png used on input li
-ne 393.
+ne 399.
 (pdftex.def)             Requested size: 250.93687pt x 101.3785pt.
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 393--393
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 399--399
 [] 
  []
 
 
-<./images/scratch02/flowchartActivite3b.pdf, id=449, 222.28044pt x 201.55301pt>
+<./images/scratch02/flowchartActivite3b.pdf, id=441, 222.28044pt x 201.55301pt>
 File: ./images/scratch02/flowchartActivite3b.pdf Graphic file (type pdf)
 <use ./images/scratch02/flowchartActivite3b.pdf>
 Package pdftex.def Info: ./images/scratch02/flowchartActivite3b.pdf used on inp
-ut line 400.
+ut line 406.
 (pdftex.def)             Requested size: 222.27989pt x 201.5525pt.
- [15 <./images/scratch02/flowchartActivite3a.pdf> <./images/scratch02/3boucleIn
+ [14 <./images/scratch02/flowchartActivite3a.pdf> <./images/scratch02/3boucleIn
 finie.png>]
-<./images/scratch02/flowchartActivite3c.pdf, id=486, 222.93288pt x 289.88298pt>
+Underfull \hbox (badness 10000) in paragraph at lines 408--409
+
+ []
+
+
+<./images/scratch02/flowchartActivite3c.pdf, id=477, 222.93288pt x 289.88298pt>
 File: ./images/scratch02/flowchartActivite3c.pdf Graphic file (type pdf)
 <use ./images/scratch02/flowchartActivite3c.pdf>
 Package pdftex.def Info: ./images/scratch02/flowchartActivite3c.pdf used on inp
-ut line 406.
+ut line 412.
 (pdftex.def)             Requested size: 222.93233pt x 289.88226pt.
- [16 <./images/scratch02/flowchartActivite3b.pdf> <./images/scratch02/flowchart
+ [15 <./images/scratch02/flowchartActivite3b.pdf> <./images/scratch02/flowchart
 Activite3c.pdf
 
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./images/scratch02/flowchart
 Activite3c.pdf): PDF inclusion: multiple pdfs with page group included in a sin
 gle page
->] <./images/scratch02/Pong13.png, id=527, 932.48375pt x 587.19376pt>
-File: ./images/scratch02/Pong13.png Graphic file (type png)
+>] <./images/scratch02/wallPong13.png, id=519, 673.51625pt x 577.15625pt>
+File: ./images/scratch02/wallPong13.png Graphic file (type png)
 
-<use ./images/scratch02/Pong13.png>
-Package pdftex.def Info: ./images/scratch02/Pong13.png used on input line 416.
-(pdftex.def)             Requested size: 932.48148pt x 587.19232pt.
+<use ./images/scratch02/wallPong13.png>
+Package pdftex.def Info: ./images/scratch02/wallPong13.png used on input line 4
+22.
+(pdftex.def)             Requested size: 673.5146pt x 577.15483pt.
 
-Overfull \hbox (10.06378pt too wide) in paragraph at lines 424--425
+Overfull \hbox (10.06378pt too wide) in paragraph at lines 430--431
 []\T1/lmr/m/n/12 pour tra-cer un trait par-fai-te-ment ho-ri-zon-tal, main-te-n
 ir la touche \T1/lmtt/m/n/12 majuscule (shift)
  []
 
-<./images/scratch02/Pong12bis.png, id=528, 65.24374pt x 32.12pt>
-File: ./images/scratch02/Pong12bis.png Graphic file (type png)
+<./images/scratch02/wallPong12.png, id=520, 74.2775pt x 44.165pt>
+File: ./images/scratch02/wallPong12.png Graphic file (type png)
 
-<use ./images/scratch02/Pong12bis.png>
-Package pdftex.def Info: ./images/scratch02/Pong12bis.png used on input line 42
-5.
-(pdftex.def)             Requested size: 42.67912pt x 21.01154pt.
+<use ./images/scratch02/wallPong12.png>
+Package pdftex.def Info: ./images/scratch02/wallPong12.png used on input line 4
+31.
+(pdftex.def)             Requested size: 42.67912pt x 25.3778pt.
 
-<./images/scratch02/flowchartActivite3d.pdf, id=529, 322.6921pt x 183.13454pt>
+<./images/scratch02/flowchartActivite3d.pdf, id=521, 322.6921pt x 183.13454pt>
 File: ./images/scratch02/flowchartActivite3d.pdf Graphic file (type pdf)
 
 <use ./images/scratch02/flowchartActivite3d.pdf>
 Package pdftex.def Info: ./images/scratch02/flowchartActivite3d.pdf used on inp
-ut line 433.
+ut line 439.
 (pdftex.def)             Requested size: 322.6913pt x 183.13408pt.
-)
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [16 <./images/scratch02/wallPong13.png> <./images/scratch02/wallPong12.png>])
 No file nouveau_livret_MITIC_5e_v11.ind.
-[17 <./images/scratch02/Pong13.png> <./images/scratch02/Pong12bis.png> <./image
-s/scratch02/flowchartActivite3d.pdf>]
+[17 <./images/scratch02/flowchartActivite3d.pdf>]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 50.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 50.
- (./nouveau_livret_MITIC_5e_v11.aux)
+
+(./nouveau_livret_MITIC_5e_v11.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 50.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 50.
 Package rerunfilecheck Info: File `nouveau_livret_MITIC_5e_v11.out' has not cha
@@ -1672,7 +1670,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 50.
  ) 
 Here is how much of TeX's memory you used:
  18238 strings out of 493014
- 338043 string characters out of 6133351
+ 338108 string characters out of 6133351
  404225 words of memory out of 5000000
  21268 multiletter control sequences out of 15000+600000
  110954 words of font info for 69 fonts, out of 8000000 for 9000
@@ -1699,9 +1697,9 @@ pe1/public/lm/lmro8.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/
 lm/lmss10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmsy10.
 pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmtt10.pfb></usr/
 local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmtt12.pfb>
-Output written on nouveau_livret_MITIC_5e_v11.pdf (27 pages, 4739360 bytes).
+Output written on nouveau_livret_MITIC_5e_v11.pdf (27 pages, 4692404 bytes).
 PDF statistics:
- 634 PDF objects out of 1000 (max. 8388607)
+ 629 PDF objects out of 1000 (max. 8388607)
  430 compressed objects within 5 object streams
  65 named destinations out of 1000 (max. 500000)
  379 words of extra memory for PDF output out of 10000 (max. 10000000)

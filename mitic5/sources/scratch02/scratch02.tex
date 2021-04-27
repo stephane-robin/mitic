@@ -12,8 +12,8 @@ Les ordinateurs sont des machines qui exécutent des programmes. On peut écrire
         \begin{itemize}
         \item choisir et paramétrer l'objet sprite et l'objet scène ;
         \item créer/insérer un nouvel objet ; 
-        \item écrire un script comprenant mouvements, réponses à événement, boucles et son ;
-        \item associer un script à un objet ;
+        \item écrire un code comprenant mouvements, réponses à événement, boucles et son ;
+        \item associer un code à un objet ;
         \item utiliser la structure conditionnelle if (bloc \emph{si ..}) ; 
         \item écrire un programme simple qui réponde à une problématique donnée.
         \end{itemize}
@@ -36,7 +36,7 @@ Les ordinateurs sont des machines qui exécutent des programmes. On peut écrire
 \end{itemize}
 } % fin du footnotesize
 \vspace{10pt}
-\emph{Scratch} est un langage de programmation \underline{visuelle} (on place des blocs d'\textbf{instructions} pour créer des programmes composés de \textbf{scripts}) et \underline{événementielle} (le programme réagit à des \textbf{événements} comme le clic de souris ou l'appui sur une touche). Il contient des \textbf{objets} : le sprite est un objet, l'arrière plan de la scène est un autre objet. On peut modifier les propriétés des objets, leur associer des \textbf{scripts}, des \textbf{costumes} ou des \textbf{sons}.   
+\emph{Scratch} est un langage de programmation \underline{visuelle} (on place des blocs d'\textbf{instructions} pour créer des programmes composés de \textbf{codes}) et \underline{événementielle} (le programme réagit à des \textbf{événements} comme le clic de souris ou l'appui sur une touche). Il contient des \textbf{objets} : le sprite est un objet, l'arrière plan de la scène est un autre objet. On peut modifier les propriétés des objets, leur associer des \textbf{codes}, des \textbf{costumes} ou des \textbf{sons}.   
 
 
 
@@ -69,6 +69,8 @@ Les ordinateurs sont des machines qui exécutent des programmes. On peut écrire
 
 \subsection{Pour bien démarrer...}
 
+\vspace{10pt}
+
 \subsubsection{Passer Scratch en langue française} 
 
 Avant de commencer, vous pouvez si nécessaire choisir la langue de l'interface en cliquant sur l'icone en haut à gauche  \includegraphics[width=1cm]{./images/scratch02/changerLangue.png}. Nous choisirons par exemple \texttt{Français}
@@ -85,6 +87,9 @@ Avant de commencer, vous pouvez si nécessaire choisir la langue de l'interface 
 
 Dès que vous avez ouvert un nouveau programme dans \emph{Scratch}, sauvegardez-le au format Nom-seance1.sb3 : dans le menu \texttt{Fichier}, choisir \texttt{Sauvegarder sur votre ordinateur}. Pendant que vous travaillez, pensez à sauvegarder régulièrement votre travail.   
 
+\vfill
+\phantom{rien}
+
 %\uneimageici{./images/generales/clavierCmdS}{.4\textwidth}
 %\vfill
 
@@ -92,7 +97,7 @@ Dès que vous avez ouvert un nouveau programme dans \emph{Scratch}, sauvegardez-
 
 \vspace{12pt}
 
-\boiteEnonceLarge{Le but de cette séance est de dessiner une spirale, comme montré sur la figure ci-dessous. Il faudra ensuite dessiner une fleur en réutilisant le script conçu pour dessiner la spirale. 
+\boiteEnonceLarge{Le but de cette séance est de dessiner une spirale, comme montré sur la figure ci-dessous. Il faudra ensuite dessiner une fleur en réutilisant le code conçu pour dessiner la spirale. 
 %
 \deuximagesici{./images/scratch02/1ResultatSpirale}{\textwidth}%
              {./images/scratch02/1Fleurs}{\textwidth}
@@ -259,12 +264,12 @@ Pour créer une variable, il faut sélectionner \texttt{Variables} dans la colon
 
 \uneimageici{./images/scratch02/variable1.png}{.4\textwidth}
 
-Une boîte de dialogue s'ouvre alors (ci-dessous, à gauche) : il faut y inscrire le nom de la variable, puis choisir une \emph{variable locale} en sélectionnant \texttt{Pour ce lutin uniquement}, et enfin cliquer sur \texttt{OK}. Le menu \texttt{Données} possède alors de nouveaux blocs de commande associés à notre variable (ci-dessous à droite).
+Une boîte de dialogue s'ouvre alors (ci-dessous, à gauche) : il faut y inscrire le nom de la variable, puis choisir une \emph{variable locale} en sélectionnant \texttt{Pour ce sprite uniquement}, et enfin cliquer sur \texttt{OK}. Le menu \texttt{Variables} possède alors de nouveaux blocs de commande associés à notre variable \texttt{longueur}(ci-dessous à droite).
 
-\deuximagesici{./images/scratch02/scratchVariable2}{.7\textwidth}%
-              {./images/scratch02/scratchVariable3}{.5\textwidth}
+\deuximagesici{./images/scratch02/variable2.png}{.7\textwidth}%
+              {./images/scratch02/variable3.png}{.5\textwidth}
 
-La nouvelle variable \texttt{longueur} peut alors être utilisée, par exemple pour faire avancer le lutin d'un nombre de pas égal à la valeur de la variable \texttt{longueur} :
+La nouvelle variable \texttt{longueur} peut alors être utilisée, par exemple pour faire avancer le sprite d'un nombre de pas égal à la valeur de la variable \texttt{longueur} :
 
 \uneimageici{./images/scratch02/scratchVariable4}{.6\textwidth}
 
@@ -279,32 +284,33 @@ Il est également possible de modifier la valeur de la variable \texttt{longueur
 
 \cadre{Les \textbf{variables}\index{Scratch!Variables}\index{Variables (Scratch)} sont très importantes pour la programmation. Une variable correspond à une case dans la mémoire de l'ordinateur où l'on peut stocker une valeur. Pour rappeler cette valeur, il suffit d'utiliser le nom de la variable. Des opérations peuvent être effectuées avec les variables :
 \begin{itemize}
-\item On peut \textbf{créer} une nouvelle variable : \uneimageici{./images/scratch02/scratchVariable2}{.4\textwidth} Si on choisit \emph{Pour tous les lutins}, la variable est \textbf{globale}, c'est-à-dire qu'elle peut être utilisée partout dans le programme. Si on choisit \emph{Pour ce lutin uniquement}, la variable est \textbf{locale}, c'est-à-dire qu'elle ne peut être utilisée que pour le lutin pour lequel elle a été créée.    
+\item On peut \textbf{créer} une nouvelle variable. %\uneimageici{./images/scratch02/scratchVariable2}{.4\textwidth} 
+ Si on choisit \emph{Pour tous les sprites}, la variable est \textbf{globale}, c'est-à-dire qu'elle peut être utilisée partout dans le programme. Si on choisit \emph{Pour ce sprite uniquement}, la variable est \textbf{locale}, c'est-à-dire qu'elle ne peut être utilisée que pour le sprite pour lequel elle a été créée.    
 \vspace{8pt}\item On peut \textbf{assigner} une valeur à la variable, c'est-à-dire ranger une valeur dans la case mémoire désignée par le nom choisi (ici, on range la valeur 0 dans la case mémoire \emph{longueur}) : \uneimageici{./images/scratch02/scratchVariableAssigner}{.25\textwidth}
 \item On peut \textbf{ajouter} un nombre à la valeur de la variable, ce qui fait changer la valeur stockée dans la case mémoire désignée par le nom choisi (ici, on ajoute 0,1 à la valeur stockée dans la case mémoire \emph{longueur}): \uneimageici{./images/scratch02/scratchVariableAjouter}{.25\textwidth}  
-\item Enfin, ce nom de variable peut être utilisé à tout moment dans le programme (ici, on demande que le lutin avance d'un nombre de pas égal à la valeur stockée dans la case mémoire \emph{longueur}) : \uneimageici{./images/scratch02/scratchVariableUtiliser}{.22\textwidth}
+\item Enfin, ce nom de variable peut être utilisé à tout moment dans le programme (ici, on demande que le sprite avance d'un nombre de pas égal à la valeur stockée dans la case mémoire \emph{longueur}) : \uneimageici{./images/scratch02/scratchVariableUtiliser}{.22\textwidth}
 \end{itemize}
 }  
 
 %\vspace{12pt}
 
-\subsubsection{Deuxième étape : le script qui dessine la spirale} 
+\subsubsection{Deuxième étape : le code qui dessine la spirale} 
 
 
 Pour dessiner une spirale, il faut répéter plusieurs fois le même bloc d'instructions \emph{<<\,Avancer de $x$ pas -- Tourner un peu -- Augmenter la valeur de $x$\,>>}. Nous avons vu l'année passée que ceci était possible grâce à une \textbf{boucle} qui permet de répéter un certain nombre de fois un bloc d'instructions.
 
 \cadre{La \textbf{boucle} est une structure importante en programmation : elle permet de répéter un bloc d'instructions plusieurs fois, tant qu'une condition est vérifiée ou même indéfiniment. Dans notre programme, nous utilisons une boucle <<\,répéter 300 fois\,>>.\uneimageici{./images/scratch02/1Boucle300texte}{.6\textwidth}}
 
-Créer maintenant le script suivant, qui doit être associé au lutin (à gauche, ci-dessous, l'\emph{algorithme} qui correspond au script) :
+Créer maintenant le code suivant, qui doit être associé au sprite (à gauche, ci-dessous, l'\emph{algorithme} qui correspond au code) :
 
 \deuximagesGPici{./images/scratch02/flowchartActivite1}{\textwidth}% 
               {./images/scratch02/1CodeSpirale}{.9\textwidth}  
 
 \emph{Attention ! Comprenez bien l'algorithme ci-dessus, car lors de la prochaine séance, seul l'algorithme sera donné.} 
 
-\subsubsection{Troisième étape : un script qui efface l'écran}\index{Scratch!Effacer l'écran}\index{Effacer l'écran (Scratch)}
+\subsubsection{Troisième étape : un code qui efface l'écran}\index{Scratch!Effacer l'écran}\index{Effacer l'écran (Scratch)}
 
-Créer enfin ce petit script, associé au lutin, qui permet d'effacer l'écran :
+Créer enfin ce petit code, associé au sprite, qui permet d'effacer l'écran :
 
 \deuximagesGPici{./images/scratch02/flowchartActivite1b}{.75\textwidth}%
               {./images/scratch02/1CodeEffaceEcran}{.75\textwidth}
@@ -342,7 +348,7 @@ Pour écrire ce programme, il faudra :
 
 \begin{enumerate}
 \item Créer deux variables \includegraphics[width=.7cm]{./images/scratch02/2variableA} et \includegraphics[width=.7cm]{./images/scratch02/2variableB} (voir si nécessaire la section \vref{Scratch5eCreationVariable}) ;
-\item Supprimer le lutin par défaut et en choisir un autre en cliquant sur une des icônes \includegraphics[width=4cm]{./images/scratch02/2nouveauLutin}, comme par exemple celui de l'image ci-dessous.
+\item Supprimer le sprite par défaut et en choisir un autre en cliquant sur une des icônes \includegraphics[width=4cm]{./images/scratch02/2nouveauLutin}, comme par exemple celui de l'image ci-dessous.
 
 \uneimageici{./images/scratch02/2activite2scene}{.5\textwidth}
 
@@ -369,16 +375,16 @@ Pour écrire ce programme, il faudra :
 
 \subsection{Aide pour la séance 3}\label{aide_seanceScratch3}
 
-\subsubsection{Première étape : création de l'arrière plan et choix des lutins} 
+\subsubsection{Première étape : création de l'arrière plan et choix des sprites} 
 
 La première étape consiste à choisir un arrière plan :
 
-\deuximagesici{./images/scratch02/Pong1}{.5\textwidth}%
+\deuximagesici{./images/scratch02/choixArrierePlan.png}{\textwidth}%
               {./images/scratch02/Pong2}{.5\textwidth}
 
-Supprimer ensuite le lutin existant par défaut, puis choisir les deux lutins nécessaires au jeu, la raquette et la balle, que l'on redimensionne \includegraphics[width=3cm]{./images/scratch02/Pong5} si nécessaire.
+Supprimer ensuite le sprite existant par défaut, puis choisir les deux sprites nécessaires au jeu, la raquette et la balle, que l'on redimensionne \includegraphics[width=3cm]{./images/scratch02/redimension.png} si nécessaire.
 
-\deuximagesGPici{./images/scratch02/Pong4}{\textwidth}%
+\deuximagesGPici{./images/scratch02/choixBalle.png}{\textwidth}%
               {./images/scratch02/Pong8}{.6\textwidth}
 
 \subsubsection{Définition du mouvement de la balle} 
@@ -395,17 +401,17 @@ Pour vérifier que cette partie du jeu est bien programmée, cliquer sur le drap
 
 \subsubsection{Mouvements de la raquette et rebond de la balle sur la raquette}
 
-Pour pouvoir contrôler les mouvements de la raquette avec la souris, il faut utiliser l'instruction \texttt{aller à pointeur souris}. Écrire la boucle correspondante en cliquant bien, au préalable, sur le lutin raquette.
+Pour pouvoir contrôler les mouvements de la raquette avec la souris, il faut utiliser l'instruction \texttt{aller à pointeur souris}. Écrire la boucle correspondante en cliquant bien, au préalable, sur le sprite raquette.
 
 \uneimageici{./images/scratch02/flowchartActivite3b}{.5\textwidth}
 
-Vérifiez que votre script est correct : quand vous cliquez sur le drapeau vert, la raquette suit la souris.
+Vérifiez que votre code est correct : quand vous cliquez sur le drapeau vert, la raquette suit la souris.\\
 
-Revenir au lutin balle pour programmer ce qui se passe quand il touche la raquette. Pour cela, il faut utiliser la condition \texttt{si paddle touché..alors} et l'instruction \texttt{tourner de 180 degrés} qui fait que la balle repart dans l'autre sens quand elle touche la raquette.
+Revenir au sprite balle pour programmer ce qui se passe quand il touche la raquette. Pour cela, il faut utiliser la condition \texttt{si paddle touché..alors} et l'instruction \texttt{tourner de 180 degrés} qui fait que la balle repart dans l'autre sens quand elle touche la raquette.
 
 \uneimageici{./images/scratch02/flowchartActivite3c}{.5\textwidth}
 
-Vérifiez votre script : quand vous cliquez sur le drapeau vert et que la balle touche la raquette, elle rebondit.
+Vérifiez votre code : quand vous cliquez sur le drapeau vert et que la balle touche la raquette, elle rebondit.
 
 \subsubsection{Fin du jeu}
 
@@ -413,7 +419,7 @@ Pour arrêter le jeu si la balle touche le bas, le plus simple est de tracer une
 
 Cliquer sur l'arrière-plan puis cliquer sur l'onglet \texttt{Arrière-plan}.
 
-\uneimageici{./images/scratch02/Pong13}{.6\textwidth}
+\uneimageici{./images/scratch02/wallPong13.png}{.6\textwidth}
 
 Sélectionner l'outil ligne \circled{1} puis choisir l'épaisseur \circled{2} et la couleur \circled{3} du trait. Dessiner un trait \circled{4} en bas de la scène. 
 
@@ -422,13 +428,13 @@ Sélectionner l'outil ligne \circled{1} puis choisir l'épaisseur \circled{2} et
 Remarques :
 \begin{itemize}
 \item pour tracer un trait parfaitement horizontal, maintenir la touche \texttt{majuscule (shift)} enfoncée pendant que le trait est tracé ;
-\item si le trait tracé ne convient pas, il est possible de l'effacer en utilisant la touche d'annulation de la dernière action \includegraphics[width=1.5cm]{./images/scratch02/Pong12bis};
+\item si le trait tracé ne convient pas, il est possible de l'effacer en utilisant la touche d'annulation de la dernière action \includegraphics[width=1.5cm]{./images/scratch02/wallPong12.png}.
 \end{itemize}
 
 
 \vspace{12pt}
 
-Cliquer ensuite sur le lutin balle et ajouter un script avec le bloc \texttt{couleur touchée} pour arrêter la balle si elle touche la couleur de ligne. Une fois le bloc \texttt{couleur touchée} inséré, il faut cliquer sur le carré de couleur puis cliquer sur la ligne du bas de la scène pour sélectionner la bonne couleur. L'algorithme du script à construire est détaillé ci-dessous.
+Cliquer ensuite sur le sprite balle et ajouter un code avec le bloc \texttt{couleur touchée} pour arrêter la balle si elle touche la couleur de ligne. Une fois le bloc \texttt{couleur touchée} inséré, il faut cliquer sur le carré de couleur puis cliquer sur la ligne du bas de la scène pour sélectionner la bonne couleur. L'algorithme du code à construire est détaillé ci-dessous.
 
 \uneimageici{./images/scratch02/flowchartActivite3d}{.75\textwidth}
 
