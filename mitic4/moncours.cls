@@ -285,7 +285,7 @@
     \textbf{\textcolor{black}\thepage}
 }
 % bas de page
-\cfoot[\scriptsize{\textsl{Fiches MITIC 4\up{e}}}]{\scriptsize{\textsl{Institut Florimont}}}
+\cfoot[\scriptsize{\textsl{Informatique 4\up{e} Fiches MITIC}}]{\scriptsize{\textsl{Institut Florimont}}}
 %
 % espacement entre l'en-tête et le corps du document (13pt par défaut)
 %\setlength{\headsep}{16pt}

@@ -1,105 +1,23 @@
-\BOOKMARK [0][-]{chapter.1}{Microsoft Teams}{}% 1
-\BOOKMARK [1][-]{section.1.1}{Connexion \340 Office 365 et Teams}{chapter.1}% 2
-\BOOKMARK [1][-]{section.1.2}{Utilisation de la Publication}{chapter.1}% 3
-\BOOKMARK [1][-]{section.1.3}{Consulter et t\351l\351charger un document}{chapter.1}% 4
-\BOOKMARK [1][-]{section.1.4}{Les devoirs}{chapter.1}% 5
-\BOOKMARK [2][-]{subsection.1.4.1}{Consulter le sujet d'un devoir en pi\350ce jointe}{section.1.4}% 6
-\BOOKMARK [2][-]{subsection.1.4.2}{Remettre son devoir}{section.1.4}% 7
-\BOOKMARK [1][-]{section.1.5}{Acc\351der \340 mon bloc-note}{chapter.1}% 8
-\BOOKMARK [1][-]{section.1.6}{Rejoindre une visio-conf\351rence}{chapter.1}% 9
-\BOOKMARK [1][-]{section.1.7}{Pour aller plus loin}{chapter.1}% 10
-\BOOKMARK [2][-]{subsection.1.7.1}{Apparence de la page d'accueil}{section.1.7}% 11
-\BOOKMARK [2][-]{subsection.1.7.2}{Activit\351 d'exploration de Teams}{section.1.7}% 12
-\BOOKMARK [0][-]{chapter.2}{Tableur}{}% 13
-\BOOKMARK [1][-]{section.2.1}{S\351ance 1 : Moyennes avec coefficients}{chapter.2}% 14
-\BOOKMARK [2][-]{subsection.2.1.1}{Travail de pr\351paration...}{section.2.1}% 15
-\BOOKMARK [2][-]{subsection.2.1.2}{Pour bien d\351marrer...}{section.2.1}% 16
-\BOOKMARK [2][-]{subsection.2.1.3}{Sujet de l'activit\351...}{section.2.1}% 17
-\BOOKMARK [2][-]{subsection.2.1.4}{Pour aller plus loin...}{section.2.1}% 18
-\BOOKMARK [1][-]{section.2.2}{S\351ance 2 : Traitement de donn\351es}{chapter.2}% 19
-\BOOKMARK [2][-]{subsection.2.2.1}{Travail de pr\351paration...}{section.2.2}% 20
-\BOOKMARK [2][-]{subsection.2.2.2}{Pour bien d\351marrer...}{section.2.2}% 21
-\BOOKMARK [2][-]{subsection.2.2.3}{Sujet de l'activit\351...}{section.2.2}% 22
-\BOOKMARK [2][-]{subsection.2.2.4}{Pour aller plus loin...}{section.2.2}% 23
-\BOOKMARK [1][-]{section.2.3}{Aide pour r\351aliser les activit\351s}{chapter.2}% 24
-\BOOKMARK [2][-]{subsection.2.3.1}{Le s\351parateur d\351cimal}{section.2.3}% 25
-\BOOKMARK [2][-]{subsection.2.3.2}{Importer un fichier au format CSV}{section.2.3}% 26
-\BOOKMARK [2][-]{subsection.2.3.3}{R\351f\351rence variable et r\351f\351rence fixe}{section.2.3}% 27
-\BOOKMARK [2][-]{subsection.2.3.4}{Trier des donn\351es}{section.2.3}% 28
-\BOOKMARK [2][-]{subsection.2.3.5}{Utiliser une condition pour d\351finir le contenu d'une cellule}{section.2.3}% 29
-\BOOKMARK [2][-]{subsection.2.3.6}{Compter le nombre de cellules v\351rifiant une condition}{section.2.3}% 30
-\BOOKMARK [2][-]{subsection.2.3.7}{Additionner le contenu de plusieurs cellules}{section.2.3}% 31
-\BOOKMARK [2][-]{subsection.2.3.8}{Figer une ligne ou une colonne \340 l'affichage}{section.2.3}% 32
-\BOOKMARK [2][-]{subsection.2.3.9}{Naviguer dans une grande feuille de calcul}{section.2.3}% 33
-\BOOKMARK [0][-]{chapter.3}{Traitement de texte}{}% 34
-\BOOKMARK [1][-]{section.3.1}{S\351ance 1 : un expos\351 sur un pays}{chapter.3}% 35
-\BOOKMARK [2][-]{subsection.3.1.1}{Travail de pr\351paration...}{section.3.1}% 36
-\BOOKMARK [2][-]{subsection.3.1.2}{Pour bien d\351marrer...}{section.3.1}% 37
-\BOOKMARK [2][-]{subsection.3.1.3}{Sujet de l'activit\351...}{section.3.1}% 38
-\BOOKMARK [2][-]{subsection.3.1.4}{Pour aller plus loin...}{section.3.1}% 39
-\BOOKMARK [1][-]{section.3.2}{S\351ance 2 : une fiche de lecture}{chapter.3}% 40
-\BOOKMARK [2][-]{subsection.3.2.1}{Travail de pr\351paration...}{section.3.2}% 41
-\BOOKMARK [2][-]{subsection.3.2.2}{Pour bien d\351marrer...}{section.3.2}% 42
-\BOOKMARK [2][-]{subsection.3.2.3}{L'activit\351 demand\351e}{section.3.2}% 43
-\BOOKMARK [2][-]{subsection.3.2.4}{Pour aller plus loin...}{section.3.2}% 44
-\BOOKMARK [1][-]{section.3.3}{S\351ance 3 : r\351daction d'un document math\351matique}{chapter.3}% 45
-\BOOKMARK [2][-]{subsection.3.3.1}{Travail de pr\351paration...}{section.3.3}% 46
-\BOOKMARK [2][-]{subsection.3.3.2}{Pour bien d\351marrer...}{section.3.3}% 47
-\BOOKMARK [2][-]{subsection.3.3.3}{Sujet de l'activit\351...}{section.3.3}% 48
-\BOOKMARK [2][-]{subsection.3.3.4}{Pour aller plus loin...}{section.3.3}% 49
-\BOOKMARK [1][-]{section.3.4}{Aide pour r\351aliser les activit\351s}{chapter.3}% 50
-\BOOKMARK [2][-]{subsection.3.4.1}{La gestion des styles}{section.3.4}% 51
-\BOOKMARK [2][-]{subsection.3.4.2}{Travailler avec les styles}{section.3.4}% 52
-\BOOKMARK [2][-]{subsection.3.4.3}{Ins\351rer une table des mati\350res}{section.3.4}% 53
-\BOOKMARK [2][-]{subsection.3.4.4}{En-t\352te et pied de page}{section.3.4}% 54
-\BOOKMARK [2][-]{subsection.3.4.5}{Ins\351rer un champ automatique \(num\351ro de page\)}{section.3.4}% 55
-\BOOKMARK [2][-]{subsection.3.4.6}{Mettre du texte en exposant et en indice}{section.3.4}% 56
-\BOOKMARK [2][-]{subsection.3.4.7}{Ins\351rer des caract\350res sp\351ciaux}{section.3.4}% 57
-\BOOKMARK [2][-]{subsection.3.4.8}{\311crire des formules math\351matiques}{section.3.4}% 58
-\BOOKMARK [0][-]{chapter.4}{Traitement d'images}{}% 59
-\BOOKMARK [1][-]{section.4.1}{S\351ance 1 : l\351gender une image}{chapter.4}% 60
-\BOOKMARK [2][-]{subsection.4.1.1}{Travail de pr\351paration...}{section.4.1}% 61
-\BOOKMARK [2][-]{subsection.4.1.2}{Pour bien d\351marrer...}{section.4.1}% 62
-\BOOKMARK [2][-]{subsection.4.1.3}{Sujet de l'activit\351...}{section.4.1}% 63
-\BOOKMARK [2][-]{subsection.4.1.4}{Pour aller plus loin...}{section.4.1}% 64
-\BOOKMARK [1][-]{section.4.2}{S\351ance 2 : un calligramme}{chapter.4}% 65
-\BOOKMARK [2][-]{subsection.4.2.1}{Travail de pr\351paration...}{section.4.2}% 66
-\BOOKMARK [2][-]{subsection.4.2.2}{Pour bien d\351marrer...}{section.4.2}% 67
-\BOOKMARK [2][-]{subsection.4.2.3}{L'activit\351 demand\351e}{section.4.2}% 68
-\BOOKMARK [2][-]{subsection.4.2.4}{Pour aller plus loin...}{section.4.2}% 69
-\BOOKMARK [1][-]{section.4.3}{S\351ance 3 : composition d'une image}{chapter.4}% 70
-\BOOKMARK [2][-]{subsection.4.3.1}{Travail de pr\351paration...}{section.4.3}% 71
-\BOOKMARK [2][-]{subsection.4.3.2}{Pour bien d\351marrer...}{section.4.3}% 72
-\BOOKMARK [2][-]{subsection.4.3.3}{Sujet de l'activit\351...}{section.4.3}% 73
-\BOOKMARK [2][-]{subsection.4.3.4}{Pour aller plus loin...}{section.4.3}% 74
-\BOOKMARK [1][-]{section.4.4}{Aide pour r\351aliser les activit\351s}{chapter.4}% 75
-\BOOKMARK [2][-]{subsection.4.4.1}{Cr\351er et modifier un chemin}{section.4.4}% 76
-\BOOKMARK [2][-]{subsection.4.4.2}{Travailler avec les chemins et les calques}{section.4.4}% 77
-\BOOKMARK [2][-]{subsection.4.4.3}{Tracer un trait le long d'un chemin}{section.4.4}% 78
-\BOOKMARK [2][-]{subsection.4.4.4}{\311crire un texte le long d'un chemin}{section.4.4}% 79
-\BOOKMARK [2][-]{subsection.4.4.5}{Utiliser les guides}{section.4.4}% 80
-\BOOKMARK [2][-]{subsection.4.4.6}{Extraire un objet de son arri\350re plan \(d\351tourage\)}{section.4.4}% 81
-\BOOKMARK [2][-]{subsection.4.4.7}{Aide pour la s\351ance 3}{section.4.4}% 82
-\BOOKMARK [0][-]{chapter.5}{Programmation Scratch}{}% 83
-\BOOKMARK [1][-]{section.5.1}{S\351ance 1 : Cr\351er des nouveaux blocs}{chapter.5}% 84
-\BOOKMARK [2][-]{subsection.5.1.1}{Travail de pr\351paration...}{section.5.1}% 85
-\BOOKMARK [2][-]{subsection.5.1.2}{Pour bien d\351marrer...}{section.5.1}% 86
-\BOOKMARK [2][-]{subsection.5.1.3}{Sujet de l'activit\351...}{section.5.1}% 87
-\BOOKMARK [2][-]{subsection.5.1.4}{Pour aller plus loin...}{section.5.1}% 88
-\BOOKMARK [1][-]{section.5.2}{S\351ance 2 : Un clone de Flappy Bird}{chapter.5}% 89
-\BOOKMARK [2][-]{subsection.5.2.1}{Travail de pr\351paration...}{section.5.2}% 90
-\BOOKMARK [2][-]{subsection.5.2.2}{Pour bien d\351marrer...}{section.5.2}% 91
-\BOOKMARK [2][-]{subsection.5.2.3}{Sujet de l'activit\351...}{section.5.2}% 92
-\BOOKMARK [2][-]{subsection.5.2.4}{Pour aller plus loin...}{section.5.2}% 93
-\BOOKMARK [1][-]{section.5.3}{S\351ance 3 : Tracer une fonction affine}{chapter.5}% 94
-\BOOKMARK [2][-]{subsection.5.3.1}{Travail de pr\351paration...}{section.5.3}% 95
-\BOOKMARK [2][-]{subsection.5.3.2}{Pour bien d\351marrer...}{section.5.3}% 96
-\BOOKMARK [2][-]{subsection.5.3.3}{Sujet de l'activit\351...}{section.5.3}% 97
-\BOOKMARK [2][-]{subsection.5.3.4}{Pour aller plus loin...}{section.5.3}% 98
-\BOOKMARK [1][-]{section.5.4}{Aide pour r\351aliser les activit\351s}{chapter.5}% 99
-\BOOKMARK [2][-]{subsection.5.4.1}{Aide pour la s\351ance 1}{section.5.4}% 100
-\BOOKMARK [2][-]{subsection.5.4.2}{Aide pour la s\351ance 2}{section.5.4}% 101
-\BOOKMARK [2][-]{subsection.5.4.3}{Aide pour la s\351ance 3}{section.5.4}% 102
-\BOOKMARK [2][-]{subsection.5.4.4}{Cr\351ation du bloc entr\351e des donn\351es}{section.5.4}% 103
-\BOOKMARK [2][-]{subsection.5.4.5}{Cr\351ation du bloc calcule f\(x\)}{section.5.4}% 104
-\BOOKMARK [2][-]{subsection.5.4.6}{Cr\351ation du bloc trace f\(x\)}{section.5.4}% 105
+\BOOKMARK [0][-]{chapter.1}{Programmation Scratch}{}% 1
+\BOOKMARK [1][-]{section.1.1}{S\351ance 1 : Cr\351er des nouveaux blocs}{chapter.1}% 2
+\BOOKMARK [2][-]{subsection.1.1.1}{Travail de pr\351paration...}{section.1.1}% 3
+\BOOKMARK [2][-]{subsection.1.1.2}{Pour bien d\351marrer...}{section.1.1}% 4
+\BOOKMARK [2][-]{subsection.1.1.3}{Sujet de l'activit\351...}{section.1.1}% 5
+\BOOKMARK [2][-]{subsection.1.1.4}{Pour aller plus loin...}{section.1.1}% 6
+\BOOKMARK [1][-]{section.1.2}{S\351ance 2 : Un clone de Flappy Bird}{chapter.1}% 7
+\BOOKMARK [2][-]{subsection.1.2.1}{Travail de pr\351paration...}{section.1.2}% 8
+\BOOKMARK [2][-]{subsection.1.2.2}{Pour bien d\351marrer...}{section.1.2}% 9
+\BOOKMARK [2][-]{subsection.1.2.3}{Sujet de l'activit\351...}{section.1.2}% 10
+\BOOKMARK [2][-]{subsection.1.2.4}{Pour aller plus loin...}{section.1.2}% 11
+\BOOKMARK [1][-]{section.1.3}{S\351ance 3 : Tracer une fonction affine}{chapter.1}% 12
+\BOOKMARK [2][-]{subsection.1.3.1}{Travail de pr\351paration...}{section.1.3}% 13
+\BOOKMARK [2][-]{subsection.1.3.2}{Pour bien d\351marrer...}{section.1.3}% 14
+\BOOKMARK [2][-]{subsection.1.3.3}{Sujet de l'activit\351...}{section.1.3}% 15
+\BOOKMARK [2][-]{subsection.1.3.4}{Pour aller plus loin...}{section.1.3}% 16
+\BOOKMARK [1][-]{section.1.4}{Aide pour r\351aliser les activit\351s}{chapter.1}% 17
+\BOOKMARK [2][-]{subsection.1.4.1}{Aide pour la s\351ance 1}{section.1.4}% 18
+\BOOKMARK [2][-]{subsection.1.4.2}{Aide pour la s\351ance 2}{section.1.4}% 19
+\BOOKMARK [2][-]{subsection.1.4.3}{Aide pour la s\351ance 3}{section.1.4}% 20
+\BOOKMARK [2][-]{subsection.1.4.4}{Cr\351ation du bloc entr\351e des donn\351es}{section.1.4}% 21
+\BOOKMARK [2][-]{subsection.1.4.5}{Cr\351ation du bloc calcule f\(x\)}{section.1.4}% 22
+\BOOKMARK [2][-]{subsection.1.4.6}{Cr\351ation du bloc trace f\(x\)}{section.1.4}% 23
