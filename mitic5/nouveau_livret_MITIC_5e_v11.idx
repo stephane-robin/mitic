@@ -1,95 +1,14 @@
-\indexentry{Calendrier des activit\IeC {\'e}s|hyperpage}{ix}
-\indexentry{Clavier|hyperpage}{xi}
-\indexentry{Touches sp\IeC {\'e}ciales|hyperpage}{xi}
-\indexentry{Calc!S\IeC {\'e}parateur d\IeC {\'e}cimal|hyperpage}{21}
-\indexentry{S\IeC {\'e}parateur d\IeC {\'e}cimal (Calc)|hyperpage}{21}
-\indexentry{Calc!Changer les points en virgules|hyperpage}{21}
-\indexentry{Changer les points en virgules (Calc)|hyperpage}{21}
-\indexentry{Virgule ou point ? (Calc)|hyperpage}{21}
-\indexentry{Calc!Formater le contenu d'une cellule|hyperpage}{22}
-\indexentry{Formater le contenu d'une cellule (Calc)|hyperpage}{22}
-\indexentry{Calc!Formater la page|hyperpage}{24}
-\indexentry{Formater la page (Calc)|hyperpage}{24}
-\indexentry{Calc!Ajouter courbe de tendance|hyperpage}{27}
-\indexentry{Ajouter une courbe de tendance (Calc)|hyperpage}{27}
-\indexentry{Calc!Cr\IeC {\'e}er un diagramme circulaire|hyperpage}{28}
-\indexentry{Cr\IeC {\'e}er un diagramme circulaire (Calc)|hyperpage}{28}
-\indexentry{Writer!Ins\IeC {\'e}rer un tableau|hyperpage}{37}
-\indexentry{Ins\IeC {\'e}rer un tableau (Writer)|hyperpage}{37}
-\indexentry{Writer!Tableau, centrer le contenu d'une cellule|hyperpage}{39}
-\indexentry{Tableau, centrer le contenu d'une cellule (Writer)|hyperpage}{39}
-\indexentry{Writer!Tableau, supprimer le tableau|hyperpage}{39}
-\indexentry{Tableau, supprimer le tableau (Writer)|hyperpage}{39}
-\indexentry{Writer!Liste \IeC {\`a} puces|hyperpage}{39}
-\indexentry{Liste \IeC {\`a} puces (Writer)|hyperpage}{39}
-\indexentry{Writer!Lien hypertexte|hyperpage}{41}
-\indexentry{Lien hypertexte (Writer)|hyperpage}{41}
-\indexentry{Writer!Note de bas de page|hyperpage}{42}
-\indexentry{Note de bas de page (Writer)|hyperpage}{42}
-\indexentry{Writer!Correcteur d'orthographe|hyperpage}{44}
-\indexentry{Correcteur d'orthographe (Writer)|hyperpage}{44}
-\indexentry{Writer!Image, adapter le texte|hyperpage}{46}
-\indexentry{Image, adapter le texte (Writer)|hyperpage}{46}
-\indexentry{Gimp!Ajouter un texte sur une image|hyperpage}{56}
-\indexentry{Ajouter un texte sur une image (Gimp)|hyperpage}{56}
-\indexentry{Gimp!Calques|hyperpage}{57}
-\indexentry{Calques (Gimp)|hyperpage}{57}
-\indexentry{Gimp!Appliquer un filtre|hyperpage}{57}
-\indexentry{Appliquer un filtre (Gimp)|hyperpage}{57}
-\indexentry{Gimp!Convertir en niveaux de gris|hyperpage}{58}
-\indexentry{Convertir en niveaux de gris (Gimp)|hyperpage}{58}
-\indexentry{Calques|hyperpage}{59}
-\indexentry{Gimp!Calques|hyperpage}{59}
-\indexentry{Calques : ajouter|hyperpage}{60}
-\indexentry{Gimp!Ajouter un calque|hyperpage}{60}
-\indexentry{Calques : changer de calque actif|hyperpage}{60}
-\indexentry{Gimp!Changer de calque actif|hyperpage}{60}
-\indexentry{Calques : modifier l'opacit\IeC {\'e}|hyperpage}{60}
-\indexentry{Gimp!Modifier l'opacit\IeC {\'e} d'un calque|hyperpage}{60}
-\indexentry{Calques : modifier la pile des calques|hyperpage}{61}
-\indexentry{Gimp!Modifier la pile des calques|hyperpage}{61}
-\indexentry{Calques : d\IeC {\'e}placer le calque|hyperpage}{61}
-\indexentry{Gimp!D\IeC {\'e}placer un calque|hyperpage}{61}
-\indexentry{Capture d'\IeC {\'e}cran|hyperpage}{62}
-\indexentry{Gimp!Capture d'\IeC {\'e}cran|hyperpage}{62}
-\indexentry{Raccourci Clavier! Ctrl + Maj + Cmd + 3, copier tout l'\IeC {\'e}cran|hyperpage}{62}
-\indexentry{Raccourci Clavier! Ctrl + Maj + Cmd + 4, copier une partie de l'\IeC {\'e}cran|hyperpage}{62}
-\indexentry{Audacity!Interface graphique|hyperpage}{63}
-\indexentry{Interface graphique (Audacity)|hyperpage}{63}
-\indexentry{Audacity!Barre de menu principale|hyperpage}{64}
-\indexentry{Barre de menu principale (Audacity)|hyperpage}{64}
-\indexentry{Audacity!Palette d'outils|hyperpage}{64}
-\indexentry{Palette d'outils (Audacity)|hyperpage}{64}
-\indexentry{Audacity!R\IeC {\'e}glage des volumes|hyperpage}{64}
-\indexentry{R\IeC {\'e}glage des volumes (Audacity)|hyperpage}{64}
-\indexentry{Audacity!St\IeC {\'e}r\IeC {\'e}o vers mono|hyperpage}{68}
-\indexentry{St\IeC {\'e}r\IeC {\'e}o vers mono (Audacity)|hyperpage}{68}
-\indexentry{Audacity!Ajouter une piste|hyperpage}{69}
-\indexentry{Ajouter une piste (Audacity)|hyperpage}{69}
-\indexentry{Audacity!Copier et coller|hyperpage}{70}
-\indexentry{Copier et coller (Audacity)|hyperpage}{70}
-\indexentry{Audacity!Outils de glissement temporel|hyperpage}{72}
-\indexentry{Glissement temporel (Audacity)|hyperpage}{72}
-\indexentry{Audacity!Rendre silencieux|hyperpage}{72}
-\indexentry{Silence (Audacity)|hyperpage}{72}
-\indexentry{Audacity!Raccorder|hyperpage}{73}
-\indexentry{Raccorder (Audacity)|hyperpage}{73}
-\indexentry{Audacity!Fondu|hyperpage}{73}
-\indexentry{Fondu (Audacity)|hyperpage}{73}
-\indexentry{Audacity!Modifier le volume|hyperpage}{74}
-\indexentry{Volume, modifier (Audacity)|hyperpage}{74}
-\indexentry{Audacity!Exporter en MP3 ou WAV|hyperpage}{75}
-\indexentry{MP3 export (Audacity)|hyperpage}{75}
-\indexentry{WAV export (Audacity)|hyperpage}{75}
-\indexentry{Scratch!Cr\IeC {\'e}er une variable|hyperpage}{85}
-\indexentry{Cr\IeC {\'e}er une variable (Scratch)|hyperpage}{85}
-\indexentry{Scratch!Variables|hyperpage}{87}
-\indexentry{Variables (Scratch)|hyperpage}{87}
-\indexentry{Scratch!Effacer l'\IeC {\'e}cran|hyperpage}{88}
-\indexentry{Effacer l'\IeC {\'e}cran (Scratch)|hyperpage}{88}
-\indexentry{Scratch!Si..alors..sinon|hyperpage}{92}
-\indexentry{Si..alors..sinon (Scratch)|hyperpage}{92}
-\indexentry{Scratch!Boucle infinie|hyperpage}{93}
-\indexentry{Boucle infinie (Scratch)|hyperpage}{93}
-\indexentry{Scratch!Ajouter un objet en le dessinant|hyperpage}{95}
-\indexentry{Ajouter un objet en le dessinant (Scratch)|hyperpage}{95}
+\indexentry{Clavier|hyperpage}{viii}
+\indexentry{Touches sp\IeC {\'e}ciales|hyperpage}{viii}
+\indexentry{Scratch!Cr\IeC {\'e}er une variable|hyperpage}{7}
+\indexentry{Cr\IeC {\'e}er une variable (Scratch)|hyperpage}{7}
+\indexentry{Scratch!Variables|hyperpage}{9}
+\indexentry{Variables (Scratch)|hyperpage}{9}
+\indexentry{Scratch!Effacer l'\IeC {\'e}cran|hyperpage}{10}
+\indexentry{Effacer l'\IeC {\'e}cran (Scratch)|hyperpage}{10}
+\indexentry{Scratch!Si..alors..sinon|hyperpage}{14}
+\indexentry{Si..alors..sinon (Scratch)|hyperpage}{14}
+\indexentry{Scratch!Boucle infinie|hyperpage}{15}
+\indexentry{Boucle infinie (Scratch)|hyperpage}{15}
+\indexentry{Scratch!Ajouter un objet en le dessinant|hyperpage}{17}
+\indexentry{Ajouter un objet en le dessinant (Scratch)|hyperpage}{17}
