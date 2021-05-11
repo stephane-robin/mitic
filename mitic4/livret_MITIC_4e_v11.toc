@@ -9,36 +9,36 @@
 \contentsline {subsubsection}{Cr\IeC {\'e}er une \IeC {\'e}toile \IeC {\`a} 5 branches}{3}{section*.8}
 \contentsline {subsubsection}{Cr\IeC {\'e}er plusieurs \IeC {\'e}toiles}{3}{section*.9}
 \contentsline {subsubsection}{Cr\IeC {\'e}er un nouveau bloc}{4}{section*.10}
-\contentsline {subsubsection}{Param\IeC {\'e}trer un nouveau bloc \IeC {\`a} l\IeC {\textquoteright }aide d\IeC {\textquoteright }une variable}{5}{section*.11}
+\contentsline {subsubsection}{Param\IeC {\'e}trer un nouveau bloc \IeC {\`a} l\IeC {\textquoteright }aide d\IeC {\textquoteright }une variable}{6}{section*.11}
 \contentsline {subsubsection}{Ajouter un param\IeC {\`e}tre d\IeC {\textquoteright }entr\IeC {\'e}e de type nombre au bloc \IeC {\'e}toile :}{6}{section*.12}
-\contentsline {subsubsection}{Ajouter un commentaire \IeC {\`a} un nouveau bloc}{6}{section*.13}
-\contentsline {subsubsection}{Ajouter un commentaire \IeC {\`a} la fonction \IeC {\'e}toile}{6}{section*.14}
-\contentsline {subsubsection}{Pensez \IeC {\`a} rendre votre travail}{7}{section*.15}
-\contentsline {subsection}{\numberline {1.4}Pour aller plus loin...}{7}{subsection.1.1.4}
-\contentsline {subsubsection}{Plus de param\IeC {\`e}tres}{7}{section*.16}
-\contentsline {subsubsection}{Cr\IeC {\'e}ation d'un nouveau bloc \IeC {\guillemotleft }\,triangle\,\IeC {\guillemotright }}{8}{section*.17}
-\contentsline {subsubsection}{De plus en plus de c\IeC {\^o}t\IeC {\'e}s...}{8}{section*.18}
-\contentsline {section}{\numberline {2}S\IeC {\'e}ance 2 : Un clone de \emph {Flappy Bird}}{9}{section.1.2}
-\contentsline {subsection}{\numberline {2.1}Travail de pr\IeC {\'e}paration...}{9}{subsection.1.2.1}
-\contentsline {subsection}{\numberline {2.2}Pour bien d\IeC {\'e}marrer...}{9}{subsection.1.2.2}
-\contentsline {subsection}{\numberline {2.3}Sujet de l'activit\IeC {\'e}...}{10}{subsection.1.2.3}
-\contentsline {subsection}{\numberline {2.4}Pour aller plus loin...}{12}{subsection.1.2.4}
-\contentsline {section}{\numberline {3}S\IeC {\'e}ance 3 : Tracer une fonction affine}{13}{section.1.3}
-\contentsline {subsection}{\numberline {3.1}Travail de pr\IeC {\'e}paration...}{13}{subsection.1.3.1}
-\contentsline {subsection}{\numberline {3.2}Pour bien d\IeC {\'e}marrer...}{13}{subsection.1.3.2}
-\contentsline {subsection}{\numberline {3.3}Sujet de l'activit\IeC {\'e}...}{13}{subsection.1.3.3}
-\contentsline {subsection}{\numberline {3.4}Pour aller plus loin...}{14}{subsection.1.3.4}
-\contentsline {section}{\numberline {4}Aide pour r\IeC {\'e}aliser les activit\IeC {\'e}s}{15}{section.1.4}
-\contentsline {subsection}{\numberline {4.1}Aide pour la s\IeC {\'e}ance 1}{15}{subsection.1.4.1}
-\contentsline {subsection}{\numberline {4.2}Aide pour la s\IeC {\'e}ance 2}{15}{subsection.1.4.2}
-\contentsline {subsubsection}{Construction des arri\IeC {\`e}re-plans de la sc\IeC {\`e}ne}{15}{section*.19}
-\contentsline {subsubsection}{Construction des costumes du sprite \texttt {Oiseau}}{16}{section*.20}
-\contentsline {subsubsection}{Construction des costumes du sprite \texttt {Tuyau}}{18}{section*.21}
-\contentsline {subsubsection}{Code associ\IeC {\'e} \IeC {\`a} la sc\IeC {\`e}ne}{19}{section*.22}
-\contentsline {subsubsection}{Codes associ\IeC {\'e}s au sprite \texttt {Oiseau}}{20}{section*.23}
-\contentsline {subsubsection}{Codes associ\IeC {\'e}s au sprite \texttt {Tuyau}}{23}{section*.24}
-\contentsline {subsection}{\numberline {4.3}Aide pour la s\IeC {\'e}ance 3}{24}{subsection.1.4.3}
-\contentsline {subsection}{\numberline {4.4}Cr\IeC {\'e}ation du bloc \texttt {entr\IeC {\'e}e des donn\IeC {\'e}es}}{25}{subsection.1.4.4}
-\contentsline {subsection}{\numberline {4.5}Cr\IeC {\'e}ation du bloc \texttt {calcule f(x)}}{25}{subsection.1.4.5}
-\contentsline {subsection}{\numberline {4.6}Cr\IeC {\'e}ation du bloc \texttt {trace f(x)}}{26}{subsection.1.4.6}
+\contentsline {subsubsection}{Ajouter un commentaire \IeC {\`a} un nouveau bloc}{7}{section*.13}
+\contentsline {subsubsection}{Ajouter un commentaire \IeC {\`a} la fonction \IeC {\'e}toile}{7}{section*.14}
+\contentsline {subsubsection}{Pensez \IeC {\`a} rendre votre travail}{8}{section*.15}
+\contentsline {subsection}{\numberline {1.4}Pour aller plus loin...}{8}{subsection.1.1.4}
+\contentsline {subsubsection}{Plus de param\IeC {\`e}tres}{8}{section*.16}
+\contentsline {subsubsection}{Cr\IeC {\'e}ation d'un nouveau bloc \IeC {\guillemotleft }\,triangle\,\IeC {\guillemotright }}{9}{section*.17}
+\contentsline {subsubsection}{De plus en plus de c\IeC {\^o}t\IeC {\'e}s...}{10}{section*.18}
+\contentsline {section}{\numberline {2}S\IeC {\'e}ance 2 : Un clone de \emph {Flappy Bird}}{11}{section.1.2}
+\contentsline {subsection}{\numberline {2.1}Travail de pr\IeC {\'e}paration...}{11}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {2.2}Pour bien d\IeC {\'e}marrer...}{11}{subsection.1.2.2}
+\contentsline {subsection}{\numberline {2.3}Sujet de l'activit\IeC {\'e}...}{12}{subsection.1.2.3}
+\contentsline {subsection}{\numberline {2.4}Pour aller plus loin...}{14}{subsection.1.2.4}
+\contentsline {section}{\numberline {3}S\IeC {\'e}ance 3 : Tracer une fonction affine}{15}{section.1.3}
+\contentsline {subsection}{\numberline {3.1}Travail de pr\IeC {\'e}paration...}{15}{subsection.1.3.1}
+\contentsline {subsection}{\numberline {3.2}Pour bien d\IeC {\'e}marrer...}{15}{subsection.1.3.2}
+\contentsline {subsection}{\numberline {3.3}Sujet de l'activit\IeC {\'e}...}{15}{subsection.1.3.3}
+\contentsline {subsection}{\numberline {3.4}Pour aller plus loin...}{16}{subsection.1.3.4}
+\contentsline {section}{\numberline {4}Aide pour r\IeC {\'e}aliser les activit\IeC {\'e}s}{17}{section.1.4}
+\contentsline {subsection}{\numberline {4.1}Aide pour la s\IeC {\'e}ance 1}{17}{subsection.1.4.1}
+\contentsline {subsection}{\numberline {4.2}Aide pour la s\IeC {\'e}ance 2}{17}{subsection.1.4.2}
+\contentsline {subsubsection}{Construction des arri\IeC {\`e}re-plans de la sc\IeC {\`e}ne}{17}{section*.19}
+\contentsline {subsubsection}{Construction des costumes du sprite \texttt {Oiseau}}{19}{section*.20}
+\contentsline {subsubsection}{Construction des costumes du sprite \texttt {Tuyau}}{21}{section*.21}
+\contentsline {subsubsection}{Code associ\IeC {\'e} \IeC {\`a} la sc\IeC {\`e}ne}{22}{section*.22}
+\contentsline {subsubsection}{Codes associ\IeC {\'e}s au sprite \texttt {Oiseau}}{23}{section*.23}
+\contentsline {subsubsection}{Codes associ\IeC {\'e}s au sprite \texttt {Tuyau}}{25}{section*.24}
+\contentsline {subsection}{\numberline {4.3}Aide pour la s\IeC {\'e}ance 3}{26}{subsection.1.4.3}
+\contentsline {subsection}{\numberline {4.4}Cr\IeC {\'e}ation du bloc \texttt {entr\IeC {\'e}e des donn\IeC {\'e}es}}{27}{subsection.1.4.4}
+\contentsline {subsection}{\numberline {4.5}Cr\IeC {\'e}ation du bloc \texttt {calcule f(x)}}{27}{subsection.1.4.5}
+\contentsline {subsection}{\numberline {4.6}Cr\IeC {\'e}ation du bloc \texttt {trace f(x)}}{28}{subsection.1.4.6}
 \contentsfinish 

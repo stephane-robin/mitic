@@ -138,22 +138,24 @@ Afin de ne pas répéter le même code plusieurs fois, nous allons créer un nou
 \vspace{6pt}
 
   \begin{itemize}
-    \item \circled{1} Cliquer sur \texttt{Ajouter blocs};
+    \item \circled{1} Cliquer sur \texttt{Mes blocs};
     \item \circled{2} Cliquer sur le bouton \texttt{Créer un bloc};
-    \item \circled{3} Entrer le nom de votre bloc (\texttt{étoile});
+    \item \circled{3} Entrer le nom de votre bloc (\texttt{etoile});
     \item \circled{4} Valider en cliquant sur le bouton \texttt{Ok}.
   \end{itemize}
 \end{minipage} \hfill%
 \begin{minipage}[c]{0.38\linewidth}
-  \includegraphics[width=0.9\textwidth]{./images/scratch03/fonction/Scratch_Fonctions_06}
+  \includegraphics[width=0.9\textwidth]{./images/scratch03/fonction/creerBloc1.png}
 \end{minipage}
+
+\uneimageici{./images/scratch03/fonction/creerBloc2.png}{.6\textwidth}
 
 Définir le bloc étoile de la manière suivante : 
  \begin{center}
- \includegraphics[width=0.25\textwidth]{./images/scratch03/fonction/Scratch_Fonctions_07}
+ \includegraphics[width=0.25\textwidth]{./images/scratch03/fonction/definirBloc.png}
  \end{center}
 
-Il ne reste plus qu’à remplacer dans le code principal les parties de code correspondantes par le bloc  \includegraphics[width=1cm]{./images/scratch03/fonction/Scratch_Fonctions_08}. 
+Il ne reste plus qu’à remplacer dans le code principal les parties de code correspondantes par le bloc  \includegraphics[width=1cm]{./images/scratch03/fonction/bloc.png}. 
 
 Vérifier que le nouveau code donne le même résultat que précédemment.
 
@@ -179,20 +181,21 @@ Il est possible de spécifier des paramètres en entrée d’un bloc créé par 
   \end{itemize}
 \end{itemize}
 
+\vspace{10pt}
 Améliorons le bloc étoile afin qu’il puisse dessiner des étoiles de différentes tailles. Pour cela, il faut ajouter un paramètre d’entrée au bloc, que nous nommerons \texttt{taille}. Nous pourrons ainsi indiquer, au moment de l’appel du bloc, la taille de l’étoile.
 
 \subsubsection{Ajouter un paramètre d’entrée de type nombre au bloc étoile :}
 
 \begin{itemize}
-\item Effectuer un clic droit sur le bloc étoile (\circled{1} sur la figure ci-dessous).
-\item Dans le menu qui s’affiche, cliquer sur \texttt{éditer} \circled{2}.
-\item Dans la fenêtre \texttt{Éditer} un bloc, dérouler le menu \texttt{Options} \circled{3}.
-\item Choisir l’option \texttt{Ajouter une entrée nombre} \circled{4}.
-\item Modifier le nom de votre paramètre d’entrée, choisir \texttt{taille} \circled{5}.
-\item Cliquer sur \texttt{Ok} pour terminer \circled{6}.
+\item Effectuer un clic droit sur le bloc étoile.
+\item Dans le menu qui s’affiche, cliquer sur \texttt{Modifier}.
+\includegraphics[width=4cm]{./images/scratch03/fonction/modifierBloc.png} 
+\item Dans la fenêtre \texttt{Créer un bloc}, Choisir l’option \texttt{Ajouter une entrée nombre ou texte} \circled{1}.
+\item Modifier le nom de votre paramètre d’entrée, choisir \texttt{taille} \circled{2}.
+\item Cliquer sur \texttt{Ok} pour terminer \circled{3}.
 \end{itemize}
 
-\uneimageici{./images/scratch03/fonction/Scratch_Fonctions_09}{.6\textwidth}
+\uneimageici{./images/scratch03/fonction/blocTaille.png}{.6\textwidth}
 
 \vspace{12pt}
 
@@ -208,15 +211,15 @@ Pour faciliter la lecture du programme et comprendre rapidement à quoi sert le 
 \subsubsection{Ajouter un commentaire à la fonction étoile}
 
 \begin{itemize}
-\item Effectuer un clic droit sur votre bloc étoile (\circled{1} sur la figure ci-dessous).
-\item Dans le menu qui s’affiche, cliquer sur \texttt{éditer} \circled{2} .
-\item Dans la fenêtre \texttt{Éditer un bloc}, dérouler le menu \texttt{Options} \circled{3}.
-\item Choisir l’option \texttt{Ajouter le texte du label} \circled{4} .
-\item Entrer le commentaire :«\,dessine une étoile à la taille indiquée\,» \circled{5}.
-\item Cliquer sur \texttt{Ok} pour terminer \circled{6}.
+\item Effectuer un clic droit sur votre bloc étoile.
+\item Dans le menu qui s’affiche, cliquer sur \texttt{Modifier}.
+\includegraphics[width=4cm]{./images/scratch03/fonction/modifierBloc.png} 
+\item Dans la fenêtre \texttt{Créer un bloc}, choisir l'option \texttt{Ajouter une étiquette} \circled{1}.
+\item Entrer le commentaire :«\,dessine une étoile à la taille indiquée\,» \circled{2}.
+\item Cliquer sur \texttt{Ok} pour terminer \circled{3}.
 \end{itemize}
 
-\uneimageici{./images/scratch03/fonction/Scratch_Fonctions_10}{.6\textwidth}
+\uneimageici{./images/scratch03/fonction/blocEtiquette.png}{.6\textwidth}
 
 
 
@@ -244,7 +247,7 @@ Le code principal peut encore être réduit en intégrant les blocs \includegrap
 
 \begin{enumerate}
 \item Créer un nouveau bloc intitulé \texttt{étoile\&position} qui dessine une étoile en position (x,y) dont la définition est la suivante :
-\begin{center}\includegraphics[width=5cm]{./images/scratch03/fonction/Scratch_Fonctions_12}\end{center}
+\begin{center}\includegraphics[width=5cm]{./images/scratch03/fonction/bloc_allerPlusLoin.png}\end{center}
 
 \emph{Aide :} vous pouvez réutiliser le bloc \texttt{étoile} à l’intérieur du bloc \texttt{étoile\&position} si vous le désirez.
 
@@ -253,9 +256,18 @@ Le code principal peut encore être réduit en intégrant les blocs \includegrap
 
 \subsubsection{Création d'un nouveau bloc «\,triangle\,»}
 
-Définir la fonction \texttt{triangle} contenu dans le code ci-dessous qui permet d'obtenir la figure suivante :
+Définir la fonction \texttt{triangle} contenue dans le code ci-dessous 
 
-\uneimageici{./images/scratch03/fonction/Scratch_Fonctions_13}{.8\textwidth}
+\uneimageici{./images/scratch03/fonction/fonctionTriangle.png}{.25\textwidth}
+
+qui permet d'obtenir la figure suivante :
+
+%\uneimageici{./images/scratch03/fonction/Scratch_Fonctions_13}{.8\textwidth}
+
+\uneimageici{./images/scratch03/fonction/resultat_fonctionTriangle.png}{.5\textwidth}
+
+
+
 
 \subsubsection{De plus en plus de côtés...}
 
@@ -418,10 +430,8 @@ Pour réaliser cette activité, la première étape consiste à sélectionner la
 
 \vspace{6pt}
 
-Le programme utilise quatre variables qu'il faut créer : $a$ (contient la valeur du coefficient directeur de la droite), $b$ (contient l'ordonnée à l'origine), $x$ (valeur de l'abscisse) et $y$ (valeur de l'image de $x$).
-}
+Le programme utilise quatre variables qu'il faut créer : $a$ (contient la valeur du coefficient directeur de la droite), $b$ (contient l'ordonnée à l'origine), $x$ (valeur de l'abscisse) et $y$ (valeur de l'image de $x$).\\
 
-\boiteEnonceLarge{
 Une fois votre travail terminé, vous exporterez votre fichier au format .sb3 (le fichier doit être nommé à partir de votre nom : \texttt{Nom-seance3.sb3}), puis vous le rendrez sur \emph{Teams} à l'endroit indiqué par votre enseignant (si nécessaire, se reporter à la fiche méthode \emph{Remettre son devoir}, page \pageref{TeamsRemettreDevoir}).
 }% fin de l'énoncé
 
@@ -456,11 +466,23 @@ Pour la séance 1, toutes les explications sont fournies dans l'énoncé.
 
 \subsubsection{Construction des arrière-plans de la scène}
 
-On va tout d'abord créer l'arrière-plan du jeu. Une fois \emph{Scratch} ouvert (figure ci-dessous), cliquer sur la scène \circled{1}, vérifier que l'onglet arrière-plans est sélectionné \circled{2}, choisir l'arrière-plan \no 1 \circled{3}, sélectionner le seau de peinture \circled{4}, puis l'option dégradé \circled{5}, choisir enfin une couleur \circled{6}. Terminer en cliquant dans la zone blanche pour peindre l'arrière-plan.
+On va tout d'abord créer l'arrière-plan du jeu. Une fois \emph{Scratch} ouvert (figure ci-dessous) :
+\begin{itemize}
+\item cliquer sur la scène \circled{1}, 
+\item vérifier que l'onglet arrière-plans est sélectionné \circled{2}, 
+\item choisir l'arrière-plan 1 \circled{3}, 
+\item sélectionner le seau de peinture \circled{4}, 
+\item puis l'option dégradé \circled{5}, 
+\item choisir enfin une couleur \circled{6}, 
+\item terminer en cliquant dans la zone blanche pour peindre l'arrière-plan.
+\end{itemize}
 
-\uneimageici{./images/scratch03/flappy/scene01b}{.8\textwidth}
+%\uneimageici{./images/scratch03/flappy/scene01b}{.8\textwidth}
+
+\uneimageici{./images/scratch03/flappy/scene_flappy.png}{\textwidth}
+\uneimageici{./images/scratch03/flappy/scene_flappy2.png}{.25\textwidth}
 	      
-On va ensuite créer l'arrière-plan qui doit être affiché lorsque la partie est perdue. C'est un nouvel arrière-plan appartenant à la même scène.
+On va ensuite créer l'arrière-plan qui doit être affiché lorsque la partie est perdue. C'est un nouvel arrière-plan appartenant à la même scène.\\
 
 Pour ajouter un nouvel arrière-plan à la scène en cours, cliquer sur le pinceau \circled{1} (figure ci-dessous), choisir ensuite l'outil texte \circled{2} puis la police à utiliser \circled{3} et enfin la couleur \circled{4}. Terminer en cliquant dans la zone blanche pour écrire le texte souhaité. Il faut tirer sur les poignées qui apparaissent pour agrandir le texte jusqu'à la taille souhaitée, puis si nécessaire le déplacer à l'aide de la souris.
 
@@ -606,7 +628,7 @@ Tous les codes qui seront écrits concernent le sprite : il faut donc sélection
 
 La code principal (code qui va appeler tous les autres) sera celui de la figure ci-dessous. Il contient des nouveaux blocs que vous allez créer (inutile donc de les chercher tant que vous ne les avez pas créé !).
 
-\uneimageici{./images/scratch03/traceFx/fonctionPrincipale}{.25\textwidth}
+\uneimageici{./images/scratch03/traceFx/entreeDonnees.png}{.2\textwidth}
 
 \emph{Remarque :} le bloc \texttt{cacher} permet de faire disparaître le sprite.
 
@@ -614,13 +636,13 @@ La code principal (code qui va appeler tous les autres) sera celui de la figure 
 
 La figure ci-dessous présente les trois nouveaux blocs à créer.
 
-\uneimageici{./images/scratch03/traceFx/nouveauxBlocs}{.8\textwidth}
+\uneimageici{./images/scratch03/traceFx/nouveauxBlocs1.png}{.4\textwidth}
 
 
 
 \subsection{Création du bloc \texttt{entrée des données}}
 
-\uneimageici{./images/scratch03/traceFx/blocEntreeDonnee}{.27\textwidth} 
+\uneimageici{./images/scratch03/traceFx/bloc_entreeDonnees.png}{.27\textwidth} 
 
 Ce nouveau bloc doit permettre de demander à l'utilisateur d'entrer une valeur pour la variable $a$ et une valeur pour la variable $b$. À chaque fois la réponse de l'utilisateur est stockée dans la variable correspondante.
 
@@ -635,7 +657,7 @@ Ce nouveau bloc doit permettre de demander à l'utilisateur d'entrer une valeur 
 
 \subsection{Création du bloc \texttt{calcule f(x)}}
 
-\uneimageici{./images/scratch03/traceFx/blocCalcule}{.2\textwidth} 
+\uneimageici{./images/scratch03/traceFx/bloc_calcule.png}{.15\textwidth} 
 
 Ce nouveau bloc est très simple : il range la valeur $a \times x + b$ dans la variable $y$.
 
@@ -644,7 +666,7 @@ Ce nouveau bloc est très simple : il range la valeur $a \times x + b$ dans la v
 
 \subsection{Création du bloc \texttt{trace f(x)}}
 
-\uneimageici{./images/scratch03/traceFx/blocTrace}{.2\textwidth} 
+\uneimageici{./images/scratch03/traceFx/definir_trace.png}{.15\textwidth} 
 
 Ce nouveau bloc permet de tracer tous les points de la fonction, c'est-à-dire tous les points de coordonnée $(x\,;y)$ où $y=a\times x + b$. Il faut commencer le tracé avec la valeur $x=-240$ (bord gauche de l'écran), puis augmenter la valeur de $x$ de 10 en 10 (inutile de tracer tous les points).
 
