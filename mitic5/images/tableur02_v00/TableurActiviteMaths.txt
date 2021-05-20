@@ -1,0 +1,28 @@
+
+Le gestionnaire d'une école fait l'état des lieux et vérifie l'état des tables :
+\begin{itemize}
+\item 132 sont neuves;
+\item 231 sont en bon état;
+\item 99 sont dans un état passable;
+\item 55 sont à réparer;
+\item 33 sont à changer.
+\end{itemize}
+\begin{enumerate}
+\item Crée la feuille de calcul suivante :
+\uneimageici{./images/tableur/ActiviteMaths1}{.75\textwidth}
+\item Complète la deuxième ligne du tableau ci-dessous avec les données de l'énoncé.
+\item Quelle formule dois-tu utiliser pour générer automatiquement la valeur attendue dans le cellule G2 ?
+\item Quelle formule dois-tu utiliser dans la cellule B3 pour calculer la fréquence des tables neuves ? Programme alors toutes les cellules de la ligne
+\item Comment obtiens-tu la fréquence en pourcentage à partir de la fréquence ? Programme alors les cellules de la ligne 4 à l'aide d'une instruction
+\item Insère dans le fichier un diagramme circulaire permettant au gestionnaire de présenter cet état des
+\item Le gestionnaire veut réaliser ce diagramme circulaire à la main sur du papier. Pour cela, il faut ajouter dans le fichier la ligne suivante :
+
+\uneimageici{./images/tableur/ActiviteMaths2}{.75\textwidth}
+
+Quel nombre faut-il saisir dans la cellule G5?
+
+\item En utilisant uniquement les valeurs de la ligne 3 et de la cellule G5, programme les cellules B5 à F5 pour obtenir les angles voulus.
+\item En changeant uniquement la valeur d'une cellule, il est possible d'obtenir les angles permettant de construire un diagramme semi-circulaire. Quelle est cette cellule? Quelle valeur faut-il mettre?
+\itemConstruit le diagramme semi-circulaire correspondant ci-dessous puis trace le même diagramme sur le fichier et vérifie que tu ne t'es pas trompé.
+\end{enumerate}
+ 

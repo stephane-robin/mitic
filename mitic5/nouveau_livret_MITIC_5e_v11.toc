@@ -1,31 +1,56 @@
 \select@language {french}
-\contentsline {chapter}{\numberline {1}Programmation Scratch}{1}{chapter.1}
-\contentsline {section}{\numberline {1}S\IeC {\'e}ance 1 : dessiner une spirale}{2}{section.1.1}
+\contentsline {chapter}{\numberline {1}Tableur}{1}{chapter.1}
+\contentsline {section}{\numberline {1}S\IeC {\'e}ance 1 : caract\IeC {\'e}ristique d'une r\IeC {\'e}sistance}{2}{section.1.1}
 \contentsline {subsection}{\numberline {1.1}Pour bien d\IeC {\'e}marrer...}{2}{subsection.1.1.1}
-\contentsline {subsubsection}{Passer Scratch en langue fran\IeC {\c c}aise}{2}{section*.4}
-\contentsline {subsubsection}{Penser \IeC {\`a} enregitrer r\IeC {\'e}guli\IeC {\`e}rement}{2}{section*.5}
-\contentsline {subsection}{\numberline {1.2}Sujet de l'activit\IeC {\'e}...}{3}{subsection.1.1.2}
-\contentsline {subsection}{\numberline {1.3}Pour aller plus loin...}{4}{subsection.1.1.3}
-\contentsline {section}{\numberline {2}S\IeC {\'e}ance 2 : un quiz de calcul mental}{5}{section.1.2}
-\contentsline {subsection}{\numberline {2.1}Pour bien d\IeC {\'e}marrer...}{5}{subsection.1.2.1}
-\contentsline {subsection}{\numberline {2.2}Sujet de l'activit\IeC {\'e}...}{5}{subsection.1.2.2}
-\contentsline {subsection}{\numberline {2.3}Pour aller plus loin...}{5}{subsection.1.2.3}
-\contentsline {section}{\numberline {3}S\IeC {\'e}ance 3 : cr\IeC {\'e}er un jeu de <<\,Pong\,>> en Scratch}{6}{section.1.3}
-\contentsline {subsection}{\numberline {3.1}Pour bien d\IeC {\'e}marrer...}{6}{subsection.1.3.1}
-\contentsline {subsection}{\numberline {3.2}Sujet de l'activit\IeC {\'e}...}{6}{subsection.1.3.2}
-\contentsline {subsection}{\numberline {3.3}Pour aller plus loin...}{6}{subsection.1.3.3}
-\contentsline {section}{\numberline {4}Aide pour r\IeC {\'e}aliser les activit\IeC {\'e}s}{7}{section.1.4}
-\contentsline {subsection}{\numberline {4.1}Aide pour la s\IeC {\'e}ance 1}{7}{subsection.1.4.1}
-\contentsline {subsubsection}{Premi\IeC {\`e}re \IeC {\'e}tape : cr\IeC {\'e}ation d'une variable}{7}{section*.6}
-\contentsline {subsubsection}{Deuxi\IeC {\`e}me \IeC {\'e}tape : le code qui dessine la spirale}{9}{section*.7}
-\contentsline {subsubsection}{Troisi\IeC {\`e}me \IeC {\'e}tape : un code qui efface l'\IeC {\'e}cran}{10}{section*.8}
-\contentsline {subsubsection}{Quatri\IeC {\`e}me \IeC {\'e}tape : \IeC {\`a} vous de jouer !}{10}{section*.9}
-\contentsline {subsection}{\numberline {4.2}Aide pour la s\IeC {\'e}ance 2}{11}{subsection.1.4.2}
-\contentsline {subsubsection}{Algorithme du programme}{11}{section*.10}
-\contentsline {subsubsection}{Aide pour l'\IeC {\'e}criture du programme}{11}{section*.11}
-\contentsline {subsection}{\numberline {4.3}Aide pour la s\IeC {\'e}ance 3}{13}{subsection.1.4.3}
-\contentsline {subsubsection}{Premi\IeC {\`e}re \IeC {\'e}tape : cr\IeC {\'e}ation de l'arri\IeC {\`e}re plan et choix des sprites}{13}{section*.12}
-\contentsline {subsubsection}{D\IeC {\'e}finition du mouvement de la balle}{14}{section*.13}
-\contentsline {subsubsection}{Mouvements de la raquette et rebond de la balle sur la raquette}{14}{section*.14}
-\contentsline {subsubsection}{Fin du jeu}{16}{section*.15}
+\contentsline {subsection}{\numberline {1.2}Sujet de l'activit\IeC {\'e}...}{2}{subsection.1.1.2}
+\contentsline {subsection}{\numberline {1.3}Pour aller plus loin...}{3}{subsection.1.1.3}
+\contentsline {section}{\numberline {2}S\IeC {\'e}ance 2 : inventaire des tables du coll\IeC {\`e}ge}{3}{section.1.2}
+\contentsline {subsection}{\numberline {2.1}Pour bien d\IeC {\'e}marrer...}{3}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {2.2}Sujet de l'activit\IeC {\'e}...}{4}{subsection.1.2.2}
+\contentsline {subsection}{\numberline {2.3}Pour aller plus loin...}{6}{subsection.1.2.3}
+\contentsline {section}{\numberline {3}S\IeC {\'e}ance 3 : r\IeC {\'e}partition de la population mondiale}{7}{section.1.3}
+\contentsline {subsection}{\numberline {3.1}Pour bien d\IeC {\'e}marrer...}{7}{subsection.1.3.1}
+\contentsline {subsection}{\numberline {3.2}Sujet de l'activit\IeC {\'e}...}{8}{subsection.1.3.2}
+\contentsline {subsection}{\numberline {3.3}Pour aller plus loin...}{9}{subsection.1.3.3}
+\contentsline {section}{\numberline {4}Aide pour r\IeC {\'e}aliser les activit\IeC {\'e}s}{10}{section.1.4}
+\contentsline {subsection}{\numberline {4.1}Le s\IeC {\'e}parateur d\IeC {\'e}cimal}{10}{subsection.1.4.1}
+\contentsline {subsubsection}{Quel est votre s\IeC {\'e}parateur d\IeC {\'e}cimal ?}{10}{section*.4}
+\contentsline {subsubsection}{Changer les virgules en points (ou inversement)}{10}{section*.5}
+\contentsline {subsection}{\numberline {4.2}Formater le contenu d'une cellule}{11}{subsection.1.4.2}
+\contentsline {subsection}{\numberline {4.3}Formater la page}{13}{subsection.1.4.3}
+\contentsline {subsubsection}{Orientation et marges}{14}{section*.6}
+\contentsline {subsubsection}{Nombre de pages}{14}{section*.7}
+\contentsline {subsubsection}{En-t\IeC {\^e}te et pied de page}{14}{section*.8}
+\contentsline {subsubsection}{Orientation sur office.com}{16}{section*.9}
+\contentsline {subsection}{\numberline {4.4}Ajouter une courbe de tendance}{16}{subsection.1.4.4}
+\contentsline {subsection}{\numberline {4.5}Cr\IeC {\'e}er un diagramme circulaire}{17}{subsection.1.4.5}
+\contentsline {chapter}{\numberline {2}Programmation Scratch}{19}{chapter.2}
+\contentsline {section}{\numberline {1}S\IeC {\'e}ance 1 : dessiner une spirale}{20}{section.2.1}
+\contentsline {subsection}{\numberline {1.1}Pour bien d\IeC {\'e}marrer...}{20}{subsection.2.1.1}
+\contentsline {subsubsection}{Passer Scratch en langue fran\IeC {\c c}aise}{20}{section*.10}
+\contentsline {subsubsection}{Penser \IeC {\`a} enregitrer r\IeC {\'e}guli\IeC {\`e}rement}{20}{section*.11}
+\contentsline {subsection}{\numberline {1.2}Sujet de l'activit\IeC {\'e}...}{21}{subsection.2.1.2}
+\contentsline {subsection}{\numberline {1.3}Pour aller plus loin...}{22}{subsection.2.1.3}
+\contentsline {section}{\numberline {2}S\IeC {\'e}ance 2 : un quiz de calcul mental}{23}{section.2.2}
+\contentsline {subsection}{\numberline {2.1}Pour bien d\IeC {\'e}marrer...}{23}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2}Sujet de l'activit\IeC {\'e}...}{23}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.3}Pour aller plus loin...}{23}{subsection.2.2.3}
+\contentsline {section}{\numberline {3}S\IeC {\'e}ance 3 : cr\IeC {\'e}er un jeu de <<\,Pong\,>> en Scratch}{24}{section.2.3}
+\contentsline {subsection}{\numberline {3.1}Pour bien d\IeC {\'e}marrer...}{24}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {3.2}Sujet de l'activit\IeC {\'e}...}{24}{subsection.2.3.2}
+\contentsline {subsection}{\numberline {3.3}Pour aller plus loin...}{24}{subsection.2.3.3}
+\contentsline {section}{\numberline {4}Aide pour r\IeC {\'e}aliser les activit\IeC {\'e}s}{25}{section.2.4}
+\contentsline {subsection}{\numberline {4.1}Aide pour la s\IeC {\'e}ance 1}{25}{subsection.2.4.1}
+\contentsline {subsubsection}{Premi\IeC {\`e}re \IeC {\'e}tape : cr\IeC {\'e}ation d'une variable}{25}{section*.12}
+\contentsline {subsubsection}{Deuxi\IeC {\`e}me \IeC {\'e}tape : le code qui dessine la spirale}{27}{section*.13}
+\contentsline {subsubsection}{Troisi\IeC {\`e}me \IeC {\'e}tape : un code qui efface l'\IeC {\'e}cran}{28}{section*.14}
+\contentsline {subsubsection}{Quatri\IeC {\`e}me \IeC {\'e}tape : \IeC {\`a} vous de jouer !}{28}{section*.15}
+\contentsline {subsection}{\numberline {4.2}Aide pour la s\IeC {\'e}ance 2}{29}{subsection.2.4.2}
+\contentsline {subsubsection}{Algorithme du programme}{29}{section*.16}
+\contentsline {subsubsection}{Aide pour l'\IeC {\'e}criture du programme}{29}{section*.17}
+\contentsline {subsection}{\numberline {4.3}Aide pour la s\IeC {\'e}ance 3}{31}{subsection.2.4.3}
+\contentsline {subsubsection}{Premi\IeC {\`e}re \IeC {\'e}tape : cr\IeC {\'e}ation de l'arri\IeC {\`e}re plan et choix des sprites}{31}{section*.18}
+\contentsline {subsubsection}{D\IeC {\'e}finition du mouvement de la balle}{32}{section*.19}
+\contentsline {subsubsection}{Mouvements de la raquette et rebond de la balle sur la raquette}{32}{section*.20}
+\contentsline {subsubsection}{Fin du jeu}{34}{section*.21}
 \contentsfinish 
