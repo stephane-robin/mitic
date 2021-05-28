@@ -471,22 +471,25 @@ On va tout d'abord créer l'arrière-plan du jeu. Une fois \emph{Scratch} ouvert
 \item cliquer sur la scène \circled{1}, 
 \item vérifier que l'onglet arrière-plans est sélectionné \circled{2}, 
 \item choisir l'arrière-plan 1 \circled{3}, 
-\item sélectionner le seau de peinture \circled{4}, 
+\item sélectionner le seau de peinture \circled{4}
+\end{itemize}
+
+\uneimageici{./images/scratch03/flappy/scene_flappy.png}{\textwidth}
+
+\begin{itemize}
 \item puis l'option dégradé \circled{5}, 
 \item choisir enfin une couleur \circled{6}, 
 \item terminer en cliquant dans la zone blanche pour peindre l'arrière-plan.
 \end{itemize}
 
 %\uneimageici{./images/scratch03/flappy/scene01b}{.8\textwidth}
-
-\uneimageici{./images/scratch03/flappy/scene_flappy.png}{\textwidth}
 \uneimageici{./images/scratch03/flappy/scene_flappy2.png}{.25\textwidth}
 	      
 On va ensuite créer l'arrière-plan qui doit être affiché lorsque la partie est perdue. C'est un nouvel arrière-plan appartenant à la même scène.\\
 
 Pour ajouter un nouvel arrière-plan à la scène en cours, cliquer sur le pinceau \circled{1} (figure ci-dessous), choisir ensuite l'outil texte \circled{2} puis la police à utiliser \circled{3} et enfin la couleur \circled{4}. Terminer en cliquant dans la zone blanche pour écrire le texte souhaité. Il faut tirer sur les poignées qui apparaissent pour agrandir le texte jusqu'à la taille souhaitée, puis si nécessaire le déplacer à l'aide de la souris.
 
-\uneimageici{./images/scratch03/flappy/scene02}{.6\textwidth}
+\uneimageici{./images/scratch03/flappy/perdu.png}{.6\textwidth}
 
 
 
@@ -510,21 +513,25 @@ Pour ajouter un nouvel arrière-plan à la scène en cours, cliquer sur le pince
 
 \vspace{6pt}
 
-Commencer par supprimer le sprite par défaut en effectuant un clic droit dessus puis en choisissant \texttt{Supprimer} (figure à gauche ci-dessous). Créer ensuite un nouveau sprite à dessiner en cliquant sur le pinceau (figure à droite ci-dessous).
+Commencer par supprimer le sprite par défaut en cliquant dessus puis en choisissant le symbole \texttt{Supprimer} (figure à gauche ci-dessous). Créer ensuite un nouveau sprite à dessiner en cliquant sur \texttt{Peindre} (figure à droite ci-dessous).
 
-\deuximagesici{./images/scratch03/flappy/lutinSupprime}{\textwidth}%
-	      {./images/scratch03/flappy/lutinNouveau}{.7\textwidth}
+\deuximagesici{./images/scratch03/flappy/supprimerSprite.png}{.3\textwidth}%
+	      {./images/scratch03/flappy/peindreSprite.png}{.5\textwidth}
 
-La première étape est de créer un premier costume pour notre sprite. Pour cela, dessiner un oiseau (ou toute autre forme !) à l'aide des outils de dessin (ici l'outil ellipse et l'outil pinceau). \textbf{Attention !} L'oiseau doit être petit : observer que la zone de dessin a été agrandie à 400\,\% à l'aide de l'outil zoom (\circled{1} sur la figure ci-dessous).
+La première étape est de créer un premier costume pour notre sprite. Pour cela, dessiner un oiseau (ou toute autre forme !) à l'aide des outils de dessin (ici l'outil ellipse et l'outil pinceau). \textbf{Attention !} L'oiseau doit être petit pour pouvoir circuler dans la zone de jeu.
 
-\uneimageici{./images/scratch03/flappy/LutinOiseau01}{.6\textwidth}
-
-
+\uneimageici{./images/scratch03/flappy/creationOiseau.png}{.6\textwidth}
 
 
-La seconde étape consiste à créer un second costume pour notre sprite. Ce costume sera utilisé lorsque l'oiseau heurte un tube. Pour créer un nouveau costume, cliquer sur le pinceau (\circled{1} sur la figure ci-dessous), positionner le zoom sur 400\,\% puis dessiner le costume souhaité. 
 
-\uneimageici{./images/scratch03/flappy/LutinOiseau02}{.6\textwidth}
+
+La seconde étape consiste à créer un second costume pour notre sprite. Ce costume sera utilisé lorsque l'oiseau heurte un tube. Pour créer un nouveau costume, cliquer sur l'icône \texttt{Choisir un costume} en bas à gauche de l'interface, puis choisir \texttt{Peindre}
+
+\uneimageici{./images/scratch03/flappy/peindre.png}{.2\textwidth}
+
+, et finalement dessiner le costume souhaité à l'aide du pinceau. 
+
+\uneimageici{./images/scratch03/flappy/costume2.png}{.6\textwidth}
 
 
 À partir de maintenant il est possible de changer le costume du sprite grâce au bloc suivant, disponible dans les blocs \texttt{Apparence} :
@@ -532,10 +539,10 @@ La seconde étape consiste à créer un second costume pour notre sprite. Ce cos
 \uneimageici{./images/scratch03/flappy/blocBasculerCostume}{.3\textwidth}
 
 
-\emph{Remarque :} il est possible de modifier le nom des costumes ou des arrière-plans en utilisant la zone de saisie en haut de la zone de dessin. Il est également possible de changer le nom des sprites en sélectionnant le sprite puis en cliquant sur le \circled{$i$} (figure ci-dessous à gauche). Le nouveau nom peut alors est entrée dans la zone de saisie (figure à droite ci-dessous).
+\emph{Remarque :} il est possible de modifier le nom des costumes ou des arrière-plans en utilisant la zone de saisie en haut de la zone de dessin. Il est également possible de changer le nom des sprites en sélectionnant le sprite (figure ci-dessous à gauche). Le nouveau nom peut alors est entrée dans la zone de saisie (figure à droite ci-dessous).
 
-\deuximagesici{./images/scratch03/flappy/lutinChangerNom}{.3\textwidth}%
-	      {./images/scratch03/flappy/lutinChangerNom2}{.9\textwidth}
+\deuximagesici{./images/scratch03/flappy/changerNomSprite.png}{.3\textwidth}%
+	      {./images/scratch03/flappy/changerNomSprite2.png}{\textwidth}
 
 
 \subsubsection{Construction des costumes du sprite \texttt{Tuyau}}\label{costumesLutinTuyau} 
@@ -546,13 +553,13 @@ La seconde étape consiste à créer un second costume pour notre sprite. Ce cos
 
 Le but est de créer un nouveau sprite avec trois costumes différents correspondant à trois tuyaux différents comme montré sur la figure ci-dessous.
 
-\uneimageici{./images/scratch03/flappy/lutinPipe01}{.6\textwidth}
+\uneimageici{./images/scratch03/flappy/decorsTuyau.png}{.9\textwidth}
 
 
 Pour cela, créer un nouveau sprite à dessiner puis dessiner trois costumes différents. Pour dessiner un tuyau, le plus simple est de dessiner un grand rectangle rempli de couleur à l'aide de l'outil rectangle \circled{1} en choisissant le remplissage des formes créées \circled{2} (voir figure ci-dessous à gauche). À l'aide de l'outil gomme \circled{3} dont on règle la taille \circled{4}, couper en deux le tuyau (figure à droite ci-dessous).  
 
-\deuximagesici{./images/scratch03/flappy/lutinPipe02}{.6\textwidth}%
-	      {./images/scratch03/flappy/lutinPipe03}{.6\textwidth}
+\deuximagesici{./images/scratch03/flappy/decorsTuyau2.png}{.9\textwidth}%
+	      {./images/scratch03/flappy/decorsTuyau3.png}{.9\textwidth}
 
  
 
