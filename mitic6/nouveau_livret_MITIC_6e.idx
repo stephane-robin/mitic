@@ -1,41 +1,100 @@
-\indexentry{Clavier|hyperpage}{viii}
-\indexentry{Touches sp\IeC {\'e}ciales|hyperpage}{viii}
-\indexentry{Ouvrir!Calc|hyperpage}{2}
-\indexentry{Calc!Exporter un graphique comme image|hyperpage}{6}
-\indexentry{Exporter un graphique comme image (Calc)|hyperpage}{6}
-\indexentry{Recopie incr\IeC {\'e}mentale (Calc)|hyperpage}{11}
-\indexentry{Calc!Recopie incr\IeC {\'e}mentale|hyperpage}{11}
-\indexentry{Calc!Cr\IeC {\'e}er un graphique|hyperpage}{12}
-\indexentry{Cr\IeC {\'e}er un graphique (Calc)|hyperpage}{12}
-\indexentry{Moyenne (calcul de la)|hyperpage}{14}
-\indexentry{Calc!Moyenne (calcul de la)|hyperpage}{14}
-\indexentry{Calc!Exporter au format PDF|hyperpage}{14}
-\indexentry{PDF (exporter au format) (Calc)|hyperpage}{14}
-\indexentry{Ouvrir!Scratch|hyperpage}{20}
-\indexentry{Scratch!Ouvrir|hyperpage}{20}
-\indexentry{Scratch!Modifier la sc\IeC {\`e}ne|hyperpage}{27}
-\indexentry{Modifier la sc\IeC {\`e}ne (Scratch)|hyperpage}{27}
-\indexentry{Enregistrer!Scratch|hyperpage}{28}
-\indexentry{Scratch!Enregistrer|hyperpage}{28}
-\indexentry{Scratch!Script associ\IeC {\'e} \IeC {\`a} un objet|hyperpage}{28}
-\indexentry{Script associ\IeC {\'e} \IeC {\`a} un objet (Scratch)|hyperpage}{28}
-\indexentry{Scratch! Passer en mode plein \IeC {\'e}cran|hyperpage}{29}
-\indexentry{Passer en mode plein \IeC {\'e}cran (Scratch)|hyperpage}{29}
-\indexentry{Scratch! Quitter le mode plein \IeC {\'e}cran|hyperpage}{29}
-\indexentry{Quitter le mode plein \IeC {\'e}cran (Scratch)|hyperpage}{29}
-\indexentry{Scratch!Script associ\IeC {\'e} \IeC {\`a} la sc\IeC {\`e}ne|hyperpage}{29}
-\indexentry{Script associ\IeC {\'e} \IeC {\`a} la sc\IeC {\`e}ne (Scratch)|hyperpage}{29}
-\indexentry{Scratch!Ajouter et \IeC {\'e}diter un objet|hyperpage}{31}
-\indexentry{Ajouter et \IeC {\'e}diter un objet (Scratch)|hyperpage}{31}
-\indexentry{Scratch!Boucle infinie|hyperpage}{33}
-\indexentry{Boucle infinie (Scratch)|hyperpage}{33}
-\indexentry{Scratch! Passer en mode plein \IeC {\'e}cran|hyperpage}{34}
-\indexentry{Passer en mode plein \IeC {\'e}cran (Scratch)|hyperpage}{34}
-\indexentry{Scratch! Quitter le mode plein \IeC {\'e}cran|hyperpage}{34}
-\indexentry{Quitter le mode plein \IeC {\'e}cran (Scratch)|hyperpage}{34}
-\indexentry{Scratch!Cr\IeC {\'e}er un objet|hyperpage}{34}
-\indexentry{Cr\IeC {\'e}er un objet (Scratch)|hyperpage}{34}
-\indexentry{Scratch!Collision entre objets|hyperpage}{34}
-\indexentry{Collision entre objets (Scratch)|hyperpage}{34}
-\indexentry{Scratch!Structure conditionnelle \emph{si}|hyperpage}{34}
-\indexentry{Structure conditionnelle \emph{si} (Scratch)|hyperpage}{34}
+\indexentry{Calendrier des activit\IeC {\'e}s|hyperpage}{ix}
+\indexentry{Clavier|hyperpage}{xi}
+\indexentry{Touches sp\IeC {\'e}ciales|hyperpage}{xi}
+\indexentry{Ouvrir!Calc|hyperpage}{14}
+\indexentry{Calc!Exporter un graphique comme image|hyperpage}{18}
+\indexentry{Exporter un graphique comme image (Calc)|hyperpage}{18}
+\indexentry{Recopie incr\IeC {\'e}mentale (Calc)|hyperpage}{23}
+\indexentry{Calc!Recopie incr\IeC {\'e}mentale|hyperpage}{23}
+\indexentry{Calc!Cr\IeC {\'e}er un graphique|hyperpage}{24}
+\indexentry{Cr\IeC {\'e}er un graphique (Calc)|hyperpage}{24}
+\indexentry{Moyenne (calcul de la)|hyperpage}{26}
+\indexentry{Calc!Moyenne (calcul de la)|hyperpage}{26}
+\indexentry{Calc!Exporter au format PDF|hyperpage}{26}
+\indexentry{PDF (exporter au format) (Calc)|hyperpage}{26}
+\indexentry{Writer!Mise en forme simple d'un texte|hyperpage}{32}
+\indexentry{Mise en forme d'un texte (Writer)|hyperpage}{32}
+\indexentry{Ouvrir!Writer|hyperpage}{32}
+\indexentry{Raccourci Clavier! Cmd + S, enregistrer|hyperpage}{35}
+\indexentry{Writer!Rechercher|hyperpage}{36}
+\indexentry{Rechercher (Writer)|hyperpage}{36}
+\indexentry{Raccourci Clavier! Cmd + F, rechercher (Writer)|hyperpage}{36}
+\indexentry{Writer!Marges|hyperpage}{42}
+\indexentry{Marges (Writer)|hyperpage}{42}
+\indexentry{Writer!Changer la police de caract\IeC {\`e}res|hyperpage}{43}
+\indexentry{Police de caract\IeC {\`e}re (Writer)|hyperpage}{43}
+\indexentry{Raccourci Clavier! Cmd + A, s\IeC {\'e}lectionner tout (Writer)|hyperpage}{43}
+\indexentry{Writer!Taille des caract\IeC {\`e}res|hyperpage}{43}
+\indexentry{Tailles des caract\IeC {\`e}res (Writer)|hyperpage}{43}
+\indexentry{Writer!Centrer le texte|hyperpage}{44}
+\indexentry{Centrer le texte (Writer)|hyperpage}{44}
+\indexentry{Writer!Souligner|hyperpage}{44}
+\indexentry{Souligner (Writer)|hyperpage}{44}
+\indexentry{Raccourci Clavier! Cmd + U, souligner (Writer)|hyperpage}{44}
+\indexentry{Writer!Gras|hyperpage}{45}
+\indexentry{Gras (Writer)|hyperpage}{45}
+\indexentry{Writer!Italique|hyperpage}{45}
+\indexentry{Italique (Writer)|hyperpage}{45}
+\indexentry{Raccourci Clavier! Cmd + I, italique (Writer)|hyperpage}{45}
+\indexentry{Raccourci Clavier! Cmd + B, gras (Writer)|hyperpage}{45}
+\indexentry{Writer!Changer la couleur des caract\IeC {\`e}res|hyperpage}{45}
+\indexentry{Couleur des caract\IeC {\`e}res (Writer)|hyperpage}{45}
+\indexentry{Writer!Interligne|hyperpage}{46}
+\indexentry{Writer!Espacement entre paragraphes|hyperpage}{46}
+\indexentry{Interligne (Writer)|hyperpage}{46}
+\indexentry{Espacement entre paragraphes (Writer)|hyperpage}{46}
+\indexentry{Writer!Justifier|hyperpage}{47}
+\indexentry{Justifier (Writer)|hyperpage}{47}
+\indexentry{Aligner le texte \IeC {\`a} droite et \IeC {\`a} gauche (justifier) (Writer)|hyperpage}{47}
+\indexentry{Writer!Exporter au format PDF|hyperpage}{47}
+\indexentry{PDF (exporter au format) (Writer)|hyperpage}{47}
+\indexentry{Writer!Majuscule|hyperpage}{48}
+\indexentry{Majuscule (Writer)|hyperpage}{48}
+\indexentry{Writer!Encadrer|hyperpage}{49}
+\indexentry{Encadrer (Writer)|hyperpage}{49}
+\indexentry{Writer!Ins\IeC {\'e}rer une image|hyperpage}{49}
+\indexentry{Ins\IeC {\'e}rer une image (Writer)|hyperpage}{49}
+\indexentry{Gimp!Recadrer une image|hyperpage}{54}
+\indexentry{Recadrage d'une image (Gimp)|hyperpage}{54}
+\indexentry{Ouvrir!Gimp|hyperpage}{54}
+\indexentry{Gimp!Ouvrir|hyperpage}{54}
+\indexentry{Gimp!Ajouter un cadre autour d'une image|hyperpage}{57}
+\indexentry{Cadre autour d'une image (Gimp)|hyperpage}{57}
+\indexentry{Capture d'\IeC {\'e}cran|hyperpage}{59}
+\indexentry{Gimp!Capture d'\IeC {\'e}cran|hyperpage}{59}
+\indexentry{Raccourci Clavier! Ctrl + Maj + Cmd + 3, copier tout l'\IeC {\'e}cran|hyperpage}{59}
+\indexentry{Raccourci Clavier! Ctrl + Maj + Cmd + 4, copier une partie de l'\IeC {\'e}cran|hyperpage}{59}
+\indexentry{Gimp!D\IeC {\'e}coupage d'une image|hyperpage}{60}
+\indexentry{D\IeC {\'e}coupage d'une image (Gimp)|hyperpage}{60}
+\indexentry{Gimp!Luminosit\IeC {\'e}|hyperpage}{64}
+\indexentry{Luminosit\IeC {\'e} (Gimp)|hyperpage}{64}
+\indexentry{Gimp!Contraste|hyperpage}{64}
+\indexentry{Contraste (Gimp)|hyperpage}{64}
+\indexentry{Ouvrir!Scratch|hyperpage}{68}
+\indexentry{Scratch!Ouvrir|hyperpage}{68}
+\indexentry{Scratch!Modifier la sc\IeC {\`e}ne|hyperpage}{76}
+\indexentry{Modifier la sc\IeC {\`e}ne (Scratch)|hyperpage}{76}
+\indexentry{Enregistrer!Scratch|hyperpage}{77}
+\indexentry{Scratch!Enregistrer|hyperpage}{77}
+\indexentry{Scratch!Script associ\IeC {\'e} \IeC {\`a} un objet|hyperpage}{77}
+\indexentry{Script associ\IeC {\'e} \IeC {\`a} un objet (Scratch)|hyperpage}{77}
+\indexentry{Scratch! Passer en mode plein \IeC {\'e}cran|hyperpage}{78}
+\indexentry{Passer en mode plein \IeC {\'e}cran (Scratch)|hyperpage}{78}
+\indexentry{Scratch! Quitter le mode plein \IeC {\'e}cran|hyperpage}{78}
+\indexentry{Quitter le mode plein \IeC {\'e}cran (Scratch)|hyperpage}{78}
+\indexentry{Scratch!Script associ\IeC {\'e} \IeC {\`a} la sc\IeC {\`e}ne|hyperpage}{78}
+\indexentry{Script associ\IeC {\'e} \IeC {\`a} la sc\IeC {\`e}ne (Scratch)|hyperpage}{78}
+\indexentry{Scratch!Ajouter et \IeC {\'e}diter un objet|hyperpage}{80}
+\indexentry{Ajouter et \IeC {\'e}diter un objet (Scratch)|hyperpage}{80}
+\indexentry{Scratch!Boucle infinie|hyperpage}{82}
+\indexentry{Boucle infinie (Scratch)|hyperpage}{82}
+\indexentry{Scratch! Passer en mode plein \IeC {\'e}cran|hyperpage}{83}
+\indexentry{Passer en mode plein \IeC {\'e}cran (Scratch)|hyperpage}{83}
+\indexentry{Scratch! Quitter le mode plein \IeC {\'e}cran|hyperpage}{83}
+\indexentry{Quitter le mode plein \IeC {\'e}cran (Scratch)|hyperpage}{83}
+\indexentry{Scratch!Cr\IeC {\'e}er un objet|hyperpage}{83}
+\indexentry{Cr\IeC {\'e}er un objet (Scratch)|hyperpage}{83}
+\indexentry{Scratch!Collision entre objets|hyperpage}{83}
+\indexentry{Collision entre objets (Scratch)|hyperpage}{83}
+\indexentry{Scratch!Structure conditionnelle \emph{si}|hyperpage}{83}
+\indexentry{Structure conditionnelle \emph{si} (Scratch)|hyperpage}{83}

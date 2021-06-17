@@ -1,57 +1,138 @@
 \select@language {french}
-\contentsline {chapter}{\numberline {1}Tableur}{1}{chapter.1}
-\contentsline {section}{\numberline {1}S\IeC {\'e}ance 1 : \IeC {\'e}volution des notes d'un \IeC {\'e}l\IeC {\`e}ve}{2}{section.1.1}
-\contentsline {subsection}{\numberline {1.1}Premiers pas avec Excel}{2}{subsection.1.1.1}
-\contentsline {subsubsection}{Lancer l'application Excel}{2}{section*.4}
-\contentsline {subsubsection}{Lancer la version en ligne d'Excel}{3}{section*.5}
-\contentsline {subsubsection}{Lancer Excel via Teams}{4}{section*.6}
-\contentsline {subsection}{\numberline {1.2}Pour bien d\IeC {\'e}marrer...}{5}{subsection.1.1.2}
-\contentsline {subsection}{\numberline {1.3}Sujet de l'activit\IeC {\'e}...}{6}{subsection.1.1.3}
-\contentsline {subsection}{\numberline {1.4}Pour aller plus loin...}{6}{subsection.1.1.4}
-\contentsline {section}{\numberline {2}S\IeC {\'e}ance 2 : Suivi en temp\IeC {\'e}rature d'une solidification}{8}{section.1.2}
-\contentsline {subsection}{\numberline {2.1}Pour bien d\IeC {\'e}marrer...}{8}{subsection.1.2.1}
-\contentsline {subsection}{\numberline {2.2}Sujet de l'activit\IeC {\'e}...}{8}{subsection.1.2.2}
-\contentsline {subsection}{\numberline {2.3}Pour aller plus loin...}{9}{subsection.1.2.3}
-\contentsline {section}{\numberline {3}S\IeC {\'e}ance 3 : \IeC {\'E}volution de la population mondiale}{10}{section.1.3}
-\contentsline {subsection}{\numberline {3.1}Pour bien d\IeC {\'e}marrer...}{10}{subsection.1.3.1}
-\contentsline {subsection}{\numberline {3.2}Sujet de l'activit\IeC {\'e}...}{10}{subsection.1.3.2}
-\contentsline {subsection}{\numberline {3.3}Pour aller plus loin...}{10}{subsection.1.3.3}
-\contentsline {section}{\numberline {4}Aide pour r\IeC {\'e}aliser les activit\IeC {\'e}s}{11}{section.1.4}
-\contentsline {subsubsection}{Entrer les donn\IeC {\'e}es}{11}{section*.7}
-\contentsline {subsubsection}{Sauvegarder le fichier}{11}{section*.8}
-\contentsline {subsubsection}{Cr\IeC {\'e}er un graphique}{12}{section*.9}
-\contentsline {subsubsection}{Calculer la moyenne}{14}{section*.10}
-\contentsline {subsubsection}{Exporter au format PDF}{14}{section*.11}
-\contentsline {subsubsection}{Remettre le travail achev\IeC {\'e} sur Teams}{17}{section*.12}
-\contentsline {chapter}{\numberline {2}Programmation Scratch}{19}{chapter.2}
-\contentsline {section}{\numberline {1}S\IeC {\'e}ance 1 : un premier programme}{20}{section.2.1}
-\contentsline {subsection}{\numberline {1.1}Pour pr\IeC {\'e}parer l'activit\IeC {\'e}...}{20}{subsection.2.1.1}
-\contentsline {subsection}{\numberline {1.2}Premiers pas avec Scratch...}{20}{subsection.2.1.2}
-\contentsline {subsection}{\numberline {1.3}Pour bien d\IeC {\'e}marrer...}{21}{subsection.2.1.3}
-\contentsline {subsection}{\numberline {1.4}Sujet de l'activit\IeC {\'e}...}{22}{subsection.2.1.4}
-\contentsline {subsection}{\numberline {1.5}Pour aller plus loin...}{22}{subsection.2.1.5}
-\contentsline {section}{\numberline {2}S\IeC {\'e}ance 2 : dessiner avec Scratch}{23}{section.2.2}
-\contentsline {subsection}{\numberline {2.1}Pour bien d\IeC {\'e}marrer...}{23}{subsection.2.2.1}
-\contentsline {subsection}{\numberline {2.2}Sujet de l'activit\IeC {\'e}...}{23}{subsection.2.2.2}
-\contentsline {subsection}{\numberline {2.3}Pour aller plus loin...}{24}{subsection.2.2.3}
-\contentsline {section}{\numberline {3}S\IeC {\'e}ance 3 : cr\IeC {\'e}er un petit jeu en Scratch}{25}{section.2.3}
-\contentsline {subsection}{\numberline {3.1}Pour bien d\IeC {\'e}marrer...}{25}{subsection.2.3.1}
-\contentsline {subsection}{\numberline {3.2}Sujet de l'activit\IeC {\'e}...}{25}{subsection.2.3.2}
-\contentsline {subsection}{\numberline {3.3}Pour aller plus loin...}{26}{subsection.2.3.3}
-\contentsline {section}{\numberline {4}Aide pour r\IeC {\'e}aliser les activit\IeC {\'e}s}{27}{section.2.4}
-\contentsline {subsection}{\numberline {4.1}Aide pour la s\IeC {\'e}ance 1...}{27}{subsection.2.4.1}
-\contentsline {subsubsection}{Modifier la sc\IeC {\`e}ne o\IeC {\`u} se passe l'action}{27}{section*.13}
-\contentsline {subsubsection}{Enregistrer le programme}{28}{section*.14}
-\contentsline {subsubsection}{Ajouter un code associ\IeC {\'e} au sprite}{28}{section*.15}
-\contentsline {subsubsection}{Ajouter un code associ\IeC {\'e} \IeC {\`a} la sc\IeC {\`e}ne}{29}{section*.16}
-\contentsline {subsection}{\numberline {4.2}Aide pour la s\IeC {\'e}ance 2...}{30}{subsection.2.4.2}
-\contentsline {subsubsection}{Ajouter l'effacement de l'\IeC {\'e}cran}{30}{section*.17}
-\contentsline {subsubsection}{Un carr\IeC {\'e} o\IeC {\`u} on veut !}{30}{section*.18}
-\contentsline {subsubsection}{Dessiner une enveloppe}{31}{section*.19}
-\contentsline {subsubsection}{Modifier la taille et la couleur du stylo}{31}{section*.20}
-\contentsline {subsection}{\numberline {4.3}Aide pour la s\IeC {\'e}ance 3...}{31}{subsection.2.4.3}
-\contentsline {subsubsection}{Ajouter un nouvel objet}{31}{section*.21}
-\contentsline {subsubsection}{G\IeC {\'e}rer les mouvements du perroquet dans la sc\IeC {\`e}ne}{33}{section*.22}
-\contentsline {subsubsection}{Un nouvel objet : l'obstacle}{34}{section*.23}
-\contentsline {subsubsection}{G\IeC {\'e}rer la collision entre le perroquet et l'obstacle}{34}{section*.24}
+\contentsline {chapter}{\numberline {1}Microsoft Teams}{1}{chapter.1}
+\contentsline {section}{\numberline {1}Connexion \IeC {\`a} Office 365 et Teams}{1}{section.1.1}
+\contentsline {section}{\numberline {2}Utilisation de la Publication}{3}{section.1.2}
+\contentsline {section}{\numberline {3}Consulter et t\IeC {\'e}l\IeC {\'e}charger un document}{4}{section.1.3}
+\contentsline {section}{\numberline {4}Les devoirs}{5}{section.1.4}
+\contentsline {subsection}{\numberline {4.1}Consulter le sujet d'un devoir en pi\IeC {\`e}ce jointe}{5}{subsection.1.4.1}
+\contentsline {subsection}{\numberline {4.2}Remettre son devoir}{6}{subsection.1.4.2}
+\contentsline {section}{\numberline {5}Acc\IeC {\'e}der \IeC {\`a} mon bloc-note}{8}{section.1.5}
+\contentsline {section}{\numberline {6}Rejoindre une visio-conf\IeC {\'e}rence}{9}{section.1.6}
+\contentsline {section}{\numberline {7}Pour aller plus loin}{10}{section.1.7}
+\contentsline {subsection}{\numberline {7.1}Apparence de la page d'accueil}{10}{subsection.1.7.1}
+\contentsline {subsection}{\numberline {7.2}Activit\IeC {\'e} d'exploration de Teams}{12}{subsection.1.7.2}
+\contentsline {chapter}{\numberline {2}Tableur}{13}{chapter.2}
+\contentsline {section}{\numberline {1}S\IeC {\'e}ance 1 : \IeC {\'e}volution des notes d'un \IeC {\'e}l\IeC {\`e}ve}{14}{section.2.1}
+\contentsline {subsection}{\numberline {1.1}Pour pr\IeC {\'e}parer l'activit\IeC {\'e}...}{14}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {1.2}Premiers pas avec Excel...}{14}{subsection.2.1.2}
+\contentsline {subsubsection}{Lancer l'application Excel}{14}{section*.6}
+\contentsline {subsubsection}{Lancer la version en ligne d'Excel}{15}{section*.7}
+\contentsline {subsubsection}{Lancer Excel via Teams}{16}{section*.8}
+\contentsline {subsubsection}{Pour bien d\IeC {\'e}marrer}{17}{section*.9}
+\contentsline {subsection}{\numberline {1.3}Sujet de l'activit\IeC {\'e}...}{18}{subsection.2.1.3}
+\contentsline {subsection}{\numberline {1.4}Pour aller plus loin...}{18}{subsection.2.1.4}
+\contentsline {section}{\numberline {2}S\IeC {\'e}ance 2 : Suivi en temp\IeC {\'e}rature d'une solidification}{20}{section.2.2}
+\contentsline {subsection}{\numberline {2.1}Pour pr\IeC {\'e}parer l'activit\IeC {\'e}...}{20}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2}Pour bien d\IeC {\'e}marrer...}{20}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.3}Sujet de l'activit\IeC {\'e}...}{20}{subsection.2.2.3}
+\contentsline {subsection}{\numberline {2.4}Pour aller plus loin...}{21}{subsection.2.2.4}
+\contentsline {section}{\numberline {3}S\IeC {\'e}ance 3 : \IeC {\'E}volution de la population mondiale}{22}{section.2.3}
+\contentsline {subsection}{\numberline {3.1}Pour bien d\IeC {\'e}marrer...}{22}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {3.2}Sujet de l'activit\IeC {\'e}...}{22}{subsection.2.3.2}
+\contentsline {subsection}{\numberline {3.3}Pour aller plus loin...}{22}{subsection.2.3.3}
+\contentsline {section}{\numberline {4}Aide pour r\IeC {\'e}aliser les activit\IeC {\'e}s}{23}{section.2.4}
+\contentsline {subsubsection}{Entrer les donn\IeC {\'e}es}{23}{section*.10}
+\contentsline {subsubsection}{Sauvegarder le fichier}{23}{section*.11}
+\contentsline {subsubsection}{Cr\IeC {\'e}er un graphique}{24}{section*.12}
+\contentsline {subsubsection}{Calculer la moyenne}{26}{section*.13}
+\contentsline {subsubsection}{Exporter au format PDF}{26}{section*.14}
+\contentsline {subsubsection}{Remettre le travail achev\IeC {\'e} sur Teams}{29}{section*.15}
+\contentsline {chapter}{\numberline {3}Traitement de texte}{31}{chapter.3}
+\contentsline {section}{\numberline {1}S\IeC {\'e}ance 1 : mise en forme de \emph {La Belle et la B\IeC {\^e}te}}{32}{section.3.1}
+\contentsline {subsection}{\numberline {1.1}Pour pr\IeC {\'e}parer l'activit\IeC {\'e}...}{32}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {1.2}Premiers pas avec Word...}{32}{subsection.3.1.2}
+\contentsline {subsubsection}{Pour bien d\IeC {\'e}marrer...}{33}{section*.17}
+\contentsline {subsection}{\numberline {1.3}Sujet de l'activit\IeC {\'e}...}{35}{subsection.3.1.3}
+\contentsline {subsection}{\numberline {1.4}Pour aller plus loin...}{36}{subsection.3.1.4}
+\contentsline {section}{\numberline {2}S\IeC {\'e}ance 2 : mise en forme d'un texte de J. Swift}{38}{section.3.2}
+\contentsline {subsection}{\numberline {2.1}Pour pr\IeC {\'e}parer l'activit\IeC {\'e}...}{38}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {2.2}Pour bien d\IeC {\'e}marrer...}{38}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {2.3}Sujet de l'activit\IeC {\'e}...}{38}{subsection.3.2.3}
+\contentsline {subsection}{\numberline {2.4}Pour aller plus loin...}{40}{subsection.3.2.4}
+\contentsline {section}{\numberline {3}S\IeC {\'e}ance 3 : mise en forme d'un compte rendu}{41}{section.3.3}
+\contentsline {subsection}{\numberline {3.1}Pour pr\IeC {\'e}parer l'activit\IeC {\'e}...}{41}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.2}Pour bien d\IeC {\'e}marrer...}{41}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3}Sujet de l'activit\IeC {\'e}...}{41}{subsection.3.3.3}
+\contentsline {subsection}{\numberline {3.4}Pour aller plus loin...}{41}{subsection.3.3.4}
+\contentsline {section}{\numberline {4}Aide pour r\IeC {\'e}aliser les activit\IeC {\'e}s}{42}{section.3.4}
+\contentsline {subsection}{\numberline {4.1}Aide pour la S\IeC {\'e}ance 1}{42}{subsection.3.4.1}
+\contentsline {subsubsection}{Mettre en forme la page}{42}{section*.18}
+\contentsline {subsubsection}{Choisir une police de caract\IeC {\`e}res}{43}{section*.19}
+\contentsline {subsubsection}{Modifier la taille des caract\IeC {\`e}res}{43}{section*.20}
+\contentsline {subsubsection}{Centrer du texte}{44}{section*.21}
+\contentsline {subsubsection}{Souligner du texte}{44}{section*.22}
+\contentsline {subsubsection}{Mettre un texte en gras ou en italique}{45}{section*.23}
+\contentsline {subsubsection}{Modifier la couleur des caract\IeC {\`e}res}{45}{section*.24}
+\contentsline {subsubsection}{Mettre en forme des paragraphes}{46}{section*.25}
+\contentsline {subsubsection}{Justifier un paragraphe}{47}{section*.26}
+\contentsline {subsubsection}{Aligner \IeC {\`a} droite}{47}{section*.27}
+\contentsline {subsubsection}{Exporter au format PDF}{47}{section*.28}
+\contentsline {subsubsection}{Remettre le travail achev\IeC {\'e} sur Teams}{48}{section*.29}
+\contentsline {subsection}{\numberline {4.2}Aide pour la S\IeC {\'e}ance 2}{48}{subsection.3.4.2}
+\contentsline {subsubsection}{Passer le texte en majuscule}{48}{section*.30}
+\contentsline {subsubsection}{Encadrer un paragraphe}{49}{section*.31}
+\contentsline {subsubsection}{Pour aller plus loin...}{49}{section*.32}
+\contentsline {subsection}{\numberline {4.3}Aide pour la S\IeC {\'e}ance 3}{49}{subsection.3.4.3}
+\contentsline {subsubsection}{Ins\IeC {\'e}rer une image}{49}{section*.33}
+\contentsline {chapter}{\numberline {4}Traitement d'images}{53}{chapter.4}
+\contentsline {section}{\numberline {1}S\IeC {\'e}ance 1 : recadrer une image}{54}{section.4.1}
+\contentsline {subsection}{\numberline {1.1}Premiers pas avec Gimp...}{54}{subsection.4.1.1}
+\contentsline {subsubsection}{Pour bien d\IeC {\'e}marrer}{54}{section*.35}
+\contentsline {subsubsection}{Pensez \IeC {\`a} enregistrer r\IeC {\'e}guli\IeC {\`e}rement}{55}{section*.36}
+\contentsline {subsection}{\numberline {1.2}Sujet de l'activit\IeC {\'e}...}{56}{subsection.4.1.2}
+\contentsline {subsection}{\numberline {1.3}Pour aller plus loin...}{56}{subsection.4.1.3}
+\contentsline {section}{\numberline {2}S\IeC {\'e}ance 2 : recadrer et encadrer une image}{57}{section.4.2}
+\contentsline {subsection}{\numberline {2.1}Pour bien d\IeC {\'e}marrer...}{57}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {2.2}L'activit\IeC {\'e} demand\IeC {\'e}e}{57}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {2.3}Pour aller plus loin...}{57}{subsection.4.2.3}
+\contentsline {section}{\numberline {3}S\IeC {\'e}ance 3 : recadrer et r\IeC {\'e}gler luminosit\IeC {\'e}, contraste}{58}{section.4.3}
+\contentsline {subsection}{\numberline {3.1}Pour bien d\IeC {\'e}marrer...}{58}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {3.2}L'activit\IeC {\'e} demand\IeC {\'e}e}{58}{subsection.4.3.2}
+\contentsline {subsection}{\numberline {3.3}Pour aller plus loin : r\IeC {\'e}aliser une copie d'\IeC {\'e}cran}{59}{subsection.4.3.3}
+\contentsline {section}{\numberline {4}Aide pour r\IeC {\'e}aliser les activit\IeC {\'e}s}{60}{section.4.4}
+\contentsline {subsection}{\numberline {4.1}Aide pour la s\IeC {\'e}ance 1}{60}{subsection.4.4.1}
+\contentsline {subsubsection}{Utiliser l'outil de d\IeC {\'e}coupage}{60}{section*.37}
+\contentsline {subsubsection}{Sauvegarder le fichier}{60}{section*.38}
+\contentsline {subsubsection}{Exporter l'image dans un autre format}{61}{section*.39}
+\contentsline {subsection}{\numberline {4.2}Aide pour la s\IeC {\'e}ance 2}{62}{subsection.4.4.2}
+\contentsline {subsubsection}{Ajouter un cadre autour de l'image}{62}{section*.40}
+\contentsline {subsection}{\numberline {4.3}Aide pour la s\IeC {\'e}ance 3}{64}{subsection.4.4.3}
+\contentsline {subsubsection}{Luminosit\IeC {\'e} et contraste}{64}{section*.41}
+\contentsline {chapter}{\numberline {5}Programmation Scratch}{67}{chapter.5}
+\contentsline {section}{\numberline {1}S\IeC {\'e}ance 1 : un premier programme}{68}{section.5.1}
+\contentsline {subsection}{\numberline {1.1}Pour pr\IeC {\'e}parer l'activit\IeC {\'e}...}{68}{subsection.5.1.1}
+\contentsline {subsection}{\numberline {1.2}Premiers pas avec Scratch...}{68}{subsection.5.1.2}
+\contentsline {subsubsection}{Pour bien d\IeC {\'e}marrer}{69}{section*.43}
+\contentsline {subsection}{\numberline {1.3}Sujet de l'activit\IeC {\'e}...}{70}{subsection.5.1.3}
+\contentsline {subsection}{\numberline {1.4}Pour aller plus loin...}{70}{subsection.5.1.4}
+\contentsline {section}{\numberline {2}S\IeC {\'e}ance 2 : dessiner avec Scratch}{71}{section.5.2}
+\contentsline {subsection}{\numberline {2.1}Pour pr\IeC {\'e}parer l'activit\IeC {\'e}...}{71}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {2.2}Pour bien d\IeC {\'e}marrer...}{71}{subsection.5.2.2}
+\contentsline {subsection}{\numberline {2.3}Sujet de l'activit\IeC {\'e}...}{71}{subsection.5.2.3}
+\contentsline {subsection}{\numberline {2.4}Pour aller plus loin...}{72}{subsection.5.2.4}
+\contentsline {section}{\numberline {3}S\IeC {\'e}ance 3 : cr\IeC {\'e}er un petit jeu en Scratch}{73}{section.5.3}
+\contentsline {subsection}{\numberline {3.1}Pour pr\IeC {\'e}parer l'activit\IeC {\'e}...}{73}{subsection.5.3.1}
+\contentsline {subsection}{\numberline {3.2}Pour bien d\IeC {\'e}marrer...}{73}{subsection.5.3.2}
+\contentsline {subsection}{\numberline {3.3}Sujet de l'activit\IeC {\'e}...}{73}{subsection.5.3.3}
+\contentsline {subsection}{\numberline {3.4}Pour aller plus loin...}{75}{subsection.5.3.4}
+\contentsline {section}{\numberline {4}Aide pour r\IeC {\'e}aliser les activit\IeC {\'e}s}{76}{section.5.4}
+\contentsline {subsection}{\numberline {4.1}Aide pour la s\IeC {\'e}ance 1...}{76}{subsection.5.4.1}
+\contentsline {subsubsection}{Modifier la sc\IeC {\`e}ne o\IeC {\`u} se passe l'action}{76}{section*.44}
+\contentsline {subsubsection}{Enregistrer le programme}{77}{section*.45}
+\contentsline {subsubsection}{Ajouter un code associ\IeC {\'e} au sprite}{77}{section*.46}
+\contentsline {subsubsection}{Ajouter un code associ\IeC {\'e} \IeC {\`a} la sc\IeC {\`e}ne}{78}{section*.47}
+\contentsline {subsection}{\numberline {4.2}Aide pour la s\IeC {\'e}ance 2...}{79}{subsection.5.4.2}
+\contentsline {subsubsection}{Ajouter l'effacement de l'\IeC {\'e}cran}{79}{section*.48}
+\contentsline {subsubsection}{Un carr\IeC {\'e} o\IeC {\`u} on veut !}{79}{section*.49}
+\contentsline {subsubsection}{Dessiner une enveloppe}{80}{section*.50}
+\contentsline {subsubsection}{Modifier la taille et la couleur du stylo}{80}{section*.51}
+\contentsline {subsection}{\numberline {4.3}Aide pour la s\IeC {\'e}ance 3...}{80}{subsection.5.4.3}
+\contentsline {subsubsection}{Ajouter un nouvel objet}{80}{section*.52}
+\contentsline {subsubsection}{G\IeC {\'e}rer les mouvements du perroquet dans la sc\IeC {\`e}ne}{82}{section*.53}
+\contentsline {subsubsection}{Un nouvel objet : l'obstacle}{83}{section*.54}
+\contentsline {subsubsection}{G\IeC {\'e}rer la collision entre le perroquet et l'obstacle}{83}{section*.55}
+\contentsline {chapter}{\numberline {6}Activit\IeC {\'e}s suppl\IeC {\'e}mentaires}{87}{chapter.6}
+\contentsline {section}{\numberline {1}Pr\IeC {\'e}parer un compte rendu d'exp\IeC {\'e}rience en science}{87}{section.6.1}
+\contentsline {section}{\numberline {2}\IeC {\'E}laborer un document en histoire-g\IeC {\'e}ographie}{88}{section.6.2}
+\contentsline {section}{\numberline {3}Construire un programme en \emph {Scratch}}{89}{section.6.3}
 \contentsfinish 
