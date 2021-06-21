@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2018.8.21)  17 JUN 2021 18:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2018.8.21)  21 JUN 2021 19:26
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -987,15 +987,6 @@ File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 
 Writing index file nouveau_livret_MITIC_6e.idx
 (./nouveau_livret_MITIC_6e.aux
-<Reading QR code for "https://web.microsoftstream.com/video/aa9246de-61ad-4072-
-922c-1251a5bd8414" at level 5-M from aux file.>
-
-<Reading QR code for "https://web.microsoftstream.com/video/48370bef-1911-4a74-
-a09d-6b21e8eb06ea" at level 5-M from aux file.>
-
-<Reading QR code for "https://web.microsoftstream.com/video/a6d62817-5809-4e7b-
-a9c4-0cc79aa37802" at level 5-M from aux file.>
-
 <Reading QR code for "https://web.microsoftstream.com/video/354eec0a-c312-4acc-
 ac36-683ebf10443f" at level 5-M from aux file.>
 
@@ -1004,6 +995,18 @@ ac36-683ebf10443f" at level 5-M from aux file.>
 
 LaTeX Warning: Label `modelePage' multiply defined.
 
+
+<Reading QR code for "https://web.microsoftstream.com/video/6a77d6c6-3fd6-4a71-
+a1e1-0d0b4ebdd050" at level 5-M from aux file.>
+
+<Reading QR code for "https://web.microsoftstream.com/video/aa9246de-61ad-4072-
+922c-1251a5bd8414" at level 5-M from aux file.>
+
+<Reading QR code for "https://web.microsoftstream.com/video/48370bef-1911-4a74-
+a09d-6b21e8eb06ea" at level 5-M from aux file.>
+
+<Reading QR code for "https://web.microsoftstream.com/video/a6d62817-5809-4e7b-
+a9c4-0cc79aa37802" at level 5-M from aux file.>
 
 <Reading QR code for "https://web.microsoftstream.com/video/8ed24c7a-66c0-4ab6-
 9aa3-95ebdfc80ed6" at level 5-M from aux file.>
@@ -1122,7 +1125,7 @@ LaTeX Info: Redefining \nameref on input line 6.
 LaTeX Info: Redefining \Ref on input line 6.
 
 ABD: EveryShipout initializing macros
-<./images/couvertureFlo.png, id=364, 595.9866pt x 845.0772pt>
+<./images/couvertureFlo.png, id=400, 595.9866pt x 845.0772pt>
 File: ./images/couvertureFlo.png Graphic file (type png)
 
 <use ./images/couvertureFlo.png>
@@ -1155,7 +1158,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 14--14
 
  []
 
-<./images/logo_flo.pdf, id=372, 252.39996pt x 41.93597pt>
+<./images/logo_flo.pdf, id=409, 252.39996pt x 41.93597pt>
 File: ./images/logo_flo.pdf Graphic file (type pdf)
 
 <use ./images/logo_flo.pdf>
@@ -1206,6 +1209,11 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <8> on input line 10.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <6> on input line 10.
+
+Overfull \hbox (15.29909pt too wide) in paragraph at lines 10--54
+ [] 
+ []
+
 )
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1218,7 +1226,7 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 ] [10
 
 ] (./sources/clavier.tex
-<./images/generales/clavierTouches.png, id=709, 847.4862pt x 351.714pt>
+<./images/generales/clavierTouches.png, id=773, 847.4862pt x 351.714pt>
 File: ./images/generales/clavierTouches.png Graphic file (type png)
 
 <use ./images/generales/clavierTouches.png>
@@ -1234,9 +1242,21 @@ Overfull \vbox (12.13051pt too high) has occurred while \output is active []
 ] (./sources/philosophie.tex
 [13
 
-]) [14] (./sources/teams/teams_accueil.tex
+])pdfTeX warning (ext4): destination with the same identifier (name{page.i}) ha
+s been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.34 \mainmatter
+                 [1]pdfTeX warning (ext4): destination with the same identifier
+ (name{page.ii}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.34 \mainmatter
+                 [2
+
+] (./sources/teams/teams_accueil.tex
 Chapitre 1.
-<./images/chapitreVinci.png, id=733, 597.23125pt x 284.06125pt>
+<./images/chapitreVinci.png, id=799, 597.23125pt x 284.06125pt>
 File: ./images/chapitreVinci.png Graphic file (type png)
 
 <use ./images/chapitreVinci.png>
@@ -1251,7 +1271,7 @@ LaTeX Font Info:    Try loading font information for T1+lmtt on input line 24.
 (/usr/local/texlive/2016/texmf-dist/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-<./images/teams/ecran_office_com_crop.png, id=735, 440.64626pt x 308.15125pt>
+<./images/teams/ecran_office_com_crop.png, id=801, 440.64626pt x 308.15125pt>
 File: ./images/teams/ecran_office_com_crop.png Graphic file (type png)
 
 <use ./images/teams/ecran_office_com_crop.png>
@@ -1259,7 +1279,7 @@ Package pdftex.def Info: ./images/teams/ecran_office_com_crop.png used on input
  line 27.
 (pdftex.def)             Requested size: 142.26378pt x 99.48497pt.
 
-<./images/teams/ecran_connexion_office_com_crop.png, id=736, 461.725pt x 392.46
+<./images/teams/ecran_connexion_office_com_crop.png, id=802, 461.725pt x 392.46
 625pt>
 File: ./images/teams/ecran_connexion_office_com_crop.png Graphic file (type png
 )
@@ -1269,10 +1289,9 @@ d on input line 34.
 (pdftex.def)             Requested size: 142.26378pt x 120.92068pt.
  [1
 
-
  <./images/chapitreVinci.png> <./images/teams/ecran_office_com_crop.png (PNG co
 py)>]
-<./images/teams/ecran_connexion_florimont_crop.png, id=744, 524.96124pt x 403.5
+<./images/teams/ecran_connexion_florimont_crop.png, id=810, 524.96124pt x 403.5
 075pt>
 File: ./images/teams/ecran_connexion_florimont_crop.png Graphic file (type png)
 
@@ -1296,7 +1315,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 49--50
  []
 
 
-<./images/teams/ecran_installer_teams_crop.png, id=745, 459.7175pt x 191.71625p
+<./images/teams/ecran_installer_teams_crop.png, id=811, 459.7175pt x 191.71625p
 t>
 File: ./images/teams/ecran_installer_teams_crop.png Graphic file (type png)
  <use ./images/teams/ecran_installer_teams_crop.png>
@@ -1309,7 +1328,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 58--59
  []
 
 
-<./images/teams/ecran_accueil_office_crop.png, id=746, 518.93875pt x 664.4825pt
+<./images/teams/ecran_accueil_office_crop.png, id=812, 518.93875pt x 664.4825pt
 >
 File: ./images/teams/ecran_accueil_office_crop.png Graphic file (type png)
  <use ./images/teams/ecran_accueil_office_crop.png>
@@ -1323,7 +1342,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 75--76
 
  []
 
-<./images/teams/publications.png, id=752, 512.91624pt x 118.4425pt>
+<./images/teams/publications.png, id=818, 512.91624pt x 118.4425pt>
 File: ./images/teams/publications.png Graphic file (type png)
 
 <use ./images/teams/publications.png>
@@ -1331,7 +1350,7 @@ Package pdftex.def Info: ./images/teams/publications.png used on input line 80.
 
 (pdftex.def)             Requested size: 256.0748pt x 59.13254pt.
 
-<./images/teams/publications2.png, id=753, 682.55pt x 82.3075pt>
+<./images/teams/publications2.png, id=819, 682.55pt x 82.3075pt>
 File: ./images/teams/publications2.png Graphic file (type png)
 
 <use ./images/teams/publications2.png>
@@ -1339,7 +1358,7 @@ Package pdftex.def Info: ./images/teams/publications2.png used on input line 87
 .
 (pdftex.def)             Requested size: 256.0748pt x 30.8803pt.
 
-<./images/teams/envoi_message.png, id=754, 29.10875pt x 26.0975pt>
+<./images/teams/envoi_message.png, id=820, 29.10875pt x 26.0975pt>
 File: ./images/teams/envoi_message.png Graphic file (type png)
 
 <use ./images/teams/envoi_message.png>
@@ -1347,7 +1366,7 @@ Package pdftex.def Info: ./images/teams/envoi_message.png used on input line 91
 .
 (pdftex.def)             Requested size: 19.91684pt x 17.85715pt.
 
-<./images/teams/publications3.png, id=755, 658.46pt x 124.465pt>
+<./images/teams/publications3.png, id=821, 658.46pt x 124.465pt>
 File: ./images/teams/publications3.png Graphic file (type png)
 
 <use ./images/teams/publications3.png>
@@ -1355,7 +1374,7 @@ Package pdftex.def Info: ./images/teams/publications3.png used on input line 94
 .
 (pdftex.def)             Requested size: 256.0748pt x 48.4044pt.
 
-<./images/teams/accueil_classe_crop.png, id=756, 750.805pt x 428.60126pt>
+<./images/teams/accueil_classe_crop.png, id=822, 750.805pt x 428.60126pt>
 File: ./images/teams/accueil_classe_crop.png Graphic file (type png)
 
 <use ./images/teams/accueil_classe_crop.png>
@@ -1365,7 +1384,7 @@ ine 108.
  [3 <./images/teams/ecran_accueil_office_crop.png (PNG copy)> <./images/teams/p
 ublications.png> <./images/teams/publications2.png> <./images/teams/envoi_messa
 ge.png> <./images/teams/publications3.png>]
-<./images/teams/ouvrir_dossier_crop.png, id=761, 714.67pt x 280.04625pt>
+<./images/teams/ouvrir_dossier_crop.png, id=827, 714.67pt x 280.04625pt>
 File: ./images/teams/ouvrir_dossier_crop.png Graphic file (type png)
 
 <use ./images/teams/ouvrir_dossier_crop.png>
@@ -1373,7 +1392,7 @@ Package pdftex.def Info: ./images/teams/ouvrir_dossier_crop.png used on input l
 ine 115.
 (pdftex.def)             Requested size: 256.0748pt x 100.34224pt.
 
-<./images/teams/ouvrir_fichier_crop.png, id=762, 698.61pt x 229.85875pt>
+<./images/teams/ouvrir_fichier_crop.png, id=828, 698.61pt x 229.85875pt>
 File: ./images/teams/ouvrir_fichier_crop.png Graphic file (type png)
 
 <use ./images/teams/ouvrir_fichier_crop.png>
@@ -1388,7 +1407,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 126--127
 [4 <./images/teams/accueil_classe_crop.png (PNG copy)> <./images/teams/ouvrir_d
 ossier_crop.png (PNG copy)> <./images/teams/ouvrir_fichier_crop.png (PNG copy)>
 ]
-<./images/teams/telecharger_document_crop.png, id=767, 1445.4pt x 336.25626pt>
+<./images/teams/telecharger_document_crop.png, id=834, 1445.4pt x 336.25626pt>
 File: ./images/teams/telecharger_document_crop.png Graphic file (type png)
 
 <use ./images/teams/telecharger_document_crop.png>
@@ -1396,7 +1415,7 @@ Package pdftex.def Info: ./images/teams/telecharger_document_crop.png used on i
 nput line 131.
 (pdftex.def)             Requested size: 256.0748pt x 59.56917pt.
 
-<./images/teams/telecharger1_crop.png, id=768, 688.5725pt x 333.245pt>
+<./images/teams/telecharger1_crop.png, id=835, 688.5725pt x 333.245pt>
 File: ./images/teams/telecharger1_crop.png Graphic file (type png)
 
 <use ./images/teams/telecharger1_crop.png>
@@ -1404,7 +1423,7 @@ Package pdftex.def Info: ./images/teams/telecharger1_crop.png used on input lin
 e 138.
 (pdftex.def)             Requested size: 256.0748pt x 123.92923pt.
 
-<./images/teams/telecharger2_crop.png, id=769, 692.5875pt x 226.8475pt>
+<./images/teams/telecharger2_crop.png, id=836, 692.5875pt x 226.8475pt>
 File: ./images/teams/telecharger2_crop.png Graphic file (type png)
 
 <use ./images/teams/telecharger2_crop.png>
@@ -1412,14 +1431,14 @@ Package pdftex.def Info: ./images/teams/telecharger2_crop.png used on input lin
 e 145.
 (pdftex.def)             Requested size: 256.0748pt x 83.87341pt.
 
-<./images/teams/devoir1.png, id=770, 590.205pt x 159.59625pt>
+<./images/teams/devoir1.png, id=837, 590.205pt x 159.59625pt>
 File: ./images/teams/devoir1.png Graphic file (type png)
 
 <use ./images/teams/devoir1.png>
 Package pdftex.def Info: ./images/teams/devoir1.png used on input line 158.
 (pdftex.def)             Requested size: 256.0748pt x 69.24602pt.
 
-<./images/teams/devoir2.png, id=771, 591.20876pt x 314.17375pt>
+<./images/teams/devoir2.png, id=838, 591.20876pt x 314.17375pt>
 File: ./images/teams/devoir2.png Graphic file (type png)
 
 <use ./images/teams/devoir2.png>
@@ -1428,21 +1447,21 @@ Package pdftex.def Info: ./images/teams/devoir2.png used on input line 165.
  [5 <./images/teams/telecharger_document_crop.png (PNG copy)> <./images/teams/t
 elecharger1_crop.png (PNG copy)> <./images/teams/telecharger2_crop.png (PNG cop
 y)> <./images/teams/devoir1.png>]
-<./images/teams/devoir3.png, id=777, 776.9025pt x 511.9125pt>
+<./images/teams/devoir3.png, id=843, 776.9025pt x 511.9125pt>
 File: ./images/teams/devoir3.png Graphic file (type png)
 
 <use ./images/teams/devoir3.png>
 Package pdftex.def Info: ./images/teams/devoir3.png used on input line 172.
 (pdftex.def)             Requested size: 256.0748pt x 168.73636pt.
 
-<./images/teams/pointilles.png, id=778, 46.1725pt x 40.15pt>
+<./images/teams/pointilles.png, id=844, 46.1725pt x 40.15pt>
 File: ./images/teams/pointilles.png Graphic file (type png)
 
 <use ./images/teams/pointilles.png>
 Package pdftex.def Info: ./images/teams/pointilles.png used on input line 176.
 (pdftex.def)             Requested size: 19.91684pt x 17.31868pt.
 
-<./images/teams/choix_pointilles.png, id=779, 744.7825pt x 193.72375pt>
+<./images/teams/choix_pointilles.png, id=845, 744.7825pt x 193.72375pt>
 File: ./images/teams/choix_pointilles.png Graphic file (type png)
 
 <use ./images/teams/choix_pointilles.png>
@@ -1450,14 +1469,14 @@ Package pdftex.def Info: ./images/teams/choix_pointilles.png used on input line
  179.
 (pdftex.def)             Requested size: 256.0748pt x 66.60715pt.
 
-<./images/teams/ajout.png, id=780, 743.77875pt x 126.4725pt>
+<./images/teams/ajout.png, id=846, 743.77875pt x 126.4725pt>
 File: ./images/teams/ajout.png Graphic file (type png)
 
 <use ./images/teams/ajout.png>
 Package pdftex.def Info: ./images/teams/ajout.png used on input line 189.
 (pdftex.def)             Requested size: 256.0748pt x 43.54428pt.
 
-<./images/teams/selection_devoir.png, id=781, 864.22874pt x 580.1675pt>
+<./images/teams/selection_devoir.png, id=847, 864.22874pt x 580.1675pt>
 File: ./images/teams/selection_devoir.png Graphic file (type png)
 
 <use ./images/teams/selection_devoir.png>
@@ -1467,21 +1486,21 @@ Package pdftex.def Info: ./images/teams/selection_devoir.png used on input line
  [6 <./images/teams/devoir2.png> <./images/teams/devoir3.png> <./images/teams/p
 ointilles.png> <./images/teams/choix_pointilles.png> <./images/teams/ajout.png>
 ]
-<./images/teams/ajout2.png, id=786, 848.16875pt x 543.02875pt>
+<./images/teams/ajout2.png, id=852, 848.16875pt x 543.02875pt>
 File: ./images/teams/ajout2.png Graphic file (type png)
 
 <use ./images/teams/ajout2.png>
 Package pdftex.def Info: ./images/teams/ajout2.png used on input line 203.
 (pdftex.def)             Requested size: 256.0748pt x 163.94562pt.
 
-<./images/teams/ajout3.png, id=787, 743.77875pt x 263.98625pt>
+<./images/teams/ajout3.png, id=853, 743.77875pt x 263.98625pt>
 File: ./images/teams/ajout3.png Graphic file (type png)
 
 <use ./images/teams/ajout3.png>
 Package pdftex.def Info: ./images/teams/ajout3.png used on input line 210.
 (pdftex.def)             Requested size: 256.0748pt x 90.89005pt.
 
-<./images/teams/ajout4.png, id=788, 773.89125pt x 135.50626pt>
+<./images/teams/ajout4.png, id=854, 773.89125pt x 135.50626pt>
 File: ./images/teams/ajout4.png Graphic file (type png)
 
 <use ./images/teams/ajout4.png>
@@ -1493,7 +1512,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 225--226
 
  []
 
-<./images/teams/acces_bloc_notes_crop.png, id=793, 593.21625pt x 93.34875pt>
+<./images/teams/acces_bloc_notes_crop.png, id=859, 593.21625pt x 93.34875pt>
 File: ./images/teams/acces_bloc_notes_crop.png Graphic file (type png)
 
 <use ./images/teams/acces_bloc_notes_crop.png>
@@ -1501,7 +1520,7 @@ Package pdftex.def Info: ./images/teams/acces_bloc_notes_crop.png used on input
  line 230.
 (pdftex.def)             Requested size: 256.0748pt x 40.29727pt.
 
-<./images/teams/ouvrir_menu_bloc_notes_crop.png, id=794, 1445.4pt x 416.55624pt
+<./images/teams/ouvrir_menu_bloc_notes_crop.png, id=860, 1445.4pt x 416.55624pt
 >
 File: ./images/teams/ouvrir_menu_bloc_notes_crop.png Graphic file (type png)
  <use ./images/teams/ouvrir_menu_bloc_notes_crop.png>
@@ -1509,7 +1528,7 @@ Package pdftex.def Info: ./images/teams/ouvrir_menu_bloc_notes_crop.png used on
  input line 237.
 (pdftex.def)             Requested size: 312.9803pt x 90.19981pt.
 
-<./images/teams/ouvrir_liste_dossiers_docs_crop.png, id=795, 379.4175pt x 240.9
+<./images/teams/ouvrir_liste_dossiers_docs_crop.png, id=861, 379.4175pt x 240.9
 pt>
 File: ./images/teams/ouvrir_liste_dossiers_docs_crop.png Graphic file (type png
 )
@@ -1530,7 +1549,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 250--251
 [8 <./images/teams/ajout4.png> <./images/teams/acces_bloc_notes_crop.png (PNG c
 opy)> <./images/teams/ouvrir_menu_bloc_notes_crop.png> <./images/teams/ouvrir_l
 iste_dossiers_docs_crop.png (PNG copy)>]
-<./images/teams/sous_section_documents_crop.png, id=800, 1060.96375pt x 676.527
+<./images/teams/sous_section_documents_crop.png, id=866, 1060.96375pt x 676.527
 5pt>
 File: ./images/teams/sous_section_documents_crop.png Graphic file (type png)
  <use ./images/teams/sous_section_documents_crop.png>
@@ -1538,14 +1557,14 @@ Package pdftex.def Info: ./images/teams/sous_section_documents_crop.png used on
  input line 255.
 (pdftex.def)             Requested size: 284.52756pt x 181.4261pt.
 
-<./images/teams/video1.png, id=801, 735.74875pt x 204.765pt>
+<./images/teams/video1.png, id=867, 735.74875pt x 204.765pt>
 File: ./images/teams/video1.png Graphic file (type png)
 
 <use ./images/teams/video1.png>
 Package pdftex.def Info: ./images/teams/video1.png used on input line 267.
 (pdftex.def)             Requested size: 256.0748pt x 71.26888pt.
 
-<./images/teams/video2.png, id=802, 513.92pt x 378.41376pt>
+<./images/teams/video2.png, id=868, 513.92pt x 378.41376pt>
 File: ./images/teams/video2.png Graphic file (type png)
 
 <use ./images/teams/video2.png>
@@ -1555,7 +1574,7 @@ Package pdftex.def Info: ./images/teams/video2.png used on input line 274.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [9 <./images/teams/sous_section_documents_crop.png (PNG copy)> <./images/teams
-/video1.png>] <./images/teams/accueil_liste.png, id=807, 356.33125pt x 725.7112
+/video1.png>] <./images/teams/accueil_liste.png, id=874, 356.33125pt x 725.7112
 4pt>
 File: ./images/teams/accueil_liste.png Graphic file (type png)
 
@@ -1564,7 +1583,7 @@ Package pdftex.def Info: ./images/teams/accueil_liste.png used on input line 28
 9.
 (pdftex.def)             Requested size: 113.81102pt x 231.7894pt.
  [10 <./images/teams/video2.png> <./images/teams/accueil_liste.png>]
-<./images/teams/accueil_grille.png, id=812, 889.3225pt x 619.31375pt>
+<./images/teams/accueil_grille.png, id=880, 889.3225pt x 619.31375pt>
 File: ./images/teams/accueil_grille.png Graphic file (type png)
 
 <use ./images/teams/accueil_grille.png>
@@ -1572,7 +1591,7 @@ Package pdftex.def Info: ./images/teams/accueil_grille.png used on input line 2
 97.
 (pdftex.def)             Requested size: 199.16928pt x 138.69698pt.
 
-<./images/teams/bouton_parametres.png, id=813, 48.18pt x 39.14626pt>
+<./images/teams/bouton_parametres.png, id=881, 48.18pt x 39.14626pt>
 File: ./images/teams/bouton_parametres.png Graphic file (type png)
 
 <use ./images/teams/bouton_parametres.png>
@@ -1585,7 +1604,7 @@ Overfull \hbox (20.46701pt too wide) in paragraph at lines 301--302
 ne [], choi-sir \T1/lmtt/m/n/12 Changer d'affichage
  []
 
-<./images/teams/changement_liste.png, id=814, 543.02875pt x 132.495pt>
+<./images/teams/changement_liste.png, id=882, 543.02875pt x 132.495pt>
 File: ./images/teams/changement_liste.png Graphic file (type png)
 
 <use ./images/teams/changement_liste.png>
@@ -1593,7 +1612,7 @@ Package pdftex.def Info: ./images/teams/changement_liste.png used on input line
  304.
 (pdftex.def)             Requested size: 256.0748pt x 62.4829pt.
 
-<./images/teams/choix_parametre.png, id=815, 765.86125pt x 578.16pt>
+<./images/teams/choix_parametre.png, id=883, 765.86125pt x 578.16pt>
 File: ./images/teams/choix_parametre.png Graphic file (type png)
 
 <use ./images/teams/choix_parametre.png>
@@ -1601,17 +1620,21 @@ Package pdftex.def Info: ./images/teams/choix_parametre.png used on input line
 311.
 (pdftex.def)             Requested size: 256.0748pt x 193.31648pt.
 
-<./images/teams/entree_classe.png, id=816, 892.33376pt x 279.0425pt>
+<./images/teams/entree_classe.png, id=884, 892.33376pt x 279.0425pt>
 File: ./images/teams/entree_classe.png Graphic file (type png)
 
 <use ./images/teams/entree_classe.png>
 Package pdftex.def Info: ./images/teams/entree_classe.png used on input line 31
 8.
 (pdftex.def)             Requested size: 213.39566pt x 66.72887pt.
- [11 <./images/teams/accueil_grille.png> <./images/teams/bouton_parametres.png>
- <./images/teams/changement_liste.png> <./images/teams/choix_parametre.png> <./
-images/teams/entree_classe.png>])
-(./sources/tableur01/tableur01.tex [12]
+
+Underfull \hbox (badness 10000) in paragraph at lines 324--325
+
+ []
+
+[11 <./images/teams/accueil_grille.png> <./images/teams/bouton_parametres.png> 
+<./images/teams/changement_liste.png> <./images/teams/choix_parametre.png> <./i
+mages/teams/entree_classe.png>]) (./sources/texte01/enonce_texte01.tex [12]
 Chapitre 2.
 File: ./images/chapitreVinci.png Graphic file (type png)
 <use ./images/chapitreVinci.png>
@@ -1625,356 +1648,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--4
 LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <10> not available
 (Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 10.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 16.
+(Font)              <10> on input line 11.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 16.
+(Font)              <7> on input line 11.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 16.
+(Font)              <5> on input line 11.
 [13
 
 ]
-
-
-<QR code requested for "https://web.microsoftstream.com/video/aa9246de-61ad-407
-2-922c-1251a5bd8414" in version 0-M.>
-
-<Copying the QR code for "https://web.microsoftstream.com/video/aa9246de-61ad-4
-072-922c-1251a5bd8414" in version 5-M as previously calculated.>
-<./images/generales/loupe.png, id=832, 409.53pt x 42.1575pt>
-File: ./images/generales/loupe.png Graphic file (type png)
-
-<use ./images/generales/loupe.png>
-Package pdftex.def Info: ./images/generales/loupe.png used on input line 57.
-(pdftex.def)             Requested size: 409.52899pt x 42.15738pt.
-
-<./images/tableur/loupe_recherche_Excel1.png, id=833, 680.5425pt x 56.21pt>
-File: ./images/tableur/loupe_recherche_Excel1.png Graphic file (type png)
-
-<use ./images/tableur/loupe_recherche_Excel1.png>
-Package pdftex.def Info: ./images/tableur/loupe_recherche_Excel1.png used on in
-put line 61.
-(pdftex.def)             Requested size: 680.54083pt x 56.20985pt.
-
-<./images/tableur/loupe_recherche_Excel2.png, id=834, 680.5425pt x 432.61626pt>
-File: ./images/tableur/loupe_recherche_Excel2.png Graphic file (type png)
-<use ./images/tableur/loupe_recherche_Excel2.png>
-Package pdftex.def Info: ./images/tableur/loupe_recherche_Excel2.png used on in
-put line 65.
-(pdftex.def)             Requested size: 680.54083pt x 432.6152pt.
-
-<./images/tableur/CalcPresentation_Excel_crop.png, id=835, 861.2175pt x 548.047
-5pt>
-File: ./images/tableur/CalcPresentation_Excel_crop.png Graphic file (type png)
- <use ./images/tableur/CalcPresentation_Excel_crop.png>
-Package pdftex.def Info: ./images/tableur/CalcPresentation_Excel_crop.png used 
-on input line 69.
-(pdftex.def)             Requested size: 861.2154pt x 548.04616pt.
- [14 <./images/generales/loupe.png> <./images/tableur/loupe_recherche_Excel1.pn
-g> <./images/tableur/loupe_recherche_Excel2.png>]
-<./images/tableur/ecran_office_com_crop.png, id=842, 440.64626pt x 308.15125pt>
-File: ./images/tableur/ecran_office_com_crop.png Graphic file (type png)
-<use ./images/tableur/ecran_office_com_crop.png>
-Package pdftex.def Info: ./images/tableur/ecran_office_com_crop.png used on inp
-ut line 75.
-(pdftex.def)             Requested size: 440.64517pt x 308.15048pt.
-
-<./images/tableur/ecran_office_excel_crop.png, id=843, 538.01pt x 688.5725pt>
-File: ./images/tableur/ecran_office_excel_crop.png Graphic file (type png)
-
-<use ./images/tableur/ecran_office_excel_crop.png>
-Package pdftex.def Info: ./images/tableur/ecran_office_excel_crop.png used on i
-nput line 79.
-(pdftex.def)             Requested size: 538.00868pt x 688.5708pt.
- [15 <./images/tableur/CalcPresentation_Excel_crop.png> <./images/tableur/ecran
-_office_com_crop.png>]
-<./images/tableur/acces_excel_teams_1_crop.png, id=849, 1072.005pt x 429.605pt>
-File: ./images/tableur/acces_excel_teams_1_crop.png Graphic file (type png)
-<use ./images/tableur/acces_excel_teams_1_crop.png>
-Package pdftex.def Info: ./images/tableur/acces_excel_teams_1_crop.png used on 
-input line 85.
-(pdftex.def)             Requested size: 1072.0024pt x 429.60394pt.
-
-<./images/tableur/acces_excel_teams_2_crop.png, id=850, 1445.4pt x 587.19376pt>
-File: ./images/tableur/acces_excel_teams_2_crop.png Graphic file (type png)
-<use ./images/tableur/acces_excel_teams_2_crop.png>
-Package pdftex.def Info: ./images/tableur/acces_excel_teams_2_crop.png used on 
-input line 89.
-(pdftex.def)             Requested size: 1445.39648pt x 587.19232pt.
- [16 <./images/tableur/ecran_office_excel_crop.png> <./images/tableur/acces_exc
-el_teams_1_crop.png> <./images/tableur/acces_excel_teams_2_crop.png>]
-<./images/tableur/office_sauver_1_crop.png, id=856, 391.4625pt x 260.975pt>
-File: ./images/tableur/office_sauver_1_crop.png Graphic file (type png)
-
-<use ./images/tableur/office_sauver_1_crop.png>
-Package pdftex.def Info: ./images/tableur/office_sauver_1_crop.png used on inpu
-t line 104.
-(pdftex.def)             Requested size: 391.46153pt x 260.97437pt.
-
-<./images/tableur/office_sauver_2_crop.png, id=857, 771.88374pt x 427.5975pt>
-File: ./images/tableur/office_sauver_2_crop.png Graphic file (type png)
-
-<use ./images/tableur/office_sauver_2_crop.png>
-Package pdftex.def Info: ./images/tableur/office_sauver_2_crop.png used on inpu
-t line 108.
-(pdftex.def)             Requested size: 771.88185pt x 427.59645pt.
-
-<./images/tableur/CalcSituationFinaleMaths_Excel_crop.png, id=858, 668.4975pt x
- 472.76625pt>
-File: ./images/tableur/CalcSituationFinaleMaths_Excel_crop.png Graphic file (ty
-pe png)
- <use ./images/tableur/CalcSituationFinaleMaths_Excel_crop.png>
-Package pdftex.def Info: ./images/tableur/CalcSituationFinaleMaths_Excel_crop.p
-ng used on input line 118.
-(pdftex.def)             Requested size: 668.49586pt x 472.76509pt.
-
-Overfull \hbox (6.0pt too wide) in paragraph at lines 118--119
-[][][][][][][]
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [17 <./images/tableur/office_sauver_1_crop.png> <./images/tableur/office_sauve
-r_2_crop.png>]
-<./images/tableur/CalcPourAllerPlusLoin_Excel_crop.png, id=867, 644.4075pt x 31
-8.18875pt>
-File: ./images/tableur/CalcPourAllerPlusLoin_Excel_crop.png Graphic file (type 
-png)
- <use ./images/tableur/CalcPourAllerPlusLoin_Excel_crop.png>
-Package pdftex.def Info: ./images/tableur/CalcPourAllerPlusLoin_Excel_crop.png 
-used on input line 132.
-(pdftex.def)             Requested size: 644.40593pt x 318.18796pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [18 <./images/tableur/CalcSituationFinaleMaths_Excel_crop.png>] [19 <./images/
-tableur/CalcPourAllerPlusLoin_Excel_crop.png>]
-
-
-<QR code requested for "https://web.microsoftstream.com/video/48370bef-1911-4a7
-4-a09d-6b21e8eb06ea" in version 0-M.>
-
-<Copying the QR code for "https://web.microsoftstream.com/video/48370bef-1911-4
-a74-a09d-6b21e8eb06ea" in version 5-M as previously calculated.>
-<./images/generales/clavierCmdS.png, id=880, 196.5744pt x 72.63135pt>
-File: ./images/generales/clavierCmdS.png Graphic file (type png)
-
-<use ./images/generales/clavierCmdS.png>
-Package pdftex.def Info: ./images/generales/clavierCmdS.png used on input line 
-162.
-(pdftex.def)             Requested size: 196.57391pt x 72.63116pt.
-
-<./images/tableur/calcPhyChiSchema.png, id=881, 631.6398pt x 586.8324pt>
-File: ./images/tableur/calcPhyChiSchema.png Graphic file (type png)
-
-<use ./images/tableur/calcPhyChiSchema.png>
-Package pdftex.def Info: ./images/tableur/calcPhyChiSchema.png used on input li
-ne 171.
-(pdftex.def)             Requested size: 631.63826pt x 586.83096pt.
-
-Overfull \hbox (6.0pt too wide) in paragraph at lines 171--172
-[][][][][][][]
- []
-
-<./images/tableur/calcPhyChi_Excel.png, id=882, 566.115pt x 344.28625pt>
-File: ./images/tableur/calcPhyChi_Excel.png Graphic file (type png)
-
-<use ./images/tableur/calcPhyChi_Excel.png>
-Package pdftex.def Info: ./images/tableur/calcPhyChi_Excel.png used on input li
-ne 185.
-(pdftex.def)             Requested size: 566.11362pt x 344.2854pt.
-
-Overfull \hbox (6.0pt too wide) in paragraph at lines 185--186
-[][][][][][][]
- []
-
-[20 <./images/generales/clavierCmdS.png> <./images/tableur/calcPhyChiSchema.png
->] [21 <./images/tableur/calcPhyChi_Excel.png>]
-
-
-<QR code requested for "https://web.microsoftstream.com/video/a6d62817-5809-4e7
-b-a9c4-0cc79aa37802" in version 0-M.>
-
-<Copying the QR code for "https://web.microsoftstream.com/video/a6d62817-5809-4
-e7b-a9c4-0cc79aa37802" in version 5-M as previously calculated.>
-File: ./images/generales/clavierCmdS.png Graphic file (type png)
-<use ./images/generales/clavierCmdS.png>
-Package pdftex.def Info: ./images/generales/clavierCmdS.png used on input line 
-218.
-(pdftex.def)             Requested size: 196.57391pt x 72.63116pt.
-
-Overfull \hbox (6.0pt too wide) in paragraph at lines 255--256
-[][][][][][][]
- []
-
-[22]
-<./images/tableur/recopieIncrementale_Excel_crop.png, id=904, 147.55125pt x 37.
-13875pt>
-File: ./images/tableur/recopieIncrementale_Excel_crop.png Graphic file (type pn
-g)
- <use ./images/tableur/recopieIncrementale_Excel_crop.png>
-Package pdftex.def Info: ./images/tableur/recopieIncrementale_Excel_crop.png us
-ed on input line 287.
-(pdftex.def)             Requested size: 59.01944pt x 14.85522pt.
-
-<./images/tableur/recopieIncrementale_Excel2_crop.png, id=905, 658.46pt x 69.25
-874pt>
-File: ./images/tableur/recopieIncrementale_Excel2_crop.png Graphic file (type p
-ng)
- <use ./images/tableur/recopieIncrementale_Excel2_crop.png>
-Package pdftex.def Info: ./images/tableur/recopieIncrementale_Excel2_crop.png u
-sed on input line 290.
-(pdftex.def)             Requested size: 658.4584pt x 69.25856pt.
-
-<./images/tableur/CalcEnregistrerFichier_Excel1_crop.png, id=906, 681.54625pt x
- 228.855pt>
-File: ./images/tableur/CalcEnregistrerFichier_Excel1_crop.png Graphic file (typ
-e png)
- <use ./images/tableur/CalcEnregistrerFichier_Excel1_crop.png>
-Package pdftex.def Info: ./images/tableur/CalcEnregistrerFichier_Excel1_crop.pn
-g used on input line 316.
-(pdftex.def)             Requested size: 681.54459pt x 228.85443pt.
-
-<./images/tableur/CalcEnregistrerFichier_Excel2_crop.png, id=907, 894.34125pt x
- 448.67625pt>
-File: ./images/tableur/CalcEnregistrerFichier_Excel2_crop.png Graphic file (typ
-e png)
- <use ./images/tableur/CalcEnregistrerFichier_Excel2_crop.png>
-Package pdftex.def Info: ./images/tableur/CalcEnregistrerFichier_Excel2_crop.pn
-g used on input line 318.
-(pdftex.def)             Requested size: 894.33907pt x 448.67516pt.
-
-[23 <./images/tableur/recopieIncrementale_Excel_crop.png> <./images/tableur/rec
-opieIncrementale_Excel2_crop.png> <./images/tableur/CalcEnregistrerFichier_Exce
-l1_crop.png>]
-File: ./images/generales/clavierCmdS.png Graphic file (type png)
- <use ./images/generales/clavierCmdS.png>
-Package pdftex.def Info: ./images/generales/clavierCmdS.png used on input line 
-322.
-(pdftex.def)             Requested size: 196.57391pt x 72.63116pt.
-LaTeX Font Info:    Font shape `T1/lmtt/bx/n' in size <12> not available
-(Font)              Font shape `T1/lmtt/b/n' tried instead on input line 328.
-
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 328--328
-[] 
- []
-
-
-<./images/tableur/CalcCellulesSelectionnees_Excel_crop.png, id=915, 626.34pt x 
-64.24pt>
-File: ./images/tableur/CalcCellulesSelectionnees_Excel_crop.png Graphic file (t
-ype png)
- <use ./images/tableur/CalcCellulesSelectionnees_Excel_crop.png>
-Package pdftex.def Info: ./images/tableur/CalcCellulesSelectionnees_Excel_crop.
-png used on input line 342.
-(pdftex.def)             Requested size: 626.33846pt x 64.23984pt.
-
-[24 <./images/tableur/CalcEnregistrerFichier_Excel2_crop.png>]
-<./images/tableur/CalcBoiteDiagramme1_oExcel_crop.png, id=923, 974.64125pt x 44
-6.66875pt>
-File: ./images/tableur/CalcBoiteDiagramme1_oExcel_crop.png Graphic file (type p
-ng)
- <use ./images/tableur/CalcBoiteDiagramme1_oExcel_crop.png>
-Package pdftex.def Info: ./images/tableur/CalcBoiteDiagramme1_oExcel_crop.png u
-sed on input line 345.
-(pdftex.def)             Requested size: 974.63887pt x 446.66765pt.
-
-<./images/tableur/CalcFenetreGraphiqueSelectionnee_oExcel_crop.png, id=924, 508
-.90125pt x 315.1775pt>
-File: ./images/tableur/CalcFenetreGraphiqueSelectionnee_oExcel_crop.png Graphic
- file (type png)
-
-<use ./images/tableur/CalcFenetreGraphiqueSelectionnee_oExcel_crop.png>
-Package pdftex.def Info: ./images/tableur/CalcFenetreGraphiqueSelectionnee_oExc
-el_crop.png used on input line 350.
-(pdftex.def)             Requested size: 508.90001pt x 315.17673pt.
-
-[25 <./images/tableur/CalcCellulesSelectionnees_Excel_crop.png> <./images/table
-ur/CalcBoiteDiagramme1_oExcel_crop.png> <./images/tableur/CalcFenetreGraphiqueS
-electionnee_oExcel_crop.png>]
-<./images/tableur/Calc_office_ajouter_titres_axes_crop.png, id=929, 852.18375pt
- x 408.52625pt>
-File: ./images/tableur/Calc_office_ajouter_titres_axes_crop.png Graphic file (t
-ype png)
-
-<use ./images/tableur/Calc_office_ajouter_titres_axes_crop.png>
-Package pdftex.def Info: ./images/tableur/Calc_office_ajouter_titres_axes_crop.
-png used on input line 357.
-(pdftex.def)             Requested size: 852.18166pt x 408.52525pt.
-
-<./images/tableur/CalcCalculMoyenne_Excel_crop.png, id=930, 667.49374pt x 134.5
-025pt>
-File: ./images/tableur/CalcCalculMoyenne_Excel_crop.png Graphic file (type png)
-
- <use ./images/tableur/CalcCalculMoyenne_Excel_crop.png>
-Package pdftex.def Info: ./images/tableur/CalcCalculMoyenne_Excel_crop.png used
- on input line 373.
-(pdftex.def)             Requested size: 667.49213pt x 134.50215pt.
-
-<./images/tableur/Exporter_PDF_office_1_crop.png, id=931, 448.67625pt x 430.608
-75pt>
-File: ./images/tableur/Exporter_PDF_office_1_crop.png Graphic file (type png)
- <use ./images/tableur/Exporter_PDF_office_1_crop.png>
-Package pdftex.def Info: ./images/tableur/Exporter_PDF_office_1_crop.png used o
-n input line 384.
-(pdftex.def)             Requested size: 448.67516pt x 430.60768pt.
- [26 <./images/tableur/Calc_office_ajouter_titres_axes_crop.png> <./images/tabl
-eur/CalcCalculMoyenne_Excel_crop.png>]
-<./images/tableur/Exporter_PDF_office_2_crop.png, id=938, 355.3275pt x 386.4437
-6pt>
-File: ./images/tableur/Exporter_PDF_office_2_crop.png Graphic file (type png)
- <use ./images/tableur/Exporter_PDF_office_2_crop.png>
-Package pdftex.def Info: ./images/tableur/Exporter_PDF_office_2_crop.png used o
-n input line 388.
-(pdftex.def)             Requested size: 355.32661pt x 386.44281pt.
-
-<./images/tableur/Exporter_PDF_office_3_crop.png, id=939, 492.84125pt x 727.718
-75pt>
-File: ./images/tableur/Exporter_PDF_office_3_crop.png Graphic file (type png)
- <use ./images/tableur/Exporter_PDF_office_3_crop.png>
-Package pdftex.def Info: ./images/tableur/Exporter_PDF_office_3_crop.png used o
-n input line 394.
-(pdftex.def)             Requested size: 492.84003pt x 727.71696pt.
-
-Underfull \vbox (badness 4505) has occurred while \output is active []
-
- [27 <./images/tableur/Exporter_PDF_office_1_crop.png> <./images/tableur/Export
-er_PDF_office_2_crop.png>]
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 398--398
-[] 
- []
-
-
-<./images/tableur/Exporter_graphique_PDF_crop.png, id=944, 894.34125pt x 467.74
-75pt>
-File: ./images/tableur/Exporter_graphique_PDF_crop.png Graphic file (type png)
- <use ./images/tableur/Exporter_graphique_PDF_crop.png>
-Package pdftex.def Info: ./images/tableur/Exporter_graphique_PDF_crop.png used 
-on input line 402.
-(pdftex.def)             Requested size: 894.33907pt x 467.74634pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [28 <./images/tableur/Exporter_PDF_office_3_crop.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 410--411
-
- []
-
-) (./sources/texte01/enonce_texte01.tex [29 <./images/tableur/Exporter_graphiqu
-e_PDF_crop.png>] [30
-
-]
-Chapitre 3.
-File: ./images/chapitreVinci.png Graphic file (type png)
-<use ./images/chapitreVinci.png>
-Package pdftex.def Info: ./images/chapitreVinci.png used on input line 1.
-(pdftex.def)             Requested size: 597.50787pt x 284.21223pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 3--4
-
- []
-
-[31]
 
 
 <QR code requested for "https://web.microsoftstream.com/video/354eec0a-c312-4ac
@@ -1982,12 +1663,14 @@ c-ac36-683ebf10443f" in version 0-M.>
 
 <Copying the QR code for "https://web.microsoftstream.com/video/354eec0a-c312-4
 acc-ac36-683ebf10443f" in version 5-M as previously calculated.>
+<./images/generales/loupe.png, id=905, 409.53pt x 42.1575pt>
 File: ./images/generales/loupe.png Graphic file (type png)
+
 <use ./images/generales/loupe.png>
 Package pdftex.def Info: ./images/generales/loupe.png used on input line 65.
 (pdftex.def)             Requested size: 409.52899pt x 42.15738pt.
 
-<./images/texte/loupeRecherche.png, id=972, 688.5725pt x 58.2175pt>
+<./images/texte/loupeRecherche.png, id=906, 688.5725pt x 58.2175pt>
 File: ./images/texte/loupeRecherche.png Graphic file (type png)
 
 <use ./images/texte/loupeRecherche.png>
@@ -1995,7 +1678,7 @@ Package pdftex.def Info: ./images/texte/loupeRecherche.png used on input line 6
 9.
 (pdftex.def)             Requested size: 688.5708pt x 58.21735pt.
 
-<./images/texte/WordOuverture.png, id=973, 667.49374pt x 301.125pt>
+<./images/texte/WordOuverture.png, id=907, 667.49374pt x 301.125pt>
 File: ./images/texte/WordOuverture.png Graphic file (type png)
 
 <use ./images/texte/WordOuverture.png>
@@ -2003,15 +1686,16 @@ Package pdftex.def Info: ./images/texte/WordOuverture.png used on input line 73
 .
 (pdftex.def)             Requested size: 667.49213pt x 301.12425pt.
 
-<./images/texte/WordPresentation.png, id=974, 739.76375pt x 583.17876pt>
+<./images/texte/WordPresentation.png, id=908, 739.76375pt x 583.17876pt>
 File: ./images/texte/WordPresentation.png Graphic file (type png)
 
 <use ./images/texte/WordPresentation.png>
 Package pdftex.def Info: ./images/texte/WordPresentation.png used on input line
  83.
 (pdftex.def)             Requested size: 739.76193pt x 583.17734pt.
- [32 <./images/texte/loupeRecherche.png> <./images/texte/WordOuverture.png>]
-<./images/texte/WriterPresentation.png, id=980, 1114.1625pt x 302.12875pt>
+ [14 <./images/generales/loupe.png> <./images/texte/loupeRecherche.png> <./imag
+es/texte/WordOuverture.png>]
+<./images/texte/WriterPresentation.png, id=915, 1114.1625pt x 302.12875pt>
 File: ./images/texte/WriterPresentation.png Graphic file (type png)
 
 <use ./images/texte/WriterPresentation.png>
@@ -2023,29 +1707,30 @@ Underfull \hbox (badness 10000) in paragraph at lines 97--98
 
  []
 
-<./images/texte/ouvrirDoc1.png, id=981, 579.16376pt x 398.48875pt>
+<./images/texte/ouvrirDoc1.png, id=916, 579.16376pt x 398.48875pt>
 File: ./images/texte/ouvrirDoc1.png Graphic file (type png)
 
 <use ./images/texte/ouvrirDoc1.png>
 Package pdftex.def Info: ./images/texte/ouvrirDoc1.png used on input line 101.
 (pdftex.def)             Requested size: 579.16234pt x 398.48778pt.
- [33 <./images/texte/WordPresentation.png> <./images/texte/WriterPresentation.p
+ [15 <./images/texte/WordPresentation.png> <./images/texte/WriterPresentation.p
 ng>]
-<./images/texte/ouvrirDoc2.png, id=987, 1071.00125pt x 437.635pt>
+<./images/texte/ouvrirDoc2.png, id=922, 1071.00125pt x 437.635pt>
 File: ./images/texte/ouvrirDoc2.png Graphic file (type png)
 
 <use ./images/texte/ouvrirDoc2.png>
 Package pdftex.def Info: ./images/texte/ouvrirDoc2.png used on input line 105.
 (pdftex.def)             Requested size: 1070.99864pt x 437.63393pt.
 
-<./images/texte/ouvrirDoc3.png, id=988, 759.83875pt x 225.84375pt>
+<./images/texte/ouvrirDoc3.png, id=923, 759.83875pt x 225.84375pt>
 File: ./images/texte/ouvrirDoc3.png Graphic file (type png)
 
 <use ./images/texte/ouvrirDoc3.png>
 Package pdftex.def Info: ./images/texte/ouvrirDoc3.png used on input line 122.
 (pdftex.def)             Requested size: 759.83688pt x 225.84319pt.
- [34 <./images/texte/ouvrirDoc1.png> <./images/texte/ouvrirDoc2.png> <./images/
+ [16 <./images/texte/ouvrirDoc1.png> <./images/texte/ouvrirDoc2.png> <./images/
 texte/ouvrirDoc3.png>]
+<./images/generales/clavierCmdS.png, id=929, 196.5744pt x 72.63135pt>
 File: ./images/generales/clavierCmdS.png Graphic file (type png)
 
 <use ./images/generales/clavierCmdS.png>
@@ -2068,30 +1753,30 @@ Overfull \hbox (6.0pt too wide) in paragraph at lines 137--138
  []
 
 
-<./sources/texte01/LaBelleEtLaBeteFormatee.pdf, id=994, 597.23125pt x 845.1575p
+<./sources/texte01/LaBelleEtLaBeteFormatee.pdf, id=931, 597.23125pt x 845.1575p
 t>
 File: ./sources/texte01/LaBelleEtLaBeteFormatee.pdf Graphic file (type pdf)
  <use ./sources/texte01/LaBelleEtLaBeteFormatee.pdf>
 Package pdftex.def Info: ./sources/texte01/LaBelleEtLaBeteFormatee.pdf used on 
 input line 142.
 (pdftex.def)             Requested size: 364.19667pt x 515.39058pt.
- [35]
-<./images/generales/clavierCmdF.png, id=1001, 134.4222pt x 74.79945pt>
+ [17 <./images/generales/clavierCmdS.png>]
+<./images/generales/clavierCmdF.png, id=939, 134.4222pt x 74.79945pt>
 File: ./images/generales/clavierCmdF.png Graphic file (type png)
 
 <use ./images/generales/clavierCmdF.png>
 Package pdftex.def Info: ./images/generales/clavierCmdF.png used on input line 
 155.
 (pdftex.def)             Requested size: 134.42186pt x 74.79926pt.
- [36 <./sources/texte01/LaBelleEtLaBeteFormatee.pdf>]
-<./images/texte/WordBarreRecherche.png, id=1026, 452.69125pt x 53.19875pt>
+ [18 <./sources/texte01/LaBelleEtLaBeteFormatee.pdf>]
+<./images/texte/WordBarreRecherche.png, id=963, 452.69125pt x 53.19875pt>
 File: ./images/texte/WordBarreRecherche.png Graphic file (type png)
 
 <use ./images/texte/WordBarreRecherche.png>
 Package pdftex.def Info: ./images/texte/WordBarreRecherche.png used on input li
 ne 159.
 (pdftex.def)             Requested size: 452.69014pt x 53.19861pt.
- [37 <./images/generales/clavierCmdF.png> <./images/texte/WordBarreRecherche.pn
+ [19 <./images/generales/clavierCmdF.png> <./images/texte/WordBarreRecherche.pn
 g>]
 
 
@@ -2111,8 +1796,8 @@ Overfull \hbox (6.0pt too wide) in paragraph at lines 206--207
  []
 
 
-<./sources/texte01/ExtraitGulliver6eFormate.pdf, id=1033, 597.23125pt x 845.157
-5pt>
+<./sources/texte01/ExtraitGulliver6eFormate.pdf, id=970, 597.23125pt x 845.1575
+pt>
 File: ./sources/texte01/ExtraitGulliver6eFormate.pdf Graphic file (type pdf)
  <use ./sources/texte01/ExtraitGulliver6eFormate.pdf>
 Package pdftex.def Info: ./sources/texte01/ExtraitGulliver6eFormate.pdf used on
@@ -2121,7 +1806,7 @@ Package pdftex.def Info: ./sources/texte01/ExtraitGulliver6eFormate.pdf used on
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [38]
+ [20]
 LaTeX Font Info:    Font shape `OMS/lmr/m/sl' in size <12> not available
 (Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 219.
 
@@ -2134,52 +1819,52 @@ Overfull \hbox (6.0pt too wide) in paragraph at lines 221--222
 [][][][][][][]
  []
 
-[39 <./sources/texte01/ExtraitGulliver6eFormate.pdf>] [40]
+[21 <./sources/texte01/ExtraitGulliver6eFormate.pdf>] [22]
 
 
-<QR code requested for "https://web.microsoftstream.com/video/95afdc0a-b4b4-458
-7-9163-ce5e0b7c14b6" in version 0-M.>
+<QR code requested for "https://web.microsoftstream.com/video/6a77d6c6-3fd6-4a7
+1-a1e1-0d0b4ebdd050" in version 0-M.>
 
-<Copying the QR code for "https://web.microsoftstream.com/video/95afdc0a-b4b4-4
-587-9163-ce5e0b7c14b6" in version 5-M as previously calculated.>
+<Copying the QR code for "https://web.microsoftstream.com/video/6a77d6c6-3fd6-4
+a71-a1e1-0d0b4ebdd050" in version 5-M as previously calculated.>
 File: ./images/generales/clavierCmdS.png Graphic file (type png)
 <use ./images/generales/clavierCmdS.png>
 Package pdftex.def Info: ./images/generales/clavierCmdS.png used on input line 
-256.
+267.
 (pdftex.def)             Requested size: 196.57391pt x 72.63116pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 266--266
+Underfull \hbox (badness 10000) in paragraph at lines 277--277
 
  []
 
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 266--267
+Overfull \hbox (6.0pt too wide) in paragraph at lines 277--278
 [][][][][][][]
  []
 
-) (./sources/texte01/texte01.tex [41]
-<./images/texte/forme1.png, id=1078, 434.62375pt x 438.63875pt>
+) (./sources/texte01/texte01.tex [23]
+<./images/texte/forme1.png, id=1016, 434.62375pt x 438.63875pt>
 File: ./images/texte/forme1.png Graphic file (type png)
 
 <use ./images/texte/forme1.png>
 Package pdftex.def Info: ./images/texte/forme1.png used on input line 14.
 (pdftex.def)             Requested size: 434.62268pt x 438.63766pt.
 
-<./images/texte/forme2.png, id=1079, 682.55pt x 560.0925pt>
+<./images/texte/forme2.png, id=1017, 682.55pt x 560.0925pt>
 File: ./images/texte/forme2.png Graphic file (type png)
 
 <use ./images/texte/forme2.png>
 Package pdftex.def Info: ./images/texte/forme2.png used on input line 18.
 (pdftex.def)             Requested size: 682.54834pt x 560.09113pt.
- [42 <./images/texte/forme1.png> <./images/texte/forme2.png>] <./images/texte/p
-olice1.png, id=1085, 339.2675pt x 233.87375pt>
+ [24 <./images/texte/forme1.png> <./images/texte/forme2.png>] <./images/texte/p
+olice1.png, id=1023, 339.2675pt x 233.87375pt>
 File: ./images/texte/police1.png Graphic file (type png)
 
 <use ./images/texte/police1.png>
 Package pdftex.def Info: ./images/texte/police1.png used on input line 42.
 (pdftex.def)             Requested size: 339.26666pt x 233.87315pt.
 
-<./images/generales/clavierCmdA.png, id=1086, 134.4222pt x 74.79945pt>
+<./images/generales/clavierCmdA.png, id=1024, 134.4222pt x 74.79945pt>
 File: ./images/generales/clavierCmdA.png Graphic file (type png)
 
 <use ./images/generales/clavierCmdA.png>
@@ -2187,21 +1872,21 @@ Package pdftex.def Info: ./images/generales/clavierCmdA.png used on input line
 42.
 (pdftex.def)             Requested size: 134.42186pt x 74.79926pt.
 
-<./images/texte/police2.png, id=1087, 556.0775pt x 188.705pt>
+<./images/texte/police2.png, id=1025, 556.0775pt x 188.705pt>
 File: ./images/texte/police2.png Graphic file (type png)
 
 <use ./images/texte/police2.png>
 Package pdftex.def Info: ./images/texte/police2.png used on input line 47.
 (pdftex.def)             Requested size: 556.07614pt x 188.70453pt.
 
-<./images/texte/taille1.png, id=1088, 315.1775pt x 285.065pt>
+<./images/texte/taille1.png, id=1026, 315.1775pt x 285.065pt>
 File: ./images/texte/taille1.png Graphic file (type png)
 
 <use ./images/texte/taille1.png>
 Package pdftex.def Info: ./images/texte/taille1.png used on input line 55.
 (pdftex.def)             Requested size: 315.17673pt x 285.0643pt.
 
-<./images/texte/taille2.png, id=1089, 318.18875pt x 297.11pt>
+<./images/texte/taille2.png, id=1027, 318.18875pt x 297.11pt>
 File: ./images/texte/taille2.png Graphic file (type png)
 
 <use ./images/texte/taille2.png>
@@ -2210,8 +1895,8 @@ Package pdftex.def Info: ./images/texte/taille2.png used on input line 55.
 
 Underfull \vbox (badness 1048) has occurred while \output is active []
 
- [43 <./images/texte/police1.png> <./images/generales/clavierCmdA.png> <./image
-s/texte/police2.png>] <./images/texte/centrer1.png, id=1097, 466.74374pt x 280.
+ [25 <./images/texte/police1.png> <./images/generales/clavierCmdA.png> <./image
+s/texte/police2.png>] <./images/texte/centrer1.png, id=1035, 466.74374pt x 280.
 04625pt>
 File: ./images/texte/centrer1.png Graphic file (type png)
 
@@ -2219,37 +1904,37 @@ File: ./images/texte/centrer1.png Graphic file (type png)
 Package pdftex.def Info: ./images/texte/centrer1.png used on input line 67.
 (pdftex.def)             Requested size: 466.7426pt x 280.04555pt.
 
-<./images/texte/souligner1.png, id=1098, 616.3025pt x 180.675pt>
+<./images/texte/souligner1.png, id=1036, 616.3025pt x 180.675pt>
 File: ./images/texte/souligner1.png Graphic file (type png)
 
 <use ./images/texte/souligner1.png>
 Package pdftex.def Info: ./images/texte/souligner1.png used on input line 88.
 (pdftex.def)             Requested size: 616.301pt x 180.67455pt.
 
-<./images/generales/clavierCmdU.png, id=1099, 141.46852pt x 94.85437pt>
+<./images/generales/clavierCmdU.png, id=1037, 141.46852pt x 94.85437pt>
 File: ./images/generales/clavierCmdU.png Graphic file (type png)
 
 <use ./images/generales/clavierCmdU.png>
 Package pdftex.def Info: ./images/generales/clavierCmdU.png used on input line 
 90.
 (pdftex.def)             Requested size: 141.46817pt x 94.85413pt.
- [44 <./images/texte/taille1.png> <./images/texte/taille2.png> <./images/texte/
-centrer1.png> <./images/texte/souligner1.png>] <./images/texte/gras1.png, id=11
-06, 623.32875pt x 180.675pt>
+ [26 <./images/texte/taille1.png> <./images/texte/taille2.png> <./images/texte/
+centrer1.png> <./images/texte/souligner1.png>] <./images/texte/gras1.png, id=10
+44, 623.32875pt x 180.675pt>
 File: ./images/texte/gras1.png Graphic file (type png)
 
 <use ./images/texte/gras1.png>
 Package pdftex.def Info: ./images/texte/gras1.png used on input line 106.
 (pdftex.def)             Requested size: 623.32722pt x 180.67455pt.
 
-<./images/texte/italique1.png, id=1107, 627.34375pt x 256.96pt>
+<./images/texte/italique1.png, id=1045, 627.34375pt x 256.96pt>
 File: ./images/texte/italique1.png Graphic file (type png)
 
 <use ./images/texte/italique1.png>
 Package pdftex.def Info: ./images/texte/italique1.png used on input line 106.
 (pdftex.def)             Requested size: 627.34221pt x 256.95937pt.
 
-<./images/generales/clavierCmdB.png, id=1108, 141.46852pt x 94.85437pt>
+<./images/generales/clavierCmdB.png, id=1046, 141.46852pt x 94.85437pt>
 File: ./images/generales/clavierCmdB.png Graphic file (type png)
 
 <use ./images/generales/clavierCmdB.png>
@@ -2257,7 +1942,7 @@ Package pdftex.def Info: ./images/generales/clavierCmdB.png used on input line
 111.
 (pdftex.def)             Requested size: 141.46817pt x 94.85413pt.
 
-<./images/generales/clavierCmdI.png, id=1109, 141.46852pt x 94.85437pt>
+<./images/generales/clavierCmdI.png, id=1047, 141.46852pt x 94.85437pt>
 File: ./images/generales/clavierCmdI.png Graphic file (type png)
 
 <use ./images/generales/clavierCmdI.png>
@@ -2265,16 +1950,16 @@ Package pdftex.def Info: ./images/generales/clavierCmdI.png used on input line
 111.
 (pdftex.def)             Requested size: 141.46817pt x 94.85413pt.
 
-<./images/texte/couleur1.png, id=1110, 374.39874pt x 321.2pt>
+<./images/texte/couleur1.png, id=1048, 374.39874pt x 321.2pt>
 File: ./images/texte/couleur1.png Graphic file (type png)
 
 <use ./images/texte/couleur1.png>
 Package pdftex.def Info: ./images/texte/couleur1.png used on input line 129.
 (pdftex.def)             Requested size: 374.39783pt x 321.19922pt.
- [45 <./images/generales/clavierCmdU.png> <./images/texte/gras1.png> <./images/
+ [27 <./images/generales/clavierCmdU.png> <./images/texte/gras1.png> <./images/
 texte/italique1.png> <./images/generales/clavierCmdB.png> <./images/generales/c
 lavierCmdI.png> <./images/texte/couleur1.png>] <./images/texte/paragraphe1.png,
- id=1120, 715.67375pt x 405.515pt>
+ id=1058, 715.67375pt x 405.515pt>
 File: ./images/texte/paragraphe1.png Graphic file (type png)
 
 <use ./images/texte/paragraphe1.png>
@@ -2282,22 +1967,22 @@ Package pdftex.def Info: ./images/texte/paragraphe1.png used on input line 155.
 
 (pdftex.def)             Requested size: 715.672pt x 405.51399pt.
 
-<./images/texte/paragraphe2.png, id=1121, 604.2575pt x 649.42625pt>
+<./images/texte/paragraphe2.png, id=1059, 604.2575pt x 649.42625pt>
 File: ./images/texte/paragraphe2.png Graphic file (type png)
 
 <use ./images/texte/paragraphe2.png>
 Package pdftex.def Info: ./images/texte/paragraphe2.png used on input line 159.
 
 (pdftex.def)             Requested size: 604.25603pt x 649.42467pt.
- [46 <./images/texte/paragraphe1.png> <./images/texte/paragraphe2.png>]
-<./images/texte/justifier.png, id=1127, 641.39626pt x 355.3275pt>
+ [28 <./images/texte/paragraphe1.png> <./images/texte/paragraphe2.png>]
+<./images/texte/justifier.png, id=1066, 641.39626pt x 355.3275pt>
 File: ./images/texte/justifier.png Graphic file (type png)
 
 <use ./images/texte/justifier.png>
 Package pdftex.def Info: ./images/texte/justifier.png used on input line 176.
 (pdftex.def)             Requested size: 641.39468pt x 355.32661pt.
 
-<./images/texte/alignerDroite.png, id=1128, 477.785pt x 101.37875pt>
+<./images/texte/alignerDroite.png, id=1067, 477.785pt x 101.37875pt>
 File: ./images/texte/alignerDroite.png Graphic file (type png)
 
 <use ./images/texte/alignerDroite.png>
@@ -2305,88 +1990,443 @@ Package pdftex.def Info: ./images/texte/alignerDroite.png used on input line 18
 6.
 (pdftex.def)             Requested size: 477.78383pt x 101.3785pt.
 
-<./images/texte/export1.png, id=1129, 374.39874pt x 175.65625pt>
+<./images/texte/export1.png, id=1068, 374.39874pt x 175.65625pt>
 File: ./images/texte/export1.png Graphic file (type png)
 
 <use ./images/texte/export1.png>
 Package pdftex.def Info: ./images/texte/export1.png used on input line 196.
 (pdftex.def)             Requested size: 374.39783pt x 175.6558pt.
 
-<./images/texte/export2.png, id=1130, 762.85pt x 348.30125pt>
+<./images/texte/export2.png, id=1069, 762.85pt x 348.30125pt>
 File: ./images/texte/export2.png Graphic file (type png)
 
 <use ./images/texte/export2.png>
 Package pdftex.def Info: ./images/texte/export2.png used on input line 196.
 (pdftex.def)             Requested size: 762.84814pt x 348.3004pt.
- [47 <./images/texte/justifier.png> <./images/texte/alignerDroite.png> <./image
+ [29 <./images/texte/justifier.png> <./images/texte/alignerDroite.png> <./image
 s/texte/export1.png> <./images/texte/export2.png>]
 Overfull \hbox (6.79999pt too wide) in paragraph at lines 203--203
 [] 
  []
 
-<./images/texte/WriterTexteMajuscule.png, id=1141, 1110.1475pt x 525.965pt>
-File: ./images/texte/WriterTexteMajuscule.png Graphic file (type png)
+<./images/texte/WordTexteMajuscule.png, id=1079, 588.1975pt x 379.4175pt>
+File: ./images/texte/WordTexteMajuscule.png Graphic file (type png)
 
-<use ./images/texte/WriterTexteMajuscule.png>
-Package pdftex.def Info: ./images/texte/WriterTexteMajuscule.png used on input 
-line 247.
-(pdftex.def)             Requested size: 1110.14479pt x 525.9637pt.
- [48 <./images/texte/WriterTexteMajuscule.png>]
-<./images/texte/WriterParagrapheEncadre.png, id=1150, 993.7125pt x 446.66875pt>
-File: ./images/texte/WriterParagrapheEncadre.png Graphic file (type png)
-<use ./images/texte/WriterParagrapheEncadre.png>
-Package pdftex.def Info: ./images/texte/WriterParagrapheEncadre.png used on inp
-ut line 261.
-(pdftex.def)             Requested size: 993.71007pt x 446.66765pt.
+<use ./images/texte/WordTexteMajuscule.png>
+Package pdftex.def Info: ./images/texte/WordTexteMajuscule.png used on input li
+ne 249.
+(pdftex.def)             Requested size: 588.19606pt x 379.41656pt.
+
+<././images/texte/iconeBordure.png, id=1080, 41.15375pt x 32.12pt>
+File: ././images/texte/iconeBordure.png Graphic file (type png)
+
+<use ././images/texte/iconeBordure.png>
+Package pdftex.def Info: ././images/texte/iconeBordure.png used on input line 2
+59.
+(pdftex.def)             Requested size: 24.69243pt x 19.27213pt.
+ [30 <./images/texte/WordTexteMajuscule.png>]
+<./images/texte/WordParagrapheEncadre.png, id=1089, 895.345pt x 527.9725pt>
+File: ./images/texte/WordParagrapheEncadre.png Graphic file (type png)
+
+<use ./images/texte/WordParagrapheEncadre.png>
+Package pdftex.def Info: ./images/texte/WordParagrapheEncadre.png used on input
+ line 261.
+(pdftex.def)             Requested size: 895.34282pt x 527.9712pt.
+
+<./images/texte/WordParagrapheEncadre2.png, id=1090, 829.0975pt x 531.9875pt>
+File: ./images/texte/WordParagrapheEncadre2.png Graphic file (type png)
+
+<use ./images/texte/WordParagrapheEncadre2.png>
+Package pdftex.def Info: ./images/texte/WordParagrapheEncadre2.png used on inpu
+t line 265.
+(pdftex.def)             Requested size: 829.09549pt x 531.9862pt.
 
 
-LaTeX Warning: Hyper reference `MoodlePrendreDoc' on page 49 undefined on input
- line 290.
+LaTeX Warning: Hyper reference `MoodlePrendreDoc' on page 31 undefined on input
+ line 283.
 
 
-LaTeX Warning: Reference `MoodlePrendreDoc' on page 49 undefined on input line 
-290.
+LaTeX Warning: Reference `MoodlePrendreDoc' on page 31 undefined on input line 
+283.
 
-<./images/texte/WriterInsertionImage2.png, id=1151, 642.4pt x 161.60374pt>
+[31 <././images/texte/iconeBordure.png> <./images/texte/WordParagrapheEncadre.p
+ng> <./images/texte/WordParagrapheEncadre2.png>]
+<./images/texte/WriterInsertionImage2.png, id=1097, 642.4pt x 161.60374pt>
 File: ./images/texte/WriterInsertionImage2.png Graphic file (type png)
 
 <use ./images/texte/WriterInsertionImage2.png>
 Package pdftex.def Info: ./images/texte/WriterInsertionImage2.png used on input
- line 299.
+ line 292.
 (pdftex.def)             Requested size: 642.39844pt x 161.60335pt.
- [49 <./images/texte/WriterParagrapheEncadre.png>]
-<./images/texte/WriterInsertionImage1.png, id=1162, 534.798pt x 354.123pt>
-File: ./images/texte/WriterInsertionImage1.png Graphic file (type png)
 
-<use ./images/texte/WriterInsertionImage1.png>
-Package pdftex.def Info: ./images/texte/WriterInsertionImage1.png used on input
- line 303.
-(pdftex.def)             Requested size: 534.79669pt x 354.12212pt.
+<./images/texte/WordInsertionImage1.png, id=1098, 393.47pt x 209.78375pt>
+File: ./images/texte/WordInsertionImage1.png Graphic file (type png)
 
-<./images/texte/WriterInsertionImage3.png, id=1163, 922.44624pt x 395.4775pt>
+<use ./images/texte/WordInsertionImage1.png>
+Package pdftex.def Info: ./images/texte/WordInsertionImage1.png used on input l
+ine 296.
+(pdftex.def)             Requested size: 393.46902pt x 209.78322pt.
+
+<./images/texte/WriterInsertionImage3.png, id=1099, 817.0525pt x 339.2675pt>
 File: ./images/texte/WriterInsertionImage3.png Graphic file (type png)
 
 <use ./images/texte/WriterInsertionImage3.png>
 Package pdftex.def Info: ./images/texte/WriterInsertionImage3.png used on input
- line 310.
-(pdftex.def)             Requested size: 922.44398pt x 395.47653pt.
+ line 303.
+(pdftex.def)             Requested size: 817.05052pt x 339.26666pt.
+)
+(./sources/tableur01/tableur01.tex [32 <./images/texte/WriterInsertionImage2.pn
+g> <./images/texte/WordInsertionImage1.png> <./images/texte/WriterInsertionImag
+e3.png>]
+Chapitre 3.
+File: ./images/chapitreVinci.png Graphic file (type png)
+<use ./images/chapitreVinci.png>
+Package pdftex.def Info: ./images/chapitreVinci.png used on input line 1.
+(pdftex.def)             Requested size: 597.50787pt x 284.21223pt.
 
-<./images/texte/WriterInsertionImage4.png, id=1164, 656.4525pt x 544.0325pt>
-File: ./images/texte/WriterInsertionImage4.png Graphic file (type png)
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
 
-<use ./images/texte/WriterInsertionImage4.png>
-Package pdftex.def Info: ./images/texte/WriterInsertionImage4.png used on input
- line 312.
-(pdftex.def)             Requested size: 656.4509pt x 544.03117pt.
+ []
+
+[33
+
+]
+
+
+<QR code requested for "https://web.microsoftstream.com/video/aa9246de-61ad-407
+2-922c-1251a5bd8414" in version 0-M.>
+
+<Copying the QR code for "https://web.microsoftstream.com/video/aa9246de-61ad-4
+072-922c-1251a5bd8414" in version 5-M as previously calculated.>
+File: ./images/generales/loupe.png Graphic file (type png)
+<use ./images/generales/loupe.png>
+Package pdftex.def Info: ./images/generales/loupe.png used on input line 57.
+(pdftex.def)             Requested size: 409.52899pt x 42.15738pt.
+
+<./images/tableur/loupe_recherche_Excel1.png, id=1116, 680.5425pt x 56.21pt>
+File: ./images/tableur/loupe_recherche_Excel1.png Graphic file (type png)
+
+<use ./images/tableur/loupe_recherche_Excel1.png>
+Package pdftex.def Info: ./images/tableur/loupe_recherche_Excel1.png used on in
+put line 61.
+(pdftex.def)             Requested size: 680.54083pt x 56.20985pt.
+
+<./images/tableur/loupe_recherche_Excel2.png, id=1117, 680.5425pt x 432.61626pt
+>
+File: ./images/tableur/loupe_recherche_Excel2.png Graphic file (type png)
+ <use ./images/tableur/loupe_recherche_Excel2.png>
+Package pdftex.def Info: ./images/tableur/loupe_recherche_Excel2.png used on in
+put line 65.
+(pdftex.def)             Requested size: 680.54083pt x 432.6152pt.
+
+<./images/tableur/CalcPresentation_Excel_crop.png, id=1118, 861.2175pt x 548.04
+75pt>
+File: ./images/tableur/CalcPresentation_Excel_crop.png Graphic file (type png)
+ <use ./images/tableur/CalcPresentation_Excel_crop.png>
+Package pdftex.def Info: ./images/tableur/CalcPresentation_Excel_crop.png used 
+on input line 69.
+(pdftex.def)             Requested size: 861.2154pt x 548.04616pt.
+ [34 <./images/tableur/loupe_recherche_Excel1.png> <./images/tableur/loupe_rech
+erche_Excel2.png>]
+<./images/tableur/ecran_office_com_crop.png, id=1125, 440.64626pt x 308.15125pt
+>
+File: ./images/tableur/ecran_office_com_crop.png Graphic file (type png)
+ <use ./images/tableur/ecran_office_com_crop.png>
+Package pdftex.def Info: ./images/tableur/ecran_office_com_crop.png used on inp
+ut line 75.
+(pdftex.def)             Requested size: 440.64517pt x 308.15048pt.
+
+<./images/tableur/ecran_office_excel_crop.png, id=1126, 538.01pt x 688.5725pt>
+File: ./images/tableur/ecran_office_excel_crop.png Graphic file (type png)
+
+<use ./images/tableur/ecran_office_excel_crop.png>
+Package pdftex.def Info: ./images/tableur/ecran_office_excel_crop.png used on i
+nput line 79.
+(pdftex.def)             Requested size: 538.00868pt x 688.5708pt.
+ [35 <./images/tableur/CalcPresentation_Excel_crop.png> <./images/tableur/ecran
+_office_com_crop.png>]
+<./images/tableur/acces_excel_teams_1_crop.png, id=1132, 1072.005pt x 429.605pt
+>
+File: ./images/tableur/acces_excel_teams_1_crop.png Graphic file (type png)
+ <use ./images/tableur/acces_excel_teams_1_crop.png>
+Package pdftex.def Info: ./images/tableur/acces_excel_teams_1_crop.png used on 
+input line 85.
+(pdftex.def)             Requested size: 1072.0024pt x 429.60394pt.
+
+<./images/tableur/acces_excel_teams_2_crop.png, id=1133, 1445.4pt x 587.19376pt
+>
+File: ./images/tableur/acces_excel_teams_2_crop.png Graphic file (type png)
+ <use ./images/tableur/acces_excel_teams_2_crop.png>
+Package pdftex.def Info: ./images/tableur/acces_excel_teams_2_crop.png used on 
+input line 89.
+(pdftex.def)             Requested size: 1445.39648pt x 587.19232pt.
+ [36 <./images/tableur/ecran_office_excel_crop.png> <./images/tableur/acces_exc
+el_teams_1_crop.png> <./images/tableur/acces_excel_teams_2_crop.png>]
+<./images/tableur/office_sauver_1_crop.png, id=1139, 391.4625pt x 260.975pt>
+File: ./images/tableur/office_sauver_1_crop.png Graphic file (type png)
+
+<use ./images/tableur/office_sauver_1_crop.png>
+Package pdftex.def Info: ./images/tableur/office_sauver_1_crop.png used on inpu
+t line 104.
+(pdftex.def)             Requested size: 391.46153pt x 260.97437pt.
+
+<./images/tableur/office_sauver_2_crop.png, id=1140, 771.88374pt x 427.5975pt>
+File: ./images/tableur/office_sauver_2_crop.png Graphic file (type png)
+
+<use ./images/tableur/office_sauver_2_crop.png>
+Package pdftex.def Info: ./images/tableur/office_sauver_2_crop.png used on inpu
+t line 108.
+(pdftex.def)             Requested size: 771.88185pt x 427.59645pt.
+
+<./images/tableur/CalcSituationFinaleMaths_Excel_crop.png, id=1141, 668.4975pt 
+x 472.76625pt>
+File: ./images/tableur/CalcSituationFinaleMaths_Excel_crop.png Graphic file (ty
+pe png)
+ <use ./images/tableur/CalcSituationFinaleMaths_Excel_crop.png>
+Package pdftex.def Info: ./images/tableur/CalcSituationFinaleMaths_Excel_crop.p
+ng used on input line 118.
+(pdftex.def)             Requested size: 668.49586pt x 472.76509pt.
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 118--119
+[][][][][][][]
+ []
+
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [50 <./images/texte/WriterInsertionImage2.png> <./images/texte/WriterInsertion
-Image1.png> <./images/texte/WriterInsertionImage3.png>]) (./sources/image01/ima
-ge01.tex
-[51 <./images/texte/WriterInsertionImage4.png>] [52
+ [37 <./images/tableur/office_sauver_1_crop.png> <./images/tableur/office_sauve
+r_2_crop.png>]
+<./images/tableur/CalcPourAllerPlusLoin_Excel_crop.png, id=1149, 644.4075pt x 3
+18.18875pt>
+File: ./images/tableur/CalcPourAllerPlusLoin_Excel_crop.png Graphic file (type 
+png)
+ <use ./images/tableur/CalcPourAllerPlusLoin_Excel_crop.png>
+Package pdftex.def Info: ./images/tableur/CalcPourAllerPlusLoin_Excel_crop.png 
+used on input line 132.
+(pdftex.def)             Requested size: 644.40593pt x 318.18796pt.
 
-]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [38 <./images/tableur/CalcSituationFinaleMaths_Excel_crop.png>] [39 <./images/
+tableur/CalcPourAllerPlusLoin_Excel_crop.png>]
+
+
+<QR code requested for "https://web.microsoftstream.com/video/48370bef-1911-4a7
+4-a09d-6b21e8eb06ea" in version 0-M.>
+
+<Copying the QR code for "https://web.microsoftstream.com/video/48370bef-1911-4
+a74-a09d-6b21e8eb06ea" in version 5-M as previously calculated.>
+File: ./images/generales/clavierCmdS.png Graphic file (type png)
+<use ./images/generales/clavierCmdS.png>
+Package pdftex.def Info: ./images/generales/clavierCmdS.png used on input line 
+162.
+(pdftex.def)             Requested size: 196.57391pt x 72.63116pt.
+
+<./images/tableur/calcPhyChiSchema.png, id=1160, 631.6398pt x 586.8324pt>
+File: ./images/tableur/calcPhyChiSchema.png Graphic file (type png)
+
+<use ./images/tableur/calcPhyChiSchema.png>
+Package pdftex.def Info: ./images/tableur/calcPhyChiSchema.png used on input li
+ne 171.
+(pdftex.def)             Requested size: 631.63826pt x 586.83096pt.
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 171--172
+[][][][][][][]
+ []
+
+<./images/tableur/calcPhyChi_Excel.png, id=1161, 566.115pt x 344.28625pt>
+File: ./images/tableur/calcPhyChi_Excel.png Graphic file (type png)
+
+<use ./images/tableur/calcPhyChi_Excel.png>
+Package pdftex.def Info: ./images/tableur/calcPhyChi_Excel.png used on input li
+ne 185.
+(pdftex.def)             Requested size: 566.11362pt x 344.2854pt.
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 185--186
+[][][][][][][]
+ []
+
+[40 <./images/tableur/calcPhyChiSchema.png>] [41 <./images/tableur/calcPhyChi_E
+xcel.png>]
+
+
+<QR code requested for "https://web.microsoftstream.com/video/a6d62817-5809-4e7
+b-a9c4-0cc79aa37802" in version 0-M.>
+
+<Copying the QR code for "https://web.microsoftstream.com/video/a6d62817-5809-4
+e7b-a9c4-0cc79aa37802" in version 5-M as previously calculated.>
+File: ./images/generales/clavierCmdS.png Graphic file (type png)
+<use ./images/generales/clavierCmdS.png>
+Package pdftex.def Info: ./images/generales/clavierCmdS.png used on input line 
+220.
+(pdftex.def)             Requested size: 196.57391pt x 72.63116pt.
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 257--258
+[][][][][][][]
+ []
+
+[42]
+
+Package Fancyhdr Warning: \headheight is too small (14.49998pt): 
+ Make it at least 15.35403pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[43]
+<./images/tableur/recopieIncrementale_Excel_crop.png, id=1188, 147.55125pt x 37
+.13875pt>
+File: ./images/tableur/recopieIncrementale_Excel_crop.png Graphic file (type pn
+g)
+ <use ./images/tableur/recopieIncrementale_Excel_crop.png>
+Package pdftex.def Info: ./images/tableur/recopieIncrementale_Excel_crop.png us
+ed on input line 289.
+(pdftex.def)             Requested size: 59.01944pt x 14.85522pt.
+
+<./images/tableur/recopieIncrementale_Excel2_crop.png, id=1189, 658.46pt x 69.2
+5874pt>
+File: ./images/tableur/recopieIncrementale_Excel2_crop.png Graphic file (type p
+ng)
+ <use ./images/tableur/recopieIncrementale_Excel2_crop.png>
+Package pdftex.def Info: ./images/tableur/recopieIncrementale_Excel2_crop.png u
+sed on input line 292.
+(pdftex.def)             Requested size: 658.4584pt x 69.25856pt.
+
+<./images/tableur/CalcEnregistrerFichier_Excel1_crop.png, id=1190, 681.54625pt 
+x 228.855pt>
+File: ./images/tableur/CalcEnregistrerFichier_Excel1_crop.png Graphic file (typ
+e png)
+ <use ./images/tableur/CalcEnregistrerFichier_Excel1_crop.png>
+Package pdftex.def Info: ./images/tableur/CalcEnregistrerFichier_Excel1_crop.pn
+g used on input line 318.
+(pdftex.def)             Requested size: 681.54459pt x 228.85443pt.
+
+<./images/tableur/CalcEnregistrerFichier_Excel2_crop.png, id=1191, 894.34125pt 
+x 448.67625pt>
+File: ./images/tableur/CalcEnregistrerFichier_Excel2_crop.png Graphic file (typ
+e png)
+ <use ./images/tableur/CalcEnregistrerFichier_Excel2_crop.png>
+Package pdftex.def Info: ./images/tableur/CalcEnregistrerFichier_Excel2_crop.pn
+g used on input line 320.
+(pdftex.def)             Requested size: 894.33907pt x 448.67516pt.
+
+[44 <./images/tableur/recopieIncrementale_Excel_crop.png> <./images/tableur/rec
+opieIncrementale_Excel2_crop.png> <./images/tableur/CalcEnregistrerFichier_Exce
+l1_crop.png>]
+File: ./images/generales/clavierCmdS.png Graphic file (type png)
+ <use ./images/generales/clavierCmdS.png>
+Package pdftex.def Info: ./images/generales/clavierCmdS.png used on input line 
+324.
+(pdftex.def)             Requested size: 196.57391pt x 72.63116pt.
+LaTeX Font Info:    Font shape `T1/lmtt/bx/n' in size <12> not available
+(Font)              Font shape `T1/lmtt/b/n' tried instead on input line 330.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 330--330
+[] 
+ []
+
+
+<./images/tableur/CalcCellulesSelectionnees_Excel_crop.png, id=1198, 626.34pt x
+ 64.24pt>
+File: ./images/tableur/CalcCellulesSelectionnees_Excel_crop.png Graphic file (t
+ype png)
+ <use ./images/tableur/CalcCellulesSelectionnees_Excel_crop.png>
+Package pdftex.def Info: ./images/tableur/CalcCellulesSelectionnees_Excel_crop.
+png used on input line 344.
+(pdftex.def)             Requested size: 626.33846pt x 64.23984pt.
+
+[45 <./images/tableur/CalcEnregistrerFichier_Excel2_crop.png>]
+<./images/tableur/CalcBoiteDiagramme1_oExcel_crop.png, id=1205, 974.64125pt x 4
+46.66875pt>
+File: ./images/tableur/CalcBoiteDiagramme1_oExcel_crop.png Graphic file (type p
+ng)
+ <use ./images/tableur/CalcBoiteDiagramme1_oExcel_crop.png>
+Package pdftex.def Info: ./images/tableur/CalcBoiteDiagramme1_oExcel_crop.png u
+sed on input line 347.
+(pdftex.def)             Requested size: 974.63887pt x 446.66765pt.
+
+<./images/tableur/CalcFenetreGraphiqueSelectionnee_oExcel_crop.png, id=1206, 50
+8.90125pt x 315.1775pt>
+File: ./images/tableur/CalcFenetreGraphiqueSelectionnee_oExcel_crop.png Graphic
+ file (type png)
+
+<use ./images/tableur/CalcFenetreGraphiqueSelectionnee_oExcel_crop.png>
+Package pdftex.def Info: ./images/tableur/CalcFenetreGraphiqueSelectionnee_oExc
+el_crop.png used on input line 352.
+(pdftex.def)             Requested size: 508.90001pt x 315.17673pt.
+
+[46 <./images/tableur/CalcCellulesSelectionnees_Excel_crop.png> <./images/table
+ur/CalcBoiteDiagramme1_oExcel_crop.png> <./images/tableur/CalcFenetreGraphiqueS
+electionnee_oExcel_crop.png>]
+<./images/tableur/Calc_office_ajouter_titres_axes_crop.png, id=1212, 852.18375p
+t x 408.52625pt>
+File: ./images/tableur/Calc_office_ajouter_titres_axes_crop.png Graphic file (t
+ype png)
+
+<use ./images/tableur/Calc_office_ajouter_titres_axes_crop.png>
+Package pdftex.def Info: ./images/tableur/Calc_office_ajouter_titres_axes_crop.
+png used on input line 359.
+(pdftex.def)             Requested size: 852.18166pt x 408.52525pt.
+
+<./images/tableur/CalcCalculMoyenne_Excel_crop.png, id=1213, 667.49374pt x 134.
+5025pt>
+File: ./images/tableur/CalcCalculMoyenne_Excel_crop.png Graphic file (type png)
+
+ <use ./images/tableur/CalcCalculMoyenne_Excel_crop.png>
+Package pdftex.def Info: ./images/tableur/CalcCalculMoyenne_Excel_crop.png used
+ on input line 375.
+(pdftex.def)             Requested size: 667.49213pt x 134.50215pt.
+
+<./images/tableur/Exporter_PDF_office_1_crop.png, id=1214, 448.67625pt x 430.60
+875pt>
+File: ./images/tableur/Exporter_PDF_office_1_crop.png Graphic file (type png)
+ <use ./images/tableur/Exporter_PDF_office_1_crop.png>
+Package pdftex.def Info: ./images/tableur/Exporter_PDF_office_1_crop.png used o
+n input line 386.
+(pdftex.def)             Requested size: 448.67516pt x 430.60768pt.
+ [47 <./images/tableur/Calc_office_ajouter_titres_axes_crop.png> <./images/tabl
+eur/CalcCalculMoyenne_Excel_crop.png>]
+<./images/tableur/Exporter_PDF_office_2_crop.png, id=1221, 355.3275pt x 386.443
+76pt>
+File: ./images/tableur/Exporter_PDF_office_2_crop.png Graphic file (type png)
+ <use ./images/tableur/Exporter_PDF_office_2_crop.png>
+Package pdftex.def Info: ./images/tableur/Exporter_PDF_office_2_crop.png used o
+n input line 390.
+(pdftex.def)             Requested size: 355.32661pt x 386.44281pt.
+
+<./images/tableur/Exporter_PDF_office_3_crop.png, id=1222, 492.84125pt x 727.71
+875pt>
+File: ./images/tableur/Exporter_PDF_office_3_crop.png Graphic file (type png)
+ <use ./images/tableur/Exporter_PDF_office_3_crop.png>
+Package pdftex.def Info: ./images/tableur/Exporter_PDF_office_3_crop.png used o
+n input line 396.
+(pdftex.def)             Requested size: 492.84003pt x 727.71696pt.
+
+Underfull \vbox (badness 4505) has occurred while \output is active []
+
+ [48 <./images/tableur/Exporter_PDF_office_1_crop.png> <./images/tableur/Export
+er_PDF_office_2_crop.png>]
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 400--400
+[] 
+ []
+
+
+<./images/tableur/Exporter_graphique_PDF_crop.png, id=1227, 894.34125pt x 467.7
+475pt>
+File: ./images/tableur/Exporter_graphique_PDF_crop.png Graphic file (type png)
+ <use ./images/tableur/Exporter_graphique_PDF_crop.png>
+Package pdftex.def Info: ./images/tableur/Exporter_graphique_PDF_crop.png used 
+on input line 404.
+(pdftex.def)             Requested size: 894.33907pt x 467.74634pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [49 <./images/tableur/Exporter_PDF_office_3_crop.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 412--413
+
+ []
+
+) (./sources/scratch01/enonce_scratch01.tex [50 <./images/tableur/Exporter_grap
+hique_PDF_crop.png>]
 Chapitre 4.
 File: ./images/chapitreVinci.png Graphic file (type png)
 <use ./images/chapitreVinci.png>
@@ -2397,248 +2437,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--4
 
  []
 
-[53]
-File: ./images/generales/loupe.png Graphic file (type png)
- <use ./images/generales/loupe.png>
-Package pdftex.def Info: ./images/generales/loupe.png used on input line 44.
-(pdftex.def)             Requested size: 409.52899pt x 42.15738pt.
-
-<./images/generales/loupeRechercheGimp.png, id=1193, 685.56125pt x 59.22125pt>
-File: ./images/generales/loupeRechercheGimp.png Graphic file (type png)
-
-<use ./images/generales/loupeRechercheGimp.png>
-Package pdftex.def Info: ./images/generales/loupeRechercheGimp.png used on inpu
-t line 48.
-(pdftex.def)             Requested size: 685.55957pt x 59.22108pt.
-
-<./images/gimp/GimpInterface.png, id=1194, 1443.3925pt x 883.3pt>
-File: ./images/gimp/GimpInterface.png Graphic file (type png)
-
-<use ./images/gimp/GimpInterface.png>
-Package pdftex.def Info: ./images/gimp/GimpInterface.png used on input line 53.
-
-(pdftex.def)             Requested size: 1443.38899pt x 883.29785pt.
-
-<./images/gimp/GimpMenuFenetre2.png, id=1195, 344.487pt x 137.313pt>
-File: ./images/gimp/GimpMenuFenetre2.png Graphic file (type png)
-
-<use ./images/gimp/GimpMenuFenetre2.png>
-Package pdftex.def Info: ./images/gimp/GimpMenuFenetre2.png used on input line 
-64.
-(pdftex.def)             Requested size: 344.48615pt x 137.31265pt.
-
-<./images/gimp/GimpOuvrirFichier.png, id=1197, 354.123pt x 175.857pt>
-File: ./images/gimp/GimpOuvrirFichier.png Graphic file (type png)
-
-<use ./images/gimp/GimpOuvrirFichier.png>
-Package pdftex.def Info: ./images/gimp/GimpOuvrirFichier.png used on input line
- 87.
-(pdftex.def)             Requested size: 354.12212pt x 175.85657pt.
- [54 <./images/generales/loupeRechercheGimp.png> <./images/gimp/GimpInterface.p
-ng (PNG copy)> <./images/gimp/GimpMenuFenetre2.png>]
-<./images/gimp/GimpOuvrirFichier2.png, id=1205, 497.057pt x 350.108pt>
-File: ./images/gimp/GimpOuvrirFichier2.png Graphic file (type png)
-
-<use ./images/gimp/GimpOuvrirFichier2.png>
-Package pdftex.def Info: ./images/gimp/GimpOuvrirFichier2.png used on input lin
-e 91.
-(pdftex.def)             Requested size: 497.0558pt x 350.10713pt.
-File: ./images/generales/clavierCmdS.png Graphic file (type png)
-
-<use ./images/generales/clavierCmdS.png>
-Package pdftex.def Info: ./images/generales/clavierCmdS.png used on input line 
-99.
-(pdftex.def)             Requested size: 196.57391pt x 72.63116pt.
-
-<./images/gimp/photoFlorimontReduite.png, id=1206, 106.9596pt x 49.6254pt>
-File: ./images/gimp/photoFlorimontReduite.png Graphic file (type png)
-
-<use ./images/gimp/photoFlorimontReduite.png>
-Package pdftex.def Info: ./images/gimp/photoFlorimontReduite.png used on input 
-line 113.
-(pdftex.def)             Requested size: 318.66948pt x 147.88078pt.
-
-Overfull \hbox (6.0pt too wide) in paragraph at lines 113--114
-[][][][][][][]
- []
-
-[55 <./images/gimp/GimpOuvrirFichier.png> <./images/gimp/GimpOuvrirFichier2.png
->] [56 <./images/gimp/photoFlorimontReduite.png>]
-File: ./images/generales/clavierCmdS.png Graphic file (type png)
-
-<use ./images/generales/clavierCmdS.png>
-Package pdftex.def Info: ./images/generales/clavierCmdS.png used on input line 
-154.
-(pdftex.def)             Requested size: 196.57391pt x 72.63116pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 161--161
-
- []
-
-
-Overfull \hbox (6.0pt too wide) in paragraph at lines 161--162
-[][][][][][][]
- []
-
-[57]
-File: ./images/generales/clavierCmdS.png Graphic file (type png)
- <use ./images/generales/clavierCmdS.png>
-Package pdftex.def Info: ./images/generales/clavierCmdS.png used on input line 
-189.
-(pdftex.def)             Requested size: 196.57391pt x 72.63116pt.
-
-<./images/gimp/vitrauxSmall.png, id=1229, 334.24875pt x 501.875pt>
-File: ./images/gimp/vitrauxSmall.png Graphic file (type png)
-
-<use ./images/gimp/vitrauxSmall.png>
-Package pdftex.def Info: ./images/gimp/vitrauxSmall.png used on input line 203.
-
-(pdftex.def)             Requested size: 334.24792pt x 501.87376pt.
-
-Overfull \hbox (6.0pt too wide) in paragraph at lines 203--204
-[][][][][][][]
- []
-
-[58 <./images/gimp/vitrauxSmall.png (PNG copy)>]
-<./images/generales/clavierCapEcran.png, id=1236, 233.07076pt x 121.23293pt>
-File: ./images/generales/clavierCapEcran.png Graphic file (type png)
-
-<use ./images/generales/clavierCapEcran.png>
-Package pdftex.def Info: ./images/generales/clavierCapEcran.png used on input l
-ine 228.
-(pdftex.def)             Requested size: 233.07018pt x 121.2326pt.
-
-<./images/gimp/GimpCollerCommeImage.png, id=1237, 533.995pt x 243.309pt>
-File: ./images/gimp/GimpCollerCommeImage.png Graphic file (type png)
-
-<use ./images/gimp/GimpCollerCommeImage.png>
-Package pdftex.def Info: ./images/gimp/GimpCollerCommeImage.png used on input l
-ine 233.
-(pdftex.def)             Requested size: 533.9937pt x 243.30841pt.
- [59 <./images/generales/clavierCapEcran.png> <./images/gimp/GimpCollerCommeIma
-ge.png>]
-<./images/gimp/cutter.png, id=1247, 27.10126pt x 26.0975pt>
-File: ./images/gimp/cutter.png Graphic file (type png)
-
-<use ./images/gimp/cutter.png>
-Package pdftex.def Info: ./images/gimp/cutter.png used on input line 250.
-(pdftex.def)             Requested size: 18.2067pt x 17.533pt.
-
-<./images/gimp/GimpDecouper1.png, id=1248, 753.81625pt x 422.57875pt>
-File: ./images/gimp/GimpDecouper1.png Graphic file (type png)
-
-<use ./images/gimp/GimpDecouper1.png>
-Package pdftex.def Info: ./images/gimp/GimpDecouper1.png used on input line 254
-.
-(pdftex.def)             Requested size: 753.81442pt x 422.57771pt.
-
-<./images/gimp/GimpEnregistrerFichier.png, id=1249, 497.86pt x 387.849pt>
-File: ./images/gimp/GimpEnregistrerFichier.png Graphic file (type png)
-
-<use ./images/gimp/GimpEnregistrerFichier.png>
-Package pdftex.def Info: ./images/gimp/GimpEnregistrerFichier.png used on input
- line 272.
-(pdftex.def)             Requested size: 497.85878pt x 387.84804pt.
-
-Underfull \vbox (badness 1478) has occurred while \output is active []
-
- [60 <./images/gimp/cutter.png> <./images/gimp/GimpDecouper1.png>]
-File: ./images/generales/clavierCmdS.png Graphic file (type png)
-
-<use ./images/generales/clavierCmdS.png>
-Package pdftex.def Info: ./images/generales/clavierCmdS.png used on input line 
-276.
-(pdftex.def)             Requested size: 196.57391pt x 72.63116pt.
-
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 280--280
-[] 
- []
-
-[61 <./images/gimp/GimpEnregistrerFichier.png>]
-<./images/gimp/GimpExportAs1.png, id=1263, 551.661pt x 362.153pt>
-File: ./images/gimp/GimpExportAs1.png Graphic file (type png)
-
-<use ./images/gimp/GimpExportAs1.png>
-Package pdftex.def Info: ./images/gimp/GimpExportAs1.png used on input line 300
-.
-(pdftex.def)             Requested size: 551.65965pt x 362.1521pt.
-
-<./images/gimp/GimpExportAs2.png, id=1264, 227.249pt x 191.917pt>
-File: ./images/gimp/GimpExportAs2.png Graphic file (type png)
-
-<use ./images/gimp/GimpExportAs2.png>
-Package pdftex.def Info: ./images/gimp/GimpExportAs2.png used on input line 300
-.
-(pdftex.def)             Requested size: 227.24841pt x 191.91653pt.
-
-<./images/gimp/GimpTailleCanevas1.png, id=1265, 529.98pt x 159.797pt>
-File: ./images/gimp/GimpTailleCanevas1.png Graphic file (type png)
-
-<use ./images/gimp/GimpTailleCanevas1.png>
-Package pdftex.def Info: ./images/gimp/GimpTailleCanevas1.png used on input lin
-e 318.
-(pdftex.def)             Requested size: 529.97868pt x 159.79659pt.
-
-<./images/gimp/GimpTailleCanevas2.png, id=1266, 435.226pt x 373.395pt>
-File: ./images/gimp/GimpTailleCanevas2.png Graphic file (type png)
-
-<use ./images/gimp/GimpTailleCanevas2.png>
-Package pdftex.def Info: ./images/gimp/GimpTailleCanevas2.png used on input lin
-e 327.
-(pdftex.def)             Requested size: 435.22493pt x 373.39409pt.
- [62 <./images/gimp/GimpExportAs1.png> <./images/gimp/GimpExportAs2.png> <./ima
-ges/gimp/GimpTailleCanevas1.png>]
-<./images/gimp/GimpTailleCanevas3.png, id=1275, 433.62pt x 373.395pt>
-File: ./images/gimp/GimpTailleCanevas3.png Graphic file (type png)
-
-<use ./images/gimp/GimpTailleCanevas3.png>
-Package pdftex.def Info: ./images/gimp/GimpTailleCanevas3.png used on input lin
-e 337.
-(pdftex.def)             Requested size: 433.61894pt x 373.39409pt.
-
-<./images/gimp/GimpTailleCanevas4.png, id=1276, 701.62125pt x 459.7175pt>
-File: ./images/gimp/GimpTailleCanevas4.png Graphic file (type png)
-
-<use ./images/gimp/GimpTailleCanevas4.png>
-Package pdftex.def Info: ./images/gimp/GimpTailleCanevas4.png used on input lin
-e 340.
-(pdftex.def)             Requested size: 701.61952pt x 459.71637pt.
- [63 <./images/gimp/GimpTailleCanevas2.png> <./images/gimp/GimpTailleCanevas3.p
-ng>]
-<./images/gimp/GimpLuminositeContraste1.png, id=1283, 635.173pt x 118.041pt>
-File: ./images/gimp/GimpLuminositeContraste1.png Graphic file (type png)
-
-<use ./images/gimp/GimpLuminositeContraste1.png>
-Package pdftex.def Info: ./images/gimp/GimpLuminositeContraste1.png used on inp
-ut line 363.
-(pdftex.def)             Requested size: 635.17145pt x 118.0407pt.
-
-<./images/gimp/GimpLuminositeContraste2.png, id=1284, 339.669pt x 189.508pt>
-File: ./images/gimp/GimpLuminositeContraste2.png Graphic file (type png)
-
-<use ./images/gimp/GimpLuminositeContraste2.png>
-Package pdftex.def Info: ./images/gimp/GimpLuminositeContraste2.png used on inp
-ut line 367.
-(pdftex.def)             Requested size: 339.66817pt x 189.50752pt.
-
-Underfull \vbox (badness 2635) has occurred while \output is active []
-
- [64 <./images/gimp/GimpTailleCanevas4.png (PNG copy)> <./images/gimp/GimpLumin
-ositeContraste1.png>]) (./sources/scratch01/enonce_scratch01.tex [65 <./images/
-gimp/GimpLuminositeContraste2.png>] [66
+[51
 
 ]
-Chapitre 5.
-File: ./images/chapitreVinci.png Graphic file (type png)
-<use ./images/chapitreVinci.png>
-Package pdftex.def Info: ./images/chapitreVinci.png used on input line 1.
-(pdftex.def)             Requested size: 597.50787pt x 284.21223pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 3--4
-
- []
-
-[67]
 
 
 <QR code requested for "https://web.microsoftstream.com/video/8ed24c7a-66c0-4ab
@@ -2651,7 +2452,7 @@ File: ./images/generales/loupe.png Graphic file (type png)
 Package pdftex.def Info: ./images/generales/loupe.png used on input line 67.
 (pdftex.def)             Requested size: 409.52899pt x 42.15738pt.
 
-<./images/generales/loupeRechercheScratch.png, id=1310, 685.56125pt x 59.22125p
+<./images/generales/loupeRechercheScratch.png, id=1247, 685.56125pt x 59.22125p
 t>
 File: ./images/generales/loupeRechercheScratch.png Graphic file (type png)
  <use ./images/generales/loupeRechercheScratch.png>
@@ -2659,7 +2460,7 @@ Package pdftex.def Info: ./images/generales/loupeRechercheScratch.png used on i
 nput line 71.
 (pdftex.def)             Requested size: 685.55957pt x 59.22108pt.
 
-<./images/scratch/presentation_scratch.png, id=1311, 1241.63875pt x 669.50125pt
+<./images/scratch/presentation_scratch.png, id=1248, 1241.63875pt x 669.50125pt
 >
 File: ./images/scratch/presentation_scratch.png Graphic file (type png)
  <use ./images/scratch/presentation_scratch.png>
@@ -2669,8 +2470,8 @@ t line 86.
 
 Underfull \vbox (badness 3965) has occurred while \output is active []
 
- [68 <./images/generales/loupeRechercheScratch.png>]
-<./images/scratch/changerLangue.png, id=1317, 47.17625pt x 37.13875pt>
+ [52 <./images/generales/loupeRechercheScratch.png>]
+<./images/scratch/changerLangue.png, id=1255, 47.17625pt x 37.13875pt>
 File: ./images/scratch/changerLangue.png Graphic file (type png)
 
 <use ./images/scratch/changerLangue.png>
@@ -2678,7 +2479,7 @@ Package pdftex.def Info: ./images/scratch/changerLangue.png used on input line
 90.
 (pdftex.def)             Requested size: 28.45274pt x 22.39902pt.
 
-<./images/scratch/french.png, id=1318, 287.0725pt x 52.195pt>
+<./images/scratch/french.png, id=1256, 287.0725pt x 52.195pt>
 File: ./images/scratch/french.png Graphic file (type png)
 
 <use ./images/scratch/french.png>
@@ -2692,7 +2493,7 @@ chier\T1/lmr/m/n/12 , choi-sir \T1/lmtt/m/n/12 Sauvegarder sur votre ordinateur
  []
 
 
-<./images/scratch/presentation_activite1.png, id=1319, 235.88126pt x 253.94875p
+<./images/scratch/presentation_activite1.png, id=1257, 235.88126pt x 253.94875p
 t>
 File: ./images/scratch/presentation_activite1.png Graphic file (type png)
  <use ./images/scratch/presentation_activite1.png>
@@ -2704,16 +2505,16 @@ Overfull \hbox (6.0pt too wide) in paragraph at lines 114--115
 [][][][][][][]
  []
 
-[69 <./images/scratch/presentation_scratch.png> <./images/scratch/changerLangue
+[53 <./images/scratch/presentation_scratch.png> <./images/scratch/changerLangue
 .png> <./images/scratch/french.png>]
-<./images/scratch/modifier_costume.png, id=1329, 178.6675pt x 126.4725pt>
+<./images/scratch/modifier_costume.png, id=1267, 178.6675pt x 126.4725pt>
 File: ./images/scratch/modifier_costume.png Graphic file (type png)
 
 <use ./images/scratch/modifier_costume.png>
 Package pdftex.def Info: ./images/scratch/modifier_costume.png used on input li
 ne 122.
 (pdftex.def)             Requested size: 178.66705pt x 126.47218pt.
- [70 <./images/scratch/presentation_activite1.png> <./images/scratch/modifier_c
+ [54 <./images/scratch/presentation_activite1.png> <./images/scratch/modifier_c
 ostume.png>]
 
 
@@ -2735,7 +2536,7 @@ Overfull \hbox (6.0pt too wide) in paragraph at lines 169--170
  []
 
 
-<./images/scratch/presentation_activite2.png, id=1337, 277.035pt x 391.4625pt>
+<./images/scratch/presentation_activite2.png, id=1275, 277.035pt x 391.4625pt>
 File: ./images/scratch/presentation_activite2.png Graphic file (type png)
 
 <use ./images/scratch/presentation_activite2.png>
@@ -2747,14 +2548,14 @@ Overfull \hbox (6.0pt too wide) in paragraph at lines 177--178
 [][][][][][][]
  []
 
-[71] <./images/scratch/ScratchSpirales.png, id=1344, 296.7888pt x 100.2144pt>
+[55] <./images/scratch/ScratchSpirales.png, id=1281, 296.7888pt x 100.2144pt>
 File: ./images/scratch/ScratchSpirales.png Graphic file (type png)
 
 <use ./images/scratch/ScratchSpirales.png>
 Package pdftex.def Info: ./images/scratch/ScratchSpirales.png used on input lin
 e 186.
 (pdftex.def)             Requested size: 296.78807pt x 100.21414pt.
- [72 <./images/scratch/presentation_activite2.png> <./images/scratch/ScratchSpi
+ [56 <./images/scratch/presentation_activite2.png> <./images/scratch/ScratchSpi
 rales.png>]
 
 
@@ -2775,7 +2576,7 @@ Overfull \hbox (6.0pt too wide) in paragraph at lines 235--236
 [][][][][][][]
  []
 
-[73] <./images/scratch/jeuAvion.png, id=1356, 499.8675pt x 376.40625pt>
+[57] <./images/scratch/jeuAvion.png, id=1293, 499.8675pt x 376.40625pt>
 File: ./images/scratch/jeuAvion.png Graphic file (type png)
 
 <use ./images/scratch/jeuAvion.png>
@@ -2791,8 +2592,8 @@ Overfull \hbox (6.0pt too wide) in paragraph at lines 247--248
 [][][][][][][]
  []
 
-[74 <./images/scratch/jeuAvion.png>]
-<./images/scratch/jeuAvionV2.png, id=1368, 496.85625pt x 373.395pt>
+[58 <./images/scratch/jeuAvion.png>]
+<./images/scratch/jeuAvionV2.png, id=1307, 496.85625pt x 373.395pt>
 File: ./images/scratch/jeuAvionV2.png Graphic file (type png)
 
 <use ./images/scratch/jeuAvionV2.png>
@@ -2800,7 +2601,7 @@ Package pdftex.def Info: ./images/scratch/jeuAvionV2.png used on input line 264
 .
 (pdftex.def)             Requested size: 496.85503pt x 373.39409pt.
 
-<./images/scratch/jeuAvionV3.png, id=1369, 494.84875pt x 373.395pt>
+<./images/scratch/jeuAvionV3.png, id=1308, 494.84875pt x 373.395pt>
 File: ./images/scratch/jeuAvionV3.png Graphic file (type png)
 
 <use ./images/scratch/jeuAvionV3.png>
@@ -2808,8 +2609,8 @@ Package pdftex.def Info: ./images/scratch/jeuAvionV3.png used on input line 264
 .
 (pdftex.def)             Requested size: 494.84755pt x 373.39409pt.
 ) (./sources/scratch01/scratch01.tex
-[75 <./images/scratch/jeuAvionV2.png> <./images/scratch/jeuAvionV3.png>]
-<./images/scratch/changerScene.png, id=1376, 66.2475pt x 97.36375pt>
+[59 <./images/scratch/jeuAvionV2.png> <./images/scratch/jeuAvionV3.png>]
+<./images/scratch/changerScene.png, id=1315, 66.2475pt x 97.36375pt>
 File: ./images/scratch/changerScene.png Graphic file (type png)
 
 <use ./images/scratch/changerScene.png>
@@ -2817,7 +2618,7 @@ Package pdftex.def Info: ./images/scratch/changerScene.png used on input line 2
 7.
 (pdftex.def)             Requested size: 28.45274pt x 41.81656pt.
 
-<./images/scratch/changerScene0.png, id=1377, 488.82625pt x 258.9675pt>
+<./images/scratch/changerScene0.png, id=1316, 488.82625pt x 258.9675pt>
 File: ./images/scratch/changerScene0.png Graphic file (type png)
 
 <use ./images/scratch/changerScene0.png>
@@ -2831,16 +2632,16 @@ tes : \T1/lmtt/m/n/12 arrière-plan1 \T1/lmr/m/n/12 et \T1/lmtt/m/n/12 Xy-grid\T
 1/lmr/m/n/12 .
  []
 
-<./images/scratch/choixBackdrop.png, id=1378, 378.41376pt x 284.06125pt>
+<./images/scratch/choixBackdrop.png, id=1317, 378.41376pt x 284.06125pt>
 File: ./images/scratch/choixBackdrop.png Graphic file (type png)
 
 <use ./images/scratch/choixBackdrop.png>
 Package pdftex.def Info: ./images/scratch/choixBackdrop.png used on input line 
 45.
 (pdftex.def)             Requested size: 378.41283pt x 284.06053pt.
- [76 <./images/scratch/changerScene.png> <./images/scratch/changerScene0.png> <
+ [60 <./images/scratch/changerScene.png> <./images/scratch/changerScene0.png> <
 ./images/scratch/choixBackdrop.png>]
-<./images/scratch/enregistrer_scratch.png, id=1390, 380.42125pt x 159.59625pt>
+<./images/scratch/enregistrer_scratch.png, id=1329, 380.42125pt x 159.59625pt>
 File: ./images/scratch/enregistrer_scratch.png Graphic file (type png)
 
 <use ./images/scratch/enregistrer_scratch.png>
@@ -2857,28 +2658,28 @@ Underfull \hbox (badness 10000) in paragraph at lines 80--81
 
  []
 
-<./images/scratch/Lutin.png, id=1391, 40.15pt x 44.165pt>
+<./images/scratch/Lutin.png, id=1330, 40.15pt x 44.165pt>
 File: ./images/scratch/Lutin.png Graphic file (type png)
 
 <use ./images/scratch/Lutin.png>
 Package pdftex.def Info: ./images/scratch/Lutin.png used on input line 87.
 (pdftex.def)             Requested size: 19.91684pt x 21.90924pt.
 
-<./images/scratch/sprite.png, id=1392, 60.225pt x 61.22874pt>
+<./images/scratch/sprite.png, id=1331, 60.225pt x 61.22874pt>
 File: ./images/scratch/sprite.png Graphic file (type png)
 
 <use ./images/scratch/sprite.png>
 Package pdftex.def Info: ./images/scratch/sprite.png used on input line 87.
 (pdftex.def)             Requested size: 28.45274pt x 28.92699pt.
 
-<./images/scratch/control.png, id=1393, 59.22125pt x 41.15375pt>
+<./images/scratch/control.png, id=1332, 59.22125pt x 41.15375pt>
 File: ./images/scratch/control.png Graphic file (type png)
 
 <use ./images/scratch/control.png>
 Package pdftex.def Info: ./images/scratch/control.png used on input line 88.
 (pdftex.def)             Requested size: 42.67912pt x 29.65892pt.
 
-<./images/scratch/BlocDrapeauVert.png, id=1394, 135.50626pt x 44.165pt>
+<./images/scratch/BlocDrapeauVert.png, id=1333, 135.50626pt x 44.165pt>
 File: ./images/scratch/BlocDrapeauVert.png Graphic file (type png)
 
 <use ./images/scratch/BlocDrapeauVert.png>
@@ -2886,14 +2687,14 @@ Package pdftex.def Info: ./images/scratch/BlocDrapeauVert.png used on input lin
 e 89.
 (pdftex.def)             Requested size: 71.13188pt x 23.18427pt.
 
-<./images/scratch/mouvement.png, id=1395, 62.2325pt x 47.17625pt>
+<./images/scratch/mouvement.png, id=1334, 62.2325pt x 47.17625pt>
 File: ./images/scratch/mouvement.png Graphic file (type png)
 
 <use ./images/scratch/mouvement.png>
 Package pdftex.def Info: ./images/scratch/mouvement.png used on input line 90.
 (pdftex.def)             Requested size: 42.67912pt x 32.35439pt.
 
-<./images/scratch/BlocAllerA.png, id=1396, 114.4275pt x 24.09pt>
+<./images/scratch/BlocAllerA.png, id=1335, 114.4275pt x 24.09pt>
 File: ./images/scratch/BlocAllerA.png Graphic file (type png)
 
 <use ./images/scratch/BlocAllerA.png>
@@ -2907,7 +2708,7 @@ Package pdftex.def Info: ./images/scratch/BlocDrapeauVert.png used on input lin
 e 91.
 (pdftex.def)             Requested size: 71.13188pt x 23.18427pt.
 
-<./images/scratch/BlocGlisser.png, id=1397, 217.81375pt x 25.09375pt>
+<./images/scratch/BlocGlisser.png, id=1336, 217.81375pt x 25.09375pt>
 File: ./images/scratch/BlocGlisser.png Graphic file (type png)
 
 <use ./images/scratch/BlocGlisser.png>
@@ -2931,24 +2732,24 @@ Overfull \hbox (2.50462pt too wide) in paragraph at lines 94--95
 mme
  []
 
-<./images/scratch/son.png, id=1398, 59.22125pt x 47.17625pt>
+<./images/scratch/son.png, id=1337, 59.22125pt x 47.17625pt>
 File: ./images/scratch/son.png Graphic file (type png)
 
 <use ./images/scratch/son.png>
 Package pdftex.def Info: ./images/scratch/son.png used on input line 95.
 (pdftex.def)             Requested size: 42.67912pt x 33.99925pt.
- [77 <./images/scratch/enregistrer_scratch.png> <./images/scratch/Lutin.png> <.
+ [61 <./images/scratch/enregistrer_scratch.png> <./images/scratch/Lutin.png> <.
 /images/scratch/sprite.png> <./images/scratch/control.png> <./images/scratch/Bl
 ocDrapeauVert.png> <./images/scratch/mouvement.png> <./images/scratch/BlocAller
 A.png> <./images/scratch/BlocGlisser.png>]
-<./images/scratch/meow.png, id=1421, 140.525pt x 43.16125pt>
+<./images/scratch/meow.png, id=1359, 140.525pt x 43.16125pt>
 File: ./images/scratch/meow.png Graphic file (type png)
 
 <use ./images/scratch/meow.png>
 Package pdftex.def Info: ./images/scratch/meow.png used on input line 96.
 (pdftex.def)             Requested size: 71.13188pt x 21.84729pt.
 
-<./images/scratch/DrapeauVert.png, id=1422, 24.09pt x 22.0825pt>
+<./images/scratch/DrapeauVert.png, id=1360, 24.09pt x 22.0825pt>
 File: ./images/scratch/DrapeauVert.png Graphic file (type png)
 
 <use ./images/scratch/DrapeauVert.png>
@@ -2956,14 +2757,14 @@ Package pdftex.def Info: ./images/scratch/DrapeauVert.png used on input line 10
 1.
 (pdftex.def)             Requested size: 19.91684pt x 18.25702pt.
 
-<./images/scratch/Stop.png, id=1423, 21.07875pt x 21.07875pt>
+<./images/scratch/Stop.png, id=1361, 21.07875pt x 21.07875pt>
 File: ./images/scratch/Stop.png Graphic file (type png)
 
 <use ./images/scratch/Stop.png>
 Package pdftex.def Info: ./images/scratch/Stop.png used on input line 103.
 (pdftex.def)             Requested size: 19.91684pt x 19.91724pt.
 
-<./images/scratch/pleinEcran.png, id=1424, 38.1425pt x 38.1425pt>
+<./images/scratch/pleinEcran.png, id=1362, 38.1425pt x 38.1425pt>
 File: ./images/scratch/pleinEcran.png Graphic file (type png)
 
 <use ./images/scratch/pleinEcran.png>
@@ -2971,7 +2772,7 @@ Package pdftex.def Info: ./images/scratch/pleinEcran.png used on input line 105
 .
 (pdftex.def)             Requested size: 28.45274pt x 28.45372pt.
 
-<./images/scratch/quitterPleinEcran.png, id=1425, 40.15pt x 38.1425pt>
+<./images/scratch/quitterPleinEcran.png, id=1363, 40.15pt x 38.1425pt>
 File: ./images/scratch/quitterPleinEcran.png Graphic file (type png)
 
 <use ./images/scratch/quitterPleinEcran.png>
@@ -2979,14 +2780,14 @@ Package pdftex.def Info: ./images/scratch/quitterPleinEcran.png used on input l
 ine 107.
 (pdftex.def)             Requested size: 28.45274pt x 27.03072pt.
 
-<./images/scratch/scene0.png, id=1426, 79.29625pt x 49.18375pt>
+<./images/scratch/scene0.png, id=1364, 79.29625pt x 49.18375pt>
 File: ./images/scratch/scene0.png Graphic file (type png)
 
 <use ./images/scratch/scene0.png>
 Package pdftex.def Info: ./images/scratch/scene0.png used on input line 120.
 (pdftex.def)             Requested size: 42.67912pt x 26.4725pt.
 
-<./images/scratch/premierProgramme2.png, id=1427, 803.0pt x 266.9975pt>
+<./images/scratch/premierProgramme2.png, id=1365, 803.0pt x 266.9975pt>
 File: ./images/scratch/premierProgramme2.png Graphic file (type png)
 
 <use ./images/scratch/premierProgramme2.png>
@@ -2994,7 +2795,7 @@ Package pdftex.def Info: ./images/scratch/premierProgramme2.png used on input l
 ine 122.
 (pdftex.def)             Requested size: 802.99805pt x 266.99683pt.
 
-<./images/scratch/ScratchProgramme1Script2.png, id=1428, 244.915pt x 100.375pt>
+<./images/scratch/ScratchProgramme1Script2.png, id=1366, 244.915pt x 100.375pt>
 File: ./images/scratch/ScratchProgramme1Script2.png Graphic file (type png)
 <use ./images/scratch/ScratchProgramme1Script2.png>
 Package pdftex.def Info: ./images/scratch/ScratchProgramme1Script2.png used on 
@@ -3007,7 +2808,7 @@ Package pdftex.def Info: ./images/scratch/DrapeauVert.png used on input line 12
 8.
 (pdftex.def)             Requested size: 19.91684pt x 18.25702pt.
 
-<./images/scratch/scratchActivite2_0.png, id=1430, 288.07625pt x 43.16125pt>
+<./images/scratch/scratchActivite2_0.png, id=1368, 288.07625pt x 43.16125pt>
 File: ./images/scratch/scratchActivite2_0.png Graphic file (type png)
 
 <use ./images/scratch/scratchActivite2_0.png>
@@ -3019,11 +2820,11 @@ Overfull \hbox (12.451pt too wide) in paragraph at lines 154--155
 \T1/lmr/m/n/12 avant de construire le pro-gramme). Pour construire le bloc [],
  []
 
-[78 <./images/scratch/son.png> <./images/scratch/meow.png> <./images/scratch/Dr
+[62 <./images/scratch/son.png> <./images/scratch/meow.png> <./images/scratch/Dr
 apeauVert.png> <./images/scratch/Stop.png> <./images/scratch/pleinEcran.png> <.
 /images/scratch/quitterPleinEcran.png> <./images/scratch/scene0.png> <./images/
 scratch/premierProgramme2.png> <./images/scratch/ScratchProgramme1Script2.png>]
-<./images/scratch/scratchActivite2_1.png, id=1447, 253.94875pt x 85.31876pt>
+<./images/scratch/scratchActivite2_1.png, id=1385, 253.94875pt x 85.31876pt>
 File: ./images/scratch/scratchActivite2_1.png Graphic file (type png)
 
 <use ./images/scratch/scratchActivite2_1.png>
@@ -3036,7 +2837,7 @@ Overfull \hbox (3.9095pt too wide) in paragraph at lines 161--162
 r/m/n/12 dans la zone de saisi du bloc \T1/lmtt/m/n/12 s'orienter
  []
 
-<./images/scratch/scratchActivite2_2.png, id=1448, 318.18875pt x 55.20625pt>
+<./images/scratch/scratchActivite2_2.png, id=1386, 318.18875pt x 55.20625pt>
 File: ./images/scratch/scratchActivite2_2.png Graphic file (type png)
 
 <use ./images/scratch/scratchActivite2_2.png>
@@ -3050,7 +2851,7 @@ Package pdftex.def Info: ./images/scratch/DrapeauVert.png used on input line 17
 0.
 (pdftex.def)             Requested size: 19.91684pt x 18.25702pt.
 
-<./images/scratch/effacerTout.png, id=1449, 231.86626pt x 92.345pt>
+<./images/scratch/effacerTout.png, id=1387, 231.86626pt x 92.345pt>
 File: ./images/scratch/effacerTout.png Graphic file (type png)
 
 <use ./images/scratch/effacerTout.png>
@@ -3058,7 +2859,7 @@ Package pdftex.def Info: ./images/scratch/effacerTout.png used on input line 17
 9.
 (pdftex.def)             Requested size: 231.86568pt x 92.34476pt.
 
-<./images/scratch/ajouterStylo.png, id=1450, 64.24pt x 56.21pt>
+<./images/scratch/ajouterStylo.png, id=1388, 64.24pt x 56.21pt>
 File: ./images/scratch/ajouterStylo.png Graphic file (type png)
 
 <use ./images/scratch/ajouterStylo.png>
@@ -3066,17 +2867,17 @@ Package pdftex.def Info: ./images/scratch/ajouterStylo.png used on input line 1
 81.
 (pdftex.def)             Requested size: 28.45274pt x 24.89629pt.
 
-<./images/scratch/carreOuOnVeut.png, id=1451, 249.93375pt x 104.39pt>
+<./images/scratch/carreOuOnVeut.png, id=1389, 249.93375pt x 104.39pt>
 File: ./images/scratch/carreOuOnVeut.png Graphic file (type png)
 
 <use ./images/scratch/carreOuOnVeut.png>
 Package pdftex.def Info: ./images/scratch/carreOuOnVeut.png used on input line 
 192.
 (pdftex.def)             Requested size: 249.93314pt x 104.38972pt.
- [79 <./images/scratch/scratchActivite2_0.png> <./images/scratch/scratchActivit
+ [63 <./images/scratch/scratchActivite2_0.png> <./images/scratch/scratchActivit
 e2_1.png> <./images/scratch/scratchActivite2_2.png> <./images/scratch/effacerTo
 ut.png> <./images/scratch/ajouterStylo.png>] <./images/scratch/enveloppe.png, i
-d=1464, 97.8054pt x 145.9854pt>
+d=1402, 97.8054pt x 145.9854pt>
 File: ./images/scratch/enveloppe.png Graphic file (type png)
 
 <use ./images/scratch/enveloppe.png>
@@ -3084,7 +2885,7 @@ Package pdftex.def Info: ./images/scratch/enveloppe.png used on input line 199.
 
 (pdftex.def)             Requested size: 97.80515pt x 145.98503pt.
 
-<./images/scratch/modifierTailleStylo.png, id=1465, 312.16624pt x 107.40125pt>
+<./images/scratch/modifierTailleStylo.png, id=1403, 312.16624pt x 107.40125pt>
 File: ./images/scratch/modifierTailleStylo.png Graphic file (type png)
 
 <use ./images/scratch/modifierTailleStylo.png>
@@ -3097,23 +2898,23 @@ File: ./images/scratch/sprite.png Graphic file (type png)
 Package pdftex.def Info: ./images/scratch/sprite.png used on input line 240.
 (pdftex.def)             Requested size: 28.45274pt x 28.92699pt.
 
-<./images/scratch/parrot.png, id=1466, 169.63374pt x 148.555pt>
+<./images/scratch/parrot.png, id=1404, 169.63374pt x 148.555pt>
 File: ./images/scratch/parrot.png Graphic file (type png)
 
 <use ./images/scratch/parrot.png>
 Package pdftex.def Info: ./images/scratch/parrot.png used on input line 241.
 (pdftex.def)             Requested size: 28.45274pt x 24.91626pt.
 
-<./images/scratch/costumeParrot.png, id=1467, 1145.27875pt x 656.4525pt>
+<./images/scratch/costumeParrot.png, id=1405, 1145.27875pt x 656.4525pt>
 File: ./images/scratch/costumeParrot.png Graphic file (type png)
 
 <use ./images/scratch/costumeParrot.png>
 Package pdftex.def Info: ./images/scratch/costumeParrot.png used on input line 
 242.
 (pdftex.def)             Requested size: 1145.27596pt x 656.4509pt.
- [80 <./images/scratch/carreOuOnVeut.png> <./images/scratch/enveloppe.png> <./i
+ [64 <./images/scratch/carreOuOnVeut.png> <./images/scratch/enveloppe.png> <./i
 mages/scratch/modifierTailleStylo.png> <./images/scratch/parrot.png>]
-<./images/scratch/poubelleChat.png, id=1481, 86.3225pt x 84.315pt>
+<./images/scratch/poubelleChat.png, id=1420, 86.3225pt x 84.315pt>
 File: ./images/scratch/poubelleChat.png Graphic file (type png)
 
 <use ./images/scratch/poubelleChat.png>
@@ -3121,7 +2922,7 @@ Package pdftex.def Info: ./images/scratch/poubelleChat.png used on input line 2
 43.
 (pdftex.def)             Requested size: 42.67912pt x 41.68651pt.
 
-<./images/scratch/reduireTaille.png, id=1482, 408.52625pt x 202.7575pt>
+<./images/scratch/reduireTaille.png, id=1421, 408.52625pt x 202.7575pt>
 File: ./images/scratch/reduireTaille.png Graphic file (type png)
 
 <use ./images/scratch/reduireTaille.png>
@@ -3129,7 +2930,7 @@ Package pdftex.def Info: ./images/scratch/reduireTaille.png used on input line
 247.
 (pdftex.def)             Requested size: 408.52525pt x 202.757pt.
 
-<./images/scratch/selectionCode.png, id=1483, 656.4525pt x 559.08875pt>
+<./images/scratch/selectionCode.png, id=1422, 656.4525pt x 559.08875pt>
 File: ./images/scratch/selectionCode.png Graphic file (type png)
 
 <use ./images/scratch/selectionCode.png>
@@ -3139,9 +2940,9 @@ Package pdftex.def Info: ./images/scratch/selectionCode.png used on input line
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [81 <./images/scratch/costumeParrot.png> <./images/scratch/poubelleChat.png> <
+ [65 <./images/scratch/costumeParrot.png> <./images/scratch/poubelleChat.png> <
 ./images/scratch/reduireTaille.png>]
-<./images/scratch/ScratchBoucle.png, id=1492, 317.5062pt x 48.6618pt>
+<./images/scratch/ScratchBoucle.png, id=1430, 317.5062pt x 48.6618pt>
 File: ./images/scratch/ScratchBoucle.png Graphic file (type png)
 
 <use ./images/scratch/ScratchBoucle.png>
@@ -3153,7 +2954,7 @@ Overfull \hbox (6.79999pt too wide) in paragraph at lines 266--266
 [] 
  []
 
-<./images/scratch/ScratchActivite31.png, id=1493, 186.6975pt x 107.40125pt>
+<./images/scratch/ScratchActivite31.png, id=1431, 186.6975pt x 107.40125pt>
 File: ./images/scratch/ScratchActivite31.png Graphic file (type png)
 
 <use ./images/scratch/ScratchActivite31.png>
@@ -3161,14 +2962,14 @@ Package pdftex.def Info: ./images/scratch/ScratchActivite31.png used on input l
 ine 274.
 (pdftex.def)             Requested size: 186.69704pt x 107.40097pt.
 
-<./images/scratch/ScratchActivite32.png, id=1494, 425.59pt x 58.2175pt>
+<./images/scratch/ScratchActivite32.png, id=1432, 425.59pt x 58.2175pt>
 File: ./images/scratch/ScratchActivite32.png Graphic file (type png)
 
 <use ./images/scratch/ScratchActivite32.png>
 Package pdftex.def Info: ./images/scratch/ScratchActivite32.png used on input l
 ine 276.
 (pdftex.def)             Requested size: 425.58894pt x 58.21735pt.
- [82 <./images/scratch/selectionCode.png> <./images/scratch/ScratchBoucle.png> 
+ [66 <./images/scratch/selectionCode.png> <./images/scratch/ScratchBoucle.png> 
 <./images/scratch/ScratchActivite31.png>]
 File: ./images/scratch/DrapeauVert.png Graphic file (type png)
  <use ./images/scratch/DrapeauVert.png>
@@ -3196,14 +2997,14 @@ File: ./images/scratch/sprite.png Graphic file (type png)
 Package pdftex.def Info: ./images/scratch/sprite.png used on input line 294.
 (pdftex.def)             Requested size: 28.45274pt x 28.92699pt.
 
-<./images/scratch/paddle.png, id=1504, 311.1625pt x 243.91125pt>
+<./images/scratch/paddle.png, id=1442, 311.1625pt x 243.91125pt>
 File: ./images/scratch/paddle.png Graphic file (type png)
 
 <use ./images/scratch/paddle.png>
 Package pdftex.def Info: ./images/scratch/paddle.png used on input line 295.
 (pdftex.def)             Requested size: 311.16174pt x 243.91064pt.
 
-<./images/scratch/ScratchSi.png, id=1505, 272.6988pt x 54.4434pt>
+<./images/scratch/ScratchSi.png, id=1443, 272.6988pt x 54.4434pt>
 File: ./images/scratch/ScratchSi.png Graphic file (type png)
 
 <use ./images/scratch/ScratchSi.png>
@@ -3218,8 +3019,8 @@ Overfull \hbox (6.79999pt too wide) in paragraph at lines 311--311
 
 Underfull \vbox (badness 2478) has occurred while \output is active []
 
- [83 <./images/scratch/ScratchActivite32.png> <./images/scratch/paddle.png>]
-<./images/scratch/BlocCapteur.png, id=1519, 91.34125pt x 19.07124pt>
+ [67 <./images/scratch/ScratchActivite32.png> <./images/scratch/paddle.png>]
+<./images/scratch/BlocCapteur.png, id=1456, 91.34125pt x 19.07124pt>
 File: ./images/scratch/BlocCapteur.png Graphic file (type png)
 
 <use ./images/scratch/BlocCapteur.png>
@@ -3227,7 +3028,7 @@ Package pdftex.def Info: ./images/scratch/BlocCapteur.png used on input line 32
 0.
 (pdftex.def)             Requested size: 56.9055pt x 11.88136pt.
 
-<./images/scratch/codeTouche.png, id=1520, 242.9075pt x 324.21124pt>
+<./images/scratch/codeTouche.png, id=1457, 242.9075pt x 324.21124pt>
 File: ./images/scratch/codeTouche.png Graphic file (type png)
 
 <use ./images/scratch/codeTouche.png>
@@ -3235,7 +3036,7 @@ Package pdftex.def Info: ./images/scratch/codeTouche.png used on input line 321
 .
 (pdftex.def)             Requested size: 242.90689pt x 324.21045pt.
 
-<./images/scratch/ScratchActiviteSonChanger.png, id=1521, 109.40875pt x 22.0825
+<./images/scratch/ScratchActiviteSonChanger.png, id=1458, 109.40875pt x 22.0825
 pt>
 File: ./images/scratch/ScratchActiviteSonChanger.png Graphic file (type png)
  <use ./images/scratch/ScratchActiviteSonChanger.png>
@@ -3243,7 +3044,7 @@ Package pdftex.def Info: ./images/scratch/ScratchActiviteSonChanger.png used on
  input line 323.
 (pdftex.def)             Requested size: 109.40846pt x 22.08243pt.
 
-<./images/scratch/enregistrerSon.png, id=1522, 231.86626pt x 130.4875pt>
+<./images/scratch/enregistrerSon.png, id=1459, 231.86626pt x 130.4875pt>
 File: ./images/scratch/enregistrerSon.png Graphic file (type png)
 
 <use ./images/scratch/enregistrerSon.png>
@@ -3251,7 +3052,7 @@ Package pdftex.def Info: ./images/scratch/enregistrerSon.png used on input line
  327.
 (pdftex.def)             Requested size: 231.86568pt x 130.48717pt.
 
-<./images/scratch/boutonEnregistrer.png, id=1523, 85.31876pt x 92.345pt>
+<./images/scratch/boutonEnregistrer.png, id=1460, 85.31876pt x 92.345pt>
 File: ./images/scratch/boutonEnregistrer.png Graphic file (type png)
 
 <use ./images/scratch/boutonEnregistrer.png>
@@ -3259,17 +3060,17 @@ Package pdftex.def Info: ./images/scratch/boutonEnregistrer.png used on input l
 ine 328.
 (pdftex.def)             Requested size: 28.45274pt x 30.7952pt.
 
-<./images/scratch/boutonArret.png, id=1524, 173.64874pt x 89.33376pt>
+<./images/scratch/boutonArret.png, id=1461, 173.64874pt x 89.33376pt>
 File: ./images/scratch/boutonArret.png Graphic file (type png)
 
 <use ./images/scratch/boutonArret.png>
 Package pdftex.def Info: ./images/scratch/boutonArret.png used on input line 32
 8.
 (pdftex.def)             Requested size: 56.9055pt x 29.27438pt.
- [84 <./images/scratch/ScratchSi.png> <./images/scratch/BlocCapteur.png> <./ima
+ [68 <./images/scratch/ScratchSi.png> <./images/scratch/BlocCapteur.png> <./ima
 ges/scratch/codeTouche.png> <./images/scratch/ScratchActiviteSonChanger.png> <.
 /images/scratch/enregistrerSon.png>]
-<./images/scratch/essaiEnregistrement.png, id=1536, 615.29875pt x 408.52625pt>
+<./images/scratch/essaiEnregistrement.png, id=1473, 615.29875pt x 408.52625pt>
 File: ./images/scratch/essaiEnregistrement.png Graphic file (type png)
 
 <use ./images/scratch/essaiEnregistrement.png>
@@ -3277,7 +3078,7 @@ Package pdftex.def Info: ./images/scratch/essaiEnregistrement.png used on input
  line 329.
 (pdftex.def)             Requested size: 615.29724pt x 408.52525pt.
 
-<./images/scratch/recording1.png, id=1537, 648.4225pt x 403.5075pt>
+<./images/scratch/recording1.png, id=1474, 648.4225pt x 403.5075pt>
 File: ./images/scratch/recording1.png Graphic file (type png)
 
 <use ./images/scratch/recording1.png>
@@ -3285,26 +3086,591 @@ Package pdftex.def Info: ./images/scratch/recording1.png used on input line 331
 .
 (pdftex.def)             Requested size: 648.42091pt x 403.50652pt.
 
-<./images/scratch/ScratchActivite39.png, id=1538, 166.6225pt x 57.21375pt>
+<./images/scratch/ScratchActivite39.png, id=1475, 166.6225pt x 57.21375pt>
 File: ./images/scratch/ScratchActivite39.png Graphic file (type png)
 
 <use ./images/scratch/ScratchActivite39.png>
 Package pdftex.def Info: ./images/scratch/ScratchActivite39.png used on input l
 ine 333.
 (pdftex.def)             Requested size: 166.62209pt x 57.2136pt.
-) (./sources/ideesProjets.tex
-[85 <./images/scratch/boutonEnregistrer.png> <./images/scratch/boutonArret.png>
- <./images/scratch/essaiEnregistrement.png> <./images/scratch/recording1.png> <
-./images/scratch/ScratchActivite39.png>] [86
+)
+(./sources/presentation01/presentation01.tex [69 <./images/scratch/boutonEnregi
+strer.png> <./images/scratch/boutonArret.png> <./images/scratch/essaiEnregistre
+ment.png> <./images/scratch/recording1.png> <./images/scratch/ScratchActivite39
+.png>] [70
 
 ]
+Chapitre 5.
+File: ./images/chapitreVinci.png Graphic file (type png)
+<use ./images/chapitreVinci.png>
+Package pdftex.def Info: ./images/chapitreVinci.png used on input line 1.
+(pdftex.def)             Requested size: 597.50787pt x 284.21223pt.
+ [71]
+File: ./images/generales/clavierCmdS.png Graphic file (type png)
+ <use ./images/generales/clavierCmdS.png>
+Package pdftex.def Info: ./images/generales/clavierCmdS.png used on input line 
+48.
+(pdftex.def)             Requested size: 196.57391pt x 72.63116pt.
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 64--65
+[][][][][][][]
+ []
+
+[72] <./images/presentation/diapoBad.pdf, id=1502, 796.9775pt x 597.23125pt>
+File: ./images/presentation/diapoBad.pdf Graphic file (type pdf)
+
+<use ./images/presentation/diapoBad.pdf>
+Package pdftex.def Info: ./images/presentation/diapoBad.pdf used on input line 
+114.
+(pdftex.def)             Requested size: 796.97554pt x 597.22978pt.
+
+<./images/presentation/diapoGood.pdf, id=1503, 796.9775pt x 597.23125pt>
+File: ./images/presentation/diapoGood.pdf Graphic file (type pdf)
+
+<use ./images/presentation/diapoGood.pdf>
+Package pdftex.def Info: ./images/presentation/diapoGood.pdf used on input line
+ 114.
+(pdftex.def)             Requested size: 796.97554pt x 597.22978pt.
+
+Underfull \vbox (badness 6641) has occurred while \output is active []
+
+ [73]
+File: ./images/tableur/ecran_office_com_crop.png Graphic file (type png)
+
+<use ./images/tableur/ecran_office_com_crop.png>
+Package pdftex.def Info: ./images/tableur/ecran_office_com_crop.png used on inp
+ut line 147.
+(pdftex.def)             Requested size: 440.64517pt x 308.15048pt.
+ [74 <./images/presentation/diapoBad.pdf> <./images/presentation/diapoGood.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./images/presentation/diapoG
+ood.pdf): PDF inclusion: multiple pdfs with page group included in a single pag
+e
+>]
+<./images/presentation/ecran_office_PP_crop.png, id=1574, 549.05125pt x 681.546
+25pt>
+File: ./images/presentation/ecran_office_PP_crop.png Graphic file (type png)
+ <use ./images/presentation/ecran_office_PP_crop.png>
+Package pdftex.def Info: ./images/presentation/ecran_office_PP_crop.png used on
+ input line 151.
+(pdftex.def)             Requested size: 549.04991pt x 681.54459pt.
+
+<./images/presentation/Impress_02Creer_01_OPP_crop.png, id=1575, 998.73125pt x 
+615.29875pt>
+File: ./images/presentation/Impress_02Creer_01_OPP_crop.png Graphic file (type 
+png)
+ <use ./images/presentation/Impress_02Creer_01_OPP_crop.png>
+Package pdftex.def Info: ./images/presentation/Impress_02Creer_01_OPP_crop.png 
+used on input line 161.
+(pdftex.def)             Requested size: 998.7288pt x 615.29724pt.
+
+<./images/presentation/Impress_02Creer_02_OPP_crop.png, id=1576, 1445.4pt x 766
+.865pt>
+File: ./images/presentation/Impress_02Creer_02_OPP_crop.png Graphic file (type 
+png)
+ <use ./images/presentation/Impress_02Creer_02_OPP_crop.png>
+Package pdftex.def Info: ./images/presentation/Impress_02Creer_02_OPP_crop.png 
+used on input line 167.
+(pdftex.def)             Requested size: 1445.39648pt x 766.86314pt.
+ [75 <./images/presentation/ecran_office_PP_crop.png> <./images/presentation/Im
+press_02Creer_01_OPP_crop.png>]
+<./images/presentation/Impress_02Creer_03_OPP_crop.png, id=1581, 1445.4pt x 77.
+28876pt>
+File: ./images/presentation/Impress_02Creer_03_OPP_crop.png Graphic file (type 
+png)
+ <use ./images/presentation/Impress_02Creer_03_OPP_crop.png>
+Package pdftex.def Info: ./images/presentation/Impress_02Creer_03_OPP_crop.png 
+used on input line 179.
+(pdftex.def)             Requested size: 1445.39648pt x 77.28856pt.
+
+<./images/presentation/Impress_03Inserer_01_OPP_crop.png, id=1582, 147.55125pt 
+x 105.39375pt>
+File: ./images/presentation/Impress_03Inserer_01_OPP_crop.png Graphic file (typ
+e png)
+ <use ./images/presentation/Impress_03Inserer_01_OPP_crop.png>
+Package pdftex.def Info: ./images/presentation/Impress_03Inserer_01_OPP_crop.pn
+g used on input line 186.
+(pdftex.def)             Requested size: 147.55087pt x 105.39348pt.
+
+<./images/presentation/Impress_03Inserer_02_OPP_crop.png, id=1583, 515.9275pt x
+ 453.695pt>
+File: ./images/presentation/Impress_03Inserer_02_OPP_crop.png Graphic file (typ
+e png)
+ <use ./images/presentation/Impress_03Inserer_02_OPP_crop.png>
+Package pdftex.def Info: ./images/presentation/Impress_03Inserer_02_OPP_crop.pn
+g used on input line 199.
+(pdftex.def)             Requested size: 515.92624pt x 453.6939pt.
+
+[76 <./images/presentation/Impress_02Creer_02_OPP_crop.png> <./images/presentat
+ion/Impress_02Creer_03_OPP_crop.png> <./images/presentation/Impress_03Inserer_0
+1_OPP_crop.png>]
+<./images/presentation/Impress_03Inserer_03_OPP_crop.png, id=1591, 783.92876pt 
+x 76.285pt>
+File: ./images/presentation/Impress_03Inserer_03_OPP_crop.png Graphic file (typ
+e png)
+ <use ./images/presentation/Impress_03Inserer_03_OPP_crop.png>
+Package pdftex.def Info: ./images/presentation/Impress_03Inserer_03_OPP_crop.pn
+g used on input line 203.
+(pdftex.def)             Requested size: 783.92685pt x 76.2848pt.
+
+Overfull \hbox (27.35066pt too wide) in paragraph at lines 211--212
+[]\T1/lmr/m/n/12 Pour y ac-cé-der, il faut choi-sir l'on-glet \T1/lmtt/m/n/12 A
+ffichage [] \T1/lmr/m/n/12 puis cli-quer sur \T1/lmtt/m/n/12 Trieuse de diaposi
+tives
+ []
+
+
+<./images/presentation/Impress_05Trieuse_01_OPP_crop.png, id=1592, 991.705pt x 
+290.08376pt>
+File: ./images/presentation/Impress_05Trieuse_01_OPP_crop.png Graphic file (typ
+e png)
+ <use ./images/presentation/Impress_05Trieuse_01_OPP_crop.png>
+Package pdftex.def Info: ./images/presentation/Impress_05Trieuse_01_OPP_crop.pn
+g used on input line 213.
+(pdftex.def)             Requested size: 991.70259pt x 290.08304pt.
+
+[77 <./images/presentation/Impress_03Inserer_02_OPP_crop.png> <./images/present
+ation/Impress_03Inserer_03_OPP_crop.png> <./images/presentation/Impress_05Trieu
+se_01_OPP_crop.png>]
+<./images/presentation/Impress_04NouvelleDia_02_OPP_crop.png, id=1597, 395.4775
+pt x 249.93375pt>
+File: ./images/presentation/Impress_04NouvelleDia_02_OPP_crop.png Graphic file 
+(type png)
+
+<use ./images/presentation/Impress_04NouvelleDia_02_OPP_crop.png>
+Package pdftex.def Info: ./images/presentation/Impress_04NouvelleDia_02_OPP_cro
+p.png used on input line 235.
+(pdftex.def)             Requested size: 395.47653pt x 249.93314pt.
+
+<./images/presentation/Impress_04NouvelleDia_03_OPP_crop.png, id=1598, 381.425p
+t x 458.71375pt>
+File: ./images/presentation/Impress_04NouvelleDia_03_OPP_crop.png Graphic file 
+(type png)
+
+<use ./images/presentation/Impress_04NouvelleDia_03_OPP_crop.png>
+Package pdftex.def Info: ./images/presentation/Impress_04NouvelleDia_03_OPP_cro
+p.png used on input line 235.
+(pdftex.def)             Requested size: 381.42406pt x 458.71263pt.
+
+<./images/presentation/Impress_07DiaSansFormat_10.png, id=1599, 927.465pt x 684
+.5575pt>
+File: ./images/presentation/Impress_07DiaSansFormat_10.png Graphic file (type p
+ng)
+ <use ./images/presentation/Impress_07DiaSansFormat_10.png>
+Package pdftex.def Info: ./images/presentation/Impress_07DiaSansFormat_10.png u
+sed on input line 246.
+(pdftex.def)             Requested size: 927.46274pt x 684.55582pt.
+ [78 <./images/presentation/Impress_04NouvelleDia_02_OPP_crop.png> <./images/pr
+esentation/Impress_04NouvelleDia_03_OPP_crop.png> <./images/presentation/Impres
+s_07DiaSansFormat_10.png>]
+<./images/presentation/Impress_07DiaSansFormat_02_OPP_crop.png, id=1605, 554.07
+pt x 516.93124pt>
+File: ./images/presentation/Impress_07DiaSansFormat_02_OPP_crop.png Graphic fil
+e (type png)
+
+<use ./images/presentation/Impress_07DiaSansFormat_02_OPP_crop.png>
+Package pdftex.def Info: ./images/presentation/Impress_07DiaSansFormat_02_OPP_c
+rop.png used on input line 262.
+(pdftex.def)             Requested size: 554.06865pt x 516.92998pt.
+
+<./images/presentation/Impress_07DiaSansFormat_03_OPP_crop.png, id=1606, 1014.7
+9124pt x 74.2775pt>
+File: ./images/presentation/Impress_07DiaSansFormat_03_OPP_crop.png Graphic fil
+e (type png)
+
+<use ./images/presentation/Impress_07DiaSansFormat_03_OPP_crop.png>
+Package pdftex.def Info: ./images/presentation/Impress_07DiaSansFormat_03_OPP_c
+rop.png used on input line 266.
+(pdftex.def)             Requested size: 1014.78877pt x 74.27731pt.
+
+<./images/presentation/Impress_07DiaSansFormat_04_OPP_crop.png, id=1607, 610.28
+pt x 231.86626pt>
+File: ./images/presentation/Impress_07DiaSansFormat_04_OPP_crop.png Graphic fil
+e (type png)
+
+<use ./images/presentation/Impress_07DiaSansFormat_04_OPP_crop.png>
+Package pdftex.def Info: ./images/presentation/Impress_07DiaSansFormat_04_OPP_c
+rop.png used on input line 270.
+(pdftex.def)             Requested size: 610.2785pt x 231.86568pt.
+ [79 <./images/presentation/Impress_07DiaSansFormat_02_OPP_crop.png> <./images/
+presentation/Impress_07DiaSansFormat_03_OPP_crop.png> <./images/presentation/Im
+press_07DiaSansFormat_04_OPP_crop.png>]
+<./images/presentation/Impress_07DiaSansFormat_03_OPP2_crop.png, id=1612, 400.4
+9625pt x 192.72pt>
+File: ./images/presentation/Impress_07DiaSansFormat_03_OPP2_crop.png Graphic fi
+le (type png)
+
+<use ./images/presentation/Impress_07DiaSansFormat_03_OPP2_crop.png>
+Package pdftex.def Info: ./images/presentation/Impress_07DiaSansFormat_03_OPP2_
+crop.png used on input line 285.
+(pdftex.def)             Requested size: 400.49527pt x 192.71951pt.
+
+<./images/presentation/Impress_07DiaSansFormat_04_OPP2_crop.png, id=1613, 339.2
+675pt x 189.70876pt>
+File: ./images/presentation/Impress_07DiaSansFormat_04_OPP2_crop.png Graphic fi
+le (type png)
+
+<use ./images/presentation/Impress_07DiaSansFormat_04_OPP2_crop.png>
+Package pdftex.def Info: ./images/presentation/Impress_07DiaSansFormat_04_OPP2_
+crop.png used on input line 285.
+(pdftex.def)             Requested size: 339.26666pt x 189.70828pt.
+
+<./images/presentation/Impress_07DiaSansFormat_08_OPP_crop.png, id=1614, 737.75
+626pt x 252.945pt>
+File: ./images/presentation/Impress_07DiaSansFormat_08_OPP_crop.png Graphic fil
+e (type png)
+
+<use ./images/presentation/Impress_07DiaSansFormat_08_OPP_crop.png>
+Package pdftex.def Info: ./images/presentation/Impress_07DiaSansFormat_08_OPP_c
+rop.png used on input line 292.
+(pdftex.def)             Requested size: 737.75446pt x 252.94438pt.
+
+<./images/presentation/imageAPmenu_OPP_crop.png, id=1615, 1115.16624pt x 224.84
+pt>
+File: ./images/presentation/imageAPmenu_OPP_crop.png Graphic file (type png)
+ <use ./images/presentation/imageAPmenu_OPP_crop.png>
+Package pdftex.def Info: ./images/presentation/imageAPmenu_OPP_crop.png used on
+ input line 300.
+(pdftex.def)             Requested size: 1115.16353pt x 224.83945pt.
+ [80 <./images/presentation/Impress_07DiaSansFormat_03_OPP2_crop.png> <./images
+/presentation/Impress_07DiaSansFormat_04_OPP2_crop.png> <./images/presentation/
+Impress_07DiaSansFormat_08_OPP_crop.png>]
+<./images/presentation/Impress_08_Transitions_01_OPP_crop.png, id=1620, 749.801
+25pt x 765.86125pt>
+File: ./images/presentation/Impress_08_Transitions_01_OPP_crop.png Graphic file
+ (type png)
+
+<use ./images/presentation/Impress_08_Transitions_01_OPP_crop.png>
+Package pdftex.def Info: ./images/presentation/Impress_08_Transitions_01_OPP_cr
+op.png used on input line 313.
+(pdftex.def)             Requested size: 749.79942pt x 765.85938pt.
+ [81 <./images/presentation/imageAPmenu_OPP_crop.png> <./images/presentation/Im
+press_08_Transitions_01_OPP_crop.png>]
+<./images/presentation/Impress_08_Transitions_02_OPP_crop.png, id=1625, 736.752
+5pt x 325.215pt>
+File: ./images/presentation/Impress_08_Transitions_02_OPP_crop.png Graphic file
+ (type png)
+
+<use ./images/presentation/Impress_08_Transitions_02_OPP_crop.png>
+Package pdftex.def Info: ./images/presentation/Impress_08_Transitions_02_OPP_cr
+op.png used on input line 317.
+(pdftex.def)             Requested size: 736.7507pt x 325.2142pt.
+
+<./images/presentation/Impress_08_Transitions_04_OPP_crop.png, id=1626, 1445.4p
+t x 764.8575pt>
+File: ./images/presentation/Impress_08_Transitions_04_OPP_crop.png Graphic file
+ (type png)
+
+<use ./images/presentation/Impress_08_Transitions_04_OPP_crop.png>
+Package pdftex.def Info: ./images/presentation/Impress_08_Transitions_04_OPP_cr
+op.png used on input line 329.
+(pdftex.def)             Requested size: 1445.39648pt x 764.85562pt.
+ [82 <./images/presentation/Impress_08_Transitions_02_OPP_crop.png> <./images/p
+resentation/Impress_08_Transitions_04_OPP_crop.png>]
+<./images/presentation/Impress_06Notes_01_OPP_crop.png, id=1632, 341.275pt x 49
+.18375pt>
+File: ./images/presentation/Impress_06Notes_01_OPP_crop.png Graphic file (type 
+png)
+ <use ./images/presentation/Impress_06Notes_01_OPP_crop.png>
+Package pdftex.def Info: ./images/presentation/Impress_06Notes_01_OPP_crop.png 
+used on input line 351.
+(pdftex.def)             Requested size: 341.27415pt x 49.18361pt.
+
+<./images/presentation/Impress_06Notes_02_OPP_crop.png, id=1633, 1285.80376pt x
+ 200.75pt>
+File: ./images/presentation/Impress_06Notes_02_OPP_crop.png Graphic file (type 
+png)
+ <use ./images/presentation/Impress_06Notes_02_OPP_crop.png>
+Package pdftex.def Info: ./images/presentation/Impress_06Notes_02_OPP_crop.png 
+used on input line 355.
+(pdftex.def)             Requested size: 1285.80063pt x 200.7495pt.
+
+<./images/presentation/Impress1_impression01_OPP_crop.png, id=1634, 822.07124pt
+ x 380.42125pt>
+File: ./images/presentation/Impress1_impression01_OPP_crop.png Graphic file (ty
+pe png)
+ <use ./images/presentation/Impress1_impression01_OPP_crop.png>
+Package pdftex.def Info: ./images/presentation/Impress1_impression01_OPP_crop.p
+ng used on input line 368.
+(pdftex.def)             Requested size: 822.06923pt x 380.4203pt.
+
+[83 <./images/presentation/Impress_06Notes_01_OPP_crop.png> <./images/presentat
+ion/Impress_06Notes_02_OPP_crop.png> <./images/presentation/Impress1_impression
+01_OPP_crop.png>]
+<./images/presentation/Impress1_impression02_OPP_crop.png, id=1639, 508.90125pt
+ x 549.05125pt>
+File: ./images/presentation/Impress1_impression02_OPP_crop.png Graphic file (ty
+pe png)
+ <use ./images/presentation/Impress1_impression02_OPP_crop.png>
+Package pdftex.def Info: ./images/presentation/Impress1_impression02_OPP_crop.p
+ng used on input line 372.
+(pdftex.def)             Requested size: 508.90001pt x 549.04991pt.
+
+<./images/presentation/Impress1_impression03_OPP_crop.png, id=1640, 437.635pt x
+ 135.50626pt>
+File: ./images/presentation/Impress1_impression03_OPP_crop.png Graphic file (ty
+pe png)
+ <use ./images/presentation/Impress1_impression03_OPP_crop.png>
+Package pdftex.def Info: ./images/presentation/Impress1_impression03_OPP_crop.p
+ng used on input line 380.
+(pdftex.def)             Requested size: 437.63393pt x 135.5059pt.
+)
+(./sources/image01/image01.tex [84 <./images/presentation/Impress1_impression02
+_OPP_crop.png> <./images/presentation/Impress1_impression03_OPP_crop.png>]
 Chapitre 6.
 File: ./images/chapitreVinci.png Graphic file (type png)
 <use ./images/chapitreVinci.png>
 Package pdftex.def Info: ./images/chapitreVinci.png used on input line 1.
 (pdftex.def)             Requested size: 597.50787pt x 284.21223pt.
- [87]
-<./images/activites/ActiviteParisTableauPopulation.jpg, id=1559, 236.5638pt x 3
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--4
+
+ []
+
+[85
+
+]
+File: ./images/generales/loupe.png Graphic file (type png)
+ <use ./images/generales/loupe.png>
+Package pdftex.def Info: ./images/generales/loupe.png used on input line 44.
+(pdftex.def)             Requested size: 409.52899pt x 42.15738pt.
+
+<./images/generales/loupeRechercheGimp.png, id=1653, 685.56125pt x 59.22125pt>
+File: ./images/generales/loupeRechercheGimp.png Graphic file (type png)
+
+<use ./images/generales/loupeRechercheGimp.png>
+Package pdftex.def Info: ./images/generales/loupeRechercheGimp.png used on inpu
+t line 48.
+(pdftex.def)             Requested size: 685.55957pt x 59.22108pt.
+
+<./images/gimp/GimpInterface.png, id=1654, 1443.3925pt x 883.3pt>
+File: ./images/gimp/GimpInterface.png Graphic file (type png)
+
+<use ./images/gimp/GimpInterface.png>
+Package pdftex.def Info: ./images/gimp/GimpInterface.png used on input line 53.
+
+(pdftex.def)             Requested size: 1443.38899pt x 883.29785pt.
+
+<./images/gimp/GimpMenuFenetre2.png, id=1655, 344.487pt x 137.313pt>
+File: ./images/gimp/GimpMenuFenetre2.png Graphic file (type png)
+
+<use ./images/gimp/GimpMenuFenetre2.png>
+Package pdftex.def Info: ./images/gimp/GimpMenuFenetre2.png used on input line 
+64.
+(pdftex.def)             Requested size: 344.48615pt x 137.31265pt.
+
+<./images/gimp/GimpOuvrirFichier.png, id=1657, 354.123pt x 175.857pt>
+File: ./images/gimp/GimpOuvrirFichier.png Graphic file (type png)
+
+<use ./images/gimp/GimpOuvrirFichier.png>
+Package pdftex.def Info: ./images/gimp/GimpOuvrirFichier.png used on input line
+ 87.
+(pdftex.def)             Requested size: 354.12212pt x 175.85657pt.
+ [86 <./images/generales/loupeRechercheGimp.png> <./images/gimp/GimpInterface.p
+ng (PNG copy)> <./images/gimp/GimpMenuFenetre2.png>]
+<./images/gimp/GimpOuvrirFichier2.png, id=1666, 497.057pt x 350.108pt>
+File: ./images/gimp/GimpOuvrirFichier2.png Graphic file (type png)
+
+<use ./images/gimp/GimpOuvrirFichier2.png>
+Package pdftex.def Info: ./images/gimp/GimpOuvrirFichier2.png used on input lin
+e 91.
+(pdftex.def)             Requested size: 497.0558pt x 350.10713pt.
+File: ./images/generales/clavierCmdS.png Graphic file (type png)
+
+<use ./images/generales/clavierCmdS.png>
+Package pdftex.def Info: ./images/generales/clavierCmdS.png used on input line 
+99.
+(pdftex.def)             Requested size: 196.57391pt x 72.63116pt.
+
+<./images/gimp/photoFlorimontReduite.png, id=1667, 106.9596pt x 49.6254pt>
+File: ./images/gimp/photoFlorimontReduite.png Graphic file (type png)
+
+<use ./images/gimp/photoFlorimontReduite.png>
+Package pdftex.def Info: ./images/gimp/photoFlorimontReduite.png used on input 
+line 113.
+(pdftex.def)             Requested size: 318.66948pt x 147.88078pt.
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 113--114
+[][][][][][][]
+ []
+
+[87 <./images/gimp/GimpOuvrirFichier.png> <./images/gimp/GimpOuvrirFichier2.png
+>] [88 <./images/gimp/photoFlorimontReduite.png>]
+File: ./images/generales/clavierCmdS.png Graphic file (type png)
+
+<use ./images/generales/clavierCmdS.png>
+Package pdftex.def Info: ./images/generales/clavierCmdS.png used on input line 
+154.
+(pdftex.def)             Requested size: 196.57391pt x 72.63116pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--161
+
+ []
+
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 161--162
+[][][][][][][]
+ []
+
+[89]
+File: ./images/generales/clavierCmdS.png Graphic file (type png)
+ <use ./images/generales/clavierCmdS.png>
+Package pdftex.def Info: ./images/generales/clavierCmdS.png used on input line 
+191.
+(pdftex.def)             Requested size: 196.57391pt x 72.63116pt.
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 203--204
+[][][][][][][]
+ []
+
+<./images/gimp/vitrauxSmall.png, id=1691, 334.24875pt x 501.875pt>
+File: ./images/gimp/vitrauxSmall.png Graphic file (type png)
+
+<use ./images/gimp/vitrauxSmall.png>
+Package pdftex.def Info: ./images/gimp/vitrauxSmall.png used on input line 209.
+
+(pdftex.def)             Requested size: 334.24792pt x 501.87376pt.
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 209--210
+[][][][][][][]
+ []
+
+[90]
+<./images/generales/clavierCapEcran.png, id=1698, 233.07076pt x 121.23293pt>
+File: ./images/generales/clavierCapEcran.png Graphic file (type png)
+
+<use ./images/generales/clavierCapEcran.png>
+Package pdftex.def Info: ./images/generales/clavierCapEcran.png used on input l
+ine 234.
+(pdftex.def)             Requested size: 233.07018pt x 121.2326pt.
+ [91 <./images/gimp/vitrauxSmall.png (PNG copy)> <./images/generales/clavierCap
+Ecran.png>]
+<./images/gimp/GimpCollerCommeImage.png, id=1705, 533.995pt x 243.309pt>
+File: ./images/gimp/GimpCollerCommeImage.png Graphic file (type png)
+
+<use ./images/gimp/GimpCollerCommeImage.png>
+Package pdftex.def Info: ./images/gimp/GimpCollerCommeImage.png used on input l
+ine 239.
+(pdftex.def)             Requested size: 533.9937pt x 243.30841pt.
+ [92 <./images/gimp/GimpCollerCommeImage.png>] <./images/gimp/cutter.png, id=17
+12, 27.10126pt x 26.0975pt>
+File: ./images/gimp/cutter.png Graphic file (type png)
+
+<use ./images/gimp/cutter.png>
+Package pdftex.def Info: ./images/gimp/cutter.png used on input line 256.
+(pdftex.def)             Requested size: 18.2067pt x 17.533pt.
+
+<./images/gimp/GimpDecouper1.png, id=1713, 753.81625pt x 422.57875pt>
+File: ./images/gimp/GimpDecouper1.png Graphic file (type png)
+
+<use ./images/gimp/GimpDecouper1.png>
+Package pdftex.def Info: ./images/gimp/GimpDecouper1.png used on input line 260
+.
+(pdftex.def)             Requested size: 753.81442pt x 422.57771pt.
+
+<./images/gimp/GimpEnregistrerFichier.png, id=1714, 497.86pt x 387.849pt>
+File: ./images/gimp/GimpEnregistrerFichier.png Graphic file (type png)
+
+<use ./images/gimp/GimpEnregistrerFichier.png>
+Package pdftex.def Info: ./images/gimp/GimpEnregistrerFichier.png used on input
+ line 278.
+(pdftex.def)             Requested size: 497.85878pt x 387.84804pt.
+
+Underfull \vbox (badness 1478) has occurred while \output is active []
+
+ [93 <./images/gimp/cutter.png> <./images/gimp/GimpDecouper1.png>]
+File: ./images/generales/clavierCmdS.png Graphic file (type png)
+
+<use ./images/generales/clavierCmdS.png>
+Package pdftex.def Info: ./images/generales/clavierCmdS.png used on input line 
+282.
+(pdftex.def)             Requested size: 196.57391pt x 72.63116pt.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 286--286
+[] 
+ []
+
+[94 <./images/gimp/GimpEnregistrerFichier.png>]
+<./images/gimp/GimpExportAs1.png, id=1729, 551.661pt x 362.153pt>
+File: ./images/gimp/GimpExportAs1.png Graphic file (type png)
+
+<use ./images/gimp/GimpExportAs1.png>
+Package pdftex.def Info: ./images/gimp/GimpExportAs1.png used on input line 306
+.
+(pdftex.def)             Requested size: 551.65965pt x 362.1521pt.
+
+<./images/gimp/GimpExportAs2.png, id=1730, 227.249pt x 191.917pt>
+File: ./images/gimp/GimpExportAs2.png Graphic file (type png)
+
+<use ./images/gimp/GimpExportAs2.png>
+Package pdftex.def Info: ./images/gimp/GimpExportAs2.png used on input line 306
+.
+(pdftex.def)             Requested size: 227.24841pt x 191.91653pt.
+
+<./images/gimp/GimpTailleCanevas1.png, id=1731, 529.98pt x 159.797pt>
+File: ./images/gimp/GimpTailleCanevas1.png Graphic file (type png)
+
+<use ./images/gimp/GimpTailleCanevas1.png>
+Package pdftex.def Info: ./images/gimp/GimpTailleCanevas1.png used on input lin
+e 324.
+(pdftex.def)             Requested size: 529.97868pt x 159.79659pt.
+
+<./images/gimp/GimpTailleCanevas2.png, id=1732, 435.226pt x 373.395pt>
+File: ./images/gimp/GimpTailleCanevas2.png Graphic file (type png)
+
+<use ./images/gimp/GimpTailleCanevas2.png>
+Package pdftex.def Info: ./images/gimp/GimpTailleCanevas2.png used on input lin
+e 333.
+(pdftex.def)             Requested size: 435.22493pt x 373.39409pt.
+ [95 <./images/gimp/GimpExportAs1.png> <./images/gimp/GimpExportAs2.png> <./ima
+ges/gimp/GimpTailleCanevas1.png>]
+<./images/gimp/GimpTailleCanevas3.png, id=1741, 433.62pt x 373.395pt>
+File: ./images/gimp/GimpTailleCanevas3.png Graphic file (type png)
+
+<use ./images/gimp/GimpTailleCanevas3.png>
+Package pdftex.def Info: ./images/gimp/GimpTailleCanevas3.png used on input lin
+e 343.
+(pdftex.def)             Requested size: 433.61894pt x 373.39409pt.
+
+<./images/gimp/GimpTailleCanevas4.png, id=1742, 701.62125pt x 459.7175pt>
+File: ./images/gimp/GimpTailleCanevas4.png Graphic file (type png)
+
+<use ./images/gimp/GimpTailleCanevas4.png>
+Package pdftex.def Info: ./images/gimp/GimpTailleCanevas4.png used on input lin
+e 346.
+(pdftex.def)             Requested size: 701.61952pt x 459.71637pt.
+ [96 <./images/gimp/GimpTailleCanevas2.png> <./images/gimp/GimpTailleCanevas3.p
+ng>]
+<./images/gimp/GimpLuminositeContraste1.png, id=1749, 635.173pt x 118.041pt>
+File: ./images/gimp/GimpLuminositeContraste1.png Graphic file (type png)
+
+<use ./images/gimp/GimpLuminositeContraste1.png>
+Package pdftex.def Info: ./images/gimp/GimpLuminositeContraste1.png used on inp
+ut line 369.
+(pdftex.def)             Requested size: 635.17145pt x 118.0407pt.
+
+<./images/gimp/GimpLuminositeContraste2.png, id=1750, 339.669pt x 189.508pt>
+File: ./images/gimp/GimpLuminositeContraste2.png Graphic file (type png)
+
+<use ./images/gimp/GimpLuminositeContraste2.png>
+Package pdftex.def Info: ./images/gimp/GimpLuminositeContraste2.png used on inp
+ut line 373.
+(pdftex.def)             Requested size: 339.66817pt x 189.50752pt.
+
+Underfull \vbox (badness 2635) has occurred while \output is active []
+
+ [97 <./images/gimp/GimpTailleCanevas4.png (PNG copy)> <./images/gimp/GimpLumin
+ositeContraste1.png>]) (./sources/ideesProjets.tex [98 <./images/gimp/GimpLumin
+ositeContraste2.png>]
+Chapitre 7.
+File: ./images/chapitreVinci.png Graphic file (type png)
+<use ./images/chapitreVinci.png>
+Package pdftex.def Info: ./images/chapitreVinci.png used on input line 1.
+(pdftex.def)             Requested size: 597.50787pt x 284.21223pt.
+ [99
+
+]
+<./images/activites/ActiviteParisTableauPopulation.jpg, id=1765, 236.5638pt x 3
 75.3222pt>
 File: ./images/activites/ActiviteParisTableauPopulation.jpg Graphic file (type 
 jpg)
@@ -3313,7 +3679,7 @@ Package pdftex.def Info: ./images/activites/ActiviteParisTableauPopulation.jpg
 used on input line 36.
 (pdftex.def)             Requested size: 236.5632pt x 375.32129pt.
 
-<./images/activites/ActiviteParisGraphiquePopulation.jpg, id=1560, 382.0674pt x
+<./images/activites/ActiviteParisGraphiquePopulation.jpg, id=1766, 382.0674pt x
  255.8358pt>
 File: ./images/activites/ActiviteParisGraphiquePopulation.jpg Graphic file (typ
 e jpg)
@@ -3322,17 +3688,17 @@ Package pdftex.def Info: ./images/activites/ActiviteParisGraphiquePopulation.jp
 g used on input line 36.
 (pdftex.def)             Requested size: 382.06645pt x 255.83517pt.
 
-<./images/activites/ActiviteParisImageVille.jpg, id=1561, 1263.72125pt x 608.27
+<./images/activites/ActiviteParisImageVille.jpg, id=1767, 1263.72125pt x 608.27
 25pt>
 File: ./images/activites/ActiviteParisImageVille.jpg Graphic file (type jpg)
  <use ./images/activites/ActiviteParisImageVille.jpg>
 Package pdftex.def Info: ./images/activites/ActiviteParisImageVille.jpg used on
  input line 42.
 (pdftex.def)             Requested size: 1263.71819pt x 608.27103pt.
- [88 <./images/activites/ActiviteParisTableauPopulation.jpg> <./images/activite
-s/ActiviteParisGraphiquePopulation.jpg> <./images/activites/ActiviteParisImageV
-ille.jpg>]
-<./images/activites/ScratchAllerPlusLoinImage1.png, id=1568, 270.00874pt x 332.
+ [100 <./images/activites/ActiviteParisTableauPopulation.jpg> <./images/activit
+es/ActiviteParisGraphiquePopulation.jpg> <./images/activites/ActiviteParisImage
+Ville.jpg>]
+<./images/activites/ScratchAllerPlusLoinImage1.png, id=1775, 270.00874pt x 332.
 24126pt>
 File: ./images/activites/ScratchAllerPlusLoinImage1.png Graphic file (type png)
 
@@ -3341,7 +3707,7 @@ Package pdftex.def Info: ./images/activites/ScratchAllerPlusLoinImage1.png used
  on input line 59.
 (pdftex.def)             Requested size: 270.00807pt x 332.24043pt.
 
-<./images/activites/ScratchAllerPlusLoinImage2.png, id=1569, 262.9825pt x 129.4
+<./images/activites/ScratchAllerPlusLoinImage2.png, id=1776, 262.9825pt x 129.4
 8375pt>
 File: ./images/activites/ScratchAllerPlusLoinImage2.png Graphic file (type png)
 
@@ -3351,11 +3717,20 @@ Package pdftex.def Info: ./images/activites/ScratchAllerPlusLoinImage2.png used
 (pdftex.def)             Requested size: 262.98184pt x 129.48341pt.
 )
 No file nouveau_livret_MITIC_6e.ind.
-[89 <./images/activites/ScratchAllerPlusLoinImage1.png> <./images/activites/Scr
-atchAllerPlusLoinImage2.png (PNG copy)>]
+[101 <./images/activites/ScratchAllerPlusLoinImage1.png> <./images/activites/Sc
+ratchAllerPlusLoinImage2.png (PNG copy)>]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 50.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 50.
  (./nouveau_livret_MITIC_6e.aux
+<Reading QR code for "https://web.microsoftstream.com/video/354eec0a-c312-4acc-
+ac36-683ebf10443f" at level 5-M from aux file.>
+
+<Reading QR code for "https://web.microsoftstream.com/video/95afdc0a-b4b4-4587-
+9163-ce5e0b7c14b6" at level 5-M from aux file.>
+
+<Reading QR code for "https://web.microsoftstream.com/video/6a77d6c6-3fd6-4a71-
+a1e1-0d0b4ebdd050" at level 5-M from aux file.>
+
 <Reading QR code for "https://web.microsoftstream.com/video/aa9246de-61ad-4072-
 922c-1251a5bd8414" at level 5-M from aux file.>
 
@@ -3364,12 +3739,6 @@ a09d-6b21e8eb06ea" at level 5-M from aux file.>
 
 <Reading QR code for "https://web.microsoftstream.com/video/a6d62817-5809-4e7b-
 a9c4-0cc79aa37802" at level 5-M from aux file.>
-
-<Reading QR code for "https://web.microsoftstream.com/video/354eec0a-c312-4acc-
-ac36-683ebf10443f" at level 5-M from aux file.>
-
-<Reading QR code for "https://web.microsoftstream.com/video/95afdc0a-b4b4-4587-
-9163-ce5e0b7c14b6" at level 5-M from aux file.>
 
 <Reading QR code for "https://web.microsoftstream.com/video/8ed24c7a-66c0-4ab6-
 9aa3-95ebdfc80ed6" at level 5-M from aux file.>
@@ -3384,7 +3753,7 @@ Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 50.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 50.
 Package rerunfilecheck Info: File `nouveau_livret_MITIC_6e.out' has not changed
 .
-(rerunfilecheck)             Checksum: 4ACB7FE821ECF6C31CECA44E93650C6B;7193.
+(rerunfilecheck)             Checksum: 18D1619B36083A1BE8D31BB8D4CE5583;7881.
 
 
 LaTeX Warning: There were undefined references.
@@ -3395,10 +3764,10 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 50.
  ) 
 Here is how much of TeX's memory you used:
- 21021 strings out of 493014
- 394235 string characters out of 6133351
- 488406 words of memory out of 5000000
- 23619 multiletter control sequences out of 15000+600000
+ 21272 strings out of 493014
+ 403636 string characters out of 6133351
+ 494408 words of memory out of 5000000
+ 23790 multiletter control sequences out of 15000+600000
  127899 words of font info for 76 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  62i,12n,56p,1614b,1081s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -3423,10 +3792,10 @@ texmf-dist/fonts/type1/public/lm/lmro12.pfb></usr/local/texlive/2016/texmf-dist
 m/lmtk10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmtt10.p
 fb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmtt12.pfb></usr/l
 ocal/texlive/2016/texmf-dist/fonts/type1/public/lm/lmtto10.pfb>
-Output written on nouveau_livret_MITIC_6e.pdf (103 pages, 13341881 bytes).
+Output written on nouveau_livret_MITIC_6e.pdf (116 pages, 15879591 bytes).
 PDF statistics:
- 1712 PDF objects out of 1728 (max. 8388607)
- 1192 compressed objects within 12 object streams
- 294 named destinations out of 1000 (max. 500000)
- 1675 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1928 PDF objects out of 2073 (max. 8388607)
+ 1345 compressed objects within 14 object streams
+ 331 named destinations out of 1000 (max. 500000)
+ 1892 words of extra memory for PDF output out of 10000 (max. 10000000)
 
