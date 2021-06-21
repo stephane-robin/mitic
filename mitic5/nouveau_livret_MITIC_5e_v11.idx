@@ -1,27 +1,95 @@
-\indexentry{Clavier|hyperpage}{viii}
-\indexentry{Touches sp\IeC {\'e}ciales|hyperpage}{viii}
-\indexentry{Calc!S\IeC {\'e}parateur d\IeC {\'e}cimal|hyperpage}{10}
-\indexentry{S\IeC {\'e}parateur d\IeC {\'e}cimal (Calc)|hyperpage}{10}
-\indexentry{Calc!Changer les points en virgules|hyperpage}{10}
-\indexentry{Changer les points en virgules (Calc)|hyperpage}{10}
-\indexentry{Virgule ou point ? (Calc)|hyperpage}{10}
-\indexentry{Calc!Formater le contenu d'une cellule|hyperpage}{11}
-\indexentry{Formater le contenu d'une cellule (Calc)|hyperpage}{11}
-\indexentry{Calc!Formater la page|hyperpage}{13}
-\indexentry{Formater la page (Calc)|hyperpage}{13}
-\indexentry{Calc!Ajouter courbe de tendance|hyperpage}{16}
-\indexentry{Ajouter une courbe de tendance (Calc)|hyperpage}{16}
-\indexentry{Calc!Cr\IeC {\'e}er un diagramme circulaire|hyperpage}{17}
-\indexentry{Cr\IeC {\'e}er un diagramme circulaire (Calc)|hyperpage}{17}
-\indexentry{Scratch!Cr\IeC {\'e}er une variable|hyperpage}{25}
-\indexentry{Cr\IeC {\'e}er une variable (Scratch)|hyperpage}{25}
-\indexentry{Scratch!Variables|hyperpage}{26}
-\indexentry{Variables (Scratch)|hyperpage}{26}
-\indexentry{Scratch!Effacer l'\IeC {\'e}cran|hyperpage}{28}
-\indexentry{Effacer l'\IeC {\'e}cran (Scratch)|hyperpage}{28}
-\indexentry{Scratch!Si..alors..sinon|hyperpage}{31}
-\indexentry{Si..alors..sinon (Scratch)|hyperpage}{31}
-\indexentry{Scratch!Boucle infinie|hyperpage}{32}
-\indexentry{Boucle infinie (Scratch)|hyperpage}{32}
-\indexentry{Scratch!Ajouter un objet en le dessinant|hyperpage}{34}
-\indexentry{Ajouter un objet en le dessinant (Scratch)|hyperpage}{34}
+\indexentry{Calendrier des activit\IeC {\'e}s|hyperpage}{ix}
+\indexentry{Clavier|hyperpage}{xi}
+\indexentry{Touches sp\IeC {\'e}ciales|hyperpage}{xi}
+\indexentry{Writer!Ins\IeC {\'e}rer un tableau|hyperpage}{23}
+\indexentry{Ins\IeC {\'e}rer un tableau (Writer)|hyperpage}{23}
+\indexentry{Writer!Tableau, centrer le contenu d'une cellule|hyperpage}{25}
+\indexentry{Tableau, centrer le contenu d'une cellule (Writer)|hyperpage}{25}
+\indexentry{Writer!Tableau, supprimer le tableau|hyperpage}{25}
+\indexentry{Tableau, supprimer le tableau (Writer)|hyperpage}{25}
+\indexentry{Writer!Liste \IeC {\`a} puces|hyperpage}{25}
+\indexentry{Liste \IeC {\`a} puces (Writer)|hyperpage}{25}
+\indexentry{Writer!Lien hypertexte|hyperpage}{27}
+\indexentry{Lien hypertexte (Writer)|hyperpage}{27}
+\indexentry{Writer!Note de bas de page|hyperpage}{28}
+\indexentry{Note de bas de page (Writer)|hyperpage}{28}
+\indexentry{Writer!Correcteur d'orthographe|hyperpage}{30}
+\indexentry{Correcteur d'orthographe (Writer)|hyperpage}{30}
+\indexentry{Writer!Image, adapter le texte|hyperpage}{32}
+\indexentry{Image, adapter le texte (Writer)|hyperpage}{32}
+\indexentry{Calc!S\IeC {\'e}parateur d\IeC {\'e}cimal|hyperpage}{46}
+\indexentry{S\IeC {\'e}parateur d\IeC {\'e}cimal (Calc)|hyperpage}{46}
+\indexentry{Calc!Changer les points en virgules|hyperpage}{46}
+\indexentry{Changer les points en virgules (Calc)|hyperpage}{46}
+\indexentry{Virgule ou point ? (Calc)|hyperpage}{46}
+\indexentry{Calc!Formater le contenu d'une cellule|hyperpage}{47}
+\indexentry{Formater le contenu d'une cellule (Calc)|hyperpage}{47}
+\indexentry{Calc!Formater la page|hyperpage}{49}
+\indexentry{Formater la page (Calc)|hyperpage}{49}
+\indexentry{Calc!Ajouter courbe de tendance|hyperpage}{52}
+\indexentry{Ajouter une courbe de tendance (Calc)|hyperpage}{52}
+\indexentry{Calc!Cr\IeC {\'e}er un diagramme circulaire|hyperpage}{53}
+\indexentry{Cr\IeC {\'e}er un diagramme circulaire (Calc)|hyperpage}{53}
+\indexentry{Scratch!Cr\IeC {\'e}er une variable|hyperpage}{61}
+\indexentry{Cr\IeC {\'e}er une variable (Scratch)|hyperpage}{61}
+\indexentry{Scratch!Variables|hyperpage}{62}
+\indexentry{Variables (Scratch)|hyperpage}{62}
+\indexentry{Scratch!Effacer l'\IeC {\'e}cran|hyperpage}{64}
+\indexentry{Effacer l'\IeC {\'e}cran (Scratch)|hyperpage}{64}
+\indexentry{Scratch!Si..alors..sinon|hyperpage}{67}
+\indexentry{Si..alors..sinon (Scratch)|hyperpage}{67}
+\indexentry{Scratch!Boucle infinie|hyperpage}{68}
+\indexentry{Boucle infinie (Scratch)|hyperpage}{68}
+\indexentry{Scratch!Ajouter un objet en le dessinant|hyperpage}{70}
+\indexentry{Ajouter un objet en le dessinant (Scratch)|hyperpage}{70}
+\indexentry{Gimp!Ajouter un texte sur une image|hyperpage}{78}
+\indexentry{Ajouter un texte sur une image (Gimp)|hyperpage}{78}
+\indexentry{Gimp!Calques|hyperpage}{79}
+\indexentry{Calques (Gimp)|hyperpage}{79}
+\indexentry{Gimp!Appliquer un filtre|hyperpage}{79}
+\indexentry{Appliquer un filtre (Gimp)|hyperpage}{79}
+\indexentry{Gimp!Convertir en niveaux de gris|hyperpage}{80}
+\indexentry{Convertir en niveaux de gris (Gimp)|hyperpage}{80}
+\indexentry{Calques|hyperpage}{81}
+\indexentry{Gimp!Calques|hyperpage}{81}
+\indexentry{Calques : ajouter|hyperpage}{82}
+\indexentry{Gimp!Ajouter un calque|hyperpage}{82}
+\indexentry{Calques : changer de calque actif|hyperpage}{82}
+\indexentry{Gimp!Changer de calque actif|hyperpage}{82}
+\indexentry{Calques : modifier l'opacit\IeC {\'e}|hyperpage}{82}
+\indexentry{Gimp!Modifier l'opacit\IeC {\'e} d'un calque|hyperpage}{82}
+\indexentry{Calques : modifier la pile des calques|hyperpage}{83}
+\indexentry{Gimp!Modifier la pile des calques|hyperpage}{83}
+\indexentry{Calques : d\IeC {\'e}placer le calque|hyperpage}{83}
+\indexentry{Gimp!D\IeC {\'e}placer un calque|hyperpage}{83}
+\indexentry{Capture d'\IeC {\'e}cran|hyperpage}{84}
+\indexentry{Gimp!Capture d'\IeC {\'e}cran|hyperpage}{84}
+\indexentry{Raccourci Clavier! Ctrl + Maj + Cmd + 3, copier tout l'\IeC {\'e}cran|hyperpage}{84}
+\indexentry{Raccourci Clavier! Ctrl + Maj + Cmd + 4, copier une partie de l'\IeC {\'e}cran|hyperpage}{84}
+\indexentry{Audacity!Interface graphique|hyperpage}{86}
+\indexentry{Interface graphique (Audacity)|hyperpage}{86}
+\indexentry{Audacity!Barre de menu principale|hyperpage}{86}
+\indexentry{Barre de menu principale (Audacity)|hyperpage}{86}
+\indexentry{Audacity!Palette d'outils|hyperpage}{86}
+\indexentry{Palette d'outils (Audacity)|hyperpage}{86}
+\indexentry{Audacity!R\IeC {\'e}glage des volumes|hyperpage}{86}
+\indexentry{R\IeC {\'e}glage des volumes (Audacity)|hyperpage}{86}
+\indexentry{Audacity!St\IeC {\'e}r\IeC {\'e}o vers mono|hyperpage}{90}
+\indexentry{St\IeC {\'e}r\IeC {\'e}o vers mono (Audacity)|hyperpage}{90}
+\indexentry{Audacity!Ajouter une piste|hyperpage}{91}
+\indexentry{Ajouter une piste (Audacity)|hyperpage}{91}
+\indexentry{Audacity!Copier et coller|hyperpage}{92}
+\indexentry{Copier et coller (Audacity)|hyperpage}{92}
+\indexentry{Audacity!Outils de glissement temporel|hyperpage}{94}
+\indexentry{Glissement temporel (Audacity)|hyperpage}{94}
+\indexentry{Audacity!Rendre silencieux|hyperpage}{94}
+\indexentry{Silence (Audacity)|hyperpage}{94}
+\indexentry{Audacity!Raccorder|hyperpage}{95}
+\indexentry{Raccorder (Audacity)|hyperpage}{95}
+\indexentry{Audacity!Fondu|hyperpage}{95}
+\indexentry{Fondu (Audacity)|hyperpage}{95}
+\indexentry{Audacity!Modifier le volume|hyperpage}{96}
+\indexentry{Volume, modifier (Audacity)|hyperpage}{96}
+\indexentry{Audacity!Exporter en MP3 ou WAV|hyperpage}{97}
+\indexentry{MP3 export (Audacity)|hyperpage}{97}
+\indexentry{WAV export (Audacity)|hyperpage}{97}
