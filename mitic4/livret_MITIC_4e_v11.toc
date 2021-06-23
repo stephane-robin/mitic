@@ -10,134 +10,130 @@
 \contentsline {section}{\numberline {6}Rejoindre une visio-conf\IeC {\'e}rence}{9}{section.1.6}
 \contentsline {section}{\numberline {7}Pour aller plus loin}{10}{section.1.7}
 \contentsline {subsection}{\numberline {7.1}Apparence de la page d'accueil}{10}{subsection.1.7.1}
-\contentsline {subsection}{\numberline {7.2}Activit\IeC {\'e} d'exploration de Teams}{11}{subsection.1.7.2}
-\contentsline {chapter}{\numberline {2}Tableur}{13}{chapter.2}
-\contentsline {section}{\numberline {1}S\IeC {\'e}ance 1 : Moyennes avec coefficients}{14}{section.2.1}
-\contentsline {subsection}{\numberline {1.1}Travail de pr\IeC {\'e}paration...}{14}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {7.2}Activit\IeC {\'e} d'exploration de Teams}{12}{subsection.1.7.2}
+\contentsline {chapter}{\numberline {2}Traitement de texte}{13}{chapter.2}
+\contentsline {section}{\numberline {1}S\IeC {\'e}ance 1 : Un expos\IeC {\'e} sur un pays}{14}{section.2.1}
+\contentsline {subsection}{\numberline {1.1}Pour pr\IeC {\'e}parer l'activit\IeC {\'e}...}{14}{subsection.2.1.1}
 \contentsline {subsection}{\numberline {1.2}Pour bien d\IeC {\'e}marrer...}{14}{subsection.2.1.2}
-\contentsline {subsection}{\numberline {1.3}Sujet de l'activit\IeC {\'e}...}{15}{subsection.2.1.3}
+\contentsline {subsection}{\numberline {1.3}Sujet de l'activit\IeC {\'e}...}{14}{subsection.2.1.3}
 \contentsline {subsection}{\numberline {1.4}Pour aller plus loin...}{15}{subsection.2.1.4}
-\contentsline {section}{\numberline {2}S\IeC {\'e}ance 2 : Traitement de donn\IeC {\'e}es}{17}{section.2.2}
-\contentsline {subsection}{\numberline {2.1}Travail de pr\IeC {\'e}paration...}{17}{subsection.2.2.1}
-\contentsline {subsection}{\numberline {2.2}Pour bien d\IeC {\'e}marrer...}{17}{subsection.2.2.2}
-\contentsline {subsection}{\numberline {2.3}Sujet de l'activit\IeC {\'e}...}{17}{subsection.2.2.3}
+\contentsline {section}{\numberline {2}S\IeC {\'e}ance 2 : Une fiche de lecture}{16}{section.2.2}
+\contentsline {subsection}{\numberline {2.1}Pour pr\IeC {\'e}parer l'activit\IeC {\'e}...}{16}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2}Pour bien d\IeC {\'e}marrer...}{16}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.3}Sujet de l'activit\IeC {\'e}...}{16}{subsection.2.2.3}
 \contentsline {subsection}{\numberline {2.4}Pour aller plus loin...}{17}{subsection.2.2.4}
-\contentsline {section}{\numberline {3}S\IeC {\'e}ance 3 : Ressources en eau (g\IeC {\'e}ographie)}{18}{section.2.3}
-\contentsline {subsection}{\numberline {3.1}Pour bien d\IeC {\'e}marrer...}{18}{subsection.2.3.1}
-\contentsline {subsection}{\numberline {3.2}Sujet de l'activit\IeC {\'e}...}{18}{subsection.2.3.2}
-\contentsline {subsection}{\numberline {3.3}Guide pour r\IeC {\'e}aliser l'activit\IeC {\'e}...}{18}{subsection.2.3.3}
-\contentsline {subsubsection}{Ressources en eau par habitants}{18}{section*.7}
-\contentsline {subsubsection}{Ressources en eau par km\up {2}}{19}{section*.8}
-\contentsline {subsubsection}{Ressources en eau totales}{19}{section*.9}
-\contentsline {subsubsection}{Ressources en eau, classement des pays en trois groupes}{19}{section*.10}
+\contentsline {section}{\numberline {3}S\IeC {\'e}ance 3 : R\IeC {\'e}daction d'un cours de math\IeC {\'e}matiques}{18}{section.2.3}
+\contentsline {subsection}{\numberline {3.1}Pour pr\IeC {\'e}parer l'activit\IeC {\'e}...}{18}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {3.2}Pour bien d\IeC {\'e}marrer...}{18}{subsection.2.3.2}
+\contentsline {subsection}{\numberline {3.3}Sujet de l'activit\IeC {\'e}...}{18}{subsection.2.3.3}
 \contentsline {subsection}{\numberline {3.4}Pour aller plus loin...}{20}{subsection.2.3.4}
 \contentsline {section}{\numberline {4}Aide pour r\IeC {\'e}aliser les activit\IeC {\'e}s}{21}{section.2.4}
-\contentsline {subsection}{\numberline {4.1}Le s\IeC {\'e}parateur d\IeC {\'e}cimal}{21}{subsection.2.4.1}
-\contentsline {subsubsection}{Quel est votre s\IeC {\'e}parateur d\IeC {\'e}cimal ?}{21}{section*.11}
-\contentsline {subsubsection}{Changer les virgules en points (ou inversement)}{22}{section*.12}
-\contentsline {subsection}{\numberline {4.2}Importer un fichier au format \texttt {CSV}}{23}{subsection.2.4.2}
-\contentsline {subsection}{\numberline {4.3}R\IeC {\'e}f\IeC {\'e}rence variable et r\IeC {\'e}f\IeC {\'e}rence fixe}{24}{subsection.2.4.3}
-\contentsline {subsection}{\numberline {4.4}Trier des donn\IeC {\'e}es}{26}{subsection.2.4.4}
-\contentsline {subsection}{\numberline {4.5}Utiliser une condition pour d\IeC {\'e}finir le contenu d'une cellule}{27}{subsection.2.4.5}
-\contentsline {subsection}{\numberline {4.6}Compter le nombre de cellules v\IeC {\'e}rifiant une condition}{28}{subsection.2.4.6}
-\contentsline {subsection}{\numberline {4.7}Additionner le contenu de plusieurs cellules}{29}{subsection.2.4.7}
-\contentsline {subsection}{\numberline {4.8}Figer une ligne ou une colonne \IeC {\`a} l'affichage}{29}{subsection.2.4.8}
-\contentsline {subsection}{\numberline {4.9}Naviguer dans une grande feuille de calcul}{30}{subsection.2.4.9}
-\contentsline {chapter}{\numberline {3}Traitement de texte}{31}{chapter.3}
-\contentsline {section}{\numberline {1}S\IeC {\'e}ance 1 : Un expos\IeC {\'e} sur un pays}{32}{section.3.1}
-\contentsline {subsection}{\numberline {1.1}Travail de pr\IeC {\'e}paration...}{32}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {4.1}La gestion des styles}{21}{subsection.2.4.1}
+\contentsline {subsubsection}{Style de paragraphe \IeC {\guillemotleft }\,Titre 1\,\IeC {\guillemotright }}{21}{section*.6}
+\contentsline {subsection}{\numberline {4.2}Travailler avec les styles}{23}{subsection.2.4.2}
+\contentsline {subsection}{\numberline {4.3}Ins\IeC {\'e}rer une table des mati\IeC {\`e}res}{24}{subsection.2.4.3}
+\contentsline {subsection}{\numberline {4.4}En-t\IeC {\^e}te et pied de page}{25}{subsection.2.4.4}
+\contentsline {subsection}{\numberline {4.5}Ins\IeC {\'e}rer un champ automatique (num\IeC {\'e}ro de page)}{26}{subsection.2.4.5}
+\contentsline {subsection}{\numberline {4.6}Mettre du texte en exposant et en indice}{27}{subsection.2.4.6}
+\contentsline {subsection}{\numberline {4.7}Ins\IeC {\'e}rer des caract\IeC {\`e}res sp\IeC {\'e}ciaux}{28}{subsection.2.4.7}
+\contentsline {subsection}{\numberline {4.8}\IeC {\'E}crire des formules math\IeC {\'e}matiques}{28}{subsection.2.4.8}
+\contentsline {chapter}{\numberline {3}Tableur}{31}{chapter.3}
+\contentsline {section}{\numberline {1}S\IeC {\'e}ance 1 : Moyennes avec coefficients}{32}{section.3.1}
+\contentsline {subsection}{\numberline {1.1}Pour pr\IeC {\'e}parer l'activit\IeC {\'e}...}{32}{subsection.3.1.1}
 \contentsline {subsection}{\numberline {1.2}Pour bien d\IeC {\'e}marrer...}{32}{subsection.3.1.2}
-\contentsline {subsection}{\numberline {1.3}Sujet de l'activit\IeC {\'e}...}{33}{subsection.3.1.3}
+\contentsline {subsection}{\numberline {1.3}Sujet de l'activit\IeC {\'e}...}{32}{subsection.3.1.3}
 \contentsline {subsection}{\numberline {1.4}Pour aller plus loin...}{33}{subsection.3.1.4}
-\contentsline {section}{\numberline {2}S\IeC {\'e}ance 2 : Une fiche de lecture}{34}{section.3.2}
-\contentsline {subsection}{\numberline {2.1}Travail de pr\IeC {\'e}paration...}{34}{subsection.3.2.1}
-\contentsline {subsection}{\numberline {2.2}Pour bien d\IeC {\'e}marrer...}{34}{subsection.3.2.2}
+\contentsline {section}{\numberline {2}S\IeC {\'e}ance 2 : Traitement de donn\IeC {\'e}es}{35}{section.3.2}
+\contentsline {subsection}{\numberline {2.1}Pour pr\IeC {\'e}parer l'activit\IeC {\'e}...}{35}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {2.2}Pour bien d\IeC {\'e}marrer...}{35}{subsection.3.2.2}
 \contentsline {subsection}{\numberline {2.3}Sujet de l'activit\IeC {\'e}...}{35}{subsection.3.2.3}
-\contentsline {subsection}{\numberline {2.4}Pour aller plus loin...}{35}{subsection.3.2.4}
-\contentsline {section}{\numberline {3}S\IeC {\'e}ance 3 : R\IeC {\'e}daction d'un document math\IeC {\'e}matique}{36}{section.3.3}
-\contentsline {subsection}{\numberline {3.1}Travail de pr\IeC {\'e}paration...}{36}{subsection.3.3.1}
-\contentsline {subsection}{\numberline {3.2}Pour bien d\IeC {\'e}marrer...}{36}{subsection.3.3.2}
-\contentsline {subsection}{\numberline {3.3}Sujet de l'activit\IeC {\'e}...}{36}{subsection.3.3.3}
-\contentsline {subsection}{\numberline {3.4}Pour aller plus loin...}{38}{subsection.3.3.4}
-\contentsline {section}{\numberline {4}Aide pour r\IeC {\'e}aliser les activit\IeC {\'e}s}{39}{section.3.4}
-\contentsline {subsection}{\numberline {4.1}La gestion des styles}{39}{subsection.3.4.1}
-\contentsline {subsubsection}{Style de paragraphe \IeC {\guillemotleft }\,Titre 1\,\IeC {\guillemotright }}{39}{section*.15}
-\contentsline {subsection}{\numberline {4.2}Travailler avec les styles}{41}{subsection.3.4.2}
-\contentsline {subsection}{\numberline {4.3}Ins\IeC {\'e}rer une table des mati\IeC {\`e}res}{42}{subsection.3.4.3}
-\contentsline {subsection}{\numberline {4.4}En-t\IeC {\^e}te et pied de page}{43}{subsection.3.4.4}
-\contentsline {subsection}{\numberline {4.5}Ins\IeC {\'e}rer un champ automatique (num\IeC {\'e}ro de page)}{44}{subsection.3.4.5}
-\contentsline {subsection}{\numberline {4.6}Mettre du texte en exposant et en indice}{45}{subsection.3.4.6}
-\contentsline {subsection}{\numberline {4.7}Ins\IeC {\'e}rer des caract\IeC {\`e}res sp\IeC {\'e}ciaux}{46}{subsection.3.4.7}
-\contentsline {subsection}{\numberline {4.8}\IeC {\'E}crire des formules math\IeC {\'e}matiques}{46}{subsection.3.4.8}
-\contentsline {chapter}{\numberline {4}Traitement d'images}{49}{chapter.4}
-\contentsline {section}{\numberline {1}S\IeC {\'e}ance 1 : L\IeC {\'e}gender une image}{50}{section.4.1}
-\contentsline {subsection}{\numberline {1.1}Pour bien d\IeC {\'e}marrer...}{50}{subsection.4.1.1}
-\contentsline {subsection}{\numberline {1.2}Sujet de l'activit\IeC {\'e}...}{50}{subsection.4.1.2}
-\contentsline {subsection}{\numberline {1.3}Pour aller plus loin...}{51}{subsection.4.1.3}
-\contentsline {section}{\numberline {2}S\IeC {\'e}ance 2 : Un calligramme}{52}{section.4.2}
-\contentsline {subsection}{\numberline {2.1}Pour bien d\IeC {\'e}marrer...}{52}{subsection.4.2.1}
-\contentsline {subsection}{\numberline {2.2}Sujet de l'activit\IeC {\'e}...}{52}{subsection.4.2.2}
-\contentsline {subsection}{\numberline {2.3}Pour aller plus loin...}{54}{subsection.4.2.3}
-\contentsline {section}{\numberline {3}S\IeC {\'e}ance 3 : Composition d'une image}{55}{section.4.3}
-\contentsline {subsection}{\numberline {3.1}Pour bien d\IeC {\'e}marrer...}{55}{subsection.4.3.1}
-\contentsline {subsection}{\numberline {3.2}Sujet de l'activit\IeC {\'e}...}{55}{subsection.4.3.2}
-\contentsline {subsection}{\numberline {3.3}Pour aller plus loin...}{56}{subsection.4.3.3}
-\contentsline {section}{\numberline {4}Aide pour r\IeC {\'e}aliser les activit\IeC {\'e}s}{57}{section.4.4}
-\contentsline {subsection}{\numberline {4.1}Cr\IeC {\'e}er et modifier un chemin}{57}{subsection.4.4.1}
-\contentsline {subsection}{\numberline {4.2}Travailler avec les chemins et les calques}{58}{subsection.4.4.2}
-\contentsline {subsubsection}{S\IeC {\'e}lectionner le chemin sur lequel on travaille}{58}{section*.18}
-\contentsline {subsubsection}{Se placer sur le bon calque}{59}{section*.19}
-\contentsline {subsection}{\numberline {4.3}Tracer un trait le long d'un chemin}{59}{subsection.4.4.3}
-\contentsline {subsection}{\numberline {4.4}\IeC {\'E}crire un texte le long d'un chemin}{60}{subsection.4.4.4}
-\contentsline {subsection}{\numberline {4.5}Utiliser les guides}{62}{subsection.4.4.5}
-\contentsline {subsection}{\numberline {4.6}Extraire un objet de son arri\IeC {\`e}re plan (d\IeC {\'e}tourage)}{63}{subsection.4.4.6}
-\contentsline {subsection}{\numberline {4.7}Aide pour la s\IeC {\'e}ance 3}{65}{subsection.4.4.7}
-\contentsline {subsubsection}{Quelques conseils pour parvenir au r\IeC {\'e}sultat souhait\IeC {\'e}...}{65}{section*.20}
-\contentsline {chapter}{\numberline {5}Traitement du son 2}{67}{chapter.5}
-\contentsline {section}{\numberline {1}L'interface graphique d'Audacity (rappel)}{68}{section.5.1}
-\contentsline {subsection}{\numberline {1.1}Exporter un projet au format MP3 ou WAV (rappel)}{68}{subsection.5.1.1}
-\contentsline {section}{\numberline {2}S\IeC {\'e}ance 1 : Musique}{70}{section.5.2}
-\contentsline {section}{\numberline {3}S\IeC {\'e}ance 2 : Anglais}{71}{section.5.3}
-\contentsline {chapter}{\numberline {6}Programmation Scratch}{73}{chapter.6}
-\contentsline {section}{\numberline {1}S\IeC {\'e}ance 1 : Cr\IeC {\'e}er des nouveaux blocs}{74}{section.6.1}
-\contentsline {subsection}{\numberline {1.1}Travail de pr\IeC {\'e}paration...}{74}{subsection.6.1.1}
-\contentsline {subsection}{\numberline {1.2}Pour bien d\IeC {\'e}marrer...}{74}{subsection.6.1.2}
-\contentsline {subsubsection}{Passer Scratch en langue fran\IeC {\c c}aise}{74}{section*.24}
-\contentsline {subsubsection}{Penser \IeC {\`a} enregitrer r\IeC {\'e}guli\IeC {\`e}rement}{74}{section*.25}
-\contentsline {subsection}{\numberline {1.3}Sujet de l'activit\IeC {\'e}...}{74}{subsection.6.1.3}
-\contentsline {subsubsection}{Cr\IeC {\'e}er une \IeC {\'e}toile \IeC {\`a} 5 branches}{75}{section*.26}
-\contentsline {subsubsection}{Cr\IeC {\'e}er plusieurs \IeC {\'e}toiles}{75}{section*.27}
-\contentsline {subsubsection}{Cr\IeC {\'e}er un nouveau bloc}{76}{section*.28}
-\contentsline {subsubsection}{Param\IeC {\'e}trer un nouveau bloc \IeC {\`a} l\IeC {\textquoteright }aide d\IeC {\textquoteright }une variable}{78}{section*.29}
-\contentsline {subsubsection}{Ajouter un param\IeC {\`e}tre d\IeC {\textquoteright }entr\IeC {\'e}e de type nombre au bloc \IeC {\'e}toile :}{78}{section*.30}
-\contentsline {subsubsection}{Ajouter un commentaire \IeC {\`a} un nouveau bloc}{79}{section*.31}
-\contentsline {subsubsection}{Ajouter un commentaire \IeC {\`a} la fonction \IeC {\'e}toile}{79}{section*.32}
-\contentsline {subsubsection}{Pensez \IeC {\`a} rendre votre travail}{80}{section*.33}
-\contentsline {subsection}{\numberline {1.4}Pour aller plus loin...}{80}{subsection.6.1.4}
-\contentsline {subsubsection}{Plus de param\IeC {\`e}tres}{80}{section*.34}
-\contentsline {subsubsection}{Cr\IeC {\'e}ation d'un nouveau bloc \IeC {\guillemotleft }\,triangle\,\IeC {\guillemotright }}{81}{section*.35}
-\contentsline {subsubsection}{De plus en plus de c\IeC {\^o}t\IeC {\'e}s...}{82}{section*.36}
-\contentsline {section}{\numberline {2}S\IeC {\'e}ance 2 : Un clone de \emph {Flappy Bird}}{83}{section.6.2}
-\contentsline {subsection}{\numberline {2.1}Travail de pr\IeC {\'e}paration...}{83}{subsection.6.2.1}
-\contentsline {subsection}{\numberline {2.2}Pour bien d\IeC {\'e}marrer...}{83}{subsection.6.2.2}
-\contentsline {subsection}{\numberline {2.3}Sujet de l'activit\IeC {\'e}...}{84}{subsection.6.2.3}
-\contentsline {subsection}{\numberline {2.4}Pour aller plus loin...}{86}{subsection.6.2.4}
-\contentsline {section}{\numberline {3}S\IeC {\'e}ance 3 : Tracer une fonction affine}{87}{section.6.3}
-\contentsline {subsection}{\numberline {3.1}Travail de pr\IeC {\'e}paration...}{87}{subsection.6.3.1}
-\contentsline {subsection}{\numberline {3.2}Pour bien d\IeC {\'e}marrer...}{87}{subsection.6.3.2}
-\contentsline {subsection}{\numberline {3.3}Sujet de l'activit\IeC {\'e}...}{87}{subsection.6.3.3}
-\contentsline {subsection}{\numberline {3.4}Pour aller plus loin...}{88}{subsection.6.3.4}
-\contentsline {section}{\numberline {4}Aide pour r\IeC {\'e}aliser les activit\IeC {\'e}s}{89}{section.6.4}
-\contentsline {subsection}{\numberline {4.1}Aide pour la s\IeC {\'e}ance 1}{89}{subsection.6.4.1}
-\contentsline {subsection}{\numberline {4.2}Aide pour la s\IeC {\'e}ance 2}{89}{subsection.6.4.2}
-\contentsline {subsubsection}{Construction des arri\IeC {\`e}re-plans de la sc\IeC {\`e}ne}{89}{section*.37}
-\contentsline {subsubsection}{Construction des costumes du sprite \texttt {Oiseau}}{91}{section*.38}
-\contentsline {subsubsection}{Construction des costumes du sprite \texttt {Tuyau}}{93}{section*.39}
-\contentsline {subsubsection}{Code associ\IeC {\'e} \IeC {\`a} la sc\IeC {\`e}ne}{94}{section*.40}
-\contentsline {subsubsection}{Codes associ\IeC {\'e}s au sprite \texttt {Oiseau}}{95}{section*.41}
-\contentsline {subsubsection}{Codes associ\IeC {\'e}s au sprite \texttt {Tuyau}}{97}{section*.42}
-\contentsline {subsection}{\numberline {4.3}Aide pour la s\IeC {\'e}ance 3}{98}{subsection.6.4.3}
-\contentsline {subsection}{\numberline {4.4}Cr\IeC {\'e}ation du bloc \texttt {entr\IeC {\'e}e des donn\IeC {\'e}es}}{99}{subsection.6.4.4}
-\contentsline {subsection}{\numberline {4.5}Cr\IeC {\'e}ation du bloc \texttt {calcule f(x)}}{99}{subsection.6.4.5}
-\contentsline {subsection}{\numberline {4.6}Cr\IeC {\'e}ation du bloc \texttt {trace f(x)}}{100}{subsection.6.4.6}
+\contentsline {subsection}{\numberline {2.4}Pour aller plus loin...}{36}{subsection.3.2.4}
+\contentsline {section}{\numberline {3}S\IeC {\'e}ance 3 : Ressources en eau (g\IeC {\'e}ographie)}{37}{section.3.3}
+\contentsline {subsection}{\numberline {3.1}Pour pr\IeC {\'e}parer l'activit\IeC {\'e}...}{37}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.2}Pour bien d\IeC {\'e}marrer...}{37}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3}Sujet de l'activit\IeC {\'e}...}{37}{subsection.3.3.3}
+\contentsline {subsection}{\numberline {3.4}Guide pour r\IeC {\'e}aliser l'activit\IeC {\'e}...}{38}{subsection.3.3.4}
+\contentsline {subsubsection}{Ressources en eau par habitants}{38}{section*.8}
+\contentsline {subsubsection}{Ressources en eau par km\up {2}}{38}{section*.9}
+\contentsline {subsubsection}{Ressources en eau totales}{38}{section*.10}
+\contentsline {subsubsection}{Ressources en eau, classement des pays en trois groupes}{39}{section*.11}
+\contentsline {subsection}{\numberline {3.5}Pour aller plus loin...}{39}{subsection.3.3.5}
+\contentsline {section}{\numberline {4}Aide pour r\IeC {\'e}aliser les activit\IeC {\'e}s}{41}{section.3.4}
+\contentsline {subsection}{\numberline {4.1}Le s\IeC {\'e}parateur d\IeC {\'e}cimal}{41}{subsection.3.4.1}
+\contentsline {subsubsection}{Quel est votre s\IeC {\'e}parateur d\IeC {\'e}cimal ?}{41}{section*.12}
+\contentsline {subsubsection}{Changer les virgules en points (ou inversement)}{42}{section*.13}
+\contentsline {subsection}{\numberline {4.2}Importer un fichier au format \texttt {CSV}}{43}{subsection.3.4.2}
+\contentsline {subsection}{\numberline {4.3}R\IeC {\'e}f\IeC {\'e}rence variable et r\IeC {\'e}f\IeC {\'e}rence fixe}{44}{subsection.3.4.3}
+\contentsline {subsection}{\numberline {4.4}Trier des donn\IeC {\'e}es}{46}{subsection.3.4.4}
+\contentsline {subsection}{\numberline {4.5}Utiliser une condition pour d\IeC {\'e}finir le contenu d'une cellule}{47}{subsection.3.4.5}
+\contentsline {subsection}{\numberline {4.6}Compter le nombre de cellules v\IeC {\'e}rifiant une condition}{48}{subsection.3.4.6}
+\contentsline {subsection}{\numberline {4.7}Additionner le contenu de plusieurs cellules}{49}{subsection.3.4.7}
+\contentsline {subsection}{\numberline {4.8}Figer une ligne ou une colonne \IeC {\`a} l'affichage}{49}{subsection.3.4.8}
+\contentsline {subsection}{\numberline {4.9}Naviguer dans une grande feuille de calcul}{50}{subsection.3.4.9}
+\contentsline {chapter}{\numberline {4}Programmation Scratch}{51}{chapter.4}
+\contentsline {section}{\numberline {1}S\IeC {\'e}ance 1 : Cr\IeC {\'e}er des nouveaux blocs}{52}{section.4.1}
+\contentsline {subsection}{\numberline {1.1}Pour pr\IeC {\'e}parer l'activit\IeC {\'e}...}{52}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {1.2}Pour bien d\IeC {\'e}marrer...}{52}{subsection.4.1.2}
+\contentsline {subsubsection}{Passer Scratch en langue fran\IeC {\c c}aise}{52}{section*.15}
+\contentsline {subsubsection}{Penser \IeC {\`a} enregitrer r\IeC {\'e}guli\IeC {\`e}rement}{52}{section*.16}
+\contentsline {subsection}{\numberline {1.3}Sujet de l'activit\IeC {\'e}...}{53}{subsection.4.1.3}
+\contentsline {subsubsection}{Cr\IeC {\'e}er une \IeC {\'e}toile \IeC {\`a} 5 branches}{53}{section*.17}
+\contentsline {subsubsection}{Cr\IeC {\'e}er plusieurs \IeC {\'e}toiles}{53}{section*.18}
+\contentsline {subsubsection}{Cr\IeC {\'e}er un nouveau bloc}{54}{section*.19}
+\contentsline {subsubsection}{Param\IeC {\'e}trer un nouveau bloc \IeC {\`a} l\IeC {\textquoteright }aide d\IeC {\textquoteright }une variable}{56}{section*.20}
+\contentsline {subsubsection}{Ajouter un param\IeC {\`e}tre d\IeC {\textquoteright }entr\IeC {\'e}e de type nombre au bloc \IeC {\'e}toile :}{57}{section*.21}
+\contentsline {subsubsection}{Ajouter un commentaire \IeC {\`a} un nouveau bloc}{57}{section*.22}
+\contentsline {subsubsection}{Ajouter un commentaire \IeC {\`a} la fonction \IeC {\'e}toile}{58}{section*.23}
+\contentsline {subsubsection}{Pensez \IeC {\`a} rendre votre travail}{58}{section*.24}
+\contentsline {subsection}{\numberline {1.4}Pour aller plus loin...}{59}{subsection.4.1.4}
+\contentsline {subsubsection}{Plus de param\IeC {\`e}tres}{59}{section*.25}
+\contentsline {subsubsection}{Cr\IeC {\'e}ation d'un nouveau bloc \IeC {\guillemotleft }\,triangle\,\IeC {\guillemotright }}{59}{section*.26}
+\contentsline {subsubsection}{De plus en plus de c\IeC {\^o}t\IeC {\'e}s...}{60}{section*.27}
+\contentsline {section}{\numberline {2}S\IeC {\'e}ance 2 : Un clone de \emph {Flappy Bird}}{61}{section.4.2}
+\contentsline {subsection}{\numberline {2.1}Pour pr\IeC {\'e}parer l'activit\IeC {\'e}...}{61}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {2.2}Pour bien d\IeC {\'e}marrer...}{61}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {2.3}Sujet de l'activit\IeC {\'e}...}{61}{subsection.4.2.3}
+\contentsline {subsection}{\numberline {2.4}Pour aller plus loin...}{63}{subsection.4.2.4}
+\contentsline {section}{\numberline {3}S\IeC {\'e}ance 3 : Tracer une fonction affine}{65}{section.4.3}
+\contentsline {subsection}{\numberline {3.1}Pour pr\IeC {\'e}parer l'activit\IeC {\'e}...}{65}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {3.2}Pour bien d\IeC {\'e}marrer...}{65}{subsection.4.3.2}
+\contentsline {subsection}{\numberline {3.3}Sujet de l'activit\IeC {\'e}...}{65}{subsection.4.3.3}
+\contentsline {subsection}{\numberline {3.4}Pour aller plus loin...}{66}{subsection.4.3.4}
+\contentsline {section}{\numberline {4}Aide pour r\IeC {\'e}aliser les activit\IeC {\'e}s}{67}{section.4.4}
+\contentsline {subsection}{\numberline {4.1}Aide pour la s\IeC {\'e}ance 1}{67}{subsection.4.4.1}
+\contentsline {subsection}{\numberline {4.2}Aide pour la s\IeC {\'e}ance 2}{67}{subsection.4.4.2}
+\contentsline {subsubsection}{Construction des arri\IeC {\`e}re-plans de la sc\IeC {\`e}ne}{67}{section*.28}
+\contentsline {subsubsection}{Construction des costumes du sprite \texttt {Oiseau}}{69}{section*.29}
+\contentsline {subsubsection}{Construction des costumes du sprite \texttt {Tuyau}}{71}{section*.30}
+\contentsline {subsubsection}{Code associ\IeC {\'e} \IeC {\`a} la sc\IeC {\`e}ne}{72}{section*.31}
+\contentsline {subsubsection}{Codes associ\IeC {\'e}s au sprite \texttt {Oiseau}}{73}{section*.32}
+\contentsline {subsubsection}{Codes associ\IeC {\'e}s au sprite \texttt {Tuyau}}{75}{section*.33}
+\contentsline {subsection}{\numberline {4.3}Aide pour la s\IeC {\'e}ance 3}{76}{subsection.4.4.3}
+\contentsline {subsection}{\numberline {4.4}Cr\IeC {\'e}ation du bloc \texttt {entr\IeC {\'e}e des donn\IeC {\'e}es}}{77}{subsection.4.4.4}
+\contentsline {subsection}{\numberline {4.5}Cr\IeC {\'e}ation du bloc \texttt {calcule f(x)}}{77}{subsection.4.4.5}
+\contentsline {subsection}{\numberline {4.6}Cr\IeC {\'e}ation du bloc \texttt {trace f(x)}}{78}{subsection.4.4.6}
+\contentsline {chapter}{\numberline {5}Traitement d'images}{79}{chapter.5}
+\contentsline {section}{\numberline {1}S\IeC {\'e}ance 1 : L\IeC {\'e}gender une image}{80}{section.5.1}
+\contentsline {subsection}{\numberline {1.1}Pour bien d\IeC {\'e}marrer...}{80}{subsection.5.1.1}
+\contentsline {subsection}{\numberline {1.2}Sujet de l'activit\IeC {\'e}...}{80}{subsection.5.1.2}
+\contentsline {subsection}{\numberline {1.3}Pour aller plus loin...}{81}{subsection.5.1.3}
+\contentsline {section}{\numberline {2}S\IeC {\'e}ance 2 : Un calligramme}{82}{section.5.2}
+\contentsline {subsection}{\numberline {2.1}Pour bien d\IeC {\'e}marrer...}{82}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {2.2}Sujet de l'activit\IeC {\'e}...}{82}{subsection.5.2.2}
+\contentsline {subsection}{\numberline {2.3}Pour aller plus loin...}{84}{subsection.5.2.3}
+\contentsline {section}{\numberline {3}S\IeC {\'e}ance 3 : Composition d'une image}{85}{section.5.3}
+\contentsline {subsection}{\numberline {3.1}Pour bien d\IeC {\'e}marrer...}{85}{subsection.5.3.1}
+\contentsline {subsection}{\numberline {3.2}Sujet de l'activit\IeC {\'e}...}{85}{subsection.5.3.2}
+\contentsline {subsection}{\numberline {3.3}Pour aller plus loin...}{86}{subsection.5.3.3}
+\contentsline {section}{\numberline {4}Aide pour r\IeC {\'e}aliser les activit\IeC {\'e}s}{87}{section.5.4}
+\contentsline {subsection}{\numberline {4.1}Cr\IeC {\'e}er et modifier un chemin}{87}{subsection.5.4.1}
+\contentsline {subsection}{\numberline {4.2}Travailler avec les chemins et les calques}{88}{subsection.5.4.2}
+\contentsline {subsubsection}{S\IeC {\'e}lectionner le chemin sur lequel on travaille}{88}{section*.35}
+\contentsline {subsubsection}{Se placer sur le bon calque}{89}{section*.36}
+\contentsline {subsection}{\numberline {4.3}Tracer un trait le long d'un chemin}{89}{subsection.5.4.3}
+\contentsline {subsection}{\numberline {4.4}\IeC {\'E}crire un texte le long d'un chemin}{90}{subsection.5.4.4}
+\contentsline {subsection}{\numberline {4.5}Utiliser les guides}{92}{subsection.5.4.5}
+\contentsline {subsection}{\numberline {4.6}Extraire un objet de son arri\IeC {\`e}re plan (d\IeC {\'e}tourage)}{93}{subsection.5.4.6}
+\contentsline {subsection}{\numberline {4.7}Aide pour la s\IeC {\'e}ance 3}{95}{subsection.5.4.7}
+\contentsline {subsubsection}{Quelques conseils pour parvenir au r\IeC {\'e}sultat souhait\IeC {\'e}...}{95}{section*.37}
 \contentsfinish 
