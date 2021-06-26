@@ -52,22 +52,22 @@
 \contentsline {subsection}{\numberline {3.4}Pour aller plus loin...}{46}{subsection.3.3.4}
 \contentsline {section}{\numberline {4}Aide pour r\IeC {\'e}aliser les activit\IeC {\'e}s}{47}{section.3.4}
 \contentsline {subsection}{\numberline {4.1}Le s\IeC {\'e}parateur d\IeC {\'e}cimal}{47}{subsection.3.4.1}
-\contentsline {subsubsection}{Quel est votre s\IeC {\'e}parateur d\IeC {\'e}cimal ?}{47}{section*.7}
-\contentsline {subsubsection}{Changer les virgules en points (ou inversement)}{47}{section*.8}
+\contentsline {subsubsection}{Quel est votre s\IeC {\'e}parateur d\IeC {\'e}cimal ?}{47}{section*.8}
+\contentsline {subsubsection}{Changer les virgules en points (ou inversement)}{47}{section*.9}
 \contentsline {subsection}{\numberline {4.2}Formater le contenu d'une cellule}{48}{subsection.3.4.2}
 \contentsline {subsection}{\numberline {4.3}Formater la page}{50}{subsection.3.4.3}
-\contentsline {subsubsection}{Orientation et marges}{51}{section*.9}
-\contentsline {subsubsection}{Nombre de pages}{51}{section*.10}
-\contentsline {subsubsection}{En-t\IeC {\^e}te et pied de page}{51}{section*.11}
-\contentsline {subsubsection}{Orientation sur office.com}{53}{section*.12}
+\contentsline {subsubsection}{Orientation et marges}{51}{section*.10}
+\contentsline {subsubsection}{Nombre de pages}{51}{section*.11}
+\contentsline {subsubsection}{En-t\IeC {\^e}te et pied de page}{51}{section*.12}
+\contentsline {subsubsection}{Orientation sur office.com}{53}{section*.13}
 \contentsline {subsection}{\numberline {4.4}Ajouter une courbe de tendance}{53}{subsection.3.4.4}
 \contentsline {subsection}{\numberline {4.5}Cr\IeC {\'e}er un diagramme circulaire}{54}{subsection.3.4.5}
 \contentsline {chapter}{\numberline {4}Programmation Scratch}{57}{chapter.4}
 \contentsline {section}{\numberline {1}S\IeC {\'e}ance 1 : dessiner une spirale}{58}{section.4.1}
 \contentsline {subsection}{\numberline {1.1}Pour pr\IeC {\'e}parer l'activit\IeC {\'e}...}{58}{subsection.4.1.1}
 \contentsline {subsection}{\numberline {1.2}Pour bien d\IeC {\'e}marrer...}{58}{subsection.4.1.2}
-\contentsline {subsubsection}{Passer Scratch en langue fran\IeC {\c c}aise}{58}{section*.14}
-\contentsline {subsubsection}{Penser \IeC {\`a} enregitrer r\IeC {\'e}guli\IeC {\`e}rement}{58}{section*.15}
+\contentsline {subsubsection}{Passer Scratch en langue fran\IeC {\c c}aise}{58}{section*.15}
+\contentsline {subsubsection}{Penser \IeC {\`a} enregitrer r\IeC {\'e}guli\IeC {\`e}rement}{58}{section*.16}
 \contentsline {subsection}{\numberline {1.3}Sujet de l'activit\IeC {\'e}...}{59}{subsection.4.1.3}
 \contentsline {subsection}{\numberline {1.4}Pour aller plus loin...}{60}{subsection.4.1.4}
 \contentsline {section}{\numberline {2}S\IeC {\'e}ance 2 : un quiz de calcul mental}{61}{section.4.2}
@@ -82,22 +82,22 @@
 \contentsline {subsection}{\numberline {3.4}Pour aller plus loin...}{64}{subsection.4.3.4}
 \contentsline {section}{\numberline {4}Aide pour r\IeC {\'e}aliser les activit\IeC {\'e}s}{65}{section.4.4}
 \contentsline {subsection}{\numberline {4.1}Aide pour la s\IeC {\'e}ance 1}{65}{subsection.4.4.1}
-\contentsline {subsubsection}{Premi\IeC {\`e}re \IeC {\'e}tape : cr\IeC {\'e}ation d'une variable}{65}{section*.16}
-\contentsline {subsubsection}{Deuxi\IeC {\`e}me \IeC {\'e}tape : le code qui dessine la spirale}{67}{section*.17}
-\contentsline {subsubsection}{Troisi\IeC {\`e}me \IeC {\'e}tape : un code qui efface l'\IeC {\'e}cran}{68}{section*.18}
-\contentsline {subsubsection}{Quatri\IeC {\`e}me \IeC {\'e}tape : \IeC {\`a} vous de jouer !}{68}{section*.19}
+\contentsline {subsubsection}{Premi\IeC {\`e}re \IeC {\'e}tape : cr\IeC {\'e}ation d'une variable}{65}{section*.17}
+\contentsline {subsubsection}{Deuxi\IeC {\`e}me \IeC {\'e}tape : le code qui dessine la spirale}{67}{section*.18}
+\contentsline {subsubsection}{Troisi\IeC {\`e}me \IeC {\'e}tape : un code qui efface l'\IeC {\'e}cran}{68}{section*.19}
+\contentsline {subsubsection}{Quatri\IeC {\`e}me \IeC {\'e}tape : \IeC {\`a} vous de jouer !}{68}{section*.20}
 \contentsline {subsection}{\numberline {4.2}Aide pour la s\IeC {\'e}ance 2}{69}{subsection.4.4.2}
-\contentsline {subsubsection}{Algorithme du programme}{69}{section*.20}
-\contentsline {subsubsection}{Aide pour l'\IeC {\'e}criture du programme}{69}{section*.21}
+\contentsline {subsubsection}{Algorithme du programme}{69}{section*.21}
+\contentsline {subsubsection}{Aide pour l'\IeC {\'e}criture du programme}{69}{section*.22}
 \contentsline {subsection}{\numberline {4.3}Aide pour la s\IeC {\'e}ance 3}{71}{subsection.4.4.3}
-\contentsline {subsubsection}{Premi\IeC {\`e}re \IeC {\'e}tape : cr\IeC {\'e}ation de l'arri\IeC {\`e}re plan et choix des sprites}{71}{section*.22}
-\contentsline {subsubsection}{D\IeC {\'e}finition du mouvement de la balle}{72}{section*.23}
-\contentsline {subsubsection}{Mouvements de la raquette et rebond de la balle sur la raquette}{72}{section*.24}
-\contentsline {subsubsection}{Fin du jeu}{74}{section*.25}
+\contentsline {subsubsection}{Premi\IeC {\`e}re \IeC {\'e}tape : cr\IeC {\'e}ation de l'arri\IeC {\`e}re plan et choix des sprites}{71}{section*.23}
+\contentsline {subsubsection}{D\IeC {\'e}finition du mouvement de la balle}{72}{section*.24}
+\contentsline {subsubsection}{Mouvements de la raquette et rebond de la balle sur la raquette}{72}{section*.25}
+\contentsline {subsubsection}{Fin du jeu}{74}{section*.26}
 \contentsline {chapter}{\numberline {5}Traitement d'images}{77}{chapter.5}
 \contentsline {section}{\numberline {1}S\IeC {\'e}ance 1 : un ha\IeC {\"\i }ku \IeC {\'e}crit sur une image}{78}{section.5.1}
 \contentsline {subsection}{\numberline {1.1}Pour bien d\IeC {\'e}marrer...}{78}{subsection.5.1.1}
-\contentsline {subsubsection}{Pensez \IeC {\`a} enregistrer r\IeC {\'e}guli\IeC {\`e}rement}{78}{section*.27}
+\contentsline {subsubsection}{Pensez \IeC {\`a} enregistrer r\IeC {\'e}guli\IeC {\`e}rement}{78}{section*.28}
 \contentsline {subsection}{\numberline {1.2}Sujet de l'activit\IeC {\'e}...}{79}{subsection.5.1.2}
 \contentsline {subsection}{\numberline {1.3}Pour aller plus loin...}{80}{subsection.5.1.3}
 \contentsline {section}{\numberline {2}S\IeC {\'e}ance 2 : superposition d'images}{81}{section.5.2}
@@ -109,15 +109,15 @@
 \contentsline {subsection}{\numberline {3.2}Appliquer un filtre sur une portion de l'image}{84}{subsection.5.3.2}
 \contentsline {subsection}{\numberline {3.3}Convertir une image en noir et blanc}{85}{subsection.5.3.3}
 \contentsline {subsection}{\numberline {3.4}Travailler avec les calques}{86}{subsection.5.3.4}
-\contentsline {subsubsection}{Ajouter un calque}{87}{section*.28}
-\contentsline {subsubsection}{Modifier l'opacit\IeC {\'e} d'un calque}{87}{section*.29}
-\contentsline {subsubsection}{Modifier la pile des calques}{88}{section*.30}
-\contentsline {subsubsection}{D\IeC {\'e}placer un calque}{88}{section*.31}
+\contentsline {subsubsection}{Ajouter un calque}{87}{section*.29}
+\contentsline {subsubsection}{Modifier l'opacit\IeC {\'e} d'un calque}{87}{section*.30}
+\contentsline {subsubsection}{Modifier la pile des calques}{88}{section*.31}
+\contentsline {subsubsection}{D\IeC {\'e}placer un calque}{88}{section*.32}
 \contentsline {subsection}{\numberline {3.5}R\IeC {\'e}aliser une copie d'\IeC {\'e}cran}{89}{subsection.5.3.5}
 \contentsline {chapter}{\numberline {6}Traitement du son}{91}{chapter.6}
 \contentsline {section}{\numberline {1}S\IeC {\'e}ance 1 : composer une phrase en anglais}{92}{section.6.1}
 \contentsline {subsection}{\numberline {1.1}Premiers pas avec Audacity}{92}{subsection.6.1.1}
-\contentsline {subsubsection}{Pour bien d\IeC {\'e}marrer...}{93}{section*.33}
+\contentsline {subsubsection}{Pour bien d\IeC {\'e}marrer...}{93}{section*.34}
 \contentsline {subsection}{\numberline {1.2}Sujet de l'activit\IeC {\'e}...}{93}{subsection.6.1.2}
 \contentsline {subsection}{\numberline {1.3}Pour aller plus loin...}{95}{subsection.6.1.3}
 \contentsline {section}{\numberline {2}Aide pour r\IeC {\'e}aliser l'activit\IeC {\'e}}{96}{section.6.2}
