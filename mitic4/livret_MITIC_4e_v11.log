@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2018.8.21)  23 JUN 2021 14:50
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2018.8.21)  26 JUN 2021 17:35
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1260,11 +1260,8 @@ Overfull \vbox (12.13051pt too high) has occurred while \output is active []
 
 [11 <./images/generales/clavierTouches.png>]) [12
 
-] (./sources/philosophie.tex)
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.i}) has 
-been already used, duplicate ignored
+] (./sources/philosophie.tex)pdfTeX warning (ext4): destination with the same i
+dentifier (name{page.i}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.39 \mainmatter
@@ -1576,12 +1573,12 @@ Package pdftex.def Info: ./images/teams/sous_section_documents_crop.png used on
  input line 255.
 (pdftex.def)             Requested size: 284.52756pt x 181.4261pt.
 
-<./images/teams/video1.png, id=933, 735.74875pt x 204.765pt>
-File: ./images/teams/video1.png Graphic file (type png)
+<./images/teams/video3.png, id=933, 898.35625pt x 308.15125pt>
+File: ./images/teams/video3.png Graphic file (type png)
 
-<use ./images/teams/video1.png>
-Package pdftex.def Info: ./images/teams/video1.png used on input line 267.
-(pdftex.def)             Requested size: 256.0748pt x 71.26888pt.
+<use ./images/teams/video3.png>
+Package pdftex.def Info: ./images/teams/video3.png used on input line 267.
+(pdftex.def)             Requested size: 341.43306pt x 117.1175pt.
 
 <./images/teams/video2.png, id=934, 513.92pt x 378.41376pt>
 File: ./images/teams/video2.png Graphic file (type png)
@@ -1590,10 +1587,10 @@ File: ./images/teams/video2.png Graphic file (type png)
 Package pdftex.def Info: ./images/teams/video2.png used on input line 274.
 (pdftex.def)             Requested size: 199.16928pt x 146.6569pt.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 3568) has occurred while \output is active []
 
  [9 <./images/teams/sous_section_documents_crop.png (PNG copy)> <./images/teams
-/video1.png>] <./images/teams/accueil_liste.png, id=939, 356.33125pt x 725.7112
+/video3.png>] <./images/teams/accueil_liste.png, id=939, 356.33125pt x 725.7112
 4pt>
 File: ./images/teams/accueil_liste.png Graphic file (type png)
 
@@ -1861,33 +1858,38 @@ File: ./images/texte03/titre1.png Graphic file (type png)
 <use ./images/texte03/titre1.png>
 Package pdftex.def Info: ./images/texte03/titre1.png used on input line 391.
 (pdftex.def)             Requested size: 431.61143pt x 343.28165pt.
- [21 <./images/texte03/titre1.png>]
-<./images/texte03/titre2.png, id=1036, 806.01125pt x 391.4625pt>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [21]
+<./images/texte03/titre2.png, id=1037, 806.01125pt x 391.4625pt>
 File: ./images/texte03/titre2.png Graphic file (type png)
 
 <use ./images/texte03/titre2.png>
 Package pdftex.def Info: ./images/texte03/titre2.png used on input line 395.
 (pdftex.def)             Requested size: 806.00928pt x 391.46153pt.
 
-<./images/texte03/titre3.png, id=1037, 808.01875pt x 392.46625pt>
+<./images/texte03/titre3.png, id=1038, 808.01875pt x 392.46625pt>
 File: ./images/texte03/titre3.png Graphic file (type png)
 
 <use ./images/texte03/titre3.png>
 Package pdftex.def Info: ./images/texte03/titre3.png used on input line 399.
 (pdftex.def)             Requested size: 808.01678pt x 392.46527pt.
 
-<./images/texte03/titre4.png, id=1038, 609.27625pt x 639.38875pt>
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [22 <./images/texte03/titre1.png> <./images/texte03/titre2.png>]
+<./images/texte03/titre4.png, id=1044, 609.27625pt x 639.38875pt>
 File: ./images/texte03/titre4.png Graphic file (type png)
 
 <use ./images/texte03/titre4.png>
 Package pdftex.def Info: ./images/texte03/titre4.png used on input line 403.
 (pdftex.def)             Requested size: 609.27475pt x 639.38718pt.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 1521) has occurred while \output is active []
 
- [22 <./images/texte03/titre2.png> <./images/texte03/titre3.png>] [23 <./images
-/texte03/titre4.png>]
-<./images/texte03/tableMatiere1.png, id=1049, 237.88875pt x 447.6725pt>
+ [23 <./images/texte03/titre3.png> <./images/texte03/titre4.png>]
+<./images/texte03/tableMatiere1.png, id=1050, 237.88875pt x 447.6725pt>
 File: ./images/texte03/tableMatiere1.png Graphic file (type png)
 
 <use ./images/texte03/tableMatiere1.png>
@@ -1895,41 +1897,40 @@ Package pdftex.def Info: ./images/texte03/tableMatiere1.png used on input line
 442.
 (pdftex.def)             Requested size: 237.88815pt x 447.6714pt.
 
-<./images/texte03/tableMatiere2.png, id=1050, 542.025pt x 494.84875pt>
+<./images/texte03/tableMatiere2.png, id=1051, 542.025pt x 494.84875pt>
 File: ./images/texte03/tableMatiere2.png Graphic file (type png)
 
 <use ./images/texte03/tableMatiere2.png>
 Package pdftex.def Info: ./images/texte03/tableMatiere2.png used on input line 
 446.
 (pdftex.def)             Requested size: 542.02367pt x 494.84755pt.
-
+ [24 <./images/texte03/tableMatiere1.png>]
 Overfull \hbox (6.79999pt too wide) in paragraph at lines 453--453
 [] 
  []
 
-[24 <./images/texte03/tableMatiere1.png> <./images/texte03/tableMatiere2.png>]
-<./images/texte03/entete1.png, id=1055, 796.9775pt x 132.495pt>
+<./images/texte03/entete1.png, id=1056, 796.9775pt x 132.495pt>
 File: ./images/texte03/entete1.png Graphic file (type png)
 
 <use ./images/texte03/entete1.png>
 Package pdftex.def Info: ./images/texte03/entete1.png used on input line 460.
 (pdftex.def)             Requested size: 796.97554pt x 132.49466pt.
 
-<./images/texte03/entete2.png, id=1056, 393.47pt x 608.2725pt>
+<./images/texte03/entete2.png, id=1057, 393.47pt x 608.2725pt>
 File: ./images/texte03/entete2.png Graphic file (type png)
 
 <use ./images/texte03/entete2.png>
 Package pdftex.def Info: ./images/texte03/entete2.png used on input line 464.
 (pdftex.def)             Requested size: 393.46902pt x 608.27103pt.
-
-<./images/texte03/Texte03_Entete3.png, id=1057, 926.46124pt x 174.6525pt>
+ [25 <./images/texte03/tableMatiere2.png> <./images/texte03/entete1.png>]
+<./images/texte03/Texte03_Entete3.png, id=1064, 926.46124pt x 174.6525pt>
 File: ./images/texte03/Texte03_Entete3.png Graphic file (type png)
 
 <use ./images/texte03/Texte03_Entete3.png>
 Package pdftex.def Info: ./images/texte03/Texte03_Entete3.png used on input lin
 e 470.
 (pdftex.def)             Requested size: 926.45897pt x 174.65207pt.
- [25 <./images/texte03/entete1.png> <./images/texte03/entete2.png>]
+
 Underfull \hbox (badness 10000) in paragraph at lines 472--473
 
  []
@@ -1939,14 +1940,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 483--484
 
  []
 
-<./images/texte03/entete3.png, id=1064, 1002.74625pt x 151.56625pt>
+<./images/texte03/entete3.png, id=1065, 1002.74625pt x 151.56625pt>
 File: ./images/texte03/entete3.png Graphic file (type png)
 
 <use ./images/texte03/entete3.png>
 Package pdftex.def Info: ./images/texte03/entete3.png used on input line 487.
 (pdftex.def)             Requested size: 1002.7438pt x 151.56587pt.
-
-<./images/texte03/numerotation.png, id=1065, 465.74pt x 757.83125pt>
+ [26 <./images/texte03/entete2.png> <./images/texte03/Texte03_Entete3.png>]
+<./images/texte03/numerotation.png, id=1071, 465.74pt x 757.83125pt>
 File: ./images/texte03/numerotation.png Graphic file (type png)
 
 <use ./images/texte03/numerotation.png>
@@ -1954,26 +1955,22 @@ Package pdftex.def Info: ./images/texte03/numerotation.png used on input line 4
 95.
 (pdftex.def)             Requested size: 465.73886pt x 757.8294pt.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [26 <./images/texte03/Texte03_Entete3.png> <./images/texte03/entete3.png>]
-<./images/texte03/indice_exposant.png, id=1071, 284.06125pt x 175.65625pt>
+<./images/texte03/indice_exposant.png, id=1072, 284.06125pt x 175.65625pt>
 File: ./images/texte03/indice_exposant.png Graphic file (type png)
 
 <use ./images/texte03/indice_exposant.png>
 Package pdftex.def Info: ./images/texte03/indice_exposant.png used on input lin
 e 507.
 (pdftex.def)             Requested size: 284.06053pt x 175.6558pt.
-
-<./images/texte03/texte3exposantResultat.png, id=1072, 421.575pt x 61.22874pt>
+ [27 <./images/texte03/entete3.png> <./images/texte03/numerotation.png>]
+<./images/texte03/texte3exposantResultat.png, id=1077, 421.575pt x 61.22874pt>
 File: ./images/texte03/texte3exposantResultat.png Graphic file (type png)
 
 <use ./images/texte03/texte3exposantResultat.png>
 Package pdftex.def Info: ./images/texte03/texte3exposantResultat.png used on in
 put line 520.
 (pdftex.def)             Requested size: 421.57396pt x 61.22858pt.
- [27 <./images/texte03/numerotation.png> <./images/texte03/indice_exposant.png>
- <./images/texte03/texte3exposantResultat.png>]
+
 <./images/texte03/caracteresSpeciaux1.png, id=1078, 1376.14125pt x 211.79124pt>
 File: ./images/texte03/caracteresSpeciaux1.png Graphic file (type png)
 <use ./images/texte03/caracteresSpeciaux1.png>
@@ -1989,16 +1986,19 @@ Package pdftex.def Info: ./images/texte03/caracteresSpeciaux2.png used on input
  line 545.
 (pdftex.def)             Requested size: 678.53334pt x 377.40907pt.
 
-<./images/texte03/inserer_math1.png, id=1080, 1284.8pt x 623.32875pt>
+Underfull \vbox (badness 3158) has occurred while \output is active []
+
+ [28 <./images/texte03/indice_exposant.png> <./images/texte03/texte3exposantRes
+ultat.png> <./images/texte03/caracteresSpeciaux1.png>]
+<./images/texte03/inserer_math1.png, id=1085, 1284.8pt x 623.32875pt>
 File: ./images/texte03/inserer_math1.png Graphic file (type png)
 
 <use ./images/texte03/inserer_math1.png>
 Package pdftex.def Info: ./images/texte03/inserer_math1.png used on input line 
 555.
 (pdftex.def)             Requested size: 1284.79688pt x 623.32722pt.
- [28 <./images/texte03/caracteresSpeciaux1.png> <./images/texte03/caracteresSpe
-ciaux2.png>]
-<./images/texte03/inserer_math2.png, id=1085, 1253.68375pt x 100.375pt>
+
+<./images/texte03/inserer_math2.png, id=1086, 1253.68375pt x 100.375pt>
 File: ./images/texte03/inserer_math2.png Graphic file (type png)
 
 <use ./images/texte03/inserer_math2.png>
@@ -2006,15 +2006,16 @@ Package pdftex.def Info: ./images/texte03/inserer_math2.png used on input line
 572.
 (pdftex.def)             Requested size: 1253.6807pt x 100.37474pt.
 
-<./images/texte03/Texte03_Formule7.png, id=1086, 33.12375pt x 54.2025pt>
+<./images/texte03/Texte03_Formule7.png, id=1087, 33.12375pt x 54.2025pt>
 File: ./images/texte03/Texte03_Formule7.png Graphic file (type png)
 
 <use ./images/texte03/Texte03_Formule7.png>
 Package pdftex.def Info: ./images/texte03/Texte03_Formule7.png used on input li
 ne 574.
 (pdftex.def)             Requested size: 17.07182pt x 27.93568pt.
-
-<./images/texte03/inserer_math3.png, id=1087, 548.0475pt x 370.38374pt>
+ [29 <./images/texte03/caracteresSpeciaux2.png> <./images/texte03/inserer_math1
+.png>]
+<./images/texte03/inserer_math3.png, id=1093, 548.0475pt x 370.38374pt>
 File: ./images/texte03/inserer_math3.png Graphic file (type png)
 
 <use ./images/texte03/inserer_math3.png>
@@ -2022,18 +2023,16 @@ Package pdftex.def Info: ./images/texte03/inserer_math3.png used on input line
 581.
 (pdftex.def)             Requested size: 548.04616pt x 370.38283pt.
 
-<./images/texte03/Texte03_Formule9.png, id=1088, 310.15875pt x 163.61125pt>
+<./images/texte03/Texte03_Formule9.png, id=1094, 310.15875pt x 163.61125pt>
 File: ./images/texte03/Texte03_Formule9.png Graphic file (type png)
 
 <use ./images/texte03/Texte03_Formule9.png>
 Package pdftex.def Info: ./images/texte03/Texte03_Formule9.png used on input li
 ne 581.
 (pdftex.def)             Requested size: 310.15799pt x 163.61084pt.
-) (./sources/tableur03/tableur03.tex [29 <./images/texte03/inserer_math1.png> <
-./images/texte03/inserer_math2.png> <./images/texte03/Texte03_Formule7.png> <./
-images/texte03/inserer_math3.png> <./images/texte03/Texte03_Formule9.png>] [30
-
-]
+) (./sources/tableur03/tableur03.tex [30 <./images/texte03/inserer_math2.png> <
+./images/texte03/Texte03_Formule7.png> <./images/texte03/inserer_math3.png> <./
+images/texte03/Texte03_Formule9.png>]
 Chapitre 3.
 File: ./images/chapitreVinci4e.png Graphic file (type png)
 <use ./images/chapitreVinci4e.png>
@@ -2042,7 +2041,9 @@ Package pdftex.def Info: ./images/chapitreVinci4e.png used on input line 1.
 
 Underfull \vbox (badness 2512) has occurred while \output is active []
 
- [31]
+ [31
+
+]
 
 
 <QR code requested for "https://web.microsoftstream.com/video/f327bedd-1400-47b
@@ -2066,7 +2067,7 @@ Overfull \hbox (6.0pt too wide) in paragraph at lines 119--120
  []
 
 [32]
-<./images/tableur03/IconeFonction_OExcel_crop.png, id=1112, 398.48875pt x 127.4
+<./images/tableur03/IconeFonction_OExcel_crop.png, id=1113, 398.48875pt x 127.4
 7626pt>
 File: ./images/tableur03/IconeFonction_OExcel_crop.png Graphic file (type png)
  <use ./images/tableur03/IconeFonction_OExcel_crop.png>
@@ -2099,6 +2100,11 @@ a-bd09-dbe319c2de29" in version 0-M.>
 
 <Copying the QR code for "https://web.microsoftstream.com/video/d1e76f1b-4791-4
 8ca-bd09-dbe319c2de29" in version 5-M as previously calculated.>
+
+Underfull \hbox (badness 10000) in paragraph at lines 238--239
+
+ []
+
 File: ./images/generales/clavierCmdS.png Graphic file (type png)
 <use ./images/generales/clavierCmdS.png>
 Package pdftex.def Info: ./images/generales/clavierCmdS.png used on input line 
@@ -2114,275 +2120,275 @@ Overfull \hbox (6.0pt too wide) in paragraph at lines 262--263
 [][][][][][][]
  []
 
-[37] [38] [39]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+[37] [38] [39] [40]
+LaTeX Font Info:    Font shape `T1/lmtt/bx/n' in size <12> not available
+(Font)              Font shape `T1/lmtt/b/n' tried instead on input line 372.
 
- [40]
-<./images/tableur03/SeparateurDecimal_excel.png, id=1184, 100.375pt x 103.38625
+<./images/tableur03/SeparateurDecimal_excel.png, id=1186, 100.375pt x 103.38625
 pt>
 File: ./images/tableur03/SeparateurDecimal_excel.png Graphic file (type png)
  <use ./images/tableur03/SeparateurDecimal_excel.png>
 Package pdftex.def Info: ./images/tableur03/SeparateurDecimal_excel.png used on
- input line 385.
+ input line 397.
 (pdftex.def)             Requested size: 100.37474pt x 103.38599pt.
 
-<./images/tableur03/SeparateurDecimal_Oexcel_crop.png, id=1185, 114.4275pt x 11
+<./images/tableur03/SeparateurDecimal_Oexcel_crop.png, id=1187, 114.4275pt x 11
 6.435pt>
 File: ./images/tableur03/SeparateurDecimal_Oexcel_crop.png Graphic file (type p
 ng)
  <use ./images/tableur03/SeparateurDecimal_Oexcel_crop.png>
 Package pdftex.def Info: ./images/tableur03/SeparateurDecimal_Oexcel_crop.png u
-sed on input line 385.
+sed on input line 397.
 (pdftex.def)             Requested size: 114.42722pt x 116.43471pt.
  [41 <./images/tableur03/SeparateurDecimal_excel.png> <./images/tableur03/Separ
 ateurDecimal_Oexcel_crop.png>]
-<./images/tableur03/changerVirgule1_excel_crop.png, id=1193, 726.715pt x 423.58
+<./images/tableur03/changerVirgule1_excel_crop.png, id=1196, 726.715pt x 423.58
 25pt>
 File: ./images/tableur03/changerVirgule1_excel_crop.png Graphic file (type png)
 
  <use ./images/tableur03/changerVirgule1_excel_crop.png>
 Package pdftex.def Info: ./images/tableur03/changerVirgule1_excel_crop.png used
- on input line 393.
+ on input line 405.
 (pdftex.def)             Requested size: 726.71321pt x 423.58147pt.
 
-<./images/tableur03/changerVirgule2_excel_crop.png, id=1194, 547.04375pt x 314.
+<./images/tableur03/changerVirgule2_excel_crop.png, id=1197, 547.04375pt x 314.
 17375pt>
 File: ./images/tableur03/changerVirgule2_excel_crop.png Graphic file (type png)
 
  <use ./images/tableur03/changerVirgule2_excel_crop.png>
 Package pdftex.def Info: ./images/tableur03/changerVirgule2_excel_crop.png used
- on input line 399.
+ on input line 411.
 (pdftex.def)             Requested size: 547.0424pt x 314.17297pt.
 LaTeX Font Info:    Font shape `T1/lmtt/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/lmtt/b/n' tried instead on input line 402.
+(Font)              Font shape `T1/lmtt/b/n' tried instead on input line 414.
  [42 <./images/tableur03/changerVirgule1_excel_crop.png> <./images/tableur03/ch
 angerVirgule2_excel_crop.png>]
-<./images/tableur03/ImportCSV1_Excel_crop.png, id=1201, 424.58624pt x 513.92pt>
+<./images/tableur03/ImportCSV1_Excel_crop.png, id=1204, 424.58624pt x 513.92pt>
 File: ./images/tableur03/ImportCSV1_Excel_crop.png Graphic file (type png)
 <use ./images/tableur03/ImportCSV1_Excel_crop.png>
 Package pdftex.def Info: ./images/tableur03/ImportCSV1_Excel_crop.png used on i
-nput line 413.
+nput line 425.
 (pdftex.def)             Requested size: 424.5852pt x 513.91873pt.
 
-<./images/tableur03/ImportCSV2_Excel_crop.png, id=1202, 484.81125pt x 311.1625p
+<./images/tableur03/ImportCSV2_Excel_crop.png, id=1205, 484.81125pt x 311.1625p
 t>
 File: ./images/tableur03/ImportCSV2_Excel_crop.png Graphic file (type png)
  <use ./images/tableur03/ImportCSV2_Excel_crop.png>
 Package pdftex.def Info: ./images/tableur03/ImportCSV2_Excel_crop.png used on i
-nput line 413.
+nput line 425.
 (pdftex.def)             Requested size: 484.81006pt x 311.16174pt.
 
-<./images/tableur03/ImportCSV4_Excel_crop.png, id=1203, 818.05624pt x 455.7025p
+<./images/tableur03/ImportCSV4_Excel_crop.png, id=1206, 818.05624pt x 455.7025p
 t>
 File: ./images/tableur03/ImportCSV4_Excel_crop.png Graphic file (type png)
  <use ./images/tableur03/ImportCSV4_Excel_crop.png>
 Package pdftex.def Info: ./images/tableur03/ImportCSV4_Excel_crop.png used on i
-nput line 417.
+nput line 429.
 (pdftex.def)             Requested size: 818.05424pt x 455.70137pt.
  [43 <./images/tableur03/ImportCSV1_Excel_crop.png> <./images/tableur03/ImportC
 SV2_Excel_crop.png> <./images/tableur03/ImportCSV4_Excel_crop.png>]
-<./images/tableur03/ImportCSV3_Excel_crop.png, id=1210, 821.0675pt x 457.71pt>
+<./images/tableur03/ImportCSV3_Excel_crop.png, id=1212, 821.0675pt x 457.71pt>
 File: ./images/tableur03/ImportCSV3_Excel_crop.png Graphic file (type png)
 
 <use ./images/tableur03/ImportCSV3_Excel_crop.png>
 Package pdftex.def Info: ./images/tableur03/ImportCSV3_Excel_crop.png used on i
-nput line 424.
+nput line 436.
 (pdftex.def)             Requested size: 821.0655pt x 457.7089pt.
 
-<./images/tableur03/RefFixeVariable1_Excel_crop.png, id=1212, 434.62375pt x 181
+<./images/tableur03/RefFixeVariable1_Excel_crop.png, id=1214, 434.62375pt x 181
 .67876pt>
 File: ./images/tableur03/RefFixeVariable1_Excel_crop.png Graphic file (type png
 )
  <use ./images/tableur03/RefFixeVariable1_Excel_crop.png>
 Package pdftex.def Info: ./images/tableur03/RefFixeVariable1_Excel_crop.png use
-d on input line 436.
+d on input line 448.
 (pdftex.def)             Requested size: 434.62268pt x 181.6783pt.
  [44 <./images/tableur03/ImportCSV3_Excel_crop.png> <./images/tableur03/RefFixe
 Variable1_Excel_crop.png>]
-<./images/tableur03/RefFixeVariable2_Excel_crop.png, id=1217, 429.605pt x 165.6
+<./images/tableur03/RefFixeVariable2_Excel_crop.png, id=1219, 429.605pt x 165.6
 1874pt>
 File: ./images/tableur03/RefFixeVariable2_Excel_crop.png Graphic file (type png
 )
  <use ./images/tableur03/RefFixeVariable2_Excel_crop.png>
 Package pdftex.def Info: ./images/tableur03/RefFixeVariable2_Excel_crop.png use
-d on input line 442.
+d on input line 454.
 (pdftex.def)             Requested size: 429.60394pt x 165.61833pt.
 
-<./images/tableur03/RefFixeVariable3_Excel_crop.png, id=1218, 474.77374pt x 176
+<./images/tableur03/RefFixeVariable3_Excel_crop.png, id=1220, 474.77374pt x 176
 .66pt>
 File: ./images/tableur03/RefFixeVariable3_Excel_crop.png Graphic file (type png
 )
  <use ./images/tableur03/RefFixeVariable3_Excel_crop.png>
 Package pdftex.def Info: ./images/tableur03/RefFixeVariable3_Excel_crop.png use
-d on input line 450.
+d on input line 462.
 (pdftex.def)             Requested size: 474.77258pt x 176.65956pt.
 
-<./images/tableur03/RefFixeVariable4_Excel_crop.png, id=1219, 467.7475pt x 170.
+<./images/tableur03/RefFixeVariable4_Excel_crop.png, id=1221, 467.7475pt x 170.
 6375pt>
 File: ./images/tableur03/RefFixeVariable4_Excel_crop.png Graphic file (type png
 )
  <use ./images/tableur03/RefFixeVariable4_Excel_crop.png>
 Package pdftex.def Info: ./images/tableur03/RefFixeVariable4_Excel_crop.png use
-d on input line 454.
+d on input line 466.
 (pdftex.def)             Requested size: 467.74634pt x 170.63707pt.
  [45 <./images/tableur03/RefFixeVariable2_Excel_crop.png> <./images/tableur03/R
 efFixeVariable3_Excel_crop.png>]
-<./images/tableur03/TrierFiltrer1_OExcel_crop.png, id=1224, 663.47874pt x 325.2
+<./images/tableur03/TrierFiltrer1_OExcel_crop.png, id=1226, 663.47874pt x 325.2
 15pt>
 File: ./images/tableur03/TrierFiltrer1_OExcel_crop.png Graphic file (type png)
  <use ./images/tableur03/TrierFiltrer1_OExcel_crop.png>
 Package pdftex.def Info: ./images/tableur03/TrierFiltrer1_OExcel_crop.png used 
-on input line 467.
+on input line 479.
 (pdftex.def)             Requested size: 663.47711pt x 325.2142pt.
 
-<./images/tableur03/TrierFiltrer2a_OExcel_crop.png, id=1225, 683.55376pt x 244.
+<./images/tableur03/TrierFiltrer2a_OExcel_crop.png, id=1227, 683.55376pt x 244.
 915pt>
 File: ./images/tableur03/TrierFiltrer2a_OExcel_crop.png Graphic file (type png)
 
  <use ./images/tableur03/TrierFiltrer2a_OExcel_crop.png>
 Package pdftex.def Info: ./images/tableur03/TrierFiltrer2a_OExcel_crop.png used
- on input line 472.
+ on input line 484.
 (pdftex.def)             Requested size: 683.5521pt x 244.91438pt.
 
-<./images/tableur03/TrierFiltrer2b_Excel_crop.png, id=1226, 372.39125pt x 137.5
+<./images/tableur03/TrierFiltrer2b_Excel_crop.png, id=1228, 372.39125pt x 137.5
 1375pt>
 File: ./images/tableur03/TrierFiltrer2b_Excel_crop.png Graphic file (type png)
  <use ./images/tableur03/TrierFiltrer2b_Excel_crop.png>
 Package pdftex.def Info: ./images/tableur03/TrierFiltrer2b_Excel_crop.png used 
-on input line 472.
+on input line 484.
 (pdftex.def)             Requested size: 372.39034pt x 137.51341pt.
  [46 <./images/tableur03/RefFixeVariable4_Excel_crop.png> <./images/tableur03/T
 rierFiltrer1_OExcel_crop.png>]
-<./images/tableur03/TrierFiltrer3a_OExcel_crop.png, id=1231, 685.56125pt x 289.
+<./images/tableur03/TrierFiltrer3a_OExcel_crop.png, id=1233, 685.56125pt x 289.
 08pt>
 File: ./images/tableur03/TrierFiltrer3a_OExcel_crop.png Graphic file (type png)
 
  <use ./images/tableur03/TrierFiltrer3a_OExcel_crop.png>
 Package pdftex.def Info: ./images/tableur03/TrierFiltrer3a_OExcel_crop.png used
- on input line 477.
+ on input line 489.
 (pdftex.def)             Requested size: 685.55957pt x 289.07928pt.
 
-<./images/tableur03/TrierFiltrer3b_Excel_crop.png, id=1232, 364.36125pt x 133.4
+<./images/tableur03/TrierFiltrer3b_Excel_crop.png, id=1234, 364.36125pt x 133.4
 9875pt>
 File: ./images/tableur03/TrierFiltrer3b_Excel_crop.png Graphic file (type png)
  <use ./images/tableur03/TrierFiltrer3b_Excel_crop.png>
 Package pdftex.def Info: ./images/tableur03/TrierFiltrer3b_Excel_crop.png used 
-on input line 477.
+on input line 489.
 (pdftex.def)             Requested size: 364.36035pt x 133.4984pt.
 
-<./images/tableur03/condition3_OExcel_crop.png, id=1233, 465.74pt x 95.35625pt>
+<./images/tableur03/condition3_OExcel_crop.png, id=1235, 465.74pt x 95.35625pt>
 File: ./images/tableur03/condition3_OExcel_crop.png Graphic file (type png)
 <use ./images/tableur03/condition3_OExcel_crop.png>
 Package pdftex.def Info: ./images/tableur03/condition3_OExcel_crop.png used on 
-input line 518.
+input line 530.
 (pdftex.def)             Requested size: 465.73886pt x 95.356pt.
  [47 <./images/tableur03/TrierFiltrer2a_OExcel_crop.png> <./images/tableur03/Tr
 ierFiltrer2b_Excel_crop.png> <./images/tableur03/TrierFiltrer3a_OExcel_crop.png
 > <./images/tableur03/TrierFiltrer3b_Excel_crop.png> <./images/tableur03/condit
 ion3_OExcel_crop.png>]
-<./images/tableur03/condition4_Excel_crop.png, id=1240, 376.40625pt x 129.48375
+<./images/tableur03/condition4_Excel_crop.png, id=1242, 376.40625pt x 129.48375
 pt>
 File: ./images/tableur03/condition4_Excel_crop.png Graphic file (type png)
  <use ./images/tableur03/condition4_Excel_crop.png>
 Package pdftex.def Info: ./images/tableur03/condition4_Excel_crop.png used on i
-nput line 522.
+nput line 534.
 (pdftex.def)             Requested size: 376.40532pt x 129.48341pt.
 
-<./images/tableur03/condition5_Excel_crop.png, id=1241, 364.36125pt x 120.45pt>
+<./images/tableur03/condition5_Excel_crop.png, id=1243, 364.36125pt x 120.45pt>
 File: ./images/tableur03/condition5_Excel_crop.png Graphic file (type png)
 <use ./images/tableur03/condition5_Excel_crop.png>
 Package pdftex.def Info: ./images/tableur03/condition5_Excel_crop.png used on i
-nput line 526.
+nput line 538.
 (pdftex.def)             Requested size: 364.36035pt x 120.44969pt.
 
-<./images/tableur03/NBSI1_OExcel_crop.png, id=1242, 674.52pt x 172.645pt>
+<./images/tableur03/NBSI1_OExcel_crop.png, id=1244, 674.52pt x 172.645pt>
 File: ./images/tableur03/NBSI1_OExcel_crop.png Graphic file (type png)
 
 <use ./images/tableur03/NBSI1_OExcel_crop.png>
 Package pdftex.def Info: ./images/tableur03/NBSI1_OExcel_crop.png used on input
- line 541.
+ line 553.
 (pdftex.def)             Requested size: 674.51836pt x 172.64456pt.
  [48 <./images/tableur03/condition4_Excel_crop.png> <./images/tableur03/conditi
 on5_Excel_crop.png> <./images/tableur03/NBSI1_OExcel_crop.png>]
-<./images/tableur03/FonctionSomme_Excel_crop.png, id=1247, 301.125pt x 168.63pt
+<./images/tableur03/FonctionSomme_Excel_crop.png, id=1249, 301.125pt x 168.63pt
 >
 File: ./images/tableur03/FonctionSomme_Excel_crop.png Graphic file (type png)
  <use ./images/tableur03/FonctionSomme_Excel_crop.png>
 Package pdftex.def Info: ./images/tableur03/FonctionSomme_Excel_crop.png used o
-n input line 560.
+n input line 572.
 (pdftex.def)             Requested size: 301.12425pt x 168.62958pt.
 
-<./images/tableur03/figerFenetre1_OExcel_crop.png, id=1248, 766.865pt x 191.716
+<./images/tableur03/figerFenetre1_OExcel_crop.png, id=1250, 766.865pt x 191.716
 25pt>
 File: ./images/tableur03/figerFenetre1_OExcel_crop.png Graphic file (type png)
  <use ./images/tableur03/figerFenetre1_OExcel_crop.png>
 Package pdftex.def Info: ./images/tableur03/figerFenetre1_OExcel_crop.png used 
-on input line 570.
+on input line 582.
 (pdftex.def)             Requested size: 766.86314pt x 191.71577pt.
 
-<./images/tableur03/figerFenetre2_Excel_crop.png, id=1249, 188.705pt x 106.3975
+<./images/tableur03/figerFenetre2_Excel_crop.png, id=1251, 188.705pt x 106.3975
 pt>
 File: ./images/tableur03/figerFenetre2_Excel_crop.png Graphic file (type png)
  <use ./images/tableur03/figerFenetre2_Excel_crop.png>
 Package pdftex.def Info: ./images/tableur03/figerFenetre2_Excel_crop.png used o
-n input line 574.
+n input line 586.
 (pdftex.def)             Requested size: 188.70453pt x 106.39723pt.
  [49 <./images/tableur03/FonctionSomme_Excel_crop.png> <./images/tableur03/fige
 rFenetre1_OExcel_crop.png> <./images/tableur03/figerFenetre2_Excel_crop.png>]
-<./images/tableur03/clavierCmDdown.png, id=1254, 112.7412pt x 26.0172pt>
+<./images/tableur03/clavierCmDdown.png, id=1256, 112.7412pt x 26.0172pt>
 File: ./images/tableur03/clavierCmDdown.png Graphic file (type png)
 
 <use ./images/tableur03/clavierCmDdown.png>
 Package pdftex.def Info: ./images/tableur03/clavierCmDdown.png used on input li
-ne 586.
+ne 598.
 (pdftex.def)             Requested size: 113.81102pt x 26.26523pt.
 
-<./images/tableur03/clavierCmDup.png, id=1255, 112.7412pt x 26.0172pt>
+<./images/tableur03/clavierCmDup.png, id=1257, 112.7412pt x 26.0172pt>
 File: ./images/tableur03/clavierCmDup.png Graphic file (type png)
 
 <use ./images/tableur03/clavierCmDup.png>
 Package pdftex.def Info: ./images/tableur03/clavierCmDup.png used on input line
- 587.
+ 599.
 (pdftex.def)             Requested size: 113.81102pt x 26.26523pt.
 
-<./images/tableur03/clavierCmDright.png, id=1256, 112.7412pt x 26.0172pt>
+<./images/tableur03/clavierCmDright.png, id=1258, 112.7412pt x 26.0172pt>
 File: ./images/tableur03/clavierCmDright.png Graphic file (type png)
 
 <use ./images/tableur03/clavierCmDright.png>
 Package pdftex.def Info: ./images/tableur03/clavierCmDright.png used on input l
-ine 588.
+ine 600.
 (pdftex.def)             Requested size: 113.81102pt x 26.26523pt.
 
-<./images/tableur03/clavierCmDleft.png, id=1257, 112.7412pt x 26.0172pt>
+<./images/tableur03/clavierCmDleft.png, id=1259, 112.7412pt x 26.0172pt>
 File: ./images/tableur03/clavierCmDleft.png Graphic file (type png)
 
 <use ./images/tableur03/clavierCmDleft.png>
 Package pdftex.def Info: ./images/tableur03/clavierCmDleft.png used on input li
-ne 589.
+ne 601.
 (pdftex.def)             Requested size: 113.81102pt x 26.26523pt.
 
-<./images/tableur03/clavierCmd.png, id=1258, 23.8491pt x 20.9583pt>
+<./images/tableur03/clavierCmd.png, id=1260, 23.8491pt x 20.9583pt>
 File: ./images/tableur03/clavierCmd.png Graphic file (type png)
 
 <use ./images/tableur03/clavierCmd.png>
-Package pdftex.def Info: ./images/tableur03/clavierCmd.png used on input line 5
-98.
+Package pdftex.def Info: ./images/tableur03/clavierCmd.png used on input line 6
+10.
 (pdftex.def)             Requested size: 35.77354pt x 31.43735pt.
 
-<./images/tableur03/clavierShift.png, id=1259, 44.98807pt x 17.88683pt>
+<./images/tableur03/clavierShift.png, id=1261, 44.98807pt x 17.88683pt>
 File: ./images/tableur03/clavierShift.png Graphic file (type png)
 
 <use ./images/tableur03/clavierShift.png>
 Package pdftex.def Info: ./images/tableur03/clavierShift.png used on input line
- 598.
+ 610.
 (pdftex.def)             Requested size: 67.48189pt x 26.83014pt.
 
-<./images/tableur03/clavierRight.png, id=1260, 18.7902pt x 10.65982pt>
+<./images/tableur03/clavierRight.png, id=1262, 18.7902pt x 10.65982pt>
 File: ./images/tableur03/clavierRight.png Graphic file (type png)
 
 <use ./images/tableur03/clavierRight.png>
 Package pdftex.def Info: ./images/tableur03/clavierRight.png used on input line
- 598.
+ 610.
 (pdftex.def)             Requested size: 28.18521pt x 15.98965pt.
 ) (./sources/scratch03/scratch03.tex
 [50 <./images/tableur03/clavierCmDdown.png> <./images/tableur03/clavierCmDup.pn
@@ -2404,7 +2410,7 @@ b-a227-13baa5128e27" in version 0-M.>
 
 <Copying the QR code for "https://web.microsoftstream.com/video/e7920401-81a2-4
 9eb-a227-13baa5128e27" in version 5-M as previously calculated.>
-<./images/scratch03/changerLangue.png, id=1281, 47.17625pt x 37.13875pt>
+<./images/scratch03/changerLangue.png, id=1283, 47.17625pt x 37.13875pt>
 File: ./images/scratch03/changerLangue.png Graphic file (type png)
 
 <use ./images/scratch03/changerLangue.png>
@@ -2412,7 +2418,7 @@ Package pdftex.def Info: ./images/scratch03/changerLangue.png used on input lin
 e 91.
 (pdftex.def)             Requested size: 28.45274pt x 22.39902pt.
 
-<./images/scratch03/french.png, id=1282, 287.0725pt x 52.195pt>
+<./images/scratch03/french.png, id=1284, 287.0725pt x 52.195pt>
 File: ./images/scratch03/french.png Graphic file (type png)
 
 <use ./images/scratch03/french.png>
@@ -2434,7 +2440,7 @@ Overfull \hbox (6.0pt too wide) in paragraph at lines 110--111
 Underfull \vbox (badness 1231) has occurred while \output is active []
 
  [52 <./images/scratch03/changerLangue.png> <./images/scratch03/french.png>]
-<./images/scratch03/fonction/Scratch_Fonctions_01.png, id=1292, 828.09375pt x 6
+<./images/scratch03/fonction/Scratch_Fonctions_01.png, id=1294, 828.09375pt x 6
 62.475pt>
 File: ./images/scratch03/fonction/Scratch_Fonctions_01.png Graphic file (type p
 ng)
@@ -2443,7 +2449,7 @@ Package pdftex.def Info: ./images/scratch03/fonction/Scratch_Fonctions_01.png u
 sed on input line 119.
 (pdftex.def)             Requested size: 828.09174pt x 662.47339pt.
 
-<./images/scratch03/fonction/Scratch_Fonctions_02.png, id=1293, 427.5975pt x 40
+<./images/scratch03/fonction/Scratch_Fonctions_02.png, id=1295, 427.5975pt x 40
 4.51125pt>
 File: ./images/scratch03/fonction/Scratch_Fonctions_02.png Graphic file (type p
 ng)
@@ -2452,7 +2458,7 @@ Package pdftex.def Info: ./images/scratch03/fonction/Scratch_Fonctions_02.png u
 sed on input line 120.
 (pdftex.def)             Requested size: 25.6073pt x 24.22025pt.
 
-<./images/scratch03/fonction/Scratch_Fonctions_03.png, id=1294, 845.1575pt x 70
+<./images/scratch03/fonction/Scratch_Fonctions_03.png, id=1296, 845.1575pt x 70
 3.62875pt>
 File: ./images/scratch03/fonction/Scratch_Fonctions_03.png Graphic file (type p
 ng)
@@ -2465,7 +2471,7 @@ Underfull \vbox (badness 2538) has occurred while \output is active []
 
  [53 <./images/scratch03/fonction/Scratch_Fonctions_01.png> <./images/scratch03
 /fonction/Scratch_Fonctions_02.png>]
-<./images/scratch03/fonction/Scratch_Fonctions_04.png, id=1304, 546.04pt x 139.
+<./images/scratch03/fonction/Scratch_Fonctions_04.png, id=1306, 546.04pt x 139.
 52126pt>
 File: ./images/scratch03/fonction/Scratch_Fonctions_04.png Graphic file (type p
 ng)
@@ -2474,7 +2480,7 @@ Package pdftex.def Info: ./images/scratch03/fonction/Scratch_Fonctions_04.png u
 sed on input line 130.
 (pdftex.def)             Requested size: 71.13188pt x 18.17458pt.
 
-<./images/scratch03/fonction/Scratch_Fonctions_05.png, id=1305, 722.7pt x 733.7
+<./images/scratch03/fonction/Scratch_Fonctions_05.png, id=1307, 722.7pt x 733.7
 4126pt>
 File: ./images/scratch03/fonction/Scratch_Fonctions_05.png Graphic file (type p
 ng)
@@ -2484,7 +2490,7 @@ sed on input line 145.
 (pdftex.def)             Requested size: 722.69823pt x 733.73947pt.
  [54 <./images/scratch03/fonction/Scratch_Fonctions_03.png> <./images/scratch03
 /fonction/Scratch_Fonctions_04.png>]
-<./images/scratch03/fonction/creerBloc1.png, id=1313, 314.17375pt x 417.56pt>
+<./images/scratch03/fonction/creerBloc1.png, id=1315, 314.17375pt x 417.56pt>
 File: ./images/scratch03/fonction/creerBloc1.png Graphic file (type png)
 
 <use ./images/scratch03/fonction/creerBloc1.png>
@@ -2492,7 +2498,7 @@ Package pdftex.def Info: ./images/scratch03/fonction/creerBloc1.png used on inp
 ut line 163.
 (pdftex.def)             Requested size: 155.69441pt x 206.92538pt.
 
-<./images/scratch03/fonction/creerBloc2.png, id=1314, 713.66624pt x 537.00626pt
+<./images/scratch03/fonction/creerBloc2.png, id=1316, 713.66624pt x 537.00626pt
 >
 File: ./images/scratch03/fonction/creerBloc2.png Graphic file (type png)
  <use ./images/scratch03/fonction/creerBloc2.png>
@@ -2501,7 +2507,7 @@ ut line 166.
 (pdftex.def)             Requested size: 713.66449pt x 537.00494pt.
  [55 <./images/scratch03/fonction/Scratch_Fonctions_05.png> <./images/scratch03
 /fonction/creerBloc1.png>]
-<./images/scratch03/fonction/definirBloc.png, id=1320, 195.73125pt x 270.00874p
+<./images/scratch03/fonction/definirBloc.png, id=1322, 195.73125pt x 270.00874p
 t>
 File: ./images/scratch03/fonction/definirBloc.png Graphic file (type png)
  <use ./images/scratch03/fonction/definirBloc.png>
@@ -2509,7 +2515,7 @@ Package pdftex.def Info: ./images/scratch03/fonction/definirBloc.png used on in
 put line 170.
 (pdftex.def)             Requested size: 113.81102pt x 157.00069pt.
 
-<./images/scratch03/fonction/bloc.png, id=1321, 50.1875pt x 43.16125pt>
+<./images/scratch03/fonction/bloc.png, id=1323, 50.1875pt x 43.16125pt>
 File: ./images/scratch03/fonction/bloc.png Graphic file (type png)
 
 <use ./images/scratch03/fonction/bloc.png>
@@ -2523,7 +2529,7 @@ Overfull \hbox (6.79999pt too wide) in paragraph at lines 177--177
 
 [56 <./images/scratch03/fonction/creerBloc2.png> <./images/scratch03/fonction/d
 efinirBloc.png> <./images/scratch03/fonction/bloc.png>]
-<./images/scratch03/fonction/modifierBloc.png, id=1329, 208.78pt x 62.2325pt>
+<./images/scratch03/fonction/modifierBloc.png, id=1331, 208.78pt x 62.2325pt>
 File: ./images/scratch03/fonction/modifierBloc.png Graphic file (type png)
 
 <use ./images/scratch03/fonction/modifierBloc.png>
@@ -2531,7 +2537,7 @@ Package pdftex.def Info: ./images/scratch03/fonction/modifierBloc.png used on i
 nput line 207.
 (pdftex.def)             Requested size: 113.81102pt x 33.92505pt.
 
-<./images/scratch03/fonction/blocTaille.png, id=1330, 716.6775pt x 539.01375pt>
+<./images/scratch03/fonction/blocTaille.png, id=1332, 716.6775pt x 539.01375pt>
 File: ./images/scratch03/fonction/blocTaille.png Graphic file (type png)
 <use ./images/scratch03/fonction/blocTaille.png>
 Package pdftex.def Info: ./images/scratch03/fonction/blocTaille.png used on inp
@@ -2546,7 +2552,7 @@ Package pdftex.def Info: ./images/scratch03/fonction/modifierBloc.png used on i
 nput line 231.
 (pdftex.def)             Requested size: 113.81102pt x 33.92505pt.
 
-<./images/scratch03/fonction/blocEtiquette.png, id=1338, 716.6775pt x 538.01pt>
+<./images/scratch03/fonction/blocEtiquette.png, id=1340, 716.6775pt x 538.01pt>
 File: ./images/scratch03/fonction/blocEtiquette.png Graphic file (type png)
 <use ./images/scratch03/fonction/blocEtiquette.png>
 Package pdftex.def Info: ./images/scratch03/fonction/blocEtiquette.png used on 
@@ -2558,7 +2564,7 @@ Overfull \hbox (6.79999pt too wide) in paragraph at lines 252--252
  []
 
 
-<./images/scratch03/fonction/Scratch_Fonctions_11.png, id=1340, 544.0325pt x 11
+<./images/scratch03/fonction/Scratch_Fonctions_11.png, id=1342, 544.0325pt x 11
 9.44624pt>
 File: ./images/scratch03/fonction/Scratch_Fonctions_11.png Graphic file (type p
 ng)
@@ -2567,7 +2573,7 @@ Package pdftex.def Info: ./images/scratch03/fonction/Scratch_Fonctions_11.png u
 sed on input line 261.
 (pdftex.def)             Requested size: 85.35826pt x 18.73997pt.
  [58 <./images/scratch03/fonction/blocEtiquette.png>]
-<./images/scratch03/fonction/bloc_allerPlusLoin.png, id=1347, 254.9525pt x 71.2
+<./images/scratch03/fonction/bloc_allerPlusLoin.png, id=1349, 254.9525pt x 71.2
 6625pt>
 File: ./images/scratch03/fonction/bloc_allerPlusLoin.png Graphic file (type png
 )
@@ -2576,7 +2582,7 @@ Package pdftex.def Info: ./images/scratch03/fonction/bloc_allerPlusLoin.png use
 d on input line 265.
 (pdftex.def)             Requested size: 142.26378pt x 39.76852pt.
 
-<./images/scratch03/fonction/fonctionTriangle.png, id=1348, 188.705pt x 350.308
+<./images/scratch03/fonction/fonctionTriangle.png, id=1350, 188.705pt x 350.308
 75pt>
 File: ./images/scratch03/fonction/fonctionTriangle.png Graphic file (type png)
  <use ./images/scratch03/fonction/fonctionTriangle.png>
@@ -2584,7 +2590,7 @@ Package pdftex.def Info: ./images/scratch03/fonction/fonctionTriangle.png used
 on input line 276.
 (pdftex.def)             Requested size: 188.70453pt x 350.30789pt.
 
-<./images/scratch03/fonction/resultat_fonctionTriangle.png, id=1349, 408.52625p
+<./images/scratch03/fonction/resultat_fonctionTriangle.png, id=1351, 408.52625p
 t x 342.27875pt>
 File: ./images/scratch03/fonction/resultat_fonctionTriangle.png Graphic file (t
 ype png)
@@ -2599,7 +2605,7 @@ Underfull \vbox (badness 2875) has occurred while \output is active []
  [59 <./images/scratch03/fonction/Scratch_Fonctions_11.png> <./images/scratch03
 /fonction/bloc_allerPlusLoin.png> <./images/scratch03/fonction/fonctionTriangle
 .png>]
-<./images/scratch03/fonction/Scratch_Fonctions_14.png, id=1362, 707.64375pt x 6
+<./images/scratch03/fonction/Scratch_Fonctions_14.png, id=1364, 707.64375pt x 6
 11.28375pt>
 File: ./images/scratch03/fonction/Scratch_Fonctions_14.png Graphic file (type p
 ng)
@@ -2629,7 +2635,7 @@ Overfull \hbox (6.0pt too wide) in paragraph at lines 334--335
  []
 
 
-<./images/scratch03/flappy/screenshotFlappy.jpg, id=1371, 813.0375pt x 457.71pt
+<./images/scratch03/flappy/screenshotFlappy.jpg, id=1373, 813.0375pt x 457.71pt
 >
 File: ./images/scratch03/flappy/screenshotFlappy.jpg Graphic file (type jpg)
  <use ./images/scratch03/flappy/screenshotFlappy.jpg>
@@ -2642,7 +2648,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 359--359
  []
 
 
-<./images/scratch03/flappy/screenshotFlappyClone01.png, id=1372, 1123.19624pt x
+<./images/scratch03/flappy/screenshotFlappyClone01.png, id=1374, 1123.19624pt x
  843.15pt>
 File: ./images/scratch03/flappy/screenshotFlappyClone01.png Graphic file (type 
 png)
@@ -2651,7 +2657,7 @@ Package pdftex.def Info: ./images/scratch03/flappy/screenshotFlappyClone01.png
 used on input line 359.
 (pdftex.def)             Requested size: 1123.1935pt x 843.14793pt.
 
-<./images/scratch03/flappy/screenshotFlappyClone02.png, id=1373, 1131.22626pt x
+<./images/scratch03/flappy/screenshotFlappyClone02.png, id=1375, 1131.22626pt x
  850.17625pt>
 File: ./images/scratch03/flappy/screenshotFlappyClone02.png Graphic file (type 
 png)
@@ -2664,7 +2670,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 359--359
 
  []
 
-<./images/scratch03/flappy/scene03.png, id=1374, 475.7775pt x 354.32375pt>
+<./images/scratch03/flappy/scene03.png, id=1376, 475.7775pt x 354.32375pt>
 File: ./images/scratch03/flappy/scene03.png Graphic file (type png)
 
 <use ./images/scratch03/flappy/scene03.png>
@@ -2672,7 +2678,7 @@ Package pdftex.def Info: ./images/scratch03/flappy/scene03.png used on input li
 ne 385.
 (pdftex.def)             Requested size: 475.77632pt x 354.32288pt.
 
-<./images/scratch03/flappy/scene04.png, id=1375, 476.78125pt x 358.33875pt>
+<./images/scratch03/flappy/scene04.png, id=1377, 476.78125pt x 358.33875pt>
 File: ./images/scratch03/flappy/scene04.png Graphic file (type png)
 
 <use ./images/scratch03/flappy/scene04.png>
@@ -2680,7 +2686,7 @@ Package pdftex.def Info: ./images/scratch03/flappy/scene04.png used on input li
 ne 385.
 (pdftex.def)             Requested size: 476.78008pt x 358.33788pt.
 
-<./images/scratch03/flappy/LutinOiseau03.png, id=1376, 223.83624pt x 147.55125p
+<./images/scratch03/flappy/LutinOiseau03.png, id=1378, 223.83624pt x 147.55125p
 t>
 File: ./images/scratch03/flappy/LutinOiseau03.png Graphic file (type png)
  <use ./images/scratch03/flappy/LutinOiseau03.png>
@@ -2688,7 +2694,7 @@ Package pdftex.def Info: ./images/scratch03/flappy/LutinOiseau03.png used on in
 put line 385.
 (pdftex.def)             Requested size: 223.8357pt x 147.55087pt.
 
-<./images/scratch03/flappy/LutinOiseau04.png, id=1377, 280.04625pt x 235.88126p
+<./images/scratch03/flappy/LutinOiseau04.png, id=1379, 280.04625pt x 235.88126p
 t>
 File: ./images/scratch03/flappy/LutinOiseau04.png Graphic file (type png)
  <use ./images/scratch03/flappy/LutinOiseau04.png>
@@ -2696,7 +2702,7 @@ Package pdftex.def Info: ./images/scratch03/flappy/LutinOiseau04.png used on in
 put line 385.
 (pdftex.def)             Requested size: 280.04555pt x 235.88068pt.
 
-<./images/scratch03/flappy/lutinPipe00.png, id=1378, 60.225pt x 381.425pt>
+<./images/scratch03/flappy/lutinPipe00.png, id=1380, 60.225pt x 381.425pt>
 File: ./images/scratch03/flappy/lutinPipe00.png Graphic file (type png)
 
 <use ./images/scratch03/flappy/lutinPipe00.png>
@@ -2704,7 +2710,7 @@ Package pdftex.def Info: ./images/scratch03/flappy/lutinPipe00.png used on inpu
 t line 385.
 (pdftex.def)             Requested size: 60.22484pt x 381.42406pt.
 
-<./images/scratch03/flappy/lutinPipe00b.png, id=1379, 60.225pt x 381.425pt>
+<./images/scratch03/flappy/lutinPipe00b.png, id=1381, 60.225pt x 381.425pt>
 File: ./images/scratch03/flappy/lutinPipe00b.png Graphic file (type png)
 
 <use ./images/scratch03/flappy/lutinPipe00b.png>
@@ -2712,7 +2718,7 @@ Package pdftex.def Info: ./images/scratch03/flappy/lutinPipe00b.png used on inp
 ut line 385.
 (pdftex.def)             Requested size: 60.22484pt x 381.42406pt.
 
-<./images/scratch03/flappy/lutinPipe00c.png, id=1380, 60.225pt x 381.425pt>
+<./images/scratch03/flappy/lutinPipe00c.png, id=1382, 60.225pt x 381.425pt>
 File: ./images/scratch03/flappy/lutinPipe00c.png Graphic file (type png)
 
 <use ./images/scratch03/flappy/lutinPipe00c.png>
@@ -2755,14 +2761,14 @@ chier\T1/lmr/m/n/12 , choi-sir \T1/lmtt/m/n/12 Sauvegarder sur votre ordinateur
  []
 
 
-<./images/scratch03/traceFx/screenshot1.png, id=1410, 1146.2825pt x 897.3525pt>
+<./images/scratch03/traceFx/screenshot1.png, id=1412, 1146.2825pt x 897.3525pt>
 File: ./images/scratch03/traceFx/screenshot1.png Graphic file (type png)
 <use ./images/scratch03/traceFx/screenshot1.png>
 Package pdftex.def Info: ./images/scratch03/traceFx/screenshot1.png used on inp
 ut line 451.
 (pdftex.def)             Requested size: 1146.27971pt x 897.3503pt.
 
-<./images/scratch03/traceFx/screenshot2.png, id=1411, 1146.2825pt x 898.35625pt
+<./images/scratch03/traceFx/screenshot2.png, id=1413, 1146.2825pt x 898.35625pt
 >
 File: ./images/scratch03/traceFx/screenshot2.png Graphic file (type png)
  <use ./images/scratch03/traceFx/screenshot2.png>
@@ -2786,14 +2792,14 @@ Overfull \hbox (6.0pt too wide) in paragraph at lines 465--466
 
 [65 <./images/scratch03/traceFx/screenshot1.png> <./images/scratch03/traceFx/sc
 reenshot2.png>] [66]
-<./images/scratch03/flappy/scene_flappy.png, id=1425, 1396.21625pt x 766.865pt>
+<./images/scratch03/flappy/scene_flappy.png, id=1427, 1396.21625pt x 766.865pt>
 File: ./images/scratch03/flappy/scene_flappy.png Graphic file (type png)
 <use ./images/scratch03/flappy/scene_flappy.png>
 Package pdftex.def Info: ./images/scratch03/flappy/scene_flappy.png used on inp
 ut line 506.
 (pdftex.def)             Requested size: 1396.21286pt x 766.86314pt.
 
-<./images/scratch03/flappy/scene_flappy2.png, id=1426, 202.7575pt x 378.41376pt
+<./images/scratch03/flappy/scene_flappy2.png, id=1428, 202.7575pt x 378.41376pt
 >
 File: ./images/scratch03/flappy/scene_flappy2.png Graphic file (type png)
  <use ./images/scratch03/flappy/scene_flappy2.png>
@@ -2808,7 +2814,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 517--518
 
  []
 
-<./images/scratch03/flappy/perdu.png, id=1432, 877.2775pt x 657.45625pt>
+<./images/scratch03/flappy/perdu.png, id=1434, 877.2775pt x 657.45625pt>
 File: ./images/scratch03/flappy/perdu.png Graphic file (type png)
 
 <use ./images/scratch03/flappy/perdu.png>
@@ -2816,7 +2822,7 @@ Package pdftex.def Info: ./images/scratch03/flappy/perdu.png used on input line
  521.
 (pdftex.def)             Requested size: 877.27536pt x 657.45465pt.
 
-<./images/scratch03/flappy/basculeArrierePlan.png, id=1433, 327.2225pt x 119.44
+<./images/scratch03/flappy/basculeArrierePlan.png, id=1435, 327.2225pt x 119.44
 624pt>
 File: ./images/scratch03/flappy/basculeArrierePlan.png Graphic file (type png)
  <use ./images/scratch03/flappy/basculeArrierePlan.png>
@@ -2825,10 +2831,7 @@ on input line 527.
 (pdftex.def)             Requested size: 327.2217pt x 119.44594pt.
  [68 <./images/scratch03/flappy/scene_flappy2.png> <./images/scratch03/flappy/p
 erdu.png>]
-LaTeX Font Info:    Font shape `T1/lmtt/bx/n' in size <12> not available
-(Font)              Font shape `T1/lmtt/b/n' tried instead on input line 535.
-
-<./images/scratch03/flappy/supprimerSprite.png, id=1439, 88.33pt x 80.3pt>
+<./images/scratch03/flappy/supprimerSprite.png, id=1441, 88.33pt x 80.3pt>
 File: ./images/scratch03/flappy/supprimerSprite.png Graphic file (type png)
 
 <use ./images/scratch03/flappy/supprimerSprite.png>
@@ -2836,14 +2839,14 @@ Package pdftex.def Info: ./images/scratch03/flappy/supprimerSprite.png used on
 input line 548.
 (pdftex.def)             Requested size: 88.32977pt x 80.29979pt.
 
-<./images/scratch03/flappy/peindreSprite.png, id=1440, 151.56625pt x 124.465pt>
+<./images/scratch03/flappy/peindreSprite.png, id=1442, 151.56625pt x 124.465pt>
 File: ./images/scratch03/flappy/peindreSprite.png Graphic file (type png)
 <use ./images/scratch03/flappy/peindreSprite.png>
 Package pdftex.def Info: ./images/scratch03/flappy/peindreSprite.png used on in
 put line 548.
 (pdftex.def)             Requested size: 151.56587pt x 124.46469pt.
 
-<./images/scratch03/flappy/creationOiseau.png, id=1441, 832.10875pt x 607.26875
+<./images/scratch03/flappy/creationOiseau.png, id=1443, 832.10875pt x 607.26875
 pt>
 File: ./images/scratch03/flappy/creationOiseau.png Graphic file (type png)
  <use ./images/scratch03/flappy/creationOiseau.png>
@@ -2853,7 +2856,7 @@ nput line 552.
  [69 <./images/scratch03/flappy/basculeArrierePlan.png> <./images/scratch03/fla
 ppy/supprimerSprite.png> <./images/scratch03/flappy/peindreSprite.png> <./image
 s/scratch03/flappy/creationOiseau.png>]
-<./images/scratch03/flappy/peindre.png, id=1452, 158.5925pt x 198.7425pt>
+<./images/scratch03/flappy/peindre.png, id=1454, 158.5925pt x 198.7425pt>
 File: ./images/scratch03/flappy/peindre.png Graphic file (type png)
 
 <use ./images/scratch03/flappy/peindre.png>
@@ -2861,7 +2864,7 @@ Package pdftex.def Info: ./images/scratch03/flappy/peindre.png used on input li
 ne 559.
 (pdftex.def)             Requested size: 158.59209pt x 198.742pt.
 
-<./images/scratch03/flappy/costume2.png, id=1453, 832.10875pt x 605.26125pt>
+<./images/scratch03/flappy/costume2.png, id=1455, 832.10875pt x 605.26125pt>
 File: ./images/scratch03/flappy/costume2.png Graphic file (type png)
 
 <use ./images/scratch03/flappy/costume2.png>
@@ -2869,7 +2872,7 @@ Package pdftex.def Info: ./images/scratch03/flappy/costume2.png used on input l
 ine 563.
 (pdftex.def)             Requested size: 832.10672pt x 605.25975pt.
 
-<./images/scratch03/flappy/blocBasculerCostume.png, id=1454, 258.9675pt x 74.27
+<./images/scratch03/flappy/blocBasculerCostume.png, id=1456, 258.9675pt x 74.27
 75pt>
 File: ./images/scratch03/flappy/blocBasculerCostume.png Graphic file (type png)
 
@@ -2878,7 +2881,7 @@ Package pdftex.def Info: ./images/scratch03/flappy/blocBasculerCostume.png used
  on input line 568.
 (pdftex.def)             Requested size: 258.96684pt x 74.27731pt.
 
-<./images/scratch03/flappy/changerNomSprite.png, id=1455, 89.33376pt x 87.32625
+<./images/scratch03/flappy/changerNomSprite.png, id=1457, 89.33376pt x 87.32625
 pt>
 File: ./images/scratch03/flappy/changerNomSprite.png Graphic file (type png)
  <use ./images/scratch03/flappy/changerNomSprite.png>
@@ -2886,7 +2889,7 @@ Package pdftex.def Info: ./images/scratch03/flappy/changerNomSprite.png used on
  input line 574.
 (pdftex.def)             Requested size: 89.33353pt x 87.32603pt.
 
-<./images/scratch03/flappy/changerNomSprite2.png, id=1456, 408.52625pt x 101.37
+<./images/scratch03/flappy/changerNomSprite2.png, id=1458, 408.52625pt x 101.37
 875pt>
 File: ./images/scratch03/flappy/changerNomSprite2.png Graphic file (type png)
  <use ./images/scratch03/flappy/changerNomSprite2.png>
@@ -2897,7 +2900,7 @@ n input line 574.
 2.png> <./images/scratch03/flappy/blocBasculerCostume.png> <./images/scratch03/
 flappy/changerNomSprite.png> <./images/scratch03/flappy/changerNomSprite2.png>]
 
-<./images/scratch03/flappy/decorsTuyau.png, id=1465, 879.285pt x 653.44125pt>
+<./images/scratch03/flappy/decorsTuyau.png, id=1467, 879.285pt x 653.44125pt>
 File: ./images/scratch03/flappy/decorsTuyau.png Graphic file (type png)
 
 <use ./images/scratch03/flappy/decorsTuyau.png>
@@ -2905,7 +2908,7 @@ Package pdftex.def Info: ./images/scratch03/flappy/decorsTuyau.png used on inpu
 t line 585.
 (pdftex.def)             Requested size: 879.28287pt x 653.43965pt.
 
-<./images/scratch03/flappy/decorsTuyau2.png, id=1466, 473.77pt x 460.72125pt>
+<./images/scratch03/flappy/decorsTuyau2.png, id=1468, 473.77pt x 460.72125pt>
 File: ./images/scratch03/flappy/decorsTuyau2.png Graphic file (type png)
 
 <use ./images/scratch03/flappy/decorsTuyau2.png>
@@ -2913,7 +2916,7 @@ Package pdftex.def Info: ./images/scratch03/flappy/decorsTuyau2.png used on inp
 ut line 591.
 (pdftex.def)             Requested size: 473.76884pt x 460.72012pt.
 
-<./images/scratch03/flappy/decorsTuyau3.png, id=1467, 474.77374pt x 470.75874pt
+<./images/scratch03/flappy/decorsTuyau3.png, id=1469, 474.77374pt x 470.75874pt
 >
 File: ./images/scratch03/flappy/decorsTuyau3.png Graphic file (type png)
  <use ./images/scratch03/flappy/decorsTuyau3.png>
@@ -2924,7 +2927,7 @@ ut line 591.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [71 <./images/scratch03/flappy/decorsTuyau.png>]
-<./images/scratch03/flappy/ScriptScene.pdf, id=1474, 226.31001pt x 232.66924pt>
+<./images/scratch03/flappy/ScriptScene.pdf, id=1476, 226.31001pt x 232.66924pt>
 File: ./images/scratch03/flappy/ScriptScene.pdf Graphic file (type pdf)
 <use ./images/scratch03/flappy/ScriptScene.pdf>
 Package pdftex.def Info: ./images/scratch03/flappy/ScriptScene.pdf used on inpu
@@ -2932,14 +2935,14 @@ t line 609.
 (pdftex.def)             Requested size: 226.30946pt x 232.66867pt.
  [72 <./images/scratch03/flappy/decorsTuyau2.png> <./images/scratch03/flappy/de
 corsTuyau3.png> <./images/scratch03/flappy/ScriptScene.pdf>]
-<./images/scratch03/flappy/ScriptOiseau1.pdf, id=1506, 174.09041pt x 121.253pt>
+<./images/scratch03/flappy/ScriptOiseau1.pdf, id=1508, 174.09041pt x 121.253pt>
 File: ./images/scratch03/flappy/ScriptOiseau1.pdf Graphic file (type pdf)
 <use ./images/scratch03/flappy/ScriptOiseau1.pdf>
 Package pdftex.def Info: ./images/scratch03/flappy/ScriptOiseau1.pdf used on in
 put line 622.
 (pdftex.def)             Requested size: 174.08997pt x 121.2527pt.
  [73 <./images/scratch03/flappy/ScriptOiseau1.pdf>]
-<./images/scratch03/flappy/ScriptOiseau2.pdf, id=1522, 255.18541pt x 673.84842p
+<./images/scratch03/flappy/ScriptOiseau2.pdf, id=1524, 255.18541pt x 673.84842p
 t>
 File: ./images/scratch03/flappy/ScriptOiseau2.pdf Graphic file (type pdf)
  <use ./images/scratch03/flappy/ScriptOiseau2.pdf>
@@ -2947,7 +2950,7 @@ Package pdftex.def Info: ./images/scratch03/flappy/ScriptOiseau2.pdf used on in
 put line 630.
 (pdftex.def)             Requested size: 255.18477pt x 673.84677pt.
  [74 <./images/scratch03/flappy/ScriptOiseau2.pdf>]
-<./images/scratch03/flappy/ScriptTuyau1.pdf, id=1547, 242.07529pt x 300.42236pt
+<./images/scratch03/flappy/ScriptTuyau1.pdf, id=1549, 242.07529pt x 300.42236pt
 >
 File: ./images/scratch03/flappy/ScriptTuyau1.pdf Graphic file (type pdf)
  <use ./images/scratch03/flappy/ScriptTuyau1.pdf>
@@ -2955,7 +2958,7 @@ Package pdftex.def Info: ./images/scratch03/flappy/ScriptTuyau1.pdf used on inp
 ut line 637.
 (pdftex.def)             Requested size: 242.07469pt x 300.42162pt.
 
-<./images/scratch03/flappy/ScriptTuyau2b.pdf, id=1548, 326.97824pt x 408.03357p
+<./images/scratch03/flappy/ScriptTuyau2b.pdf, id=1550, 326.97824pt x 408.03357p
 t>
 File: ./images/scratch03/flappy/ScriptTuyau2b.pdf Graphic file (type pdf)
  <use ./images/scratch03/flappy/ScriptTuyau2b.pdf>
@@ -2966,14 +2969,14 @@ put line 644.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [75 <./images/scratch03/flappy/ScriptTuyau1.pdf>]
-<./images/scratch03/traceFx/entreeDonnees.png, id=1575, 132.495pt x 258.9675pt>
+<./images/scratch03/traceFx/entreeDonnees.png, id=1577, 132.495pt x 258.9675pt>
 File: ./images/scratch03/traceFx/entreeDonnees.png Graphic file (type png)
 <use ./images/scratch03/traceFx/entreeDonnees.png>
 Package pdftex.def Info: ./images/scratch03/traceFx/entreeDonnees.png used on i
 nput line 667.
 (pdftex.def)             Requested size: 132.49466pt x 258.96684pt.
  [76 <./images/scratch03/flappy/ScriptTuyau2b.pdf>]
-<./images/scratch03/traceFx/nouveauxBlocs1.png, id=1594, 273.02pt x 46.1725pt>
+<./images/scratch03/traceFx/nouveauxBlocs1.png, id=1596, 273.02pt x 46.1725pt>
 File: ./images/scratch03/traceFx/nouveauxBlocs1.png Graphic file (type png)
 
 <use ./images/scratch03/traceFx/nouveauxBlocs1.png>
@@ -2981,7 +2984,7 @@ Package pdftex.def Info: ./images/scratch03/traceFx/nouveauxBlocs1.png used on
 input line 675.
 (pdftex.def)             Requested size: 273.01933pt x 46.17236pt.
 
-<./images/scratch03/traceFx/bloc_entreeDonnees.png, id=1595, 164.615pt x 69.258
+<./images/scratch03/traceFx/bloc_entreeDonnees.png, id=1597, 164.615pt x 69.258
 74pt>
 File: ./images/scratch03/traceFx/bloc_entreeDonnees.png Graphic file (type png)
 
@@ -2990,7 +2993,7 @@ Package pdftex.def Info: ./images/scratch03/traceFx/bloc_entreeDonnees.png used
  on input line 681.
 (pdftex.def)             Requested size: 164.6146pt x 69.25856pt.
 
-<./images/scratch03/traceFx/questionReponse.png, id=1596, 352.31625pt x 32.12pt
+<./images/scratch03/traceFx/questionReponse.png, id=1598, 352.31625pt x 32.12pt
 >
 File: ./images/scratch03/traceFx/questionReponse.png Graphic file (type png)
  <use ./images/scratch03/traceFx/questionReponse.png>
@@ -2998,14 +3001,14 @@ Package pdftex.def Info: ./images/scratch03/traceFx/questionReponse.png used on
  input line 689.
 (pdftex.def)             Requested size: 352.31538pt x 32.1199pt.
 
-<./images/scratch03/traceFx/bloc_calcule.png, id=1597, 118.4425pt x 67.25125pt>
+<./images/scratch03/traceFx/bloc_calcule.png, id=1599, 118.4425pt x 67.25125pt>
 File: ./images/scratch03/traceFx/bloc_calcule.png Graphic file (type png)
 <use ./images/scratch03/traceFx/bloc_calcule.png>
 Package pdftex.def Info: ./images/scratch03/traceFx/bloc_calcule.png used on in
 put line 696.
 (pdftex.def)             Requested size: 118.4422pt x 67.25107pt.
 
-<./images/scratch03/traceFx/definir_trace.png, id=1598, 110.4125pt x 71.26625pt
+<./images/scratch03/traceFx/definir_trace.png, id=1600, 110.4125pt x 71.26625pt
 >
 File: ./images/scratch03/traceFx/definir_trace.png Graphic file (type png)
  <use ./images/scratch03/traceFx/definir_trace.png>
@@ -3036,7 +3039,7 @@ Package pdftex.def Info: ./images/generales/clavierCmdS.png used on input line
 65.
 (pdftex.def)             Requested size: 196.57391pt x 72.63116pt.
 
-<./images/image03/iconePotPeinture.png, id=1622, 21.83156pt x 21.07875pt>
+<./images/image03/iconePotPeinture.png, id=1624, 21.83156pt x 21.07875pt>
 File: ./images/image03/iconePotPeinture.png Graphic file (type png)
 
 <use ./images/image03/iconePotPeinture.png>
@@ -3049,7 +3052,7 @@ Overfull \hbox (6.0pt too wide) in paragraph at lines 87--88
  []
 
 
-<./images/image03/volcan/volcanEnCours.png, id=1623, 569.12625pt x 418.56375pt>
+<./images/image03/volcan/volcanEnCours.png, id=1625, 569.12625pt x 418.56375pt>
 File: ./images/image03/volcan/volcanEnCours.png Graphic file (type png)
 <use ./images/image03/volcan/volcanEnCours.png>
 Package pdftex.def Info: ./images/image03/volcan/volcanEnCours.png used on inpu
@@ -3075,7 +3078,7 @@ Overfull \hbox (6.0pt too wide) in paragraph at lines 166--167
 [][][][][][][]
  []
 
-<./images/image03/calligramme/arbre.png, id=1645, 781.92125pt x 906.38625pt>
+<./images/image03/calligramme/arbre.png, id=1647, 781.92125pt x 906.38625pt>
 File: ./images/image03/calligramme/arbre.png Graphic file (type png)
 
 <use ./images/image03/calligramme/arbre.png>
@@ -3104,7 +3107,7 @@ Package pdftex.def Info: ./images/generales/clavierCmdS.png used on input line
 230.
 (pdftex.def)             Requested size: 196.57391pt x 72.63116pt.
 
-<./images/image03/tigreSalon/salonTigre.png, id=1676, 602.25pt x 560.0925pt>
+<./images/image03/tigreSalon/salonTigre.png, id=1678, 602.25pt x 560.0925pt>
 File: ./images/image03/tigreSalon/salonTigre.png Graphic file (type png)
 
 <use ./images/image03/tigreSalon/salonTigre.png>
@@ -3117,14 +3120,14 @@ Overfull \hbox (6.0pt too wide) in paragraph at lines 243--244
  []
 
 [85 <./images/image03/tigreSalon/salonTigre.png>] [86]
-<./images/image03/Chemin01.png, id=1695, 33.12375pt x 32.12pt>
+<./images/image03/Chemin01.png, id=1697, 33.12375pt x 32.12pt>
 File: ./images/image03/Chemin01.png Graphic file (type png)
 
 <use ./images/image03/Chemin01.png>
 Package pdftex.def Info: ./images/image03/Chemin01.png used on input line 288.
 (pdftex.def)             Requested size: 28.45274pt x 27.59077pt.
 
-<./images/image03/Chemin02_1.png, id=1696, 227.85126pt x 136.51pt>
+<./images/image03/Chemin02_1.png, id=1698, 227.85126pt x 136.51pt>
 File: ./images/image03/Chemin02_1.png Graphic file (type png)
 
 <use ./images/image03/Chemin02_1.png>
@@ -3132,7 +3135,7 @@ Package pdftex.def Info: ./images/image03/Chemin02_1.png used on input line 292
 .
 (pdftex.def)             Requested size: 227.8507pt x 136.50966pt.
 
-<./images/image03/Chemin02_2.png, id=1697, 221.82875pt x 141.52875pt>
+<./images/image03/Chemin02_2.png, id=1699, 221.82875pt x 141.52875pt>
 File: ./images/image03/Chemin02_2.png Graphic file (type png)
 
 <use ./images/image03/Chemin02_2.png>
@@ -3140,7 +3143,7 @@ Package pdftex.def Info: ./images/image03/Chemin02_2.png used on input line 300
 .
 (pdftex.def)             Requested size: 221.82819pt x 141.5284pt.
 
-<./images/image03/Chemin02_3.png, id=1698, 249.93375pt x 143.53625pt>
+<./images/image03/Chemin02_3.png, id=1700, 249.93375pt x 143.53625pt>
 File: ./images/image03/Chemin02_3.png Graphic file (type png)
 
 <use ./images/image03/Chemin02_3.png>
@@ -3149,7 +3152,7 @@ Package pdftex.def Info: ./images/image03/Chemin02_3.png used on input line 303
 (pdftex.def)             Requested size: 249.93314pt x 143.53589pt.
  [87 <./images/image03/Chemin01.png> <./images/image03/Chemin02_1.png> <./image
 s/image03/Chemin02_2.png>]
-<./images/image03/Chemin03.png, id=1706, 203.76125pt x 126.4725pt>
+<./images/image03/Chemin03.png, id=1708, 203.76125pt x 126.4725pt>
 File: ./images/image03/Chemin03.png Graphic file (type png)
 
 <use ./images/image03/Chemin03.png>
@@ -3161,7 +3164,7 @@ Overfull \hbox (1.63564pt too wide) in paragraph at lines 319--320
 o-gi-ciels de trai-te-ment d'images.
  []
 
-<./images/image03/CheminBoite.png, id=1707, 180.675pt x 180.675pt>
+<./images/image03/CheminBoite.png, id=1709, 180.675pt x 180.675pt>
 File: ./images/image03/CheminBoite.png Graphic file (type png)
 
 <use ./images/image03/CheminBoite.png>
@@ -3170,7 +3173,7 @@ Package pdftex.def Info: ./images/image03/CheminBoite.png used on input line 32
 (pdftex.def)             Requested size: 180.67455pt x 180.67455pt.
  [88 <./images/image03/Chemin02_3.png> <./images/image03/Chemin03.png> <./image
 s/image03/CheminBoite.png>]
-<./images/image03/CalqueBoite1.png, id=1716, 179.16937pt x 231.86626pt>
+<./images/image03/CalqueBoite1.png, id=1718, 179.16937pt x 231.86626pt>
 File: ./images/image03/CalqueBoite1.png Graphic file (type png)
 
 <use ./images/image03/CalqueBoite1.png>
@@ -3178,7 +3181,7 @@ Package pdftex.def Info: ./images/image03/CalqueBoite1.png used on input line 3
 32.
 (pdftex.def)             Requested size: 179.16893pt x 231.86568pt.
 
-<./images/image03/CalqueBoite3.png, id=1717, 179.16937pt x 247.67531pt>
+<./images/image03/CalqueBoite3.png, id=1719, 179.16937pt x 247.67531pt>
 File: ./images/image03/CalqueBoite3.png Graphic file (type png)
 
 <use ./images/image03/CalqueBoite3.png>
@@ -3191,14 +3194,14 @@ File: ./images/image03/Chemin03.png Graphic file (type png)
 Package pdftex.def Info: ./images/image03/Chemin03.png used on input line 349.
 (pdftex.def)             Requested size: 203.76074pt x 126.47218pt.
 
-<./images/image03/Chemin05.png, id=1727, 382.42876pt x 373.395pt>
+<./images/image03/Chemin05.png, id=1729, 382.42876pt x 373.395pt>
 File: ./images/image03/Chemin05.png Graphic file (type png)
 
 <use ./images/image03/Chemin05.png>
 Package pdftex.def Info: ./images/image03/Chemin05.png used on input line 353.
 (pdftex.def)             Requested size: 382.42781pt x 373.39409pt.
 
-<./images/image03/Chemin06_1.png, id=1728, 205.76875pt x 130.4875pt>
+<./images/image03/Chemin06_1.png, id=1730, 205.76875pt x 130.4875pt>
 File: ./images/image03/Chemin06_1.png Graphic file (type png)
 
 <use ./images/image03/Chemin06_1.png>
@@ -3206,7 +3209,7 @@ Package pdftex.def Info: ./images/image03/Chemin06_1.png used on input line 355
 .
 (pdftex.def)             Requested size: 205.76823pt x 130.48717pt.
 
-<./images/image03/Chemin06_2.png, id=1729, 212.795pt x 127.47626pt>
+<./images/image03/Chemin06_2.png, id=1731, 212.795pt x 127.47626pt>
 File: ./images/image03/Chemin06_2.png Graphic file (type png)
 
 <use ./images/image03/Chemin06_2.png>
@@ -3214,7 +3217,7 @@ Package pdftex.def Info: ./images/image03/Chemin06_2.png used on input line 355
 .
 (pdftex.def)             Requested size: 212.79446pt x 127.47594pt.
 
-<./images/image03/TexteChemin01.png, id=1730, 340.27126pt x 159.59625pt>
+<./images/image03/TexteChemin01.png, id=1732, 340.27126pt x 159.59625pt>
 File: ./images/image03/TexteChemin01.png Graphic file (type png)
 
 <use ./images/image03/TexteChemin01.png>
@@ -3222,7 +3225,7 @@ Package pdftex.def Info: ./images/image03/TexteChemin01.png used on input line
 369.
 (pdftex.def)             Requested size: 340.27042pt x 159.59584pt.
 
-<./images/image03/TexteChemin02.png, id=1731, 438.63875pt x 194.7275pt>
+<./images/image03/TexteChemin02.png, id=1733, 438.63875pt x 194.7275pt>
 File: ./images/image03/TexteChemin02.png Graphic file (type png)
 
 <use ./images/image03/TexteChemin02.png>
@@ -3231,7 +3234,7 @@ Package pdftex.def Info: ./images/image03/TexteChemin02.png used on input line
 (pdftex.def)             Requested size: 438.63766pt x 194.727pt.
  [90 <./images/image03/Chemin05.png> <./images/image03/Chemin06_1.png> <./image
 s/image03/Chemin06_2.png>]
-<./images/image03/iconeTexte.png, id=1742, 26.0975pt x 27.10126pt>
+<./images/image03/iconeTexte.png, id=1744, 26.0975pt x 27.10126pt>
 File: ./images/image03/iconeTexte.png Graphic file (type png)
 
 <use ./images/image03/iconeTexte.png>
@@ -3239,7 +3242,7 @@ Package pdftex.def Info: ./images/image03/iconeTexte.png used on input line 371
 .
 (pdftex.def)             Requested size: 17.07182pt x 17.72931pt.
 
-<./images/image03/TexteChemin03.png, id=1743, 200.75pt x 218.8175pt>
+<./images/image03/TexteChemin03.png, id=1745, 200.75pt x 218.8175pt>
 File: ./images/image03/TexteChemin03.png Graphic file (type png)
 
 <use ./images/image03/TexteChemin03.png>
@@ -3247,7 +3250,7 @@ Package pdftex.def Info: ./images/image03/TexteChemin03.png used on input line
 373.
 (pdftex.def)             Requested size: 200.7495pt x 218.81696pt.
 
-<./images/image03/TexteChemin03bis.png, id=1744, 200.75pt x 248.93pt>
+<./images/image03/TexteChemin03bis.png, id=1746, 200.75pt x 248.93pt>
 File: ./images/image03/TexteChemin03bis.png Graphic file (type png)
 
 <use ./images/image03/TexteChemin03bis.png>
@@ -3255,7 +3258,7 @@ Package pdftex.def Info: ./images/image03/TexteChemin03bis.png used on input li
 ne 373.
 (pdftex.def)             Requested size: 200.7495pt x 248.92938pt.
 
-<./images/image03/TexteChemin04.png, id=1745, 270.00874pt x 280.04625pt>
+<./images/image03/TexteChemin04.png, id=1747, 270.00874pt x 280.04625pt>
 File: ./images/image03/TexteChemin04.png Graphic file (type png)
 
 <use ./images/image03/TexteChemin04.png>
@@ -3263,7 +3266,7 @@ Package pdftex.def Info: ./images/image03/TexteChemin04.png used on input line
 378.
 (pdftex.def)             Requested size: 270.00807pt x 280.04555pt.
 
-<./images/image03/TexteChemin05.png, id=1746, 493.845pt x 234.8775pt>
+<./images/image03/TexteChemin05.png, id=1748, 493.845pt x 234.8775pt>
 File: ./images/image03/TexteChemin05.png Graphic file (type png)
 
 <use ./images/image03/TexteChemin05.png>
@@ -3274,7 +3277,7 @@ Package pdftex.def Info: ./images/image03/TexteChemin05.png used on input line
 <./images/image03/iconeTexte.png> <./images/image03/TexteChemin03.png> <./image
 s/image03/TexteChemin03bis.png> <./images/image03/TexteChemin04.png> <./images/
 image03/TexteChemin05.png>]
-<./images/image03/TexteChemin07.png, id=1762, 200.75pt x 116.435pt>
+<./images/image03/TexteChemin07.png, id=1764, 200.75pt x 116.435pt>
 File: ./images/image03/TexteChemin07.png Graphic file (type png)
 
 <use ./images/image03/TexteChemin07.png>
@@ -3282,7 +3285,7 @@ Package pdftex.def Info: ./images/image03/TexteChemin07.png used on input line
 391.
 (pdftex.def)             Requested size: 200.7495pt x 116.43471pt.
 
-<./images/image03/TexteChemin08.png, id=1763, 386.44376pt x 373.395pt>
+<./images/image03/TexteChemin08.png, id=1765, 386.44376pt x 373.395pt>
 File: ./images/image03/TexteChemin08.png Graphic file (type png)
 
 <use ./images/image03/TexteChemin08.png>
@@ -3290,7 +3293,7 @@ Package pdftex.def Info: ./images/image03/TexteChemin08.png used on input line
 391.
 (pdftex.def)             Requested size: 386.44281pt x 373.39409pt.
 
-<./images/image03/TexteChemin09.png, id=1764, 334.24875pt x 202.7575pt>
+<./images/image03/TexteChemin09.png, id=1766, 334.24875pt x 202.7575pt>
 File: ./images/image03/TexteChemin09.png Graphic file (type png)
 
 <use ./images/image03/TexteChemin09.png>
@@ -3298,14 +3301,14 @@ Package pdftex.def Info: ./images/image03/TexteChemin09.png used on input line
 393.
 (pdftex.def)             Requested size: 334.24792pt x 202.757pt.
 
-<./images/image03/guides.png, id=1765, 356.87968pt x 173.14688pt>
+<./images/image03/guides.png, id=1767, 356.87968pt x 173.14688pt>
 File: ./images/image03/guides.png Graphic file (type png)
 
 <use ./images/image03/guides.png>
 Package pdftex.def Info: ./images/image03/guides.png used on input line 399.
 (pdftex.def)             Requested size: 356.8788pt x 173.14645pt.
 
-<./images/image03/iconeDeplace.png, id=1766, 25.09375pt x 24.09pt>
+<./images/image03/iconeDeplace.png, id=1768, 25.09375pt x 24.09pt>
 File: ./images/image03/iconeDeplace.png Graphic file (type png)
 
 <use ./images/image03/iconeDeplace.png>
@@ -3314,14 +3317,14 @@ Package pdftex.def Info: ./images/image03/iconeDeplace.png used on input line 4
 (pdftex.def)             Requested size: 17.07182pt x 16.39015pt.
  [92 <./images/image03/TexteChemin07.png> <./images/image03/TexteChemin08.png> 
 <./images/image03/TexteChemin09.png> <./images/image03/guides.png>]
-<./images/image03/fleur.jpg, id=1776, 602.25pt x 392.46625pt>
+<./images/image03/fleur.jpg, id=1779, 602.25pt x 392.46625pt>
 File: ./images/image03/fleur.jpg Graphic file (type jpg)
 
 <use ./images/image03/fleur.jpg>
 Package pdftex.def Info: ./images/image03/fleur.jpg used on input line 407.
 (pdftex.def)             Requested size: 602.24852pt x 392.46527pt.
 
-<./images/image03/Detourage10.png, id=1777, 938.50626pt x 1123.19624pt>
+<./images/image03/Detourage10.png, id=1780, 938.50626pt x 1123.19624pt>
 File: ./images/image03/Detourage10.png Graphic file (type png)
 
 <use ./images/image03/Detourage10.png>
@@ -3329,7 +3332,7 @@ Package pdftex.def Info: ./images/image03/Detourage10.png used on input line 40
 7.
 (pdftex.def)             Requested size: 938.50397pt x 1123.1935pt.
 
-<./images/image03/iconeDetoure.png, id=1778, 25.09375pt x 24.09pt>
+<./images/image03/iconeDetoure.png, id=1781, 25.09375pt x 24.09pt>
 File: ./images/image03/iconeDetoure.png Graphic file (type png)
 
 <use ./images/image03/iconeDetoure.png>
@@ -3337,7 +3340,7 @@ Package pdftex.def Info: ./images/image03/iconeDetoure.png used on input line 4
 17.
 (pdftex.def)             Requested size: 19.91684pt x 19.12129pt.
 
-<./images/image03/iconeLasso.png, id=1779, 26.82185pt x 27.10126pt>
+<./images/image03/iconeLasso.png, id=1782, 26.82185pt x 27.10126pt>
 File: ./images/image03/iconeLasso.png Graphic file (type png)
 
 <use ./images/image03/iconeLasso.png>
@@ -3345,7 +3348,7 @@ Package pdftex.def Info: ./images/image03/iconeLasso.png used on input line 417
 .
 (pdftex.def)             Requested size: 19.91684pt x 20.12532pt.
 
-<./images/image03/iconePinceau.png, id=1780, 33.52731pt x 34.62938pt>
+<./images/image03/iconePinceau.png, id=1783, 33.52731pt x 34.62938pt>
 File: ./images/image03/iconePinceau.png Graphic file (type png)
 
 <use ./images/image03/iconePinceau.png>
@@ -3353,7 +3356,7 @@ Package pdftex.def Info: ./images/image03/iconePinceau.png used on input line 4
 26.
 (pdftex.def)             Requested size: 19.91684pt x 20.57222pt.
 
-<./images/image03/Detourage02.png, id=1781, 661.47125pt x 629.35126pt>
+<./images/image03/Detourage02.png, id=1784, 661.47125pt x 629.35126pt>
 File: ./images/image03/Detourage02.png Graphic file (type png)
 
 <use ./images/image03/Detourage02.png>
@@ -3366,7 +3369,7 @@ Underfull \vbox (badness 2626) has occurred while \output is active []
  [93 <./images/image03/iconeDeplace.png> <./images/image03/fleur.jpg> <./images
 /image03/Detourage10.png> <./images/image03/iconeDetoure.png> <./images/image03
 /iconeLasso.png (PNG copy)> <./images/image03/iconePinceau.png (PNG copy)>]
-<./images/image03/Detourage03.png, id=1793, 580.1675pt x 618.31pt>
+<./images/image03/Detourage03.png, id=1795, 580.1675pt x 618.31pt>
 File: ./images/image03/Detourage03.png Graphic file (type png)
 
 <use ./images/image03/Detourage03.png>
@@ -3374,7 +3377,7 @@ Package pdftex.def Info: ./images/image03/Detourage03.png used on input line 43
 6.
 (pdftex.def)             Requested size: 580.16606pt x 618.30849pt.
 
-<./images/image03/Detourage04.png, id=1794, 619.31375pt x 624.3325pt>
+<./images/image03/Detourage04.png, id=1796, 619.31375pt x 624.3325pt>
 File: ./images/image03/Detourage04.png Graphic file (type png)
 
 <use ./images/image03/Detourage04.png>
@@ -3382,7 +3385,7 @@ Package pdftex.def Info: ./images/image03/Detourage04.png used on input line 43
 6.
 (pdftex.def)             Requested size: 619.31224pt x 624.33098pt.
 
-<./images/image03/Detourage05.png, id=1795, 719.68875pt x 724.7075pt>
+<./images/image03/Detourage05.png, id=1797, 719.68875pt x 724.7075pt>
 File: ./images/image03/Detourage05.png Graphic file (type png)
 
 <use ./images/image03/Detourage05.png>
@@ -3390,7 +3393,7 @@ Package pdftex.def Info: ./images/image03/Detourage05.png used on input line 44
 3.
 (pdftex.def)             Requested size: 719.687pt x 724.70573pt.
 
-<./images/image03/Detourage06.png, id=1796, 938.50626pt x 1123.19624pt>
+<./images/image03/Detourage06.png, id=1798, 938.50626pt x 1123.19624pt>
 File: ./images/image03/Detourage06.png Graphic file (type png)
 
 <use ./images/image03/Detourage06.png>
@@ -3398,7 +3401,7 @@ Package pdftex.def Info: ./images/image03/Detourage06.png used on input line 44
 3.
 (pdftex.def)             Requested size: 938.50397pt x 1123.1935pt.
 
-<./images/image03/outilLasso.png, id=1797, 17.13618pt x 16.56187pt>
+<./images/image03/outilLasso.png, id=1799, 17.13618pt x 16.56187pt>
 File: ./images/image03/outilLasso.png Graphic file (type png)
 
 <use ./images/image03/outilLasso.png>
@@ -3408,7 +3411,7 @@ Package pdftex.def Info: ./images/image03/outilLasso.png used on input line 445
  [94 <./images/image03/Detourage02.png> <./images/image03/Detourage03.png> <./i
 mages/image03/Detourage04.png> <./images/image03/Detourage05.png> <./images/ima
 ge03/Detourage06.png> <./images/image03/outilLasso.png (PNG copy)>]
-<./images/image03/Detourage07.png, id=1810, 691.58376pt x 368.37625pt>
+<./images/image03/Detourage07.png, id=1812, 691.58376pt x 368.37625pt>
 File: ./images/image03/Detourage07.png Graphic file (type png)
 
 <use ./images/image03/Detourage07.png>
@@ -3416,7 +3419,7 @@ Package pdftex.def Info: ./images/image03/Detourage07.png used on input line 45
 1.
 (pdftex.def)             Requested size: 691.58206pt x 368.37534pt.
 
-<./images/image03/Detourage08.png, id=1811, 691.58376pt x 368.37625pt>
+<./images/image03/Detourage08.png, id=1813, 691.58376pt x 368.37625pt>
 File: ./images/image03/Detourage08.png Graphic file (type png)
 
 <use ./images/image03/Detourage08.png>
@@ -3424,7 +3427,7 @@ Package pdftex.def Info: ./images/image03/Detourage08.png used on input line 45
 1.
 (pdftex.def)             Requested size: 691.58206pt x 368.37534pt.
 
-<./images/image03/Detourage09.png, id=1812, 938.50626pt x 1123.19624pt>
+<./images/image03/Detourage09.png, id=1814, 938.50626pt x 1123.19624pt>
 File: ./images/image03/Detourage09.png Graphic file (type png)
 
 <use ./images/image03/Detourage09.png>
@@ -3437,14 +3440,14 @@ Package pdftex.def Info: ./images/image03/Detourage10.png used on input line 45
 5.
 (pdftex.def)             Requested size: 938.50397pt x 1123.1935pt.
 
-<./images/image03/pexelsDL.png, id=1813, 240.14719pt x 303.38344pt>
+<./images/image03/pexelsDL.png, id=1815, 240.14719pt x 303.38344pt>
 File: ./images/image03/pexelsDL.png Graphic file (type png)
 
 <use ./images/image03/pexelsDL.png>
 Package pdftex.def Info: ./images/image03/pexelsDL.png used on input line 474.
 (pdftex.def)             Requested size: 240.14658pt x 303.38269pt.
 
-<./images/image03/tigreSalon/tigresIni.jpg, id=1814, 2007.5pt x 1129.21875pt>
+<./images/image03/tigreSalon/tigresIni.jpg, id=1816, 2007.5pt x 1129.21875pt>
 File: ./images/image03/tigreSalon/tigresIni.jpg Graphic file (type jpg)
 
 <use ./images/image03/tigreSalon/tigresIni.jpg>
@@ -3452,7 +3455,7 @@ Package pdftex.def Info: ./images/image03/tigreSalon/tigresIni.jpg used on inpu
 t line 480.
 (pdftex.def)             Requested size: 2007.49512pt x 1129.216pt.
 
-<./images/image03/tigreSalon/salonIni.jpg, id=1815, 2007.5pt x 1332.98pt>
+<./images/image03/tigreSalon/salonIni.jpg, id=1817, 2007.5pt x 1332.98pt>
 File: ./images/image03/tigreSalon/salonIni.jpg Graphic file (type jpg)
 
 <use ./images/image03/tigreSalon/salonIni.jpg>
@@ -3461,7 +3464,7 @@ Package pdftex.def Info: ./images/image03/tigreSalon/salonIni.jpg used on input
 (pdftex.def)             Requested size: 2007.49512pt x 1332.97675pt.
  [95 <./images/image03/Detourage07.png> <./images/image03/Detourage08.png> <./i
 mages/image03/Detourage09.png> <./images/image03/pexelsDL.png (PNG copy)>]
-<./images/image03/tigreSalon/tigres.png, id=1825, 232.87pt x 317.185pt>
+<./images/image03/tigreSalon/tigres.png, id=1827, 232.87pt x 317.185pt>
 File: ./images/image03/tigreSalon/tigres.png Graphic file (type png)
 
 <use ./images/image03/tigreSalon/tigres.png>
@@ -3469,7 +3472,7 @@ Package pdftex.def Info: ./images/image03/tigreSalon/tigres.png used on input l
 ine 490.
 (pdftex.def)             Requested size: 232.86942pt x 317.1842pt.
 
-<./images/image03/iconeMiseEchelle.png, id=1826, 19.57312pt x 17.31468pt>
+<./images/image03/iconeMiseEchelle.png, id=1828, 19.57312pt x 17.31468pt>
 File: ./images/image03/iconeMiseEchelle.png Graphic file (type png)
 
 <use ./images/image03/iconeMiseEchelle.png>
@@ -3554,10 +3557,10 @@ ype1/public/lm/lmtt12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/publi
 c/lm/lmtt8.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/lm/lmtti1
 0.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/symbols/m
 sam10.pfb>
-Output written on livret_MITIC_4e_v11.pdf (110 pages, 15661333 bytes).
+Output written on livret_MITIC_4e_v11.pdf (110 pages, 15662882 bytes).
 PDF statistics:
- 1992 PDF objects out of 2073 (max. 8388607)
- 1414 compressed objects within 15 object streams
+ 1994 PDF objects out of 2073 (max. 8388607)
+ 1416 compressed objects within 15 object streams
  311 named destinations out of 1000 (max. 500000)
  1862 words of extra memory for PDF output out of 10000 (max. 10000000)
 
